@@ -1,0 +1,4 @@
+# Books and local builds never belong here.
+*.epub
+/*.xray.json
+__pycache__/

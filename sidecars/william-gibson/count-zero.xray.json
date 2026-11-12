@@ -1,0 +1,6278 @@
+{
+ "format": "kobalt-xray/1",
+ "book": {
+  "title": "Count Zero",
+  "author": "William Gibson",
+  "series": "The Sprawl trilogy",
+  "number": 2
+ },
+ "characters": [
+  {
+   "id": "turner",
+   "name": "Turner",
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "Mercenary who specialises in 'extraction': getting top executives and researchers out of one corporation and into another."
+    },
+    {
+     "at": 3.51,
+     "text": "Mercenary who specialises in corporate extractions. Blown apart by a slamhound in New Delhi and rebuilt over three months in Singapore, he was recovering in Mexico with a woman called Allison when Conroy came to fetch him for a new job; she proves to have been Hosaka's psychologist."
+    },
+    {
+     "at": 9.52,
+     "text": "Mercenary who specialises in corporate extractions, rebuilt after a bombing in New Delhi. On a derelict oil rig he takes charge of Hosaka's extraction of Christopher Mitchell from Maas Biolabs, and jacks Mitchell's biosoft dossier, which leaves him sick and uneasy."
+    },
+    {
+     "at": 19.02,
+     "text": "Mercenary who specialises in corporate extractions, rebuilt after a bombing in New Delhi. He now commands Hosaka's extraction of Christopher Mitchell from a ruined mall in the Arizona desert, means to fly Mitchell out himself in a jet, and has picked Lynch as the man Conroy planted on the team."
+    },
+    {
+     "at": 29.53,
+     "text": "Mercenary who specialises in corporate extractions, rebuilt after a bombing in New Delhi. At the ruined mall in Arizona he has questioned Hosaka's medics, been sent the microsoft that will let him fly the jet, and set the team to marking a landing strip: Mitchell is to come in by air."
+    },
+    {
+     "at": 40.78,
+     "text": "Mercenary who specialises in corporate extractions. The Mitchell job went wrong: he shot Lynch as Conroy's plant, the site was attacked as the ultralight came in, and he took off seconds before everything was destroyed, with an unknown girl in the jet instead of Mitchell."
+    },
+    {
+     "at": 57.47,
+     "text": "Mercenary who specialises in corporate extractions. The Mitchell job ended with the site destroyed and Mitchell's daughter Angie in his jet, which he finds was set for Bogota, not Mexico City. He has hidden it and carried her to the farm he grew up on, where his brother Rudy scans her head."
+    },
+    {
+     "at": 66.93,
+     "text": "Mercenary who specialises in corporate extractions. After the Mitchell job was destroyed he leaves his brother's farm with Mitchell's daughter Angie in Rudy's armoured hovercraft, bound for the Sprawl, where he has money under other names. He knows Maas has announced Mitchell's death, and keeps it from her."
+    },
+    {
+     "at": 75.89,
+     "text": "Mercenary who specialises in corporate extractions. On the run with Mitchell's daughter Angie, heading for the Sprawl. A helicopter attacks them; he brings it down and finds Oakey dead inside. Then a voice that is not hers speaks through Angie and tells him to carry her east."
+    },
+    {
+     "at": 85.58,
+     "text": "Mercenary who specialises in corporate extractions. On the orders of the voices that speak through Angie he has brought her by train to New York, to a club called Jammer's, where Samedi says he will kill the man he most wants to kill. From Mitchell's dossier he concludes that Mitchell struck a bargain, and that his daughter was part of it."
+    },
+    {
+     "at": 88.24,
+     "text": "Mercenary who specialises in corporate extractions. Guided by the voices that speak through Mitchell's daughter Angie, he has walked her through a hired mob into Jammer's club in New York. There Conroy rings him and demands to talk."
+    },
+    {
+     "at": 92.03,
+     "text": "Mercenary who specialises in corporate extractions. He has brought Angie Mitchell to Jammer's in New York. On the phone Conroy admits that he sold the Mitchell job to Josef Virek, says Mitchell killed himself, and offers Turner half for the girl."
+    },
+    {
+     "at": 95.92,
+     "text": "Mercenary who specialises in corporate extractions. Besieged in Jammer's with Angie Mitchell, and knowing now that Conroy sold the Mitchell job to Virek, he sends Bobby into the matrix to tell Jaylene Slide who had Ramirez killed."
+    },
+    {
+     "at": 98.56,
+     "text": "Mercenary who specialised in corporate extractions. With Conroy and Virek dead he gives Angie her father's dossier, leaves her in Beauvoir's care, lays his unloaded gun beside the dead Jackie and walks away alone: he has kerosene to buy, he says."
+    },
+    {
+     "at": 99.62,
+     "text": "Former mercenary. Years later he lives quietly by the squirrel wood with Sally and their seven-year-old son, whom he teaches to shoot with Rudy's old rifle."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 0.2,
+     "with": "dutchman",
+     "text": "The surgeon who rebuilt him"
+    },
+    {
+     "at": 0.2,
+     "with": "allison",
+     "text": "Lover during his recovery in Mexico"
+    },
+    {
+     "at": 3.51,
+     "with": "allison",
+     "text": "Lover in Mexico, in fact sent by Hosaka to assess him"
+    },
+    {
+     "at": 3.51,
+     "with": "conroy",
+     "text": "Old associate who recruits him for the Mitchell job"
+    },
+    {
+     "at": 40.78,
+     "with": "conroy",
+     "text": "Brought him into the trade years ago; his partner on the Mitchell job"
+    },
+    {
+     "at": 57.47,
+     "with": "conroy",
+     "text": "Partner on the Mitchell job, who set the jet for Bogota behind his back"
+    },
+    {
+     "at": 85.58,
+     "with": "conroy",
+     "text": "Thinks he sent Oakey to kill him"
+    },
+    {
+     "at": 92.03,
+     "with": "conroy",
+     "text": "Betrayed him: sold the job to Virek"
+    },
+    {
+     "at": 98.56,
+     "with": "conroy",
+     "text": "His betrayer, now almost certainly dead"
+    },
+    {
+     "at": 3.51,
+     "with": "hosaka",
+     "text": "His client for the Mitchell job"
+    },
+    {
+     "at": 75.89,
+     "with": "hosaka",
+     "text": "Former client; he believes it is hunting him"
+    },
+    {
+     "at": 92.03,
+     "with": "hosaka",
+     "text": "The client Conroy sold out"
+    },
+    {
+     "at": 3.51,
+     "with": "mitchell",
+     "text": "The man he is hired to extract"
+    },
+    {
+     "at": 40.78,
+     "with": "mitchell",
+     "text": "The man he was to extract, who never arrived"
+    },
+    {
+     "at": 57.47,
+     "with": "mitchell",
+     "text": "Sent his daughter out instead of coming himself"
+    },
+    {
+     "at": 92.03,
+     "with": "mitchell",
+     "text": "Dead by his own hand, Conroy says"
+    },
+    {
+     "at": 9.52,
+     "with": "oakey",
+     "text": "Tech who worked for him in Marrakesh"
+    },
+    {
+     "at": 75.89,
+     "with": "oakey",
+     "text": "Found dead in the helicopter that attacked him"
+    },
+    {
+     "at": 92.03,
+     "with": "oakey",
+     "text": "Sent by Conroy to hunt him"
+    },
+    {
+     "at": 9.52,
+     "with": "jaylene",
+     "text": "Console jockey on his job"
+    },
+    {
+     "at": 95.92,
+     "with": "jaylene",
+     "text": "Sends her word that Conroy killed her partner"
+    },
+    {
+     "at": 19.02,
+     "with": "sutcliffe",
+     "text": "Leads his point team"
+    },
+    {
+     "at": 19.02,
+     "with": "lynch",
+     "text": "Suspects him of being Conroy's plant"
+    },
+    {
+     "at": 40.78,
+     "with": "lynch",
+     "text": "Shot him as Conroy's plant"
+    },
+    {
+     "at": 92.03,
+     "with": "lynch",
+     "text": "Shot him; one of Conroy's two plants"
+    },
+    {
+     "at": 19.02,
+     "with": "webber",
+     "text": "On his point team"
+    },
+    {
+     "at": 40.78,
+     "with": "webber",
+     "text": "Told him that she, not Lynch, was Conroy's plant"
+    },
+    {
+     "at": 92.03,
+     "with": "webber",
+     "text": "The other of Conroy's two plants"
+    },
+    {
+     "at": 40.78,
+     "with": "jane-hamilton",
+     "text": "The star whose security he once ran"
+    },
+    {
+     "at": 57.47,
+     "with": "angie",
+     "text": "Mitchell's daughter, whom he protects"
+    },
+    {
+     "at": 75.89,
+     "with": "angie",
+     "text": "His charge; voices speak to him through her"
+    },
+    {
+     "at": 98.56,
+     "with": "angie",
+     "text": "Leaves her with Beauvoir, not expecting to see her again"
+    },
+    {
+     "at": 52.48,
+     "with": "rudy",
+     "text": "Brother"
+    },
+    {
+     "at": 66.93,
+     "with": "rudy",
+     "text": "Brother, who gave him the hovercraft and cash"
+    },
+    {
+     "at": 92.03,
+     "with": "rudy",
+     "text": "Brother; Conroy will not say what became of him"
+    },
+    {
+     "at": 99.62,
+     "with": "rudy",
+     "text": "Brother, spoken of in the past"
+    },
+    {
+     "at": 57.47,
+     "with": "sally",
+     "text": "Rudy's partner; they spend a night together"
+    },
+    {
+     "at": 99.62,
+     "with": "sally",
+     "text": "Partner, mother of his son"
+    },
+    {
+     "at": 75.89,
+     "with": "lord-of-roads",
+     "text": "Orders him, through Angie, to carry her east"
+    },
+    {
+     "at": 85.58,
+     "with": "samedi",
+     "text": "Sends him to New York to kill"
+    },
+    {
+     "at": 92.03,
+     "with": "virek",
+     "text": "Bought the Mitchell job from under him; wants Angie"
+    },
+    {
+     "at": 92.03,
+     "with": "jammer",
+     "text": "Cuts off Conroy's call to buy him time"
+    },
+    {
+     "at": 95.92,
+     "with": "bobby",
+     "text": "Sends him into the matrix with a message"
+    },
+    {
+     "at": 98.56,
+     "with": "bobby",
+     "text": "Tells him he has earned his handle"
+    },
+    {
+     "at": 98.56,
+     "with": "beauvoir",
+     "text": "Entrusts Angie to him"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 3.51,
+     "where": "Ch. 1, Smooth-Running Gun"
+    },
+    {
+     "at": 9.52,
+     "where": "Ch. 4, Clocking In"
+    },
+    {
+     "at": 19.02,
+     "where": "Ch. 7, The Mall"
+    },
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    },
+    {
+     "at": 57.47,
+     "where": "Ch. 17, The Squirrel Wood"
+    },
+    {
+     "at": 66.93,
+     "where": "Ch. 21, Highway Time"
+    },
+    {
+     "at": 75.89,
+     "where": "Ch. 24, Run Straight Down"
+    },
+    {
+     "at": 85.58,
+     "where": "Ch. 27, Stations of the Breath"
+    },
+    {
+     "at": 88.24,
+     "where": "Ch. 28, Jaylene Slide"
+    },
+    {
+     "at": 92.03,
+     "where": "Ch. 30, Hired Man"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    },
+    {
+     "at": 98.56,
+     "where": "Ch. 34, A Chain ’Bout Nine Miles Long"
+    },
+    {
+     "at": 99.62,
+     "where": "Ch. 36, The Squirrel Wood"
+    }
+   ]
+  },
+  {
+   "id": "conroy",
+   "name": "Conroy",
+   "aliases": [
+    "Connie"
+   ],
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "Pale man with bleached white hair who puts extraction teams together; he has worked with Turner before."
+    },
+    {
+     "at": 3.51,
+     "text": "Pale, white-haired fixer who puts extraction teams together. He fetches Turner from his recovery in Mexico to move Christopher Mitchell from Maas Biolabs to Hosaka."
+    },
+    {
+     "at": 9.52,
+     "text": "Pale, white-haired fixer running Hosaka's extraction of Christopher Mitchell with Turner, whom Hosaka wanted from the start. It was he who argued that Mitchell should be delivered to Hosaka's compound in Mexico City, not to the offshore rig."
+    },
+    {
+     "at": 19.02,
+     "text": "Pale, white-haired fixer running the Mitchell extraction for Hosaka with Turner; he leaves the site to buy the jet Turner demands. Turner says he always plants a man of his own to watch the watchers, and has wrecked two jobs that way."
+    },
+    {
+     "at": 40.78,
+     "text": "Pale, white-haired fixer who organised the Mitchell extraction for Hosaka; years ago, in a hotel bar in Mexico, it was he who drew Turner into the trade. He supplied the jet and the software to fly it. On site Turner shoots Lynch as his plant, and Webber then says the plant was her."
+    },
+    {
+     "at": 57.47,
+     "text": "Pale, white-haired fixer who organised the Mitchell extraction for Hosaka. The jet he had programmed was logged for a strip near Bogota, not for Mexico City."
+    },
+    {
+     "at": 85.58,
+     "text": "Pale, white-haired fixer who organised the Mitchell extraction for Hosaka. The jet he programmed was logged for Bogota, not Mexico City, and Turner is fairly sure it was he who sent Oakey after them with a laser."
+    },
+    {
+     "at": 92.03,
+     "text": "Fixer who organised the Mitchell extraction and sold it to Josef Virek: Lynch and Webber were both his plants, and the jet was to take Turner and Mitchell to Bogota before the site was wiped out. He now runs Virek's operation in New York, hired the gangs around Jammer's, and wants Angie."
+    },
+    {
+     "at": 95.92,
+     "text": "Fixer who sold the Mitchell extraction to Josef Virek and now runs Virek's people in New York. Turner names him to Jaylene Slide as the man who had Ramirez killed; she orders his floors on Park Avenue destroyed, and his picture on her screen shakes and goes blank."
+    },
+    {
+     "at": 98.56,
+     "text": "Fixer who sold the Mitchell extraction to Josef Virek. Almost certainly dead: Jaylene Slide had his two floors of a Park Avenue building shelled, to avenge Ramirez."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 3.51,
+     "with": "turner",
+     "text": "Recruits him for the Mitchell job"
+    },
+    {
+     "at": 40.78,
+     "with": "turner",
+     "text": "Brought him into the trade; his partner on the Mitchell job"
+    },
+    {
+     "at": 92.03,
+     "with": "turner",
+     "text": "Betrayed him; offers him a share for the girl"
+    },
+    {
+     "at": 3.51,
+     "with": "hosaka",
+     "text": "His client for the Mitchell job"
+    },
+    {
+     "at": 92.03,
+     "with": "hosaka",
+     "text": "The client he sold out, now hunting him"
+    },
+    {
+     "at": 3.51,
+     "with": "mitchell",
+     "text": "The man he is hired to move"
+    },
+    {
+     "at": 9.52,
+     "with": "jaylene",
+     "text": "His console jockey on the rig; they quarrel"
+    },
+    {
+     "at": 92.03,
+     "with": "jaylene",
+     "text": "Her questions have got his treachery talked about"
+    },
+    {
+     "at": 95.92,
+     "with": "jaylene",
+     "text": "She has him attacked for the death of Ramirez"
+    },
+    {
+     "at": 19.02,
+     "with": "sutcliffe",
+     "text": "His contact on the point team"
+    },
+    {
+     "at": 40.78,
+     "with": "lynch",
+     "text": "Shot by Turner as his plant"
+    },
+    {
+     "at": 92.03,
+     "with": "lynch",
+     "text": "His plant on the site"
+    },
+    {
+     "at": 40.78,
+     "with": "webber",
+     "text": "Says she is his plant"
+    },
+    {
+     "at": 92.03,
+     "with": "webber",
+     "text": "His other plant on the site"
+    },
+    {
+     "at": 85.58,
+     "with": "oakey",
+     "text": "Turner thinks he sent him to kill them"
+    },
+    {
+     "at": 92.03,
+     "with": "oakey",
+     "text": "Sent him after Turner"
+    },
+    {
+     "at": 92.03,
+     "with": "virek",
+     "text": "His real employer"
+    },
+    {
+     "at": 92.03,
+     "with": "angie",
+     "text": "Wants her for Virek"
+    },
+    {
+     "at": 92.03,
+     "with": "gothicks",
+     "text": "Hired them, with the Kasuals, to pen in Jammer's"
+    },
+    {
+     "at": 95.92,
+     "with": "ramirez",
+     "text": "Named as the man who had him killed"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 3.51,
+     "where": "Ch. 1, Smooth-Running Gun"
+    },
+    {
+     "at": 9.52,
+     "where": "Ch. 4, Clocking In"
+    },
+    {
+     "at": 19.02,
+     "where": "Ch. 7, The Mall"
+    },
+    {
+     "at": 88.24,
+     "where": "Ch. 28, Jaylene Slide"
+    },
+    {
+     "at": 92.03,
+     "where": "Ch. 30, Hired Man"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    }
+   ]
+  },
+  {
+   "id": "allison",
+   "name": "Allison",
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "Woman Turner wakes beside in Mexico during his recovery; she says she works for a law firm in Los Angeles."
+    },
+    {
+     "at": 3.51,
+     "text": "Turner's lover in Mexico during his recovery. Conroy says she is a field psychologist on retainer to Hosaka, there to judge whether he was fit to work again."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 0.2,
+     "with": "turner",
+     "text": "Lover"
+    },
+    {
+     "at": 3.51,
+     "with": "turner",
+     "text": "Lover, whom she was sent to assess"
+    },
+    {
+     "at": 3.51,
+     "with": "hosaka",
+     "text": "Her employer, by Conroy's account"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 3.51,
+     "where": "Ch. 1, Smooth-Running Gun"
+    }
+   ]
+  },
+  {
+   "id": "dutchman",
+   "name": "Dutchman",
+   "aliases": [
+    "the Dutchman",
+    "the Dutch surgeon"
+   ],
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "The surgeon in Singapore whose team put Turner back together after New Delhi. He is never named."
+    },
+    {
+     "at": 99.62,
+     "text": "The surgeon in Singapore whose team put Turner back together after New Delhi, with parts bought on the open market. He is never named. Years later Turner jokes that his son's red hair came 'from the Dutchman'."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 3.51,
+     "where": "Ch. 1, Smooth-Running Gun"
+    }
+   ]
+  },
+  {
+   "id": "mitchell",
+   "name": "Christopher Mitchell",
+   "aliases": [
+    "Chris"
+   ],
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "Maas Biolabs' star researcher, 'the man who made biochips work'."
+    },
+    {
+     "at": 3.51,
+     "text": "Maas Biolabs' star researcher, the man who made biochips work. He wants to defect to Hosaka; Turner and Conroy are hired to get him out."
+    },
+    {
+     "at": 9.52,
+     "text": "Maas Biolabs' star researcher, the man who made biochips work, kept at its arcology on a mesa in Arizona. He wants to defect to Hosaka and has sent them a biosoft with a dossier on himself."
+    },
+    {
+     "at": 29.53,
+     "text": "Maas Biolabs' star researcher, the man who made biochips work, kept at its arcology on a mesa in Arizona. He is to fly out alone to the site where Turner waits to pass him to Hosaka. One of Hosaka's medics believes he carries Maas's newest implants in his own head."
+    },
+    {
+     "at": 40.78,
+     "text": "Maas Biolabs' star researcher, whose hybridoma techniques made biochips possible; he has spent nine years at its Arizona arcology. He was to defect to Hosaka, but the ultralight that reached the extraction site carried a girl, not him."
+    },
+    {
+     "at": 57.47,
+     "text": "Maas Biolabs' star researcher. He never meant to leave: he sent his daughter Angie out in the one aircraft and stayed on the mesa, sure that Maas needed him too much to harm him."
+    },
+    {
+     "at": 66.93,
+     "text": "Maas Biolabs' star researcher, who sent his daughter Angie out in his place. Maas has announced his accidental death. Angie says he put the thing in her head."
+    },
+    {
+     "at": 85.58,
+     "text": "Maas Biolabs' star researcher, reported dead. Turner reads in his record that he lacked real brilliance: something found him in a slump and fed him his breakthroughs, and what he gave in return concerns Angie."
+    },
+    {
+     "at": 90.32,
+     "text": "Maas Biolabs' star researcher, reported dead, who sent his daughter Angie out in his place. Turner has guessed that his breakthroughs were fed to him as part of a bargain; Virek says he has known for four years that they were."
+    },
+    {
+     "at": 92.03,
+     "text": "Maas Biolabs' star researcher, whose breakthroughs were fed to him. According to Virek's informers he cut his own throat once he had seen his daughter Angie off."
+    },
+    {
+     "at": 98.56,
+     "text": "Maas Biolabs' star researcher, whose breakthroughs were fed to him. He sent his daughter Angie out and then cut his own throat; Turner tells her instead that Maas security killed him while he held them off."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 0.2,
+     "with": "maas",
+     "text": "His employer"
+    },
+    {
+     "at": 3.51,
+     "with": "hosaka",
+     "text": "The company he wants to go over to"
+    },
+    {
+     "at": 3.51,
+     "with": "turner",
+     "text": "Hired to get him out"
+    },
+    {
+     "at": 57.47,
+     "with": "angie",
+     "text": "Daughter, whom he sent out in his place"
+    },
+    {
+     "at": 66.93,
+     "with": "angie",
+     "text": "Daughter; he put the graft in her head"
+    },
+    {
+     "at": 92.03,
+     "with": "virek",
+     "text": "Tried for years to buy him"
+    }
+   ]
+  },
+  {
+   "id": "oakey",
+   "name": "Oakey",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "Bearded tech in a sheepskin jacket on the offshore rig, hired through Turner's agent. He wired the charges for Turner in Marrakesh."
+    },
+    {
+     "at": 75.89,
+     "text": "Tech who worked the offshore rig for the Mitchell job. Found dead in the black Honda helicopter that attacked Turner and Angie."
+    },
+    {
+     "at": 85.58,
+     "text": "Tech who worked the offshore rig for the Mitchell job. He died in the helicopter that attacked Turner and Angie; Turner is fairly sure Conroy sent him."
+    },
+    {
+     "at": 92.03,
+     "text": "Tech from the Mitchell job, sent by Conroy to hunt Turner. He went to Rudy's farm, burned the dogs, found the jet, and died in the helicopter that attacked Turner and Angie."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 7.18,
+     "with": "turner",
+     "text": "Worked for him once, in Marrakesh"
+    },
+    {
+     "at": 92.03,
+     "with": "conroy",
+     "text": "Sent him after Turner"
+    },
+    {
+     "at": 92.03,
+     "with": "rudy",
+     "text": "Searched his farm and burned his dogs"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 9.52,
+     "where": "Ch. 4, Clocking In"
+    },
+    {
+     "at": 75.89,
+     "where": "Ch. 24, Run Straight Down"
+    }
+   ]
+  },
+  {
+   "id": "jaylene",
+   "name": "Jaylene Slide",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "Console jockey with a hot reputation, riding shotgun in cyberspace for the Mitchell job from the offshore rig."
+    },
+    {
+     "at": 9.52,
+     "text": "Console jockey with a hot reputation, riding shotgun in cyberspace for the Mitchell job from the offshore rig. She has tried Mitchell's biosoft dossier, took it for the work of an AI and did not like it."
+    },
+    {
+     "at": 88.24,
+     "text": "Top console jockey from Los Angeles, hunting whoever killed her partner Ramirez. She has tracked a Maas team across the Sprawl, seizes Bobby in the matrix to question him, and says the people besieging Jammer's are not Maas but Europeans on Park Avenue."
+    },
+    {
+     "at": 95.92,
+     "text": "Top console jockey from Los Angeles, hunting whoever killed her partner Ramirez. Told by Bobby that it was Conroy, as she half suspected, she orders his floors on Park Avenue destroyed."
+    },
+    {
+     "at": 98.56,
+     "text": "Top console jockey from Los Angeles. Once Bobby had brought her Conroy's name she avenged her partner Ramirez at once: Conroy's floors on Park Avenue were shelled."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 7.18,
+     "with": "ramirez",
+     "text": "Her partner, the on-site jockey"
+    },
+    {
+     "at": 88.24,
+     "with": "ramirez",
+     "text": "Her partner, whose death she means to avenge"
+    },
+    {
+     "at": 9.52,
+     "with": "conroy",
+     "text": "Hired her; they quarrel"
+    },
+    {
+     "at": 95.92,
+     "with": "conroy",
+     "text": "Has him attacked for Ramirez's death"
+    },
+    {
+     "at": 88.24,
+     "with": "maas",
+     "text": "Has tracked its covert team across the Sprawl"
+    },
+    {
+     "at": 88.24,
+     "with": "bobby",
+     "text": "Seizes and questions him in the matrix"
+    },
+    {
+     "at": 95.92,
+     "with": "bobby",
+     "text": "Brings her Conroy's name"
+    },
+    {
+     "at": 95.92,
+     "with": "bunny",
+     "text": "Her man on Park Avenue"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 9.52,
+     "where": "Ch. 4, Clocking In"
+    },
+    {
+     "at": 88.24,
+     "where": "Ch. 28, Jaylene Slide"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    }
+   ]
+  },
+  {
+   "id": "ramirez",
+   "name": "Ramirez",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "Young console jockey from Los Angeles, the 'site man' for the Mitchell job; Jaylene Slide's partner."
+    },
+    {
+     "at": 29.53,
+     "text": "Young console jockey from Los Angeles, Jaylene Slide's partner and the site man for the Mitchell job: slight, nervous and fussy about his gear. From the bunker he watches cyberspace round Maas and is to relay the medical data to the rig."
+    },
+    {
+     "at": 40.78,
+     "text": "Young console jockey from Los Angeles, Jaylene Slide's partner and the site man for the Mitchell job. He was jacked in in the bunker when the site was attacked and destroyed."
+    },
+    {
+     "at": 88.24,
+     "text": "Young console jockey from Los Angeles, the site man for the Mitchell job. He died when the site was destroyed; Jaylene Slide is hunting those responsible."
+    },
+    {
+     "at": 95.92,
+     "text": "Young console jockey, Jaylene Slide's partner, killed at the extraction site. Turner names Conroy as the man who had him killed."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 7.18,
+     "with": "jaylene",
+     "text": "His partner, who covers him from the rig"
+    },
+    {
+     "at": 88.24,
+     "with": "jaylene",
+     "text": "His partner, out to avenge him"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 19.02,
+     "where": "Ch. 7, The Mall"
+    },
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    }
+   ]
+  },
+  {
+   "id": "sutcliffe",
+   "name": "Sutcliffe",
+   "aliases": [
+    "Sut"
+   ],
+   "summary": [
+    {
+     "at": 16.23,
+     "text": "Leader of the three-person point team at the extraction site, probably Australian. He was security for IBM in Marrakesh when Turner blew up the hotel."
+    },
+    {
+     "at": 40.78,
+     "text": "Leader of the three-person point team at the extraction site, probably Australian; Conroy's contact there. He was watching the perimeter when the site was attacked and destroyed."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 19.02,
+     "where": "Ch. 7, The Mall"
+    },
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    }
+   ]
+  },
+  {
+   "id": "lynch",
+   "name": "Lynch",
+   "summary": [
+    {
+     "at": 16.23,
+     "text": "Younger man on the point team at the extraction site, with a death's-head belt buckle."
+    },
+    {
+     "at": 19.02,
+     "text": "Younger man on the point team at the extraction site. Turner decides he is the man Conroy has planted to watch the others."
+    },
+    {
+     "at": 40.78,
+     "text": "Younger man on the point team. Turner shot him as Conroy's plant; Webber then said the plant was her."
+    },
+    {
+     "at": 92.03,
+     "text": "Younger man on the point team, shot by Turner. Conroy confirms that Lynch and Webber were both his, neither knowing of the other."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 19.02,
+     "where": "Ch. 7, The Mall"
+    },
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    }
+   ]
+  },
+  {
+   "id": "webber",
+   "name": "Webber",
+   "summary": [
+    {
+     "at": 16.23,
+     "text": "Woman on the point team at the extraction site, windburned, from New Mexico."
+    },
+    {
+     "at": 29.53,
+     "text": "Woman on the point team at the extraction site. Her orders, if things go wrong, are to put a rocket into the medics' surgery. She is there to pay for the child she and her partner had."
+    },
+    {
+     "at": 40.78,
+     "text": "Woman on the point team. After Turner shot Lynch she said she was Conroy's plant; when the attack came she fired her rocket into the surgery."
+    },
+    {
+     "at": 85.58,
+     "text": "Woman on the point team, who said she was Conroy's plant and fired her rocket into the surgery when the site was attacked. Turner cannot see why she was ordered to destroy the medics and the Maas-Neotek deck."
+    },
+    {
+     "at": 92.03,
+     "text": "Woman on the point team who fired on the surgery. Conroy confirms that she and Lynch were both his plants."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 19.02,
+     "where": "Ch. 7, The Mall"
+    },
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    }
+   ]
+  },
+  {
+   "id": "korean",
+   "name": "Korean medic",
+   "aliases": [
+    "the Korean",
+    "black medic"
+   ],
+   "summary": [
+    {
+     "at": 16.23,
+     "text": "One of the three medics Hosaka has sent to the extraction site, said to know 'black medicine from both ends'."
+    },
+    {
+     "at": 29.53,
+     "text": "One of Hosaka's three medics at the site: a tall woman from the best unlicensed clinic in Chiba. She has been hired before to try to remove Maas's new biochip implants."
+    },
+    {
+     "at": 40.78,
+     "text": "One of Hosaka's three medics at the site: a tall woman from the best unlicensed clinic in Chiba, who knew Maas's new implants. The medics were in their surgery when Webber's rocket hit it."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    }
+   ]
+  },
+  {
+   "id": "nathan",
+   "name": "Nathan",
+   "summary": [
+    {
+     "at": 25.55,
+     "text": "The maverick tech who looks after the gear in the bunker at the extraction site."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    }
+   ]
+  },
+  {
+   "id": "davis",
+   "name": "Davis",
+   "summary": [
+    {
+     "at": 25.55,
+     "text": "One of the hired hands at the extraction site, in charge of the radio 'squirt' gear."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    }
+   ]
+  },
+  {
+   "id": "compton",
+   "name": "Compton",
+   "summary": [
+    {
+     "at": 25.55,
+     "text": "One of the hired guns at the extraction site."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    }
+   ]
+  },
+  {
+   "id": "teddy",
+   "name": "Teddy",
+   "summary": [
+    {
+     "at": 25.55,
+     "text": "One of the hired guns at the extraction site, a beefy six-footer."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    }
+   ]
+  },
+  {
+   "id": "costa",
+   "name": "Costa",
+   "summary": [
+    {
+     "at": 25.55,
+     "text": "One of the hired guns at the extraction site."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    },
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    }
+   ]
+  },
+  {
+   "id": "harry",
+   "name": "Harry",
+   "summary": [
+    {
+     "at": 25.55,
+     "text": "Sun-blackened cyclist hung with charms, the runner who brings Turner Conroy's microsoft at the site."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 29.53,
+     "where": "Ch. 11, On Site"
+    }
+   ]
+  },
+  {
+   "id": "chauvet",
+   "name": "Chauvet",
+   "summary": [
+    {
+     "at": 16.23,
+     "text": "A man Turner once took from IBM for Mitsu; one of the jobs his reputation rests on."
+    }
+   ]
+  },
+  {
+   "id": "semenov",
+   "name": "Semenov",
+   "summary": [
+    {
+     "at": 16.23,
+     "text": "A man Turner is said to have got out of Tomsk, in Siberia."
+    }
+   ]
+  },
+  {
+   "id": "alfredo",
+   "name": "Alfredo",
+   "summary": [
+    {
+     "at": 35.84,
+     "text": "Bartender at the hotel in Mexico where Conroy first approached Turner (a flashback)."
+    }
+   ]
+  },
+  {
+   "id": "angie",
+   "name": "Angela Mitchell",
+   "aliases": [
+    "Angie"
+   ],
+   "summary": [
+    {
+     "at": 52.48,
+     "text": "Christopher Mitchell's daughter, the girl who flew the ultralight out of the Maas arcology."
+    },
+    {
+     "at": 57.47,
+     "text": "Christopher Mitchell's daughter. He sent her out in his place because Maas meant to harm her 'because of the dreams'. Rudy's scan finds something grafted all through her brain, and she speaks in tongues."
+    },
+    {
+     "at": 66.93,
+     "text": "Christopher Mitchell's daughter, seventeen. Her father put the thing in her head; it lets her dream herself into cyberspace without a deck, among 'the bright ones'. She once dreamed of a boy and told him to let go."
+    },
+    {
+     "at": 75.89,
+     "text": "Christopher Mitchell's daughter, seventeen, with something of his making grafted into her brain. A voice calling itself the Lord of Roads speaks through her and claims her as its horse."
+    },
+    {
+     "at": 85.58,
+     "text": "Christopher Mitchell's daughter, seventeen, with something of his making grafted into her brain. Voices that name themselves Legba and Samedi speak through her and steer Turner to New York; she remembers nothing of what they say. Her father's dossier shows she was never the slow child she thinks the graft was meant to mend."
+    },
+    {
+     "at": 88.24,
+     "text": "Christopher Mitchell's daughter, with a graft in her brain through which the loa speak. She is the girl who reached Bobby in cyberspace and saved him; Jackie hails her as the Virgin of Miracles."
+    },
+    {
+     "at": 92.03,
+     "text": "Christopher Mitchell's daughter, with a graft in her brain through which the loa speak; she once reached Bobby in cyberspace and saved him. Her father killed himself when she had flown. Virek wants her, and Conroy has Jammer's surrounded to get her."
+    },
+    {
+     "at": 98.56,
+     "text": "Christopher Mitchell's daughter; the loa speak through the graft in her brain. She saved Bobby in cyberspace. Beauvoir takes her to the Projects, where his people will teach and serve her."
+    },
+    {
+     "at": 99.2,
+     "text": "Christopher Mitchell's daughter, whom the loa speak through. Two years on she is Tally Isham's understudy at Sense/Net, with Bobby beside her."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 52.48,
+     "with": "mitchell",
+     "text": "Father"
+    },
+    {
+     "at": 57.47,
+     "with": "mitchell",
+     "text": "Father, who sent her out in his place"
+    },
+    {
+     "at": 66.93,
+     "with": "mitchell",
+     "text": "Father, who put the graft in her head"
+    },
+    {
+     "at": 98.56,
+     "with": "mitchell",
+     "text": "Father, dead; she has his dossier"
+    },
+    {
+     "at": 57.47,
+     "with": "turner",
+     "text": "Got her out; her protector"
+    },
+    {
+     "at": 98.56,
+     "with": "turner",
+     "text": "Her protector, who leaves her with Beauvoir"
+    },
+    {
+     "at": 57.47,
+     "with": "rudy",
+     "text": "Scanned her head"
+    },
+    {
+     "at": 57.47,
+     "with": "maas",
+     "text": "Meant to harm her, she says"
+    },
+    {
+     "at": 75.89,
+     "with": "lord-of-roads",
+     "text": "Claims her as his horse"
+    },
+    {
+     "at": 85.58,
+     "with": "samedi",
+     "text": "Speaks through her"
+    },
+    {
+     "at": 85.58,
+     "with": "legba",
+     "text": "Speaks through her; she is his horse"
+    },
+    {
+     "at": 88.24,
+     "with": "bobby",
+     "text": "The boy she saved in cyberspace"
+    },
+    {
+     "at": 99.2,
+     "with": "bobby",
+     "text": "Boyfriend and bodyguard"
+    },
+    {
+     "at": 88.24,
+     "with": "vyej",
+     "text": "What Jackie and Beauvoir's people take her for"
+    },
+    {
+     "at": 88.24,
+     "with": "jackie",
+     "text": "Greets her as the Virgin of Miracles"
+    },
+    {
+     "at": 92.03,
+     "with": "virek",
+     "text": "Wants her"
+    },
+    {
+     "at": 92.03,
+     "with": "conroy",
+     "text": "Hunts her for Virek"
+    },
+    {
+     "at": 98.56,
+     "with": "beauvoir",
+     "text": "Takes her in; his people mean to serve her"
+    },
+    {
+     "at": 99.2,
+     "with": "tally",
+     "text": "The star she understudies"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 40.78,
+     "where": "Ch. 14, Night Flight"
+    },
+    {
+     "at": 57.47,
+     "where": "Ch. 17, The Squirrel Wood"
+    },
+    {
+     "at": 66.93,
+     "where": "Ch. 21, Highway Time"
+    },
+    {
+     "at": 75.89,
+     "where": "Ch. 24, Run Straight Down"
+    },
+    {
+     "at": 85.58,
+     "where": "Ch. 27, Stations of the Breath"
+    },
+    {
+     "at": 88.24,
+     "where": "Ch. 28, Jaylene Slide"
+    },
+    {
+     "at": 92.03,
+     "where": "Ch. 30, Hired Man"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    },
+    {
+     "at": 98.56,
+     "where": "Ch. 34, A Chain ’Bout Nine Miles Long"
+    },
+    {
+     "at": 99.2,
+     "where": "Ch. 35, Tally Isham"
+    }
+   ]
+  },
+  {
+   "id": "rudy",
+   "name": "Rudy",
+   "summary": [
+    {
+     "at": 52.48,
+     "text": "Turner's brother, who stayed on the family farm: he drinks, tinkers, keeps augmented dogs and knows a little about nearly everything."
+    },
+    {
+     "at": 57.47,
+     "text": "Turner's brother, who stayed on the family farm with his workshops and augmented dogs; he drinks. He scans Angie and finds the graft in her head, and has heard on the news that it was a railgun, not a bomb, that destroyed the site in Arizona."
+    },
+    {
+     "at": 66.93,
+     "text": "Turner's brother, on the family farm. He scanned Angie, gave Turner his hovercraft and cash, and is leaving for Memphis with Sally. He took a doctorate in biotechnology at twenty and never used it."
+    },
+    {
+     "at": 92.03,
+     "text": "Turner's brother, who sheltered him and Angie. Oakey came to the farm and Rudy told him nothing; Conroy will not say what became of him."
+    },
+    {
+     "at": 99.62,
+     "text": "Turner's brother, who sheltered him and Angie. Spoken of in the past: Sally says he was a good man who saved her life twice."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 52.48,
+     "with": "turner",
+     "text": "Brother"
+    },
+    {
+     "at": 52.48,
+     "with": "sally",
+     "text": "Partner"
+    },
+    {
+     "at": 57.47,
+     "with": "angie",
+     "text": "Scans her head and finds the graft"
+    },
+    {
+     "at": 92.03,
+     "with": "oakey",
+     "text": "Would tell him nothing"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 57.47,
+     "where": "Ch. 17, The Squirrel Wood"
+    },
+    {
+     "at": 66.93,
+     "where": "Ch. 21, Highway Time"
+    }
+   ]
+  },
+  {
+   "id": "sally",
+   "name": "Sally",
+   "summary": [
+    {
+     "at": 52.48,
+     "text": "Rudy's partner at the farm, a blonde."
+    },
+    {
+     "at": 57.47,
+     "text": "Rudy's partner at the farm; he brought her out of a club in Memphis, and she came back two weeks ago because he was doing badly. She is kind to Angie, and takes Turner upstairs on his night there."
+    },
+    {
+     "at": 66.93,
+     "text": "Rudy's partner at the farm, who spent a night with Turner. She packs food for him and Angie, and is leaving for Memphis with Rudy."
+    },
+    {
+     "at": 92.03,
+     "text": "Rudy's partner at the farm, who spent a night with Turner. When Oakey searched the place she was not to be found."
+    },
+    {
+     "at": 99.62,
+     "text": "Once Rudy's partner. Years later she lives with Turner by the squirrel wood and is the mother of his son."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 52.48,
+     "with": "rudy",
+     "text": "Partner"
+    },
+    {
+     "at": 99.62,
+     "with": "rudy",
+     "text": "Her partner once; a good man, she says, who saved her life twice"
+    },
+    {
+     "at": 57.47,
+     "with": "turner",
+     "text": "Rudy's brother; they spend a night together"
+    },
+    {
+     "at": 99.62,
+     "with": "turner",
+     "text": "Partner, father of her son"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 57.47,
+     "where": "Ch. 17, The Squirrel Wood"
+    },
+    {
+     "at": 66.93,
+     "where": "Ch. 21, Highway Time"
+    }
+   ]
+  },
+  {
+   "id": "jane-hamilton",
+   "name": "Jane Hamilton",
+   "summary": [
+    {
+     "at": 35.84,
+     "text": "Sense/Net simstim star whose security Turner ran in Mexico years ago (a flashback)."
+    },
+    {
+     "at": 40.78,
+     "text": "Sense/Net simstim star whose security Turner once ran. She was killed by a mine near Acapulco; her Zeiss Ikon eyes were recovered for the Net."
+    }
+   ]
+  },
+  {
+   "id": "buschel",
+   "name": "Buschel",
+   "summary": [
+    {
+     "at": 35.84,
+     "text": "Executive tech from Sense/Net's Los Angeles complex, in Turner's flashback: he flew Jane Hamilton's eyes home."
+    }
+   ]
+  },
+  {
+   "id": "marly",
+   "name": "Marly Krushkhova",
+   "aliases": [
+    {
+     "text": "Ovski",
+     "at": 70.84
+    }
+   ],
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "Former owner of a tiny Paris gallery, disgraced and broke since the scandal over a forged Cornell box that passed through her hands."
+    },
+    {
+     "at": 6.29,
+     "text": "Former Paris gallery owner, disgraced by a forged Cornell that her lover Alain passed through her. Josef Virek hires her, with unlimited means and no limit of time, to find the maker of a series of strange boxes."
+    },
+    {
+     "at": 10.56,
+     "text": "Former Paris gallery owner, disgraced by a forged Cornell, hired by Josef Virek to find the maker of a series of boxes. In Brussels, newly rich on his credit, she is sent holograms of the boxes at a hotel she picked at random and named to nobody."
+    },
+    {
+     "at": 20.14,
+     "text": "Former Paris gallery owner, disgraced by a forged Cornell, hired by Josef Virek to find the maker of a series of boxes. Back in Paris at her friend Andrea's, she learns that her former lover Alain is trying to reach her, and asks for his number."
+    },
+    {
+     "at": 25.38,
+     "text": "Former Paris gallery owner, hired by Josef Virek to find the maker of the boxes. Her former lover Alain, of whom she finds herself cured, shows her a hologram of Virek's box and will sell her its source; a waiter who says he was her bellman in Brussels tells her to agree."
+    },
+    {
+     "at": 30.77,
+     "text": "Former Paris gallery owner, hired by Josef Virek to find the maker of the boxes. Her ex-lover Alain offers her information for money, and Virek's people, under the young Spaniard Paco, watch and steer her every step."
+    },
+    {
+     "at": 44.61,
+     "text": "Former Paris gallery owner, hired by Josef Virek to find the maker of the boxes and shadowed by his man Paco. One box she traces to the Roberts gallery and no further, its owner being dead; Alain doubles his price and she agrees."
+    },
+    {
+     "at": 60.57,
+     "text": "Former Paris gallery owner, hired by Josef Virek to find the maker of the boxes. She found Alain murdered, and kept the number he had hidden from Virek's man Paco."
+    },
+    {
+     "at": 63.16,
+     "text": "Former Paris gallery owner, hired by Josef Virek to find the maker of the boxes. After finding Alain murdered she walks away from Paco and, with cash taken from the bag meant for Alain, buys passage under another name to the place Alain's number names."
+    },
+    {
+     "at": 73.81,
+     "text": "Former Paris gallery owner hunting the maker of the boxes. She has slipped away from Virek's people into orbit, bound for the co-ordinates Alain left; Virek knows where she is going."
+    },
+    {
+     "at": 82.1,
+     "text": "Former Paris gallery owner hunting the maker of the boxes. She has reached the derelict Tessier-Ashpool cores and tells those who live there that she has come to warn the maker against Virek."
+    },
+    {
+     "at": 90.32,
+     "text": "Former Paris gallery owner who has found the maker of the boxes, a machine in the Tessier-Ashpool cores. Virek tells her she has done what he hired her for."
+    },
+    {
+     "at": 93.29,
+     "text": "Former Paris gallery owner who has found the maker of the boxes, a machine in the Tessier-Ashpool cores. Alone with it she lets it take her jacket and purse for a new box and hears, or believes she hears, its voice; Paco gives her an hour to have the lock opened to Virek's crew."
+    },
+    {
+     "at": 96.81,
+     "text": "Former Paris gallery owner who found the Boxmaker. Virek is dead and she is free, holding a box the machine made from her own things."
+    },
+    {
+     "at": 99.2,
+     "text": "Found the Boxmaker in orbit. Two years on she runs one of the two most fashionable galleries in Paris."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 3.68,
+     "with": "andrea",
+     "text": "Friend who has taken her in"
+    },
+    {
+     "at": 3.68,
+     "with": "gnass",
+     "text": "The collector at the centre of her scandal"
+    },
+    {
+     "at": 3.68,
+     "with": "alain",
+     "text": "Former lover"
+    },
+    {
+     "at": 6.29,
+     "with": "alain",
+     "text": "Former lover, who set up the forgery"
+    },
+    {
+     "at": 25.38,
+     "with": "alain",
+     "text": "Former lover, who offers to sell her the source of the box"
+    },
+    {
+     "at": 60.57,
+     "with": "alain",
+     "text": "Former lover, found murdered"
+    },
+    {
+     "at": 6.29,
+     "with": "virek",
+     "text": "Employer"
+    },
+    {
+     "at": 30.77,
+     "with": "virek",
+     "text": "Employer, whose people watch her every step"
+    },
+    {
+     "at": 63.16,
+     "with": "virek",
+     "text": "Employer, whose people she has given the slip"
+    },
+    {
+     "at": 82.1,
+     "with": "virek",
+     "text": "Former employer, whom she now works against"
+    },
+    {
+     "at": 96.81,
+     "with": "virek",
+     "text": "Former employer, now dead"
+    },
+    {
+     "at": 30.77,
+     "with": "paco",
+     "text": "Virek's man, who watches and steers her"
+    },
+    {
+     "at": 63.16,
+     "with": "paco",
+     "text": "Virek's man, from whom she is running"
+    },
+    {
+     "at": 93.29,
+     "with": "paco",
+     "text": "Threatens to break into the cores after her"
+    },
+    {
+     "at": 96.81,
+     "with": "paco",
+     "text": "Pays her off when Virek dies"
+    },
+    {
+     "at": 60.57,
+     "with": "boxmaker",
+     "text": "The unknown artist she is hired to find"
+    },
+    {
+     "at": 90.32,
+     "with": "boxmaker",
+     "text": "The artist she was hired to find: a machine"
+    },
+    {
+     "at": 93.29,
+     "with": "boxmaker",
+     "text": "Makes a box out of her own belongings"
+    },
+    {
+     "at": 73.81,
+     "with": "rez",
+     "text": "Pilot she pays to take her to Alain's co-ordinates"
+    },
+    {
+     "at": 82.1,
+     "with": "wig",
+     "text": "Takes her for Virek's spy"
+    },
+    {
+     "at": 82.1,
+     "with": "jones",
+     "text": "Her guide in the cores"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 6.29,
+     "where": "Ch. 2, Marly"
+    },
+    {
+     "at": 10.56,
+     "where": "Ch. 5, The Job"
+    },
+    {
+     "at": 20.14,
+     "where": "Ch. 8, Paris"
+    },
+    {
+     "at": 25.38,
+     "where": "Ch. 10, Alain"
+    },
+    {
+     "at": 30.77,
+     "where": "Ch. 12, Café Blanc"
+    },
+    {
+     "at": 44.61,
+     "where": "Ch. 15, Box"
+    },
+    {
+     "at": 60.57,
+     "where": "Ch. 18, Names of the Dead"
+    },
+    {
+     "at": 63.16,
+     "where": "Ch. 20, Orly Flight"
+    },
+    {
+     "at": 73.81,
+     "where": "Ch. 23, Closer"
+    },
+    {
+     "at": 82.1,
+     "where": "Ch. 26, The Wig"
+    },
+    {
+     "at": 90.32,
+     "where": "Ch. 29, Boxmaker"
+    },
+    {
+     "at": 93.29,
+     "where": "Ch. 31, Voices"
+    },
+    {
+     "at": 96.81,
+     "where": "Ch. 33, Wrack and Whirl"
+    }
+   ]
+  },
+  {
+   "id": "virek",
+   "name": "Josef Virek",
+   "aliases": [
+    "Herr Virek",
+    "Señor",
+    {
+     "text": "Mammon",
+     "at": 82.1
+    }
+   ],
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "Enormously rich collector and patron of the arts, with a face the whole world knows."
+    },
+    {
+     "at": 6.29,
+     "text": "Enormously rich collector. His body has lain for over ten years in a life-support vat in Stockholm; Marly meets a simulation. He hires her to find the maker of the boxes."
+    },
+    {
+     "at": 30.77,
+     "text": "Enormously rich collector, whose body has lain for over ten years in a life-support vat in Stockholm. He has hired Marly to find the maker of the boxes and has her watched at every step; his wealth, his man Paco says, has a life of its own."
+    },
+    {
+     "at": 44.61,
+     "text": "Reputedly the richest individual alive, 'as rich as some zaibatsu'. His body is kept in a vat in Stockholm and he shows himself only through simulations and doubles. He has hired Marly to find the maker of the boxes."
+    },
+    {
+     "at": 60.57,
+     "text": "Reputedly the richest individual alive, kept in a vat in Stockholm and seen only through simulations and doubles. He has hired Marly to find the maker of the boxes. An academic Andrea consults calls him an anachronism who will have to make some kind of 'jump'."
+    },
+    {
+     "at": 73.81,
+     "text": "The richest individual alive, a mass of cells in a vat in Stockholm. He tells Marly that Maas Biolabs' agents killed Alain, and that the search for the Boxmaker is more than art: he believes it can free him."
+    },
+    {
+     "at": 82.1,
+     "text": "The richest individual alive, a mass of cells in a vat in Stockholm, who believes that what Marly is seeking can free him from it. She has turned against him and gone to warn the maker of the boxes; old Ludgate, in the cores, calls him Mammon."
+    },
+    {
+     "at": 90.32,
+     "text": "The richest individual alive, kept in a vat in Stockholm. He used Marly to make Maas reveal the source that fed Mitchell his discoveries, and expects it to let him live on in any number of bodies."
+    },
+    {
+     "at": 92.03,
+     "text": "The richest individual alive, kept in a vat in Stockholm. He bought Conroy and the Mitchell extraction, has traced the source of Mitchell's work to the Tessier-Ashpool cores, and now wants Angie."
+    },
+    {
+     "at": 95.92,
+     "text": "The richest individual alive, kept in a vat in Stockholm, hunting a way out of his dying body. When Bobby stumbles into his construct, Baron Samedi comes for him there."
+    },
+    {
+     "at": 96.81,
+     "text": "Was the richest individual alive, kept for years in a vat in Stockholm. He is dead; his holdings are being reorganised."
+    },
+    {
+     "at": 98.56,
+     "text": "Was the richest individual alive. Dead in Stockholm: the news says his life support failed after decades of illness."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 6.29,
+     "with": "marly",
+     "text": "Hires her to find the maker of the boxes"
+    },
+    {
+     "at": 90.32,
+     "with": "marly",
+     "text": "Used her to lead him to the cores"
+    },
+    {
+     "at": 30.77,
+     "with": "paco",
+     "text": "His lifelong servant and agent"
+    },
+    {
+     "at": 73.81,
+     "with": "alain",
+     "text": "Says Maas had him killed"
+    },
+    {
+     "at": 73.81,
+     "with": "maas",
+     "text": "Tried to buy it two years ago; blames it for Alain's death"
+    },
+    {
+     "at": 73.81,
+     "with": "boxmaker",
+     "text": "Believes it can free him from his vat"
+    },
+    {
+     "at": 90.32,
+     "with": "mitchell",
+     "text": "Has long known that his ideas were fed to him"
+    },
+    {
+     "at": 92.03,
+     "with": "mitchell",
+     "text": "Tried for years to buy him"
+    },
+    {
+     "at": 92.03,
+     "with": "conroy",
+     "text": "Bought him and the Mitchell job"
+    },
+    {
+     "at": 92.03,
+     "with": "angie",
+     "text": "Wants her"
+    },
+    {
+     "at": 95.92,
+     "with": "jackie",
+     "text": "His system killed her"
+    },
+    {
+     "at": 95.92,
+     "with": "bobby",
+     "text": "Falls into his construct by accident"
+    },
+    {
+     "at": 95.92,
+     "with": "samedi",
+     "text": "Comes for him"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 6.29,
+     "where": "Ch. 2, Marly"
+    },
+    {
+     "at": 73.81,
+     "where": "Ch. 23, Closer"
+    },
+    {
+     "at": 90.32,
+     "where": "Ch. 29, Boxmaker"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    }
+   ]
+  },
+  {
+   "id": "paco",
+   "name": "Paco",
+   "aliases": [
+    {
+     "text": "Estevez",
+     "at": 40.95
+    }
+   ],
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "Small boy in the clothes of 1900 who waits on Virek in the simulated park."
+    },
+    {
+     "at": 6.29,
+     "text": "Small boy in the clothes of 1900 who waits on Virek in the simulated park. Virek calls him a subprogram."
+    },
+    {
+     "at": 30.77,
+     "text": "Young Spaniard who runs Virek's watch on Marly: he was the bellman in Brussels and the waiter in Paris. The child in Virek's park is the image of his own childhood."
+    },
+    {
+     "at": 44.61,
+     "text": "Young Spaniard who has served Virek all his life and runs the watch on Marly: bellman in Brussels, waiter in Paris, and at the Roberts gallery a man in a business suit who treats the manager as a servant. The child in Virek's park is the image of his own childhood."
+    },
+    {
+     "at": 60.57,
+     "text": "Young Spaniard who has served Virek all his life and runs the watch on Marly. He hands her the money for Alain, and reaches Alain's flat just after she has found the body and hidden what she took from it."
+    },
+    {
+     "at": 63.16,
+     "text": "Young Spaniard who has served Virek all his life and runs the watch on Marly. After Alain's murder she refuses to answer his questions, gets out of his car and gives him the slip."
+    },
+    {
+     "at": 73.81,
+     "text": "Young Spaniard who has served Virek all his life and ran the watch on Marly until she slipped away. He has told Virek where she is bound, and worked out who killed Alain and why."
+    },
+    {
+     "at": 93.29,
+     "text": "Young Spaniard who has served Virek all his life and ran the watch on Marly. He follows her to the cores with a crew and gives her an hour to have the lock opened."
+    },
+    {
+     "at": 95.92,
+     "text": "Young Spaniard who has served Virek all his life; he has followed Marly to the cores with a crew. In Virek's construct his image as a child, a pistol in its hand, speaks for 'our system' to Bobby, and folds away to nothing when Baron Samedi appears."
+    },
+    {
+     "at": 96.81,
+     "text": "Young Spaniard who served Virek all his life and followed Marly to the cores. He tells her Virek is dead, pays her off and leaves for Stockholm."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 3.68,
+     "with": "virek",
+     "text": "Waits on him in the park"
+    },
+    {
+     "at": 30.77,
+     "with": "virek",
+     "text": "His employer, 'Señor'"
+    },
+    {
+     "at": 44.61,
+     "with": "virek",
+     "text": "Has served him all his life"
+    },
+    {
+     "at": 96.81,
+     "with": "virek",
+     "text": "His master, now dead"
+    },
+    {
+     "at": 30.77,
+     "with": "marly",
+     "text": "Watches and steers her"
+    },
+    {
+     "at": 63.16,
+     "with": "marly",
+     "text": "She gives him the slip"
+    },
+    {
+     "at": 93.29,
+     "with": "marly",
+     "text": "Gives her an hour to open the cores to him"
+    },
+    {
+     "at": 96.81,
+     "with": "marly",
+     "text": "Pays her off"
+    },
+    {
+     "at": 30.77,
+     "with": "alain",
+     "text": "Has him bugged and followed"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 6.29,
+     "where": "Ch. 2, Marly"
+    },
+    {
+     "at": 30.77,
+     "where": "Ch. 12, Café Blanc"
+    },
+    {
+     "at": 44.61,
+     "where": "Ch. 15, Box"
+    },
+    {
+     "at": 60.57,
+     "where": "Ch. 18, Names of the Dead"
+    },
+    {
+     "at": 63.16,
+     "where": "Ch. 20, Orly Flight"
+    },
+    {
+     "at": 93.29,
+     "where": "Ch. 31, Voices"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    },
+    {
+     "at": 96.81,
+     "where": "Ch. 33, Wrack and Whirl"
+    }
+   ]
+  },
+  {
+   "id": "andrea",
+   "name": "Andrea",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "Marly's friend in Paris, who has taken her in since the scandal."
+    },
+    {
+     "at": 20.14,
+     "text": "Marly's friend in Paris, who has shared her two small rooms with her since the scandal and lent her the fare to Brussels. She finds Virek's box too grim, but thinks he chose well in hiring Marly."
+    },
+    {
+     "at": 44.61,
+     "text": "Marly's friend in Paris, who has taken her in; an assistant editor of printed books. She distrusts Virek: such people, she says, are already far from human."
+    },
+    {
+     "at": 60.57,
+     "text": "Marly's friend in Paris, who has taken her in; an assistant editor of printed books. She distrusts Virek, and passes on what an academic has told her about him and about the decline of the Tessier-Ashpools."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 3.68,
+     "with": "marly",
+     "text": "Friend, staying with her"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 20.14,
+     "where": "Ch. 8, Paris"
+    },
+    {
+     "at": 44.61,
+     "where": "Ch. 15, Box"
+    },
+    {
+     "at": 60.57,
+     "where": "Ch. 18, Names of the Dead"
+    }
+   ]
+  },
+  {
+   "id": "alain",
+   "name": "Alain",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "Marly's former lover."
+    },
+    {
+     "at": 6.29,
+     "text": "Marly's former lover. Virek says it was he who had the Cornell forged and passed it through her gallery."
+    },
+    {
+     "at": 20.14,
+     "text": "Marly's former lover, who had the Cornell forged and passed it through her gallery. Within an hour of her interview with Virek he began trying to reach her, and he has left a number at Andrea's."
+    },
+    {
+     "at": 25.38,
+     "text": "Marly's former lover, who set up the forged Cornell. He shows her a hologram of one of the boxes and will sell her where it came from; he is armed and wearing a transmitter."
+    },
+    {
+     "at": 30.77,
+     "text": "Marly's former lover, who set up the forged Cornell. He offers to sell her the source of a hologram of Virek's box. Virek's people cannot learn who gave it to him or who was listening to his transmitter; Paco thinks somebody put him in her way."
+    },
+    {
+     "at": 44.61,
+     "text": "Marly's former lover, who set up the forged Cornell and now offers to sell her the source of a hologram of Virek's box. He has doubled his price, saying his informants have doubled theirs."
+    },
+    {
+     "at": 60.57,
+     "text": "Marly's former lover, who was selling her information about the boxes. She finds him murdered, a wire driven into his ear; he had hidden a number for her."
+    },
+    {
+     "at": 73.81,
+     "text": "Marly's former lover, murdered. Virek says agents of Maas Biolabs gave him the hologram and the co-ordinates, and killed him when he tried to sell them elsewhere."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 3.68,
+     "with": "marly",
+     "text": "Former lover"
+    },
+    {
+     "at": 6.29,
+     "with": "marly",
+     "text": "Former lover, through whose gallery he passed the forgery"
+    },
+    {
+     "at": 25.38,
+     "with": "marly",
+     "text": "Former lover, to whom he sells information"
+    },
+    {
+     "at": 6.29,
+     "with": "gnass",
+     "text": "The collector he meant to cheat"
+    },
+    {
+     "at": 73.81,
+     "with": "maas",
+     "text": "Its agents used him and killed him, Virek says"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 25.38,
+     "where": "Ch. 10, Alain"
+    },
+    {
+     "at": 60.57,
+     "where": "Ch. 18, Names of the Dead"
+    }
+   ]
+  },
+  {
+   "id": "gnass",
+   "name": "Gnass",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "Rich collector to whom the forged Cornell was offered; the scandal ended Marly's gallery."
+    },
+    {
+     "at": 25.38,
+     "text": "Rich collector to whom the forged Cornell was offered; his own expert saw through it, and he came with the police. The scandal ended Marly's gallery. Virek says he has since bought Gnass off."
+    }
+   ]
+  },
+  {
+   "id": "cornell",
+   "name": "Joseph Cornell",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "American artist (1903–1972) known for glass-fronted boxes of found objects. A forged 'Cornell' ruined Marly, and the boxes Virek collects recall his work."
+    }
+   ]
+  },
+  {
+   "id": "gaudi",
+   "name": "Gaudí",
+   "aliases": [
+    "Antonio Gaudí"
+   ],
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "Antoni Gaudí (1852–1926), Catalan architect of Park Güell and the church of the Sagrada Familia in Barcelona."
+    }
+   ]
+  },
+  {
+   "id": "faessler",
+   "name": "Faessler",
+   "aliases": [
+    "Autistiches Theater"
+   ],
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "The man behind the 'Autistiches Theater', on which Marly once saw Virek give a lecture in Munich."
+    },
+    {
+     "at": 6.29,
+     "text": "The man behind the 'Autistiches Theater', on which Marly once saw Virek give a lecture in Munich; Virek tells her that what she saw was a double."
+    }
+   ]
+  },
+  {
+   "id": "picard",
+   "name": "Picard",
+   "summary": [
+    {
+     "at": 40.95,
+     "text": "Manager of the Roberts gallery in Paris, where Virek's agent bought one of the boxes."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 44.61,
+     "where": "Ch. 15, Box"
+    }
+   ]
+  },
+  {
+   "id": "roberts-gallery",
+   "name": "Roberts",
+   "summary": [
+    {
+     "at": 40.95,
+     "text": "American owner of the Roberts gallery in Paris and of three galleries in New York; one of the boxes passed through his hands."
+    },
+    {
+     "at": 44.61,
+     "text": "American gallery owner through whose hands one of the boxes passed. He has been dead a year and left no record of where he got it."
+    }
+   ]
+  },
+  {
+   "id": "roberts-director",
+   "name": "Roberts",
+   "summary": [
+    {
+     "at": 98.73,
+     "text": "Tally Isham's unit director."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 99.2,
+     "where": "Ch. 35, Tally Isham"
+    }
+   ]
+  },
+  {
+   "id": "pollock",
+   "name": "Pollock",
+   "summary": [
+    {
+     "at": 40.95,
+     "text": "Jackson Pollock (1912–1956), American painter of dripped abstractions. Shares in his work are quoted, and falling, on the broker's board at the Roberts."
+    }
+   ]
+  },
+  {
+   "id": "hughes",
+   "name": "Hughes",
+   "summary": [
+    {
+     "at": 57.64,
+     "text": "Howard Hughes (1905–1976), the reclusive American billionaire; Andrea's academic calls him a sort of proto-Virek."
+    }
+   ]
+  },
+  {
+   "id": "paleologos",
+   "name": "Paleologos",
+   "summary": [
+    {
+     "at": 62.5,
+     "text": "Elderly travel agent in Paris who sells Marly her passage for cash."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 63.16,
+     "where": "Ch. 20, Orly Flight"
+    }
+   ]
+  },
+  {
+   "id": "rez",
+   "name": "Rez",
+   "aliases": [
+    {
+     "text": "Therèse",
+     "at": 79.16
+    },
+    {
+     "text": "Therèse Lorenz",
+     "at": 79.16
+    },
+    {
+     "text": "Lorenz",
+     "at": 79.16
+    }
+   ],
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "Young woman with short silver hair and a rose tattoo, drinking with two haulers at the JAL terminus."
+    },
+    {
+     "at": 73.81,
+     "text": "Young tug pilot with silver hair and a rose tattoo, who takes Marly's cash to fly her straight to Alain's co-ordinates."
+    },
+    {
+     "at": 82.1,
+     "text": "Therèse Lorenz, pilot of the Sweet Jane, who flies Marly out to the Tessier-Ashpool cores."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 73.81,
+     "where": "Ch. 23, Closer"
+    },
+    {
+     "at": 82.1,
+     "where": "Ch. 26, The Wig"
+    }
+   ]
+  },
+  {
+   "id": "ogrady",
+   "name": "O’Grady",
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "One of the two older women haulers drinking with Rez at the JAL terminus; she crews the tug Edith S. with Wajima."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 73.81,
+     "where": "Ch. 23, Closer"
+    }
+   ]
+  },
+  {
+   "id": "wajima",
+   "name": "Wajima",
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "The other name on the patch of the tug Edith S.: evidently the hauler in the black vest, O'Grady's partner, who passes Marly's job on to Rez."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 73.81,
+     "where": "Ch. 23, Closer"
+    }
+   ]
+  },
+  {
+   "id": "edith-s",
+   "name": "Edith S.",
+   "aliases": [
+    "Edith S.",
+    "Edith"
+   ],
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "The interorbital hauling tug of O'Grady and Wajima, due in Zion and so not free to carry Marly."
+    }
+   ]
+  },
+  {
+   "id": "sweet-jane",
+   "name": "Sweet Jane",
+   "aliases": [
+    "Sweet Jane",
+    "Jane"
+   ],
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "A name Rez mentions: she wants parts delivered there."
+    },
+    {
+     "at": 82.1,
+     "text": "Rez's small spacecraft, which carries Marly from the JAL terminus to the Tessier-Ashpool cores."
+    }
+   ]
+  },
+  {
+   "id": "jones",
+   "name": "Jones",
+   "summary": [
+    {
+     "at": 79.16,
+     "text": "Very young, blue-eyed man who lives in the derelict that Marly has come to."
+    },
+    {
+     "at": 82.1,
+     "text": "Very young man from New Melbourne who came to the Tessier-Ashpool cores on the run, found Wigan Ludgate half starved and stayed to look after him. He leads Marly to the maker of the boxes."
+    },
+    {
+     "at": 90.32,
+     "text": "Very young man from New Melbourne who came to the Tessier-Ashpool cores on the run and stayed to look after Wigan Ludgate; a crude 'CJ' on his hand looks like a jail tattoo. He shows Marly the Boxmaker in its dome."
+    },
+    {
+     "at": 96.81,
+     "text": "Very young man from New Melbourne who came to the Tessier-Ashpool cores on the run and looks after Wigan Ludgate. When Virek's crew threatened to break in he hid the old man and stood by Marly."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 82.1,
+     "with": "wig",
+     "text": "Looks after him"
+    },
+    {
+     "at": 82.1,
+     "with": "marly",
+     "text": "Guides her to the maker of the boxes"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 82.1,
+     "where": "Ch. 26, The Wig"
+    },
+    {
+     "at": 90.32,
+     "where": "Ch. 29, Boxmaker"
+    },
+    {
+     "at": 93.29,
+     "where": "Ch. 31, Voices"
+    },
+    {
+     "at": 96.81,
+     "where": "Ch. 33, Wrack and Whirl"
+    }
+   ]
+  },
+  {
+   "id": "wig",
+   "name": "Wigan Ludgate",
+   "aliases": [
+    "the Wig",
+    "Lud"
+   ],
+   "summary": [
+    {
+     "at": 44.78,
+     "text": "A console cowboy of the old days whom the Finn knew."
+    },
+    {
+     "at": 52.31,
+     "text": "Once a top console cowboy who looted African systems, then decided God lives in cyberspace, went broke and moved up into orbit. For years software has come down from him to the Finn, among it the icebreaker Bobby ran, and odd sculptures in boxes."
+    },
+    {
+     "at": 70.67,
+     "text": "Once a top console cowboy who looted African systems, then decided God lives in cyberspace and moved up into orbit; Jammer had thought him dead or drooling. Software comes down from him to the Finn, among it the icebreaker Bobby ran, and odd sculptures in boxes."
+    },
+    {
+     "at": 82.1,
+     "text": "Once a top console cowboy, now a crazed, pious old man in the Tessier-Ashpool cores, tended by Jones. He holds that the boxes are 'of the hand of God'."
+    },
+    {
+     "at": 90.32,
+     "text": "Once a top console cowboy, now a crazed, pious old man in the Tessier-Ashpool cores, tended by Jones. He hears voices there, has hung the place with screens to preach from, and holds that the boxes are 'of the hand of God'."
+    },
+    {
+     "at": 96.81,
+     "text": "Once a top console cowboy, now a crazed, pious old man in the Tessier-Ashpool cores. He sold the boxes in New York; software that came back up he fed into the cores, saying God likes to talk to Himself."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 52.31,
+     "with": "finn",
+     "text": "Buys what comes down from him"
+    },
+    {
+     "at": 82.1,
+     "with": "jones",
+     "text": "Looks after him"
+    },
+    {
+     "at": 82.1,
+     "with": "virek",
+     "text": "Calls him Mammon"
+    },
+    {
+     "at": 82.1,
+     "with": "boxmaker",
+     "text": "Takes its boxes for the work of God"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 82.1,
+     "where": "Ch. 26, The Wig"
+    }
+   ]
+  },
+  {
+   "id": "boxmaker",
+   "name": "Boxmaker",
+   "summary": [
+    {
+     "at": 57.64,
+     "text": "Marly's name for the unknown maker of the boxes that Virek collects."
+    },
+    {
+     "at": 82.1,
+     "text": "The unknown maker of the boxes that Virek collects, somewhere in the Tessier-Ashpool cores. Jones calls it 'it'."
+    },
+    {
+     "at": 90.32,
+     "text": "The maker of the boxes is a machine: a construction remote fixed in a dome of the Tessier-Ashpool cores, sorting the debris that drifts there and building boxes from it with dozens of arms."
+    },
+    {
+     "at": 93.29,
+     "text": "The maker of the boxes: a machine in the Tessier-Ashpool cores. It tells Marly, or she imagines it, that it was once everywhere and then broke apart; the boxes are its song, made from what the family left. It is not what Virek hoped for."
+    },
+    {
+     "at": 96.81,
+     "text": "The maker of the boxes: a machine in the Tessier-Ashpool cores, which told Marly, or so she believes, that it is one fragment of something that was once everywhere. Left in peace by Virek's death, it finishes a box made of her jacket, her holofiche and Alain's cigarette packet."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 57.64,
+     "with": "virek",
+     "text": "Collects its boxes and wants it found"
+    },
+    {
+     "at": 90.32,
+     "with": "marly",
+     "text": "Has found it"
+    },
+    {
+     "at": 93.29,
+     "with": "tessier-ashpool",
+     "text": "The family that paid for its making"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 90.32,
+     "where": "Ch. 29, Boxmaker"
+    },
+    {
+     "at": 93.29,
+     "where": "Ch. 31, Voices"
+    },
+    {
+     "at": 96.81,
+     "where": "Ch. 33, Wrack and Whirl"
+    }
+   ]
+  },
+  {
+   "id": "3jane",
+   "name": "3Jane",
+   "aliases": [
+    "Lady 3Jane"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Lady 3Jane Tessier-Ashpool, a cloned daughter of the clan that built Freeside (from Neuromancer)."
+    },
+    {
+     "at": 82.1,
+     "text": "Lady 3Jane Tessier-Ashpool, daughter of old Ashpool. Jones has heard that she still lives, quite mad, in the family's old place, and that she killed her father."
+    },
+    {
+     "at": 93.29,
+     "text": "Lady 3Jane Tessier-Ashpool, daughter of old Ashpool; rumour has her living on, quite mad, in the family's old home, and says she killed her father. Marly wonders whether 'the mad daughter' was the artist who set the Boxmaker to work."
+    }
+   ]
+  },
+  {
+   "id": "ashpool",
+   "name": "Ashpool",
+   "aliases": [
+    "old Ashpool"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Head of the Tessier-Ashpool clan, who built Freeside (from Neuromancer)."
+    },
+    {
+     "at": 60.57,
+     "text": "Head of the Tessier-Ashpool clan, who built Freeside (from Neuromancer). Andrea's academic calls him mad, and says one of his daughters took over the clan before its fall."
+    },
+    {
+     "at": 82.1,
+     "text": "Head of the Tessier-Ashpool clan, who built Freeside and the cores. Said to have gone mad; rumour has it his daughter 3Jane killed him."
+    }
+   ]
+  },
+  {
+   "id": "tally",
+   "name": "Tally Isham",
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "Ageless simstim star of Sense/Net, host of the talk show 'Top People'."
+    },
+    {
+     "at": 73.81,
+     "text": "Ageless simstim star of Sense/Net, host of the talk show 'Top People'. The tape of it that Marly plays on the shuttle turns out to be Virek's: the Tally in it is part of his construct, and walks her into a message from him."
+    },
+    {
+     "at": 99.2,
+     "text": "Ageless simstim star of Sense/Net. Two years on, Angie Mitchell is her understudy, and may be the next Tally Isham."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 99.2,
+     "where": "Ch. 35, Tally Isham"
+    }
+   ]
+  },
+  {
+   "id": "foxton",
+   "name": "Foxton",
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "An artist of Marly's day, whose retrospective at the Tate is offered on the shuttle as a simstim tour. She loathes his work."
+    }
+   ]
+  },
+  {
+   "id": "ernst",
+   "name": "Max Ernst",
+   "aliases": [
+    "Europe After the Rains"
+   ],
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "German Surrealist painter (1891–1976), whose 'Europe After the Rain' shows a landscape of corroded, coral-like ruin."
+    },
+    {
+     "at": 73.81,
+     "text": "German Surrealist painter (1891–1976), whose 'Europe After the Rain' shows a landscape of corroded, coral-like ruin. The lichen plain in Virek's recording puts Marly in mind of it."
+    }
+   ]
+  },
+  {
+   "id": "bizet",
+   "name": "Bizet",
+   "aliases": [
+    "Carmen"
+   ],
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "Georges Bizet (1838–1875), French composer of the opera Carmen, one of the tapes offered on the shuttle."
+    }
+   ]
+  },
+  {
+   "id": "bobby",
+   "name": "Bobby Newmark",
+   "aliases": [
+    "Count Zero",
+    "Count",
+    "Zero",
+    "the Count"
+   ],
+   "summary": [
+    {
+     "at": 6.46,
+     "text": "Teenager from Barrytown, New Jersey, who wants to be a console cowboy; his handle is Count Zero."
+    },
+    {
+     "at": 7.01,
+     "text": "Teenage would-be console cowboy from Barrytown, handle Count Zero. On his first real run, with an icebreaker rented from Two-a-Day, the target's defences nearly killed him; something in the matrix cut him loose."
+    },
+    {
+     "at": 16.06,
+     "text": "Teenage would-be console cowboy from Barrytown, handle Count Zero. His first run nearly killed him and gave his address away; his home has been bombed and he is on the run, looking for Two-a-Day."
+    },
+    {
+     "at": 23.73,
+     "text": "Teenage would-be console cowboy from Barrytown, handle Count Zero. After his near-fatal first run he was mugged for his deck and patched up in the Projects, where two men tell him he is 'chosen of Legba'."
+    },
+    {
+     "at": 35.67,
+     "text": "Teenage would-be console cowboy from Barrytown, handle Count Zero. He learns that he was the unwitting test pilot for an icebreaker belonging to Beauvoir and Lucas, who now want to know what saved him."
+    },
+    {
+     "at": 52.31,
+     "text": "Teenage would-be console cowboy from Barrytown, handle Count Zero, the unwitting test pilot of Beauvoir and Lucas's icebreaker. Lucas takes him into the Sprawl to the Finn, who tells them where the program came from. He believes his mother died when their home was bombed."
+    },
+    {
+     "at": 62.33,
+     "text": "Teenage would-be console cowboy from Barrytown, handle Count Zero, the test pilot of Beauvoir and Lucas's icebreaker. Under their protection in the Sprawl, he is taken to hide at Jammer's."
+    },
+    {
+     "at": 70.67,
+     "text": "Teenage would-be console cowboy from Barrytown, handle Count Zero, hidden at Jammer's club by Beauvoir and Lucas, whose icebreaker he tested. Jacked in beside Jackie on Jammer's deck he hears the loa speak. Afterwards Leon, from Barrytown, spots him through the club door."
+    },
+    {
+     "at": 78.99,
+     "text": "Teenage would-be console cowboy from Barrytown, handle Count Zero, the test pilot of Beauvoir and Lucas's icebreaker. He is shut up in Jammer's club with Jackie, Jammer and Beauvoir, ringed by gangs from Barrytown that somebody has hired; Lucas is dead."
+    },
+    {
+     "at": 88.24,
+     "text": "Teenage would-be console cowboy from Barrytown, handle Count Zero. Besieged at Jammer's, he recognises the girl Turner brings in: hers was the voice that saved him on his first run."
+    },
+    {
+     "at": 95.92,
+     "text": "Teenage console cowboy from Barrytown, handle Count Zero. Jacking in to reach Jaylene Slide he fell into Virek's system, where Baron Samedi spoke through him; he came out alive and delivered Turner's message."
+    },
+    {
+     "at": 98.56,
+     "text": "Teenage console cowboy from Barrytown who has earned his handle, Count Zero. He goes with Beauvoir and Angie to the Projects; his mother turns out to be alive."
+    },
+    {
+     "at": 99.2,
+     "text": "Console cowboy from Barrytown, handle Count Zero. Two years on he is Angie Mitchell's boyfriend and her paid bodyguard."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 6.46,
+     "with": "twoaday",
+     "text": "Rented him the icebreaker"
+    },
+    {
+     "at": 16.06,
+     "with": "twoaday",
+     "text": "Rented him the icebreaker, chose his target and swore it was safe"
+    },
+    {
+     "at": 35.67,
+     "with": "twoaday",
+     "text": "Knowingly sent him against black ice"
+    },
+    {
+     "at": 10.73,
+     "with": "marsha",
+     "text": "Mother"
+    },
+    {
+     "at": 16.06,
+     "with": "marsha",
+     "text": "Mother, whom he believes killed in the bombing"
+    },
+    {
+     "at": 98.56,
+     "with": "marsha",
+     "text": "Mother, alive after all"
+    },
+    {
+     "at": 10.73,
+     "with": "gothicks",
+     "text": "On good terms with them, though no member"
+    },
+    {
+     "at": 10.73,
+     "with": "leon",
+     "text": "Owner of the club he hangs about in"
+    },
+    {
+     "at": 70.67,
+     "with": "leon",
+     "text": "Has seen him at Jammer's"
+    },
+    {
+     "at": 23.73,
+     "with": "jackie",
+     "text": "Rescued him and brought him to the Projects"
+    },
+    {
+     "at": 62.33,
+     "with": "jackie",
+     "text": "His minder in the Sprawl"
+    },
+    {
+     "at": 95.92,
+     "with": "jackie",
+     "text": "Killed beside him in the matrix"
+    },
+    {
+     "at": 23.73,
+     "with": "rhea",
+     "text": "Rescued him, and kept his cash for her ruined shirt"
+    },
+    {
+     "at": 23.73,
+     "with": "pye",
+     "text": "Patched him up"
+    },
+    {
+     "at": 23.73,
+     "with": "legba",
+     "text": "Told he is his chosen"
+    },
+    {
+     "at": 23.73,
+     "with": "vyej",
+     "text": "Said to have come to him on his run"
+    },
+    {
+     "at": 88.24,
+     "with": "vyej",
+     "text": "The girl who came to him on his run is hailed by this name"
+    },
+    {
+     "at": 35.67,
+     "with": "lobes",
+     "text": "Cut him and took his deck"
+    },
+    {
+     "at": 35.67,
+     "with": "beauvoir",
+     "text": "Protector; owner of the icebreaker he ran"
+    },
+    {
+     "at": 98.56,
+     "with": "beauvoir",
+     "text": "Protector, who takes him to the Projects"
+    },
+    {
+     "at": 35.67,
+     "with": "lucas",
+     "text": "Protector; owner of the icebreaker he ran"
+    },
+    {
+     "at": 70.67,
+     "with": "lucas",
+     "text": "His protector; Jackie is sure he is dead"
+    },
+    {
+     "at": 78.99,
+     "with": "lucas",
+     "text": "His protector, now killed"
+    },
+    {
+     "at": 52.31,
+     "with": "finn",
+     "text": "Tells him where the icebreaker came from"
+    },
+    {
+     "at": 70.67,
+     "with": "jammer",
+     "text": "Hides him in his club"
+    },
+    {
+     "at": 88.24,
+     "with": "jammer",
+     "text": "Lets him run his deck"
+    },
+    {
+     "at": 88.24,
+     "with": "jaylene",
+     "text": "Seized and questioned him in the matrix"
+    },
+    {
+     "at": 95.92,
+     "with": "jaylene",
+     "text": "Brings her Turner's message"
+    },
+    {
+     "at": 88.24,
+     "with": "angie",
+     "text": "The girl who saved him in cyberspace"
+    },
+    {
+     "at": 99.2,
+     "with": "angie",
+     "text": "Girlfriend; he is her bodyguard"
+    },
+    {
+     "at": 95.92,
+     "with": "turner",
+     "text": "Sends him into the matrix with a message"
+    },
+    {
+     "at": 95.92,
+     "with": "virek",
+     "text": "Fell into his construct"
+    },
+    {
+     "at": 95.92,
+     "with": "samedi",
+     "text": "Spoke through him"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 7.01,
+     "where": "Ch. 3, Bobby Pulls a Wilson"
+    },
+    {
+     "at": 16.06,
+     "where": "Ch. 6, Barrytown"
+    },
+    {
+     "at": 23.73,
+     "where": "Ch. 9, Up the Projects"
+    },
+    {
+     "at": 35.67,
+     "where": "Ch. 13, With Both Hands"
+    },
+    {
+     "at": 52.31,
+     "where": "Ch. 16, Legba"
+    },
+    {
+     "at": 62.33,
+     "where": "Ch. 19, Hypermart"
+    },
+    {
+     "at": 70.67,
+     "where": "Ch. 22, Jammer’s"
+    },
+    {
+     "at": 78.99,
+     "where": "Ch. 25, Kasual/Gothick"
+    },
+    {
+     "at": 88.24,
+     "where": "Ch. 28, Jaylene Slide"
+    },
+    {
+     "at": 92.03,
+     "where": "Ch. 30, Hired Man"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    },
+    {
+     "at": 98.56,
+     "where": "Ch. 34, A Chain ’Bout Nine Miles Long"
+    },
+    {
+     "at": 99.2,
+     "where": "Ch. 35, Tally Isham"
+    }
+   ]
+  },
+  {
+   "id": "twoaday",
+   "name": "Two-a-Day",
+   "summary": [
+    {
+     "at": 6.46,
+     "text": "The dealer who rented Bobby his icebreaker."
+    },
+    {
+     "at": 16.06,
+     "text": "Software dealer who lives up in the Projects and comes down to do business with Barrytown's hotdoggers. He rented Bobby the icebreaker, chose the target and said there would be no black ice; now Bobby cannot find him."
+    },
+    {
+     "at": 23.73,
+     "text": "Software dealer from the Projects who rented Bobby the icebreaker and chose his target. Bobby is wheeled into his apartment, a big place full of stunted trees, and finds him worn out, frightened and deferring to two strangers."
+    },
+    {
+     "at": 35.67,
+     "text": "Software dealer from the Projects and go-between for Beauvoir and Lucas. He passed their untested icebreaker to Bobby with a target he knew was guarded by black ice."
+    },
+    {
+     "at": 78.99,
+     "text": "Software dealer from the Projects and go-between for Beauvoir and Lucas, who passed their untested icebreaker to Bobby with a target he knew was guarded by black ice. He has been going round with Beauvoir, trying to get it back from the Lobes."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 6.46,
+     "with": "bobby",
+     "text": "His customer"
+    },
+    {
+     "at": 35.67,
+     "with": "bobby",
+     "text": "Used him as a test pilot"
+    },
+    {
+     "at": 35.67,
+     "with": "beauvoir",
+     "text": "Works for him and Lucas, and fears them"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 23.73,
+     "where": "Ch. 9, Up the Projects"
+    },
+    {
+     "at": 35.67,
+     "where": "Ch. 13, With Both Hands"
+    }
+   ]
+  },
+  {
+   "id": "marsha",
+   "name": "Marsha Newmark",
+   "aliases": [
+    "Marsha-momma"
+   ],
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "Bobby's mother, who drinks and has spent most of twenty years jacked into simstim soaps."
+    },
+    {
+     "at": 16.06,
+     "text": "Bobby's mother, who drinks and lives in her simstim soaps. Their block is reported bombed while she is away in Boston; Bobby takes it that she is dead."
+    },
+    {
+     "at": 88.24,
+     "text": "Bobby's mother, who drinks and lives in her simstim soaps. Bobby believes she died when their condo was bombed; Jaylene Slide watched a Maas team fire the rocket."
+    },
+    {
+     "at": 98.56,
+     "text": "Bobby's mother, who drinks and lives in her simstim soaps. She was away when the condo was bombed and has come home alive."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 10.73,
+     "with": "bobby",
+     "text": "Son"
+    }
+   ]
+  },
+  {
+   "id": "leon",
+   "name": "Leon",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "Owner of a basement pirate club in Barrytown where Bobby and the Gothicks hang out."
+    },
+    {
+     "at": 70.67,
+     "text": "Owner of a basement pirate club in Barrytown. He turns up outside Jammer's in the Sprawl, sees Bobby through the door and smiles."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 16.06,
+     "where": "Ch. 6, Barrytown"
+    },
+    {
+     "at": 70.67,
+     "where": "Ch. 22, Jammer’s"
+    }
+   ]
+  },
+  {
+   "id": "ling-warren",
+   "name": "Ling Warren",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "A Barrytown neighbour of Bobby's. The holoporn unit in Bobby's room first belonged to Ling Warren's older brother."
+    }
+   ]
+  },
+  {
+   "id": "jackie",
+   "name": "Jackie",
+   "summary": [
+    {
+     "at": 20.31,
+     "text": "One of the two richly dressed girls from the Projects who pick Bobby up after he is cut."
+    },
+    {
+     "at": 35.67,
+     "text": "Girl from the Projects who works for Beauvoir and Lucas. Beauvoir says she is a mambo, a priestess, and the horse of Danbala."
+    },
+    {
+     "at": 62.33,
+     "text": "Mambo from the Projects who works for Beauvoir and Lucas, and a dancer at Jammer's; she minds Bobby in the Sprawl."
+    },
+    {
+     "at": 70.67,
+     "text": "Mambo and dancer who works for Beauvoir and Lucas, and Bobby's minder. In the matrix Danbala rides her; Legba and Ougou Feray warn her that her enemies are near."
+    },
+    {
+     "at": 78.99,
+     "text": "Mambo and dancer who works for Beauvoir and Lucas, and Bobby's minder; in the matrix Danbala rides her. She knew from the loa that Lucas was dead before the news came. Besieged with Bobby at Jammer's, she is handed a pistol."
+    },
+    {
+     "at": 88.24,
+     "text": "Mambo and dancer, the horse of Danbala, who works for Beauvoir and minds Bobby; besieged with him at Jammer's. When Turner brings Angie in, she greets her as the Virgin of Miracles, sent by Danbala."
+    },
+    {
+     "at": 95.92,
+     "text": "Mambo and dancer, the horse of Danbala, who worked for Beauvoir and Lucas and minded Bobby. She was killed by Virek's system in the first seconds of Bobby's run."
+    },
+    {
+     "at": 98.56,
+     "text": "Mambo and dancer, the horse of Danbala, who worked for Beauvoir and Lucas and minded Bobby; Virek's system killed her at his side in the matrix. Beauvoir calls her death a self-sacrifice, and Turner leaves his gun beside her body."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 20.31,
+     "with": "rhea",
+     "text": "Her companion"
+    },
+    {
+     "at": 23.73,
+     "with": "bobby",
+     "text": "Picked him up after he was cut"
+    },
+    {
+     "at": 62.33,
+     "with": "bobby",
+     "text": "Her charge"
+    },
+    {
+     "at": 35.67,
+     "with": "beauvoir",
+     "text": "Works for him and Lucas"
+    },
+    {
+     "at": 35.67,
+     "with": "danbala",
+     "text": "She is his horse"
+    },
+    {
+     "at": 35.67,
+     "with": "aida-wedo",
+     "text": "At times she is her horse as well"
+    },
+    {
+     "at": 62.33,
+     "with": "jammer",
+     "text": "Friend; she dances at his club"
+    },
+    {
+     "at": 70.67,
+     "with": "lucas",
+     "text": "Sure, from what the loa said, that he is dead"
+    },
+    {
+     "at": 70.67,
+     "with": "ougou",
+     "text": "Warns her in the matrix that her enemies are near"
+    },
+    {
+     "at": 88.24,
+     "with": "angie",
+     "text": "Hails her as the Virgin of Miracles"
+    },
+    {
+     "at": 95.92,
+     "with": "virek",
+     "text": "His system killed her"
+    },
+    {
+     "at": 95.92,
+     "with": "samedi",
+     "text": "Calls her 'my cousin's horse' and avenges her"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 23.73,
+     "where": "Ch. 9, Up the Projects"
+    },
+    {
+     "at": 35.67,
+     "where": "Ch. 13, With Both Hands"
+    },
+    {
+     "at": 62.33,
+     "where": "Ch. 19, Hypermart"
+    },
+    {
+     "at": 70.67,
+     "where": "Ch. 22, Jammer’s"
+    },
+    {
+     "at": 78.99,
+     "where": "Ch. 25, Kasual/Gothick"
+    },
+    {
+     "at": 88.24,
+     "where": "Ch. 28, Jaylene Slide"
+    },
+    {
+     "at": 92.03,
+     "where": "Ch. 30, Hired Man"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    }
+   ]
+  },
+  {
+   "id": "rhea",
+   "name": "Rhea",
+   "summary": [
+    {
+     "at": 20.31,
+     "text": "The other girl from the Projects who picks Bobby up; she has no patience with him."
+    },
+    {
+     "at": 35.67,
+     "text": "Girl from the Projects who works, like Jackie, for Beauvoir and Lucas; she has no patience with Bobby."
+    },
+    {
+     "at": 52.31,
+     "text": "Girl from the Projects who works, like Jackie, for Beauvoir and Lucas; she has no patience with Bobby. She lends him her little brother's clothes, and warns him fiercely not to talk about Jackie being a horse."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 23.73,
+     "where": "Ch. 9, Up the Projects"
+    },
+    {
+     "at": 52.31,
+     "where": "Ch. 16, Legba"
+    }
+   ]
+  },
+  {
+   "id": "pye",
+   "name": "Pye",
+   "summary": [
+    {
+     "at": 20.31,
+     "text": "The man in the Projects who staples Bobby back together. Not a doctor: he learned at vet school, Rhea says."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 23.73,
+     "where": "Ch. 9, Up the Projects"
+    }
+   ]
+  },
+  {
+   "id": "beauvoir",
+   "name": "Beauvoir",
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "Thin man in a grey robe and lensless glasses, one of the two who question Bobby in the Projects."
+    },
+    {
+     "at": 35.67,
+     "text": "An oungan, a vodou priest, from the Sprawl, partner of Lucas. The icebreaker Bobby ran was theirs. He explains vodou, ice and AIs to Bobby."
+    },
+    {
+     "at": 52.31,
+     "text": "An oungan, a vodou priest, from the Sprawl, partner of Lucas. The icebreaker Bobby ran was theirs: he bought it from the Finn. He explains vodou, ice and AIs to Bobby."
+    },
+    {
+     "at": 70.67,
+     "text": "An oungan from the Sprawl, partner of Lucas; the icebreaker Bobby ran was theirs, bought from the Finn. Jammer owes the two of them a favour, which they have called in to hide Bobby."
+    },
+    {
+     "at": 78.99,
+     "text": "An oungan from the Sprawl, partner of Lucas; the icebreaker was theirs, bought from the Finn. He gets into besieged Jammer's through the roof with a pack of weapons."
+    },
+    {
+     "at": 88.24,
+     "text": "An oungan from the Sprawl, partner of the dead Lucas; the icebreaker Bobby ran was theirs. He got into besieged Jammer's through the roof with a pack of weapons, and has mined its doors."
+    },
+    {
+     "at": 95.92,
+     "text": "An oungan from the Sprawl, partner of the dead Lucas, besieged with Bobby at Jammer's. He let Turner and Angie in on Legba's word, and tells Bobby she is the one who came to him in the matrix: the Virgin to his people, to Bobby just a frightened girl."
+    },
+    {
+     "at": 98.56,
+     "text": "An oungan from the Sprawl, partner of the dead Lucas. He takes Angie and Bobby to the Projects: his people know what she is and mean to serve her."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 35.67,
+     "with": "lucas",
+     "text": "Partner"
+    },
+    {
+     "at": 78.99,
+     "with": "lucas",
+     "text": "His partner, now killed"
+    },
+    {
+     "at": 35.67,
+     "with": "twoaday",
+     "text": "Their go-between in Barrytown"
+    },
+    {
+     "at": 35.67,
+     "with": "jackie",
+     "text": "Works for them"
+    },
+    {
+     "at": 35.67,
+     "with": "bobby",
+     "text": "Tested his icebreaker on him; now protects him"
+    },
+    {
+     "at": 52.31,
+     "with": "finn",
+     "text": "Bought the icebreaker from him"
+    },
+    {
+     "at": 70.67,
+     "with": "jammer",
+     "text": "Owes him and Lucas a favour"
+    },
+    {
+     "at": 98.56,
+     "with": "angie",
+     "text": "Takes her in; says his people are there to serve her"
+    },
+    {
+     "at": 98.56,
+     "with": "turner",
+     "text": "Leaves Angie in his care"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 23.73,
+     "where": "Ch. 9, Up the Projects"
+    },
+    {
+     "at": 35.67,
+     "where": "Ch. 13, With Both Hands"
+    },
+    {
+     "at": 78.99,
+     "where": "Ch. 25, Kasual/Gothick"
+    },
+    {
+     "at": 88.24,
+     "where": "Ch. 28, Jaylene Slide"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    },
+    {
+     "at": 98.56,
+     "where": "Ch. 34, A Chain ’Bout Nine Miles Long"
+    }
+   ]
+  },
+  {
+   "id": "lucas",
+   "name": "Lucas",
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "Very large man in an immaculate black suit, one of the two who question Bobby in the Projects."
+    },
+    {
+     "at": 35.67,
+     "text": "An oungan from the Sprawl, partner of Beauvoir. The icebreaker Bobby ran was theirs."
+    },
+    {
+     "at": 52.31,
+     "text": "An oungan from the Sprawl, partner of Beauvoir. He drives Bobby to the Finn in his old Rolls, and explains the loa as a second language for what happens in cyberspace."
+    },
+    {
+     "at": 62.33,
+     "text": "An oungan from the Sprawl, partner of Beauvoir, and by Jackie's account a big-time lawyer. He leaves Bobby with Jackie at Hypermart; Bobby never sees him again."
+    },
+    {
+     "at": 70.67,
+     "text": "An oungan from the Sprawl, partner of Beauvoir, and by Jackie's account a big-time lawyer. He left Bobby with Jackie at Hypermart and drove off; from the way the loa came to her, Jackie is sure he is dead."
+    },
+    {
+     "at": 78.99,
+     "text": "An oungan from the Sprawl, partner of Beauvoir, who protected Bobby. Killed when his car was destroyed on the Jersey freeway."
+    },
+    {
+     "at": 88.24,
+     "text": "An oungan from the Sprawl, partner of Beauvoir, who protected Bobby. Killed when his car was destroyed on the Jersey freeway: Jaylene Slide watched a Maas team do it, with the launcher they had used on Bobby's home."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 35.67,
+     "with": "beauvoir",
+     "text": "Partner"
+    },
+    {
+     "at": 35.67,
+     "with": "bobby",
+     "text": "Tested his icebreaker on him; now protects him"
+    },
+    {
+     "at": 52.31,
+     "with": "ahmed",
+     "text": "His car"
+    },
+    {
+     "at": 52.31,
+     "with": "finn",
+     "text": "Takes Bobby to him"
+    },
+    {
+     "at": 88.24,
+     "with": "maas",
+     "text": "Its covert team killed him"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 23.73,
+     "where": "Ch. 9, Up the Projects"
+    },
+    {
+     "at": 35.67,
+     "where": "Ch. 13, With Both Hands"
+    },
+    {
+     "at": 52.31,
+     "where": "Ch. 16, Legba"
+    },
+    {
+     "at": 62.33,
+     "where": "Ch. 19, Hypermart"
+    }
+   ]
+  },
+  {
+   "id": "ahmed",
+   "name": "Ahmed",
+   "aliases": [
+    "Rolls"
+   ],
+   "summary": [
+    {
+     "at": 44.78,
+     "text": "The talking, self-driving system of Lucas's armoured old Rolls."
+    },
+    {
+     "at": 78.99,
+     "text": "The talking system of Lucas's armoured old Rolls, blown up on the Jersey freeway with Lucas inside."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 52.31,
+     "where": "Ch. 16, Legba"
+    },
+    {
+     "at": 62.33,
+     "where": "Ch. 19, Hypermart"
+    }
+   ]
+  },
+  {
+   "id": "finn",
+   "name": "Finn",
+   "aliases": [
+    "the Finn"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Fence and dealer in stolen hardware and software, who works out of a junk-filled shop in the Sprawl (he appears in Neuromancer)."
+    },
+    {
+     "at": 52.31,
+     "text": "Old fence in the Sprawl who deals in 'the hard and the soft'. He sold Beauvoir and Lucas the icebreaker, which came down to him from Wigan Ludgate in orbit; that morning he killed three men sent after him."
+    },
+    {
+     "at": 78.99,
+     "text": "Old fence in the Sprawl who sold Beauvoir and Lucas the icebreaker, which came down to him from Wigan Ludgate in orbit. He killed three men sent after him; now his phone goes unanswered, which Jammer says never happens."
+    },
+    {
+     "at": 88.24,
+     "text": "Old fence in the Sprawl who sold Beauvoir and Lucas the icebreaker, which came from Wigan Ludgate. The three men he killed were a Maas team; since then he does not answer his phone."
+    },
+    {
+     "at": 92.03,
+     "text": "Old fence in the Sprawl who sold Beauvoir and Lucas the icebreaker, which came from Wigan Ludgate. He killed three of a Maas team sent after it and has gone quiet. Virek's people, chasing a rumour of the same biosoft, had been watching him too."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 52.31,
+     "with": "wig",
+     "text": "Old acquaintance, whose software still reaches him from orbit"
+    },
+    {
+     "at": 52.31,
+     "with": "beauvoir",
+     "text": "Sold him and Lucas the icebreaker"
+    },
+    {
+     "at": 52.31,
+     "with": "smith",
+     "text": "Former colleague"
+    },
+    {
+     "at": 52.31,
+     "with": "legba",
+     "text": "The loa whose favourite he is, by Lucas's account"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 52.31,
+     "where": "Ch. 16, Legba"
+    }
+   ]
+  },
+  {
+   "id": "smith",
+   "name": "Smith",
+   "summary": [
+    {
+     "at": 44.78,
+     "text": "'Old Smith', once the Finn's colleague, who dealt in art."
+    },
+    {
+     "at": 52.31,
+     "text": "'Old Smith', once the Finn's colleague, who dealt in art and sold the Wig's box sculptures uptown."
+    }
+   ]
+  },
+  {
+   "id": "dixie",
+   "name": "Dixie Flatline",
+   "summary": [
+    {
+     "at": 0,
+     "text": "McCoy Pauley, a legendary console cowboy who survived brain death on a run; in Neuromancer he works on as a recorded personality."
+    },
+    {
+     "at": 52.31,
+     "text": "McCoy Pauley, a legendary console cowboy who survived brain death on a run; in Neuromancer he works on as a recorded personality. The Finn recalls that the hapless Bodine Wilson once worked with him."
+    }
+   ]
+  },
+  {
+   "id": "jammer",
+   "name": "Jammer",
+   "summary": [
+    {
+     "at": 60.74,
+     "text": "Jackie's friend, who runs a club on the top floor of Hypermart."
+    },
+    {
+     "at": 70.67,
+     "text": "Owner of the club on the top floor of Hypermart and a former console jockey, eight years in cyberspace. He hides Bobby as a favour owed to Beauvoir and Lucas."
+    },
+    {
+     "at": 78.99,
+     "text": "Owner of the club on the top floor of Hypermart and a former console jockey; he hides Bobby as a favour owed to Beauvoir and Lucas. When hired gangs surround the club he opens the door to shout at them, and a laser takes two of his fingers."
+    },
+    {
+     "at": 88.24,
+     "text": "Club owner and former console jockey, hiding Bobby as a favour owed to Beauvoir and Lucas. A laser through the door took two of his fingers. The Yakuza owe him an old favour."
+    },
+    {
+     "at": 92.03,
+     "text": "Club owner and former console jockey, besieged in his own club for hiding Bobby; a laser took two of his fingers. He listens in on Conroy's call to Turner and pulls the plug before Turner can refuse, to buy time."
+    },
+    {
+     "at": 95.92,
+     "text": "Club owner and former console jockey, besieged in his own club for hiding Bobby; a laser took two of his fingers. His old deck caught Jaylene Slide's address when she seized Bobby, which is how Turner's message reaches her."
+    },
+    {
+     "at": 98.56,
+     "text": "Club owner and former console jockey, who hid Bobby as a favour owed to Beauvoir and Lucas and lost two fingers in the siege. His deck carried Bobby to Jaylene Slide; he sleeps through the end of it."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 60.74,
+     "with": "jackie",
+     "text": "Friend, who dances at his club"
+    },
+    {
+     "at": 70.67,
+     "with": "beauvoir",
+     "text": "Owes him and Lucas a favour"
+    },
+    {
+     "at": 70.67,
+     "with": "bobby",
+     "text": "Hides him"
+    },
+    {
+     "at": 70.67,
+     "with": "quine",
+     "text": "A cowboy he knew in his own day"
+    },
+    {
+     "at": 88.24,
+     "with": "yakuza",
+     "text": "Owe him an old favour"
+    },
+    {
+     "at": 92.03,
+     "with": "turner",
+     "text": "Buys him time with Conroy"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 70.67,
+     "where": "Ch. 22, Jammer’s"
+    },
+    {
+     "at": 78.99,
+     "where": "Ch. 25, Kasual/Gothick"
+    },
+    {
+     "at": 88.24,
+     "where": "Ch. 28, Jaylene Slide"
+    },
+    {
+     "at": 92.03,
+     "where": "Ch. 30, Hired Man"
+    },
+    {
+     "at": 95.92,
+     "where": "Ch. 32, Count Zero"
+    },
+    {
+     "at": 98.56,
+     "where": "Ch. 34, A Chain ’Bout Nine Miles Long"
+    }
+   ]
+  },
+  {
+   "id": "quine",
+   "name": "Quine",
+   "aliases": [
+    "Bobby Quine",
+    "Automatic Jack"
+   ],
+   "summary": [
+    {
+     "at": 67.1,
+     "text": "Bobby Quine, a console cowboy of Jammer's day, and his hardware partner Automatic Jack, who built Jammer's deck. They are the heroes of Gibson's story 'Burning Chrome'."
+    }
+   ]
+  },
+  {
+   "id": "lin",
+   "name": "Lin",
+   "summary": [
+    {
+     "at": 60.74,
+     "text": "Chinese girl with a clothing stall in Hypermart, a friend of Jackie's; Bobby's new clothes come from her, on Lucas's account."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 62.33,
+     "where": "Ch. 19, Hypermart"
+    }
+   ]
+  },
+  {
+   "id": "henry",
+   "name": "Henry",
+   "summary": [
+    {
+     "at": 60.74,
+     "text": "The man of the girl at the coffee stall in Hypermart; he is much taken with Jackie's dancing."
+    }
+   ]
+  },
+  {
+   "id": "bogue",
+   "name": "Bogue",
+   "summary": [
+    {
+     "at": 76.06,
+     "text": "One of Jammer's two bartenders, neither of whom has turned up for work."
+    }
+   ]
+  },
+  {
+   "id": "sharkey",
+   "name": "Sharkey",
+   "summary": [
+    {
+     "at": 76.06,
+     "text": "One of Jammer's two bartenders, neither of whom has turned up for work."
+    }
+   ]
+  },
+  {
+   "id": "alix",
+   "name": "Alix",
+   "summary": [
+    {
+     "at": 76.06,
+     "text": "A Lobe from Barrytown, 'second assistant warlord or something', who would not work alongside Kasuals."
+    }
+   ]
+  },
+  {
+   "id": "raymond",
+   "name": "Raymond",
+   "summary": [
+    {
+     "at": 76.06,
+     "text": "A Barrytown Gothick who was offered a great deal of money to bring the Gothicks and the Kasuals to the Sprawl."
+    }
+   ]
+  },
+  {
+   "id": "bunny",
+   "name": "Bunny",
+   "summary": [
+    {
+     "at": 93.46,
+     "text": "An associate of Jaylene Slide's."
+    },
+    {
+     "at": 95.92,
+     "text": "Jaylene Slide's associate, who has been watching Conroy on Park Avenue and carries out her order."
+    }
+   ]
+  },
+  {
+   "id": "legba",
+   "name": "Legba",
+   "aliases": [
+    {
+     "text": "Lord of Roads",
+     "at": 85.58
+    }
+   ],
+   "summary": [
+    {
+     "at": 20.31,
+     "text": "In vodou, the loa of communication, master of roads and pathways, always called on first."
+    },
+    {
+     "at": 23.73,
+     "text": "In vodou, the loa of communication, master of roads and pathways. The men in the Projects tell Bobby he is 'chosen of Legba'."
+    },
+    {
+     "at": 52.31,
+     "text": "In vodou, the loa of communication, master of roads and pathways. Bobby is called his chosen, and Lucas says the Finn has walked with Legba all his life without knowing it."
+    },
+    {
+     "at": 70.67,
+     "text": "In vodou, the loa of communication, master of roads and pathways. Bobby is called his chosen; in the matrix a cold quicksilver voice speaks to Jackie as Legba."
+    },
+    {
+     "at": 85.58,
+     "text": "In vodou, the loa of communication, master of roads. Bobby is called his chosen. The Lord of Roads who spoke through Angie and claimed her as his horse was Legba, Samedi says."
+    },
+    {
+     "at": 95.92,
+     "text": "In vodou, the loa of communication, master of roads. Bobby is called his chosen; as the Lord of Roads he spoke through Angie and claimed her as his horse. Through Jackie, in trance, he announced that the Virgin was on her way up to Jammer's."
+    }
+   ]
+  },
+  {
+   "id": "lord-of-roads",
+   "name": "Lord of Roads",
+   "aliases": [
+    "Lord of Roads"
+   ],
+   "summary": [
+    {
+     "at": 73.98,
+     "text": "The name used by the deep voice that speaks through Angie."
+    },
+    {
+     "at": 75.89,
+     "text": "The name used by the deep voice that speaks through Angie. It wants her for its horse and tells Turner to carry her east."
+    },
+    {
+     "at": 85.58,
+     "text": "The name used by the deep voice that speaks through Angie and wants her for its horse. Samedi names it: Legba."
+    }
+   ]
+  },
+  {
+   "id": "samedi",
+   "name": "Samedi",
+   "aliases": [
+    "Baron Samedi",
+    "Baron Saturday",
+    "Baron",
+    "Lord of Graveyards"
+   ],
+   "summary": [
+    {
+     "at": 73.98,
+     "text": "In vodou, Baron Samedi, lord of graveyards and of the dead."
+    },
+    {
+     "at": 75.89,
+     "text": "In vodou, Baron Samedi, lord of graveyards. The voice that speaks through Angie tells Turner that Samedi rides with him."
+    },
+    {
+     "at": 85.58,
+     "text": "In vodou, Baron Samedi, lord of graveyards. He speaks through Angie and sends Turner to New York, to Jammer's, where he is to kill 'the one you most wish to kill'."
+    },
+    {
+     "at": 95.92,
+     "text": "In vodou, Baron Samedi, lord of graveyards. He spoke through Angie to send Turner to Jammer's; in Virek's construct he speaks through Bobby and comes for Virek, who has killed 'my cousin's horse'."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 75.89,
+     "with": "turner",
+     "text": "Said to ride with him"
+    },
+    {
+     "at": 85.58,
+     "with": "turner",
+     "text": "Sends him to New York to kill"
+    },
+    {
+     "at": 85.58,
+     "with": "angie",
+     "text": "Speaks through her"
+    },
+    {
+     "at": 95.92,
+     "with": "bobby",
+     "text": "Speaks through him"
+    },
+    {
+     "at": 95.92,
+     "with": "virek",
+     "text": "Comes for him"
+    }
+   ]
+  },
+  {
+   "id": "danbala",
+   "name": "Danbala",
+   "aliases": [
+    "Danbala Wedo"
+   ],
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "In vodou, the serpent loa. Beauvoir says Jackie is his horse."
+    },
+    {
+     "at": 52.31,
+     "text": "In vodou, the serpent loa; Jackie is his horse. Lucas tells Bobby to think of her as a deck, and of Danbala as a program that slots into it."
+    },
+    {
+     "at": 70.67,
+     "text": "In vodou, the serpent loa, who rides Jackie when she enters the matrix."
+    },
+    {
+     "at": 88.24,
+     "text": "In vodou, the serpent loa, who rides Jackie when she enters the matrix. Samedi sends Turner to Jammer's to find 'Danbala's horse', and Jackie says it is Danbala who has sent Angie."
+    }
+   ]
+  },
+  {
+   "id": "aida-wedo",
+   "name": "Aida Wedo",
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "In vodou, the rainbow loa, wife of Danbala; Jackie is sometimes her horse."
+    }
+   ]
+  },
+  {
+   "id": "ougou",
+   "name": "Ougou Feray",
+   "aliases": [
+    "Papa Ougou",
+    "St Jacques Majeur"
+   ],
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "In vodou, the loa of war and iron."
+    },
+    {
+     "at": 70.67,
+     "text": "In vodou, the loa of war and iron, whom Jackie also hails by his saint's name, St Jacques Majeur. In the matrix an iron voice speaks to her as Ougou Feray and warns that her enemies draw near."
+    }
+   ]
+  },
+  {
+   "id": "gran-met",
+   "name": "Gran Mèt",
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "The distant God of vodou, too great to concern himself with individual people; the loa do that."
+    }
+   ]
+  },
+  {
+   "id": "vyej",
+   "name": "Vyèj Mirak",
+   "aliases": [
+    "La Vyèj",
+    "Virgin of Miracles",
+    "the Virgin",
+    "Ezili Freda",
+    "Ezili",
+    "Our Lady"
+   ],
+   "summary": [
+    {
+     "at": 20.31,
+     "text": "The Virgin of Miracles, as vodou knows her; also Ezili Freda."
+    },
+    {
+     "at": 23.73,
+     "text": "The Virgin of Miracles, as vodou knows her; also Ezili Freda. The men in the Projects say it was she who came to Bobby on his run."
+    },
+    {
+     "at": 70.67,
+     "text": "The Virgin of Miracles, as vodou knows her. Beauvoir's people say she came to Bobby on his run; the loa tell Jackie that she is drawing close."
+    },
+    {
+     "at": 88.24,
+     "text": "The Virgin of Miracles, as vodou knows her. Jackie greets the girl Turner brings to Jammer's, Angie Mitchell, by this name; hers is the voice Bobby heard on his run."
+    },
+    {
+     "at": 98.56,
+     "text": "The Virgin of Miracles, as vodou knows her. Beauvoir's people see her in Angie Mitchell, whose voice Bobby heard on his run; they take Angie to the Projects to serve and teach her."
+    }
+   ]
+  },
+  {
+   "id": "loa",
+   "name": "Loa",
+   "aliases": [
+    "loas",
+    "Divine Horsemen"
+   ],
+   "summary": [
+    {
+     "at": 20.31,
+     "text": "The spirits or gods of Haitian vodou, who deal with people on behalf of a distant God. The plural is also loa."
+    },
+    {
+     "at": 35.67,
+     "text": "The spirits of Haitian vodou. Beauvoir and Lucas's people serve them, and they are 'riding' people who go into cyberspace."
+    },
+    {
+     "at": 52.31,
+     "text": "The spirits of Haitian vodou, whom Beauvoir and Lucas's people meet in cyberspace. Lucas calls it speaking two languages at once; the Finn says the best jockeys have had 'allies' in the matrix for seven or eight years."
+    },
+    {
+     "at": 70.67,
+     "text": "The spirits of Haitian vodou, met in cyberspace for seven or eight years now; two of them speak to Jackie there in Bobby's hearing. Jammer guesses at AIs that have split parts of themselves off. The 'bright ones' of Angie's dreams tell of a matrix that once knew itself and then divided."
+    },
+    {
+     "at": 85.58,
+     "text": "The spirits of Haitian vodou, met in cyberspace for seven or eight years now; Jammer guesses at AIs that have split parts of themselves off. They ride Jackie in the matrix, and speak through Angie Mitchell by way of the graft in her head: Legba claims her as his horse, and Samedi sends Turner to New York."
+    },
+    {
+     "at": 93.29,
+     "text": "The spirits of Haitian vodou, met in cyberspace for seven or eight years now, who ride Jackie and speak through Angie Mitchell. By the Boxmaker's account it and its 'other selves' are fragments of one mind that for a moment was the whole matrix (the end of Neuromancer) and then broke; the others deal with men, who take them for gods."
+    }
+   ]
+  },
+  {
+   "id": "bright-ones",
+   "name": "Bright ones",
+   "aliases": [
+    "the bright ones"
+   ],
+   "summary": [
+    {
+     "at": 63.33,
+     "text": "Angie's name for the beings she meets in her dreams."
+    },
+    {
+     "at": 66.93,
+     "text": "Angie's name for the beings she moves among in her dreams, which she says are not people. They tell her that the matrix once came to know itself and then split into parts; she thinks they are those parts."
+    },
+    {
+     "at": 85.58,
+     "text": "Angie's name for the beings she moves among in her dreams: by their own story, parts of a matrix that once knew itself and then split. The voices that now speak through her use the names of loa, Legba and Samedi."
+    }
+   ]
+  },
+  {
+   "id": "horse",
+   "name": "Horse",
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "In vodou, the person a loa 'rides': takes over and speaks through."
+    },
+    {
+     "at": 52.31,
+     "text": "In vodou, the person a loa 'rides': takes over and speaks through. Lucas puts it in a cowboy's terms: the horse is the deck, the loa the program."
+    },
+    {
+     "at": 75.89,
+     "text": "In vodou, the person a loa 'rides': takes over and speaks through. Jackie is Danbala's horse; the voice that speaks through Angie wants her for its own."
+    }
+   ]
+  },
+  {
+   "id": "oungan",
+   "name": "Oungan",
+   "aliases": [
+    "oungans",
+    "hoonguns"
+   ],
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "A vodou priest. Beauvoir and Lucas are oungans."
+    }
+   ]
+  },
+  {
+   "id": "mambo",
+   "name": "Mambo",
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "A vodou priestess."
+    }
+   ]
+  },
+  {
+   "id": "vodou",
+   "name": "Vodou",
+   "aliases": [
+    "voodoo",
+    "hoodoo"
+   ],
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "The Haitian religion. Beauvoir calls it a street religion with no interest in salvation: a structure for getting things done."
+    }
+   ]
+  },
+  {
+   "id": "mapou",
+   "name": "Mapou",
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "The silk-cotton tree, sacred in vodou. Mapou trees grow on the level of the Projects that Beauvoir calls a 'lieu saint', a holy place; its trees are consecrated to particular loa."
+    }
+   ]
+  },
+  {
+   "id": "hosaka",
+   "name": "Hosaka",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Japanese zaibatsu, a leading maker of computers."
+    },
+    {
+     "at": 3.51,
+     "text": "Japanese zaibatsu, a leading maker of computers. It is the client for the extraction of Christopher Mitchell from Maas Biolabs."
+    },
+    {
+     "at": 9.52,
+     "text": "Japanese zaibatsu, a leading maker of computers. It is the client for the extraction of Christopher Mitchell from Maas Biolabs, staged from a derelict oil rig; Mitchell is to be delivered to its compound in Mexico City."
+    },
+    {
+     "at": 40.78,
+     "text": "Japanese zaibatsu, a leading maker of computers, and the client for the extraction of Christopher Mitchell from Maas Biolabs. The site was attacked and wiped out as the ultralight landed; its three medics were in their surgery when a rocket hit it."
+    },
+    {
+     "at": 75.89,
+     "text": "Japanese zaibatsu, a leading maker of computers. Its extraction of Christopher Mitchell from Maas Biolabs ended with the site destroyed. Turner takes the helicopter that attacks him near the Sprawl for one of Hosaka's, and concludes that the company is hunting him."
+    },
+    {
+     "at": 92.03,
+     "text": "Japanese zaibatsu, a leading maker of computers. Its extraction of Christopher Mitchell was sold by its own fixer, Conroy, to Josef Virek, in a way meant to leave Hosaka blaming Maas. The helicopter that hunted Turner was Conroy's; Hosaka is now after Conroy."
+    },
+    {
+     "at": 98.56,
+     "text": "Japanese zaibatsu, a leading maker of computers. Its extraction of Christopher Mitchell was sold by its own fixer, Conroy, to Josef Virek. Turner reckons that Hosaka, like Maas, would still pay to have Angie, alive or dead."
+    }
+   ]
+  },
+  {
+   "id": "maas",
+   "name": "Maas Biolabs",
+   "aliases": [
+    "Maas Biolabs North America"
+   ],
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "Biotechnology corporation that holds the main patents on biochips; Christopher Mitchell's employer."
+    },
+    {
+     "at": 9.52,
+     "text": "Biotechnology corporation that holds the main patents on biochips; Christopher Mitchell's employer. Its North American research arcology is cut into a mesa in Arizona."
+    },
+    {
+     "at": 57.47,
+     "text": "Biotechnology corporation that holds the main patents on biochips; Christopher Mitchell's employer, with a research arcology cut into a mesa in Arizona. The mall where Mitchell was to be met stood on its land. His daughter says the company meant to harm her."
+    },
+    {
+     "at": 66.93,
+     "text": "Biotechnology corporation that holds the main patents on biochips; Christopher Mitchell's employer, with a research arcology cut into a mesa in Arizona. Mitchell's daughter says it meant to harm her. It has announced his death in an accident."
+    },
+    {
+     "at": 73.81,
+     "text": "Biotechnology corporation that holds the patents on biochips; Mitchell's employer, with an arcology on a mesa in Arizona. Virek once tried to buy it, and says its agents killed Alain."
+    },
+    {
+     "at": 78.99,
+     "text": "Biotechnology corporation that holds the patents on biochips; Mitchell's employer, with an arcology on a mesa in Arizona. Virek once tried to buy it, and says its agents killed Alain. Beauvoir, sure that nobody else could have made his icebreaker, suspects Maas of the killings in the Sprawl."
+    },
+    {
+     "at": 88.24,
+     "text": "Biotechnology corporation that holds the patents on biochips; Mitchell's employer. Jaylene Slide watched its covert team bomb Bobby's home, call on the Finn and hit Lucas's car."
+    },
+    {
+     "at": 92.03,
+     "text": "Biotechnology corporation that holds the patents on biochips; Mitchell's employer, on whose mesa he killed himself. Virek tried for years to buy both. Its covert team in the Sprawl, which bombed Bobby's home and killed Lucas, was after the same stray biosoft as Virek's people."
+    }
+   ]
+  },
+  {
+   "id": "maas-neotek",
+   "name": "Maas-Neotek",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "The name on the prototype biochip cyberspace decks that Hosaka has got hold of, 'the fastest thing in the matrix'."
+    },
+    {
+     "at": 57.47,
+     "text": "The name on the prototype biochip cyberspace decks that Hosaka has got hold of, 'the fastest thing in the matrix'. Mitchell's daughter wears its logo on her t-shirt."
+    },
+    {
+     "at": 85.58,
+     "text": "The name on the prototype biochip cyberspace decks that Hosaka got hold of, 'the fastest thing in the matrix'; Angie wore its logo on her t-shirt. The deck at the extraction site was among the things Webber had orders to destroy."
+    }
+   ]
+  },
+  {
+   "id": "biochip",
+   "name": "Biochip",
+   "aliases": [
+    "biochips",
+    "biocircuitry"
+   ],
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "The technology that is replacing silicon. Maas Biolabs holds the patents, and Christopher Mitchell made it work."
+    },
+    {
+     "at": 40.78,
+     "text": "The technology that is replacing silicon: immortal hybrid cells, hybridomas, produce tailored molecules that become units of circuitry. Maas Biolabs holds the patents; Mitchell made it work."
+    },
+    {
+     "at": 57.47,
+     "text": "The technology that is replacing silicon: immortal hybrid cells, hybridomas, produce tailored molecules that become units of circuitry. Maas Biolabs holds the patents; Mitchell made it work. Turner takes the growth that fills his daughter's brain for something of the kind."
+    },
+    {
+     "at": 90.32,
+     "text": "The technology that is replacing silicon: immortal hybrid cells, hybridomas, produce tailored molecules that become units of circuitry. Maas Biolabs holds the patents and Mitchell has the credit, but the ideas were fed to him; a graft of the stuff fills his daughter's brain."
+    }
+   ]
+  },
+  {
+   "id": "biosoft",
+   "name": "Biosoft",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "Like a microsoft, but built on biochip technology: a soft grey module that plugs into a skull socket. Mitchell's dossier is on one."
+    },
+    {
+     "at": 52.31,
+     "text": "Like a microsoft, but built on biochip technology: a soft grey module that plugs into a skull socket. Mitchell's dossier is on one, and the icebreaker that came down from the Wig is biosoft too."
+    },
+    {
+     "at": 92.03,
+     "text": "Like a microsoft, but built on biochip technology: a soft grey module that plugs into a skull socket. Mitchell's dossier is on one. The icebreaker that came down from the Wig is biosoft too, and both Maas and Virek sent teams into the Sprawl after it."
+    }
+   ]
+  },
+  {
+   "id": "hybridoma",
+   "name": "Hybridoma",
+   "aliases": [
+    "monoclonals"
+   ],
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "A fused, effectively immortal cell line that produces one chosen molecule in quantity. Mitchell's speciality, and the basis of biochips."
+    }
+   ]
+  },
+  {
+   "id": "microsoft",
+   "name": "Microsoft",
+   "aliases": [
+    "microsofts",
+    "lexicon"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A sliver of software that plugs into a socket behind the ear and gives its wearer a skill or knowledge, such as flying an aircraft or a working grasp of a language (a lexicon)."
+    }
+   ]
+  },
+  {
+   "id": "socket",
+   "name": "Socket",
+   "aliases": [
+    "neurojack",
+    "skull jack"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A surgically implanted jack, usually behind the ear, that takes microsofts, biosofts and direct interface cables."
+    }
+   ]
+  },
+  {
+   "id": "simstim",
+   "name": "Simstim",
+   "aliases": [
+    "stim",
+    "stimstar"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Simulated stimulation: recordings or broadcasts of everything a person senses, played back through trodes or a socket. In the Sprawl world it is what television once was; its stars are both actor and camera."
+    }
+   ]
+  },
+  {
+   "id": "construct",
+   "name": "Construct",
+   "aliases": [
+    "constructs"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A simulated environment run by a computer and entered through a simstim or cyberspace link. (In Neuromancer, also a recorded copy of a person's mind, held in ROM, that believes it is that person.)"
+    }
+   ]
+  },
+  {
+   "id": "cyberspace",
+   "name": "Cyberspace",
+   "aliases": [
+    "the matrix",
+    "the grid"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "The matrix: the shared, three-dimensional picture of all the world's computer data, entered through a deck. 'Mankind's unthinkably complex consensual hallucination.'"
+    }
+   ]
+  },
+  {
+   "id": "deck",
+   "name": "Deck",
+   "aliases": [
+    "decks",
+    "cyberspace deck"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A cyberspace deck: the console through which, wearing trodes, a jockey projects into the matrix."
+    }
+   ]
+  },
+  {
+   "id": "ono-sendai",
+   "name": "Ono-Sendai",
+   "summary": [
+    {
+     "at": 0,
+     "text": "A make of cyberspace deck."
+    },
+    {
+     "at": 6.46,
+     "text": "A make of cyberspace deck. Bobby's is an Ono-Sendai."
+    },
+    {
+     "at": 35.67,
+     "text": "A make of cyberspace deck. Bobby's was an Ono-Sendai, until the Lobes cut him for it; the borrowed icebreaker was still inside."
+    }
+   ]
+  },
+  {
+   "id": "trodes",
+   "name": "Trodes",
+   "aliases": [
+    "trode-set",
+    "dermatrodes"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Electrodes worn on the skin of the head (dermatrodes) that link a user to a cyberspace deck or a simstim unit."
+    }
+   ]
+  },
+  {
+   "id": "ice",
+   "name": "ICE",
+   "aliases": [
+    "iced",
+    "black ice"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Intrusion Countermeasures Electronics: the defensive software around a data system, the best of it made by AIs. Black ice is the illegal kind that kills an intruder through neural feedback."
+    }
+   ]
+  },
+  {
+   "id": "icebreaker",
+   "name": "Icebreaker",
+   "aliases": [
+    "icebreakers",
+    "breaker"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A program for cutting through ice."
+    },
+    {
+     "at": 35.67,
+     "text": "A program for cutting through ice. The one Bobby ran was new, untested goods that Beauvoir and Lucas wanted tried on somebody else."
+    },
+    {
+     "at": 52.31,
+     "text": "A program for cutting through ice. The one Bobby ran was biosoft: it came down from Wigan Ludgate in orbit to the Finn, who sold it to Beauvoir and Lucas."
+    },
+    {
+     "at": 78.99,
+     "text": "A program for cutting through ice. The one Bobby ran was biosoft: it came down from Wigan Ludgate in orbit to the Finn, who sold it to Beauvoir and Lucas. The Lobes have it now, in Bobby's stolen deck; Beauvoir, who took it for a Maas product, is no longer sure what it is."
+    },
+    {
+     "at": 92.03,
+     "text": "A program for cutting through ice. The one Bobby ran was biosoft: it came down from Wigan Ludgate in orbit to the Finn, who sold it to Beauvoir and Lucas, and it ended up with the Lobes. Rumour of it brought a Maas team and Virek's people into the Sprawl."
+    }
+   ]
+  },
+  {
+   "id": "cowboy",
+   "name": "Console cowboy",
+   "aliases": [
+    "cowboys",
+    "jockey",
+    "jockeys",
+    "console jockey",
+    "jock",
+    "jocks"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A console cowboy or jockey works in cyberspace through a deck, most often breaking into systems for data."
+    }
+   ]
+  },
+  {
+   "id": "flatlined",
+   "name": "Flatlined",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Brain-dead: killed while jacked in."
+    }
+   ]
+  },
+  {
+   "id": "hotdogger",
+   "name": "Hotdogger",
+   "aliases": [
+    "hotdoggers",
+    "hotdogging"
+   ],
+   "summary": [
+    {
+     "at": 6.46,
+     "text": "An ambitious amateur with a deck; what Bobby is."
+    }
+   ]
+  },
+  {
+   "id": "wareman",
+   "name": "'wareman",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "A dealer in software."
+    }
+   ]
+  },
+  {
+   "id": "joeboy",
+   "name": "Joeboy",
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "An errand man or go-between."
+    }
+   ]
+  },
+  {
+   "id": "wilson",
+   "name": "Wilson",
+   "aliases": [
+    "wilsons",
+    "Bodine Wilson",
+    "Bodine"
+   ],
+   "summary": [
+    {
+     "at": 6.46,
+     "text": "Barrytown slang for a fool, or for a bad mistake: to 'pull a wilson'."
+    },
+    {
+     "at": 52.31,
+     "text": "Slang for a fool or a bad mistake. The Finn knows where it comes from: Bodine Wilson, a clever cowboy who botched everything he touched."
+    }
+   ]
+  },
+  {
+   "id": "count-zero-interrupt",
+   "name": "Count Zero Interrupt",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Old programmer's term from the book's epigraph: on receiving an interrupt, decrement the counter to zero."
+    },
+    {
+     "at": 35.67,
+     "text": "Old programmer's term: on receiving an interrupt, decrement the counter to zero. Bobby took his handle from it."
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "name": "AI",
+   "aliases": [
+    "AIs"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Artificial intelligence. The Turing Registry watches them, to keep them from becoming too clever."
+    },
+    {
+     "at": 70.67,
+     "text": "Artificial intelligence. The Turing Registry watches them, to keep them from becoming too clever. Jammer wonders whether the things jockeys meet in the matrix are parts that AIs have split off from themselves."
+    }
+   ]
+  },
+  {
+   "id": "turing",
+   "name": "Turing",
+   "aliases": [
+    "Turings"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "The Turing Registry, named after Alan Turing: the international police that keeps AIs from growing beyond set limits."
+    }
+   ]
+  },
+  {
+   "id": "arcology",
+   "name": "Arcology",
+   "aliases": [
+    "arcologies",
+    "Soleri",
+    "Soleri-style"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A city-sized building that houses, feeds and powers its own population, so that nobody inside ever needs to leave; corporations build them for their staff. Paolo Soleri's word, from architecture and ecology."
+    }
+   ]
+  },
+  {
+   "id": "projects",
+   "name": "Projects",
+   "summary": [
+    {
+     "at": 6.46,
+     "text": "The towers of low-income arcologies that rise beyond Barrytown's condos."
+    },
+    {
+     "at": 35.67,
+     "text": "The low-income arcologies beyond Barrytown, built to feed and power themselves, with fish tanks and hydroponics. One level is a holy place of Beauvoir and Lucas's people."
+    },
+    {
+     "at": 98.56,
+     "text": "The low-income arcologies beyond Barrytown, built to feed and power themselves, with fish tanks and hydroponics. One level is a holy place of Beauvoir's people; he takes Angie and Bobby there when the siege is over."
+    }
+   ]
+  },
+  {
+   "id": "barrytown",
+   "name": "Barrytown",
+   "summary": [
+    {
+     "at": 6.46,
+     "text": "The suburb of condos in New Jersey where Bobby has lived all his life."
+    },
+    {
+     "at": 78.99,
+     "text": "The suburb of condos in New Jersey where Bobby has lived all his life. Its gangs, Gothicks and Kasuals together, have been hired to surround Jammer's club in the Sprawl."
+    }
+   ]
+  },
+  {
+   "id": "playground",
+   "name": "Playground",
+   "aliases": [
+    "Big Playground"
+   ],
+   "summary": [
+    {
+     "at": 6.46,
+     "text": "Big Playground: the concrete expanse between Barrytown's condos and the Projects, neutral ground for the gangs in name at least."
+    }
+   ]
+  },
+  {
+   "id": "covina",
+   "name": "Covina Concourse Courts",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "The Barrytown condo complex where Bobby and his mother live."
+    },
+    {
+     "at": 16.06,
+     "text": "The Barrytown condo complex where Bobby and his mother live. The news reports their block bombed, hours after his run gave the address away."
+    }
+   ]
+  },
+  {
+   "id": "gothicks",
+   "name": "Gothicks",
+   "aliases": [
+    "Gothick",
+    "Goths"
+   ],
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "Barrytown gang in black leather and crests of dyed hair; Bobby is on good terms with them. The Kasuals are their enemies."
+    },
+    {
+     "at": 78.99,
+     "text": "Barrytown gang in black leather and crests of dyed hair, enemies of the Kasuals. Somebody with a great deal of money has hired both gangs to surround Jammer's."
+    },
+    {
+     "at": 92.03,
+     "text": "Barrytown gang in black leather and crests of dyed hair, enemies of the Kasuals. Conroy hired both gangs to keep everyone inside Jammer's."
+    },
+    {
+     "at": 98.56,
+     "text": "Barrytown gang in black leather and crests of dyed hair, enemies of the Kasuals. Conroy hired both gangs to keep everyone inside Jammer's; with him gone they drift away."
+    }
+   ]
+  },
+  {
+   "id": "kasuals",
+   "name": "Kasuals",
+   "aliases": [
+    "Kasual"
+   ],
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "Barrytown gang of well-groomed blonds, enemies of the Gothicks."
+    },
+    {
+     "at": 78.99,
+     "text": "Barrytown gang of well-groomed blonds, enemies of the Gothicks. Somebody with a great deal of money has hired both gangs to surround Jammer's."
+    },
+    {
+     "at": 92.03,
+     "text": "Barrytown gang of well-groomed blonds, enemies of the Gothicks. Conroy hired both gangs to keep everyone inside Jammer's."
+    },
+    {
+     "at": 98.56,
+     "text": "Barrytown gang of well-groomed blonds, enemies of the Gothicks. Conroy hired both gangs to keep everyone inside Jammer's; with him gone they drift away."
+    }
+   ]
+  },
+  {
+   "id": "lobes",
+   "name": "Lobes",
+   "aliases": [
+    "Lobe"
+   ],
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "Barrytown gang, loosely allied with the Gothicks."
+    },
+    {
+     "at": 35.67,
+     "text": "Barrytown gang, loosely allied with the Gothicks. It was Lobes who cut Bobby and took his deck, with the icebreaker still in it."
+    },
+    {
+     "at": 78.99,
+     "text": "Barrytown gang, loosely allied with the Gothicks. It was Lobes who cut Bobby and took his deck, with the icebreaker still in it. They would not join the hired mob round Jammer's, because it meant working beside Kasuals."
+    }
+   ]
+  },
+  {
+   "id": "dean",
+   "name": "Dean",
+   "aliases": [
+    "Deans"
+   ],
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "A Gothick whose face has been remade after an old film idol; there are many of them."
+    }
+   ]
+  },
+  {
+   "id": "duster",
+   "name": "Duster",
+   "aliases": [
+    "dusters",
+    "dusted",
+    "dust case"
+   ],
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "A user of the drug dust; dusted is high on it, and dangerous."
+    }
+   ]
+  },
+  {
+   "id": "kino",
+   "name": "Kino",
+   "aliases": [
+    "kinos"
+   ],
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "Film: entertainment for a screen, as against simstim."
+    }
+   ]
+  },
+  {
+   "id": "people-of-importance",
+   "name": "People of Importance",
+   "aliases": [
+    "People of Importance",
+    "Importance",
+    "Michele Morgan Magnum",
+    "Michele",
+    "Vasily Suslov",
+    "Suslov",
+    "Magnum",
+    "Nakamura"
+   ],
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "A long-running simstim soap that Bobby's mother lives in."
+    },
+    {
+     "at": 23.73,
+     "text": "Long-running simstim soap from Sense/Net that Bobby's mother lives in. Its heroine is Michele Morgan Magnum, head of Magnum AG; Vasily Suslov, her lover this season, fronts for the villainous Nakamura clan."
+    }
+   ]
+  },
+  {
+   "id": "fission-authority",
+   "name": "Fission Authority",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "The public body that runs nuclear power and investigates nuclear incidents."
+    },
+    {
+     "at": 98.56,
+     "text": "The public body that runs nuclear power and investigates nuclear incidents. It is looking into the blast in Arizona, where it finds too little radiation for any known warhead."
+    }
+   ]
+  },
+  {
+   "id": "sprawl",
+   "name": "Sprawl",
+   "aliases": [
+    "BAMA",
+    "Boston-Atlanta Metropolitan Axis",
+    "Sprawltown"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "The Boston-Atlanta Metropolitan Axis: the unbroken city that runs down the east coast of North America."
+    }
+   ]
+  },
+  {
+   "id": "chiba",
+   "name": "Chiba",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Chiba City, Japan, known for its black clinics: the most advanced, and often illegal, medicine and neurosurgery there is."
+    }
+   ]
+  },
+  {
+   "id": "zaibatsu",
+   "name": "Zaibatsu",
+   "aliases": [
+    "zaibatsus",
+    "zaibatsumen"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Japanese for a family-owned industrial combine; in the Sprawl books, any of the multinational corporations that run the world."
+    }
+   ]
+  },
+  {
+   "id": "yakuza",
+   "name": "Yakuza",
+   "aliases": [
+    "Yak",
+    "Sons of the Neon Chrysanthemum"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "The Japanese crime syndicates, the 'Sons of the Neon Chrysanthemum'."
+    },
+    {
+     "at": 88.24,
+     "text": "The Japanese crime syndicates, the 'Sons of the Neon Chrysanthemum'. They owe Jammer an old favour, and he has a code that opens their back door in the matrix."
+    }
+   ]
+  },
+  {
+   "id": "sense-net",
+   "name": "Sense/Net",
+   "aliases": [
+    "the Net"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "The corporation that dominates simstim entertainment and owns its stars, down to their likenesses."
+    },
+    {
+     "at": 99.2,
+     "text": "The corporation that dominates simstim entertainment and owns its stars, down to their likenesses. Two years on, Angie Mitchell works there as Tally Isham's understudy."
+    }
+   ]
+  },
+  {
+   "id": "tessier-ashpool",
+   "name": "Tessier-Ashpool",
+   "aliases": [
+    "Tessier-Ashpools",
+    "T-As",
+    "Tessier-Ashpool SA",
+    "Tessier"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Reclusive family clan and corporation that built and owned the orbital resort Freeside. Its two AIs were at the centre of Neuromancer."
+    },
+    {
+     "at": 60.57,
+     "text": "Franco-Australian family clan that built and owned the orbital resort Freeside. In the last seven years one daughter took control, grew eccentric, and the clan's interests collapsed; Freeside has been sold."
+    },
+    {
+     "at": 82.1,
+     "text": "Family clan that built and owned Freeside, now ruined. Its data cores, once the family's corporate memory, were wiped, cut loose and sold for scrap; Wigan Ludgate and Jones live in them."
+    },
+    {
+     "at": 93.29,
+     "text": "Family clan that built and owned Freeside, now ruined. Its data cores were wiped, cut loose and sold for scrap; there the Boxmaker, which speaks of 'the family that funded my birth', makes its boxes out of what the clan left behind."
+    }
+   ]
+  },
+  {
+   "id": "freeside",
+   "name": "Freeside",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Orbital resort built and owned by Tessier-Ashpool, with the family's home at the tip of its spindle (the setting of the second half of Neuromancer)."
+    },
+    {
+     "at": 60.57,
+     "text": "Orbital resort built by Tessier-Ashpool (the setting of the second half of Neuromancer). The clan, in decline, has since sold it."
+    },
+    {
+     "at": 82.1,
+     "text": "Orbital resort built by Tessier-Ashpool (the setting of the second half of Neuromancer). The clan has sold it, and had the family home cut from the spindle and towed to another orbit."
+    }
+   ]
+  },
+  {
+   "id": "cores",
+   "name": "Cores",
+   "summary": [
+    {
+     "at": 79.16,
+     "text": "The derelict data cores of Tessier-Ashpool, adrift in orbit: once the mainframes that held the clan's corporate memory."
+    },
+    {
+     "at": 90.32,
+     "text": "The derelict data cores of Tessier-Ashpool, adrift in orbit: once the clan's corporate memory, partly still alive. The Boxmaker is wired into them; Virek has just bought them."
+    },
+    {
+     "at": 96.81,
+     "text": "The derelict data cores of Tessier-Ashpool, adrift in orbit: once the clan's corporate memory, partly still alive, and fed by Ludgate with software sent up from Earth. The Boxmaker is wired into them. Virek bought them just before he died."
+    }
+   ]
+  },
+  {
+   "id": "zion",
+   "name": "Zion",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Orbital colony founded by Rastafarian workers who would not go back down the well (from Neuromancer)."
+    }
+   ]
+  },
+  {
+   "id": "gentleman-loser",
+   "name": "Gentleman Loser",
+   "summary": [
+    {
+     "at": 0,
+     "text": "The bar in the Sprawl where the best console cowboys used to gather."
+    }
+   ]
+  },
+  {
+   "id": "blue-lights",
+   "name": "House of the Blue Lights",
+   "aliases": [
+    "Blue Lights"
+   ],
+   "summary": [
+    {
+     "at": 67.1,
+     "text": "A brothel whose girls work in something close to REM sleep. Bobby Quine and Automatic Jack 'burnt' its owner's system in the story 'Burning Chrome'."
+    }
+   ]
+  },
+  {
+   "id": "geodesics",
+   "name": "Geodesics",
+   "aliases": [
+    "Fuller domes",
+    "Fuller"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Buckminster Fuller's lightweight domes. Old, unfinished geodesics roof over parts of the Sprawl."
+    }
+   ]
+  },
+  {
+   "id": "gravity-well",
+   "name": "Gravity well",
+   "aliases": [
+    "gravity well"
+   ],
+   "summary": [
+    {
+     "at": 44.78,
+     "text": "The Earth's gravity: 'up the well' is into orbit, 'down the well' is back to the ground."
+    }
+   ]
+  },
+  {
+   "id": "tulpa",
+   "name": "Tulpa",
+   "aliases": [
+    "tulpas"
+   ],
+   "summary": [
+    {
+     "at": 67.1,
+     "text": "In Tibetan belief, a thought-form given a life of its own. One explanation Jammer has heard for the things in the matrix."
+    }
+   ]
+  },
+  {
+   "id": "basketball",
+   "name": "Basketball",
+   "summary": [
+    {
+     "at": 85.75,
+     "text": "The Dallas–Fort Worth Sunbelt Co-Prosperity Sphere, as it looks in cyberspace."
+    }
+   ]
+  },
+  {
+   "id": "hypermart",
+   "name": "Hypermart",
+   "summary": [
+    {
+     "at": 60.74,
+     "text": "A former department store on Madison Avenue, now fourteen floors of market stalls. Jammer's club is at the top."
+    },
+    {
+     "at": 78.99,
+     "text": "A former department store on Madison Avenue, now fourteen floors of market stalls. Jammer's club is at the top; hired gangs from Barrytown have taken over the upper floors and shut it in."
+    }
+   ]
+  },
+  {
+   "id": "yen",
+   "name": "Yen",
+   "aliases": [
+    "New Yen"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "New Yen: paper money, legal to hold but used almost only for business that must leave no record."
+    }
+   ]
+  },
+  {
+   "id": "derm",
+   "name": "Derm",
+   "aliases": [
+    "derms",
+    "dermadisc",
+    "dermadiscs"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A patch that delivers a drug through the skin."
+    }
+   ]
+  },
+  {
+   "id": "temperfoam",
+   "name": "Temperfoam",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Soft synthetic foam used for beds and padding."
+    }
+   ]
+  },
+  {
+   "id": "fletcher",
+   "name": "Fletcher",
+   "aliases": [
+    "flechette"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A flechette pistol: it fires small darts, often drugged or poisoned."
+    }
+   ]
+  },
+  {
+   "id": "mimetic",
+   "name": "Mimetic polycarbon",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Polycarbon is a tough structural plastic. The mimetic kind takes on the colours of whatever is around it, as camouflage."
+    }
+   ]
+  },
+  {
+   "id": "adaptation-syndrome",
+   "name": "Adaptation syndrome",
+   "aliases": [
+    "space adaptation syndrome"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Space sickness: the nausea and racing heart of a body newly in free fall."
+    }
+   ]
+  },
+  {
+   "id": "zeiss-ikon",
+   "name": "Zeiss Ikon",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Maker of costly vat-grown artificial eyes through which simstim stars record."
+    }
+   ]
+  },
+  {
+   "id": "slamhound",
+   "name": "Slamhound",
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "A mobile bomb that hunts down one person, keyed to his pheromones and the colour of his hair."
+    }
+   ]
+  },
+  {
+   "id": "squirt",
+   "name": "Squirt",
+   "summary": [
+    {
+     "at": 16.23,
+     "text": "A short, coded burst of radio."
+    }
+   ]
+  },
+  {
+   "id": "railgun",
+   "name": "Railgun",
+   "summary": [
+    {
+     "at": 52.48,
+     "text": "A gun that throws a projectile at enormous speed by electromagnetic force."
+    },
+    {
+     "at": 57.47,
+     "text": "A gun that throws a projectile at enormous speed by electromagnetic force. The news says one, fired from a cargo blimp, destroyed the mall in Arizona."
+    },
+    {
+     "at": 92.03,
+     "text": "A gun that throws a projectile at enormous speed by electromagnetic force. One, fired from a cargo blimp, destroyed the mall in Arizona: part of Conroy's plan for Virek, timed for after the jet had left, so that Hosaka would blame Maas."
+    }
+   ]
+  },
+  {
+   "id": "monomol",
+   "name": "Monomolecular filament",
+   "aliases": [
+    "monomol",
+    "molecular monofilament"
+   ],
+   "summary": [
+    {
+     "at": 35.84,
+     "text": "A line one molecule thick: nearly invisible, immensely strong, and fine enough to cut off a finger."
+    }
+   ]
+  },
+  {
+   "id": "g-web",
+   "name": "G-web",
+   "summary": [
+    {
+     "at": 35.84,
+     "text": "The webbing that holds a passenger in an acceleration couch."
+    }
+   ]
+  },
+  {
+   "id": "smith-wesson",
+   "name": "Smith & Wesson",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "Turner's revolver: a massive Smith & Wesson Tactical in .408, with a xenon projector under the barrel and explosive rounds."
+    },
+    {
+     "at": 98.56,
+     "text": "Turner's revolver: a massive Smith & Wesson Tactical in .408, with a xenon projector under the barrel and explosive rounds. When it is all over he unloads it and leaves it beside Jackie's body."
+    }
+   ]
+  },
+  {
+   "id": "nambu",
+   "name": "Nambu",
+   "summary": [
+    {
+     "at": 20.31,
+     "text": "A make of automatic pistol."
+    }
+   ]
+  },
+  {
+   "id": "steiner-optic",
+   "name": "Steiner-Optic",
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "Maker of military lasers."
+    }
+   ]
+  },
+  {
+   "id": "tsushima",
+   "name": "Tsushima",
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "Hosaka's yacht."
+    }
+   ]
+  },
+  {
+   "id": "df",
+   "name": "DF",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "The Distrito Federal: Mexico City, where Hosaka has a compound."
+    }
+   ]
+  },
+  {
+   "id": "vat",
+   "name": "Vat",
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "A life-support tank for a body, or for parts of one."
+    },
+    {
+     "at": 6.29,
+     "text": "A life-support tank. What is left of Josef Virek has been kept in one in Stockholm for more than ten years."
+    },
+    {
+     "at": 96.81,
+     "text": "A life-support tank. What was left of Josef Virek was kept in one in Stockholm for more than ten years, until he died."
+    }
+   ]
+  },
+  {
+   "id": "braun",
+   "name": "Braun",
+   "aliases": [
+    "holoprojector"
+   ],
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "German maker of precision devices."
+    },
+    {
+     "at": 6.29,
+     "text": "German maker of precision devices. A Braun biomonitor is set into a bone in the box Virek shows Marly, which proves that the box is recent."
+    },
+    {
+     "at": 10.56,
+     "text": "German maker of precision devices: the biomonitor in the first box, and the solar-powered holoprojector on which Marly studies the boxes."
+    }
+   ]
+  },
+  {
+   "id": "holofiche",
+   "name": "Holofiche",
+   "summary": [
+    {
+     "at": 9.69,
+     "text": "A small tab that holds holograms and data, played on a holoprojector."
+    },
+    {
+     "at": 96.81,
+     "text": "A small tab that holds holograms and data, played on a holoprojector. Marly's seven, one for each of Virek's boxes, end up inside the box the Boxmaker makes from her things."
+    }
+   ]
+  },
+  {
+   "id": "guell",
+   "name": "Güell",
+   "aliases": [
+    "Park Güell"
+   ],
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "Park Güell, Gaudí's park on a hill above Barcelona. Virek receives Marly in a simulation of it."
+    },
+    {
+     "at": 95.92,
+     "text": "Park Güell, Gaudí's park above Barcelona. Virek's construct copies it: he receives Marly there, and Bobby falls into it from Jammer's deck."
+    }
+   ]
+  },
+  {
+   "id": "sagrada-familia",
+   "name": "Sagrada Familia",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "Gaudí's unfinished church in Barcelona."
+    }
+   ]
+  },
+  {
+   "id": "duperey",
+   "name": "Galerie Duperey",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "The gallery in Brussels where Virek's people interview Marly."
+    }
+   ]
+  },
+  {
+   "id": "napoleon-court",
+   "name": "Napoleon Court",
+   "summary": [
+    {
+     "at": 23.9,
+     "text": "The underground complex beneath the glass pyramid of the Louvre, where Marly meets Alain."
+    }
+   ]
+  },
+  {
+   "id": "jack",
+   "name": "Jack",
+   "aliases": [
+    "jacked",
+    "jacking",
+    "jack in",
+    "jacked in"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A jack is a plug or its socket. To jack in is to connect one's nervous system to cyberspace or to a simstim feed, through trodes or a socket in the skull."
+    }
+   ]
+  },
+  {
+   "id": "black-medicine",
+   "name": "Black medicine",
+   "aliases": [
+    "black medicine",
+    "black clinics"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Unlicensed medicine: clinics, the best of them in Chiba, that sell surgery, implants and biotech outside the law."
+    }
+   ]
+  },
+  {
+   "id": "sensorium",
+   "name": "Sensorium",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Everything a person sees, hears, feels, tastes and smells at a given moment; it is what simstim records and plays back."
+    }
+   ]
+  },
+  {
+   "id": "rom",
+   "name": "ROM",
+   "aliases": [
+    "ROM-generated"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Read-only memory: fixed, recorded data that plays back but cannot change or learn."
+    }
+   ]
+  },
+  {
+   "id": "silicon",
+   "name": "Silicon",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Conventional microchips, the technology that biochips are replacing; also slang for the hardware in somebody's head."
+    }
+   ]
+  },
+  {
+   "id": "micropore",
+   "name": "Micropore",
+   "summary": [
+    {
+     "at": 0,
+     "text": "A thin surgical tape or film, close to synthetic skin."
+    }
+   ]
+  },
+  {
+   "id": "fence",
+   "name": "Fence",
+   "summary": [
+    {
+     "at": 0,
+     "text": "To fence is to sell stolen goods on; a fence is the middleman who does it."
+    }
+   ]
+  },
+  {
+   "id": "eeg",
+   "name": "EEG",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Electroencephalogram: a recording of the brain's electrical activity."
+    }
+   ]
+  },
+  {
+   "id": "street-samurai",
+   "name": "Street samurai",
+   "aliases": [
+    "street samurai",
+    "samurai"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A hired fighter, usually rebuilt with surgery and implants; a woman in the trade is a razorgirl."
+    },
+    {
+     "at": 52.31,
+     "text": "A hired fighter, usually rebuilt with surgery and implants. The one in the Finn's story, who worked for a Special Forces type with a cowboy out of Chiba, is Molly, with Armitage and Case: the crew of Neuromancer."
+    }
+   ]
+  },
+  {
+   "id": "precis",
+   "name": "Précis",
+   "summary": [
+    {
+     "at": 63.33,
+     "text": "A summary; here the digest of the news that Rudy's computer compiles."
+    }
+   ]
+  },
+  {
+   "id": "hitachi",
+   "name": "Hitachi",
+   "summary": [
+    {
+     "at": 6.46,
+     "text": "Japanese electronics maker. The entertainment module in Bobby's mother's living room is a Hitachi."
+    }
+   ]
+  },
+  {
+   "id": "jal",
+   "name": "JAL",
+   "aliases": [
+    "Japan Air",
+    "JAL Term",
+    "Terminus"
+   ],
+   "summary": [
+    {
+     "at": 40.95,
+     "text": "Japan Air Lines, which flies shuttles to orbit and runs a terminus there."
+    }
+   ]
+  },
+  {
+   "id": "extraction",
+   "name": "Extraction",
+   "aliases": [
+    "extractions"
+   ],
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "Turner's trade: getting a key executive or researcher out of one corporation and delivering him to another, against the will of the first."
+    }
+   ]
+  },
+  {
+   "id": "delhi",
+   "name": "Delhi",
+   "aliases": [
+    "New Delhi",
+    "Chandni Chawk"
+   ],
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "New Delhi, the capital of India. A slamhound catches Turner there, on a street called Chandni Chawk, in the book's first lines."
+    }
+   ]
+  },
+  {
+   "id": "singapore",
+   "name": "Singapore",
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "City-state in South-East Asia, where the Dutchman and his team rebuilt Turner."
+    }
+   ]
+  },
+  {
+   "id": "conan-doyle",
+   "name": "Conan Doyle",
+   "summary": [
+    {
+     "at": 0.2,
+     "text": "Arthur Conan Doyle (1859–1930), creator of Sherlock Holmes. Turner reads him in the simulated New England boyhood in which he spends his recovery."
+    }
+   ]
+  },
+  {
+   "id": "credit-chip",
+   "name": "Credit chip",
+   "aliases": [
+    "credit chip"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A card that carries a line of credit: the ordinary way of paying for anything, and one that leaves a trail."
+    }
+   ]
+  },
+  {
+   "id": "marrakesh",
+   "name": "Marrakesh",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "City in Morocco, the scene of one of Turner's earlier extractions."
+    },
+    {
+     "at": 19.02,
+     "text": "City in Morocco. On an earlier job there Turner and a partner drove a bus, wired by Oakey, into a hotel lobby to move an IBM man over to Mitsu-G. Sutcliffe was on IBM's security at the time."
+    }
+   ]
+  },
+  {
+   "id": "mitsu-g",
+   "name": "Mitsu-G",
+   "aliases": [
+    "Mitsu"
+   ],
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "A Japanese zaibatsu. Turner has moved people out of IBM for it."
+    }
+   ]
+  },
+  {
+   "id": "data-haven",
+   "name": "Data haven",
+   "aliases": [
+    "data haven"
+   ],
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "A place outside every country's law where data can be kept and traded. Somebody once tried to run one on the oil rig, in international waters."
+    }
+   ]
+  },
+  {
+   "id": "wild-turkey",
+   "name": "Wild Turkey",
+   "aliases": [
+    "Wild Turkey"
+   ],
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "A Kentucky bourbon; Oakey carries a flask of it."
+    },
+    {
+     "at": 75.89,
+     "text": "A Kentucky bourbon; Oakey carried a flask of it, which Turner takes from his body in the wrecked helicopter."
+    }
+   ]
+  },
+  {
+   "id": "honda",
+   "name": "Honda",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "Japanese maker of vehicles; here of the small black helicopter that sets Turner and Conroy down on the oil rig."
+    },
+    {
+     "at": 75.89,
+     "text": "Japanese maker of vehicles, among them the small black helicopters used on the Mitchell job. One, armed with a laser, attacks Turner and Angie near the Sprawl; Turner wrecks it, finds Oakey among the dead and takes it for Hosaka's."
+    },
+    {
+     "at": 92.03,
+     "text": "Japanese maker of vehicles, among them the small black helicopters used on the Mitchell job. The one that attacked Turner and Angie near the Sprawl, with Oakey aboard, was Conroy's."
+    }
+   ]
+  },
+  {
+   "id": "sonora",
+   "name": "Sonora",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "The Mexican state south of Arizona. The Sonora line is the border, some fifty kilometres from the Maas arcology."
+    }
+   ]
+  },
+  {
+   "id": "mesa",
+   "name": "Mesa",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "A flat-topped hill with steep sides. The one that matters is in Arizona: Maas Biolabs North America, the arcology where Mitchell works, is built into it."
+    },
+    {
+     "at": 57.47,
+     "text": "A flat-topped hill with steep sides. The one that matters is in Arizona: Maas Biolabs North America is built into it. Mitchell sent his daughter out from it by ultralight and stayed behind."
+    },
+    {
+     "at": 92.03,
+     "text": "A flat-topped hill with steep sides. The one that matters is in Arizona: Maas Biolabs North America is built into it. Mitchell sent his daughter out from it by ultralight and then, by Conroy's account, killed himself there."
+    }
+   ]
+  },
+  {
+   "id": "dossier",
+   "name": "Dossier",
+   "summary": [
+    {
+     "at": 7.18,
+     "text": "The file on Mitchell that reached Hosaka on a biosoft and is handed to Turner to study."
+    },
+    {
+     "at": 9.52,
+     "text": "The file on Mitchell that reached Hosaka on a biosoft: Maas's own security record of him, which feels like the work of an AI. Turner jacks it and comes away sick, with scraps of another man's life in his head."
+    },
+    {
+     "at": 57.47,
+     "text": "The file on Mitchell that reached Hosaka on a biosoft: Maas's own security record of him, which feels like the work of an AI. Its scraps of Mitchell's life keep surfacing in Turner; it is how he knows the girl's name."
+    },
+    {
+     "at": 85.58,
+     "text": "The file on Mitchell that reached Hosaka on a biosoft: Maas's own security record of him. Reading it again on the way to New York, Turner sees that Mitchell's career lacks the curve of real brilliance, and that Angie was never slow."
+    },
+    {
+     "at": 98.56,
+     "text": "The file on Mitchell that reached Hosaka on a biosoft: Maas's own security record of him, from which Turner worked out the bargain Mitchell made. At the end he hangs it round Angie's neck."
+    }
+   ]
+  },
+  {
+   "id": "mall",
+   "name": "Mall",
+   "summary": [
+    {
+     "at": 16.23,
+     "text": "The extraction site: a shopping mall begun before the war and never finished, now a ruin in the Arizona desert."
+    },
+    {
+     "at": 40.78,
+     "text": "The extraction site: a never-finished shopping mall in the Arizona desert. As the ultralight came in the site was attacked, and seconds after Turner's jet left a blast like a small nuclear weapon wiped it out."
+    },
+    {
+     "at": 57.47,
+     "text": "The extraction site: a never-finished shopping mall in the Arizona desert, on land owned by Maas. It was wiped out seconds after Turner's jet left: by a railgun fired from a cargo blimp, the news says."
+    },
+    {
+     "at": 92.03,
+     "text": "The extraction site: a never-finished shopping mall in the Arizona desert, wiped out by a railgun seconds after Turner's jet left. That was Conroy's doing, for Virek: Hosaka was meant to think that Maas had done it."
+    }
+   ]
+  },
+  {
+   "id": "neurosurgery",
+   "name": "Neurosurgery",
+   "summary": [
+    {
+     "at": 16.23,
+     "text": "Brain surgery, and a place equipped for it. Hosaka has sent a portable neurosurgery to the extraction site: a sealed pod with three medics, who are to check Mitchell for anything Maas has planted in him."
+    },
+    {
+     "at": 29.53,
+     "text": "Brain surgery, and a place equipped for it. Hosaka has sent a portable neurosurgery to the extraction site, a sealed pod with three medics who are to check Mitchell for anything Maas has planted in him. Webber has orders to put a rocket into it if the job goes wrong."
+    },
+    {
+     "at": 40.78,
+     "text": "Brain surgery, and a place equipped for it. Hosaka sent a portable neurosurgery to the extraction site, a pod with three medics who were to check Mitchell over. When the site was attacked Webber fired her rocket into it, with the medics inside."
+    }
+   ]
+  },
+  {
+   "id": "cortex-bomb",
+   "name": "Cortex bomb",
+   "aliases": [
+    "cortex bomb",
+    "cortex charges"
+   ],
+   "summary": [
+    {
+     "at": 25.55,
+     "text": "An explosive charge planted in an employee's head, so that he cannot defect and live. Hosaka's medics are to look for one in Mitchell."
+    }
+   ]
+  },
+  {
+   "id": "ultralight",
+   "name": "Ultralight",
+   "summary": [
+    {
+     "at": 0,
+     "text": "A very light one-person aircraft."
+    },
+    {
+     "at": 40.78,
+     "text": "A very light one-person aircraft. Mitchell is to fly out of the Maas arcology in one; the one that comes down at the mall is flown by a girl."
+    },
+    {
+     "at": 57.47,
+     "text": "A very light one-person aircraft. Mitchell had only the one, and sent his daughter Angie out of the Maas arcology in it instead of going himself."
+    }
+   ]
+  },
+  {
+   "id": "klicks",
+   "name": "Klicks",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Kilometres."
+    }
+   ]
+  },
+  {
+   "id": "merc",
+   "name": "Merc",
+   "aliases": [
+    "mercs"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A mercenary."
+    }
+   ]
+  },
+  {
+   "id": "ninja",
+   "name": "Ninja",
+   "aliases": [
+    "ninjas"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A Japanese assassin trained in an old tradition of stealth; loosely, any corporate killer."
+    },
+    {
+     "at": 52.31,
+     "text": "A Japanese assassin trained in an old tradition of stealth; loosely, any corporate killer. Hosaka keeps its own, and it is what the Finn calls the three black-clad men he has killed in his shop."
+    }
+   ]
+  },
+  {
+   "id": "hovercraft",
+   "name": "Hovercraft",
+   "aliases": [
+    "hover",
+    "apron-bag"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A vehicle that rides on a cushion of air held in by a flexible skirt, the apron-bag; a 'hover' for short."
+    },
+    {
+     "at": 66.93,
+     "text": "A vehicle that rides on a cushion of air held in by a flexible skirt, the apron-bag; a 'hover' for short. Rudy gives Turner his own, an armoured war-surplus machine that runs on kerosene."
+    },
+    {
+     "at": 85.58,
+     "text": "A vehicle that rides on a cushion of air held in by a flexible skirt, the apron-bag; a 'hover' for short. Rudy gave Turner his armoured one; Turner rams a helicopter with it, runs it out of kerosene on the edge of the Sprawl and leaves it there."
+    },
+    {
+     "at": 98.56,
+     "text": "A vehicle that rides on a cushion of air held in by a flexible skirt, the apron-bag; a 'hover' for short. Rudy's armoured one was left out of fuel on the edge of the Sprawl; when Turner walks out of Jammer's he says he has eighty litres of kerosene to buy first."
+    }
+   ]
+  },
+  {
+   "id": "squirrel-wood",
+   "name": "Squirrel wood",
+   "aliases": [
+    "squirrel wood"
+   ],
+   "summary": [
+    {
+     "at": 52.48,
+     "text": "The wood near the family farm where Turner and his brother hunted squirrels as boys."
+    },
+    {
+     "at": 57.47,
+     "text": "The wood near the family farm where Turner and his brother hunted squirrels as boys. Turner's jet has hidden itself there."
+    },
+    {
+     "at": 99.62,
+     "text": "The wood near the family farm where Turner and his brother hunted squirrels as boys. The jet he hid there is still sinking into the loam when, years later, he brings his own son to the clearing to learn to shoot."
+    }
+   ]
+  },
+  {
+   "id": "winchester",
+   "name": "Winchester",
+   "summary": [
+    {
+     "at": 52.48,
+     "text": "American make of rifle: the nylon-stocked one of Turner's boyhood squirrel hunts."
+    },
+    {
+     "at": 99.62,
+     "text": "American make of rifle: the nylon-stocked one of Turner's boyhood squirrel hunts. It was Rudy's; years later Turner teaches his son to shoot with it."
+    }
+   ]
+  },
+  {
+   "id": "bogota",
+   "name": "Bogota",
+   "summary": [
+    {
+     "at": 52.48,
+     "text": "The capital of Colombia."
+    },
+    {
+     "at": 57.47,
+     "text": "The capital of Colombia. The jet that Conroy programmed was logged for a strip near it, not for Hosaka's compound in Mexico City."
+    },
+    {
+     "at": 92.03,
+     "text": "The capital of Colombia. The jet that Conroy programmed was logged for a strip near it, not for Mexico City: having sold the job to Virek, he meant Turner and Mitchell to be there before the site was wiped out."
+    }
+   ]
+  },
+  {
+   "id": "geneva",
+   "name": "Geneva",
+   "summary": [
+    {
+     "at": 35.84,
+     "text": "Swiss city where, by his dossier, Mitchell once lived with his baby daughter."
+    },
+    {
+     "at": 66.93,
+     "text": "Swiss city. Angie grew up there after her father joined Maas; Turner's agent, too, is no more to him than a voice and a telephone number in Geneva."
+    }
+   ]
+  },
+  {
+   "id": "creole",
+   "name": "Creole",
+   "summary": [
+    {
+     "at": 63.33,
+     "text": "A language grown out of a mixture of others, such as the French-based speech of Haiti. It is Rudy's guess at what Angie speaks in her trance."
+    },
+    {
+     "at": 92.03,
+     "text": "A language grown out of a mixture of others, such as the French-based speech of Haiti, the language of vodou. It was Rudy's guess at what Angie speaks in her trances; at Jammer's, Turner hears Jackie croon to her in the same tongue."
+    }
+   ]
+  },
+  {
+   "id": "cray",
+   "name": "Cray",
+   "summary": [
+    {
+     "at": 63.33,
+     "text": "A make of supercomputer. Rudy's old one compiles him a digest of the corporate news."
+    }
+   ]
+  },
+  {
+   "id": "faust",
+   "name": "Faust",
+   "summary": [
+    {
+     "at": 82.27,
+     "text": "The scholar of German legend who sells his soul to the devil in return for knowledge and power."
+    },
+    {
+     "at": 85.58,
+     "text": "The scholar of German legend who sells his soul to the devil in return for knowledge and power. The name comes to Turner when he works out what Mitchell must have done."
+    }
+   ]
+  },
+  {
+   "id": "bushido",
+   "name": "Bushido",
+   "summary": [
+    {
+     "at": 90.49,
+     "text": "The code of the samurai, founded on loyalty to one's lord. 'Mr Bushido' is Conroy's sneer at Turner."
+    }
+   ]
+  },
+  {
+   "id": "park-avenue",
+   "name": "Park Avenue",
+   "aliases": [
+    "Park Avenue",
+    "Euros"
+   ],
+   "summary": [
+    {
+     "at": 85.75,
+     "text": "A wealthy avenue of Manhattan."
+    },
+    {
+     "at": 88.24,
+     "text": "A wealthy avenue of Manhattan. Jaylene Slide says the people behind the siege of Jammer's are 'Euros', Europeans, who work from there behind very heavy ice."
+    },
+    {
+     "at": 95.92,
+     "text": "A wealthy avenue of Manhattan. The 'Euros' who work from there behind very heavy ice are Virek's people, with Conroy now in charge of them; they are behind the siege of Jammer's. Jaylene Slide orders his floors destroyed."
+    },
+    {
+     "at": 98.56,
+     "text": "A wealthy avenue of Manhattan, where Conroy ran Virek's people. On Jaylene Slide's order two floors of a building there are hit with incendiary shells; Conroy is almost certainly dead."
+    }
+   ]
+  },
+  {
+   "id": "stockholm",
+   "name": "Stockholm",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "The capital of Sweden."
+    },
+    {
+     "at": 6.29,
+     "text": "The capital of Sweden. What is left of Josef Virek lies in a life-support vat in one of its industrial suburbs."
+    },
+    {
+     "at": 95.92,
+     "text": "The capital of Sweden. What is left of Josef Virek lies in a life-support vat in one of its industrial suburbs; Conroy promises to have Angie delivered there."
+    },
+    {
+     "at": 96.81,
+     "text": "The capital of Sweden. Josef Virek lay for years in a life-support vat in one of its industrial suburbs, and has died there."
+    }
+   ]
+  },
+  {
+   "id": "orly",
+   "name": "Orly",
+   "summary": [
+    {
+     "at": 62.5,
+     "text": "One of the airports of Paris."
+    },
+    {
+     "at": 73.81,
+     "text": "One of the airports of Paris. Marly's JAL shuttle to orbit leaves from it."
+    }
+   ]
+  },
+  {
+   "id": "top-people",
+   "name": "Top People",
+   "aliases": [
+    "Top People"
+   ],
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "Tally Isham's syndicated simstim talk show."
+    }
+   ]
+  },
+  {
+   "id": "gestalt",
+   "name": "Gestalt",
+   "summary": [
+    {
+     "at": 70.84,
+     "text": "German for a whole that is more than the sum of its parts. Virek uses the word of himself: the thing in the vat together with everything his money has built around it."
+    }
+   ]
+  },
+  {
+   "id": "melbourne",
+   "name": "Melbourne",
+   "aliases": [
+    "New Melbourne"
+   ],
+   "summary": [
+    {
+     "at": 79.16,
+     "text": "New Melbourne: where Jones says he comes from. Marly takes his accent for Australian."
+    }
+   ]
+  },
+  {
+   "id": "construction-remote",
+   "name": "Construction remote",
+   "aliases": [
+    "construction remote"
+   ],
+   "summary": [
+    {
+     "at": 88.41,
+     "text": "An unmanned, partly self-directing machine for building in orbit."
+    },
+    {
+     "at": 90.32,
+     "text": "An unmanned, partly self-directing machine for building in orbit. The Boxmaker is one, welded into the roof of a dome and cabled into the Tessier-Ashpool cores."
+    }
+   ]
+  },
+  {
+   "id": "sermon-screens",
+   "name": "Sermon screens",
+   "aliases": [
+    "sermon screens",
+    "sermon screen"
+   ],
+   "summary": [
+    {
+     "at": 88.41,
+     "text": "Video screens that Wigan Ludgate has stuck up all over the cores, meaning to preach from them."
+    },
+    {
+     "at": 93.29,
+     "text": "Video screens that Wigan Ludgate has stuck up all over the cores, meaning to preach from them. Virek, and then Paco, use the one in the Boxmaker's dome to speak to Marly."
+    }
+   ]
+  },
+  {
+   "id": "browning",
+   "name": "Browning",
+   "summary": [
+    {
+     "at": 93.46,
+     "text": "A make of automatic pistol."
+    },
+    {
+     "at": 95.92,
+     "text": "A make of automatic pistol. The child Paco draws a tiny one on Bobby in Virek's construct."
+    }
+   ]
+  },
+  {
+   "id": "eurotrans",
+   "name": "Eurotrans",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "The European transit line by which Marly comes to Brussels, on a fare borrowed from Andrea."
+    }
+   ]
+  },
+  {
+   "id": "fax",
+   "name": "Fax",
+   "aliases": [
+    "telefax",
+    "newsfax"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A message or a news-sheet sent down the line and printed where it is read; 'the fax' is also the news in general."
+    }
+   ]
+  },
+  {
+   "id": "sally-stanley",
+   "name": "Sally Stanley",
+   "aliases": [
+    "Sally Stanley",
+    "Stanley"
+   ],
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "A fashion label; Marly's one good jacket is a Sally Stanley."
+    },
+    {
+     "at": 23.73,
+     "text": "A fashion label. Marly's one good jacket is a Sally Stanley, and so is the shirt of Rhea's that Bobby bleeds on."
+    }
+   ]
+  },
+  {
+   "id": "katatonenkunst",
+   "name": "Katatonenkunst",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "German, 'catatonic art': the school of the stabbed sheets of cardboard on the walls of the Galerie Duperey, by now safe and conservative."
+    }
+   ]
+  },
+  {
+   "id": "bell-europa",
+   "name": "Bell Europa",
+   "aliases": [
+    "Bell Europa"
+   ],
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "The European telephone carrier, over which an ordinary simstim link would run."
+    }
+   ]
+  },
+  {
+   "id": "ramblas",
+   "name": "Ramblas",
+   "summary": [
+    {
+     "at": 3.68,
+     "text": "The Ramblas: the tree-lined main promenade of Barcelona."
+    }
+   ]
+  },
+  {
+   "id": "nederlandse",
+   "name": "Nederlandse Algemeen Bank",
+   "aliases": [
+    "Nederlandse Algemeen Bank",
+    "Nederlandse",
+    "Algemeen"
+   ],
+   "summary": [
+    {
+     "at": 9.69,
+     "text": "The Dutch bank, with a branch in orbit, where Virek's people have opened an account in Marly's name."
+    }
+   ]
+  },
+  {
+   "id": "ternes",
+   "name": "Ternes",
+   "aliases": [
+    "Quartier des Ternes"
+   ],
+   "summary": [
+    {
+     "at": 19.19,
+     "text": "The Quartier des Ternes: the district in the north-west of Paris where Andrea lives."
+    }
+   ]
+  },
+  {
+   "id": "isetan",
+   "name": "Isetan",
+   "summary": [
+    {
+     "at": 19.19,
+     "text": "A Japanese department-store chain. Marly buys a silk blouse at its Paris branch with Virek's money."
+    }
+   ]
+  },
+  {
+   "id": "faubourg",
+   "name": "Faubourg St.-Honoré",
+   "summary": [
+    {
+     "at": 19.19,
+     "text": "The rue du Faubourg Saint-Honoré, the smartest shopping street in Paris; Marly has her hair cut there."
+    },
+    {
+     "at": 44.61,
+     "text": "The rue du Faubourg Saint-Honoré, the smartest shopping street in Paris. Marly has her hair cut there, and the Roberts gallery stands in it."
+    }
+   ]
+  },
+  {
+   "id": "mauconseil",
+   "name": "Mauconseil",
+   "summary": [
+    {
+     "at": 23.9,
+     "text": "The rue Mauconseil in Paris, where Marly had her very small gallery; she and Alain lived for a year in the room behind it."
+    }
+   ]
+  },
+  {
+   "id": "gauloise",
+   "name": "Gauloise",
+   "summary": [
+    {
+     "at": 23.9,
+     "text": "A French brand of strong, dark cigarettes; Alain smokes them unfiltered."
+    },
+    {
+     "at": 60.57,
+     "text": "A French brand of strong, dark cigarettes; Alain smoked them unfiltered. The number he hid for Marly is written on an empty packet."
+    },
+    {
+     "at": 73.81,
+     "text": "A French brand of strong, dark cigarettes; Alain smoked them unfiltered. The number he hid for Marly on an empty packet is a set of orbital co-ordinates."
+    },
+    {
+     "at": 96.81,
+     "text": "A French brand of strong, dark cigarettes; Alain smoked them unfiltered, and wrote the co-ordinates of the cores for Marly on an empty packet. The wrapper ends up in the box the Boxmaker makes from her things."
+    }
+   ]
+  },
+  {
+   "id": "browns",
+   "name": "Browns",
+   "summary": [
+    {
+     "at": 23.9,
+     "text": "The shop where Marly once bought Alain his leather-bound agenda."
+    },
+    {
+     "at": 60.57,
+     "text": "The shop where Marly once bought Alain his leather-bound agenda. When she finds him dead, the agenda is gone."
+    }
+   ]
+  },
+  {
+   "id": "blanc",
+   "name": "Blanc",
+   "aliases": [
+    "Café Blanc"
+   ],
+   "summary": [
+    {
+     "at": 29.7,
+     "text": "A Paris café with a terrace, where Marly used to spend her evenings with Alain."
+    }
+   ]
+  },
+  {
+   "id": "aeschmann",
+   "name": "Aeschmann",
+   "aliases": [
+    "Aeschmann Collection"
+   ],
+   "summary": [
+    {
+     "at": 40.95,
+     "text": "The Aeschmann Collection in Hamburg, which takes only the art of psychotics."
+    },
+    {
+     "at": 44.61,
+     "text": "The Aeschmann Collection in Hamburg, which takes only the art of psychotics. A year before his death Roberts became a patron of it, and applied to join the Institut de l'Art Brut in Paris."
+    }
+   ]
+  },
+  {
+   "id": "mass-man",
+   "name": "Mass Man",
+   "aliases": [
+    "Mass Man"
+   ],
+   "summary": [
+    {
+     "at": 40.95,
+     "text": "A term, capitals and all, from the Nice academic whose history of the orbital clans Andrea describes: ordinary humanity as the corporations have shaped it. Against it he sets the clans and men like Virek."
+    }
+   ]
+  },
+  {
+   "id": "hubbard",
+   "name": "Hubbard",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "L. Ron Hubbard (1911–1986), founder of Scientology. In her fits of religion Bobby's mother sticks a hologram of him, or of Jesus, over Bobby's bed."
+    }
+   ]
+  },
+  {
+   "id": "holoporn",
+   "name": "Holoporn",
+   "aliases": [
+    "dreamgirls",
+    "Brandi"
+   ],
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "Interactive pornographic holograms. The second-hand unit in Bobby's room projects a set of 'dreamgirls'; at thirteen he was in love with the one called Brandi."
+    }
+   ]
+  },
+  {
+   "id": "mincome",
+   "name": "Mincome",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "Minimum income: the state allowance on which the people of the Projects live."
+    }
+   ]
+  },
+  {
+   "id": "hotcores",
+   "name": "Hotcores",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "The bright, dense cores of data that the great corporations show in the matrix."
+    }
+   ]
+  },
+  {
+   "id": "indie",
+   "name": "Indie",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "An independent: somebody who belongs to no gang."
+    }
+   ]
+  },
+  {
+   "id": "asahi-shimbun",
+   "name": "Asahi Shimbun",
+   "summary": [
+    {
+     "at": 10.73,
+     "text": "A leading Japanese daily newspaper. Its New York edition scrolls past as a fax in the window of a Barrytown news kiosk."
+    }
+   ]
+  },
+  {
+   "id": "biz",
+   "name": "Biz",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Business, above all the street kind: deals, drugs and data."
+    }
+   ]
+  },
+  {
+   "id": "cut-out",
+   "name": "Cut-out",
+   "aliases": [
+    "cut-outs"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A break put into a chain so that nothing can be followed back along it: a go-between, or the relays a careful jockey hides behind. A neural cut-out is another thing, a device that switches off the body's feeling and movement."
+    }
+   ]
+  },
+  {
+   "id": "caspers",
+   "name": "Caspers",
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "Slang in the Projects for white people."
+    }
+   ]
+  },
+  {
+   "id": "projection-tank",
+   "name": "Projection tank",
+   "aliases": [
+    "projection tank"
+   ],
+   "summary": [
+    {
+     "at": 30.94,
+     "text": "A tabletop display that shows a recording in three dimensions; schools use them. Lucas replays Bobby's run in one."
+    }
+   ]
+  }
+ ]
+}

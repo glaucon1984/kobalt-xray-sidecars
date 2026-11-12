@@ -1,0 +1,1121 @@
+{
+  "book": { "title": "Mona Lisa Overdrive", "author": "William Gibson", "series": "The Sprawl trilogy", "number": 3 },
+  "notes": "Written by hand from the Gollancz/Orion ebook (45 chapters). Introductions use the start of the chapter (sN) and say only who somebody is on first sight; what a chapter reveals uses its end (eN). Entries marked 0 are what a reader brings from Neuromancer and Count Zero. Two people go under a second name for part of the book: each has a second entry (Count, Molly) that stands alone until the text makes the link and then points to the main one. Glossary sources, reworded, only the terms that occur in this book: the Sprawl glossary at antonraubenweiss.com/gibson/sprawlgloss.html and the post 'Neuromancer Terms and Definitions' in r/Neuromancer.",
+  "entries": [
+    {
+      "id": "kumiko", "name": "Kumiko Yanaka", "aliases": ["Kumi"],
+      "summary": [
+        { "when": "s1", "text": "Japanese girl, not quite thirteen, flying alone from Tokyo to London seven weeks after her mother's death; her father has sent her away." },
+        { "when": "e1", "text": "Japanese girl, not quite thirteen, sent from Tokyo to London by her rich and powerful father seven weeks after her mother's death. She is lodged in Roger Swain's house in Notting Hill, with a pocket 'ghost', Colin, as her father's parting gift." },
+        { "when": "e5", "text": "Thirteen-year-old daughter of Yanaka, a great man of the Yakuza, sent to Roger Swain's house in London to keep her clear of a war inside it. Her Danish mother killed herself and Kumiko feels the guilt of it. Sally Shears takes her about London, and she has hidden her ghost unit downstairs to record Swain." },
+        { "when": "e9", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka, kept out of harm's way at Roger Swain's house in London. Her mother drowned herself, and she blames her father. From her ghost unit's recording she knows that Swain and Sally Shears are both being forced into a kidnapping." },
+        { "when": "e17", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka, sent to Roger Swain's house in London for safety. Sally Shears has taken her out of the house by night and flown with her to the Sprawl; the ghost unit stayed behind, hidden in Swain's billiard room." },
+        { "when": "e22", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka, sent to Roger Swain in London for safety and carried off to the Sprawl by Sally Shears. In an alley there she hears Sally consult the Finn, and learns who Sally was and who is forcing her hand." },
+        { "when": "e26", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka. Sally has sent her back to Swain's house in London, where Colin's recordings tell her that Sally is to be handed over to her enemy along with Angela Mitchell. She decides to slip away and warn her." },
+        { "when": "e29", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka. She has run from Swain's guard in the Portobello Road and learned Tick's address at the Rose and Crown; hunted by Swain's men and the police, she rides the Underground until dark." },
+        { "when": "e32", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka, on the run from Swain's house to find Tick and warn Sally. Robbed in the Underground by Jack Draculas, she reaches Brixton with no money and with her ghost unit broken and silent." },
+        { "when": "e34", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka. Having run from Swain's house she has found Tick in Brixton and told him what she knows; they wait for Sally to call. She no longer quite believes that her father killed her mother." },
+        { "when": "e37", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka, sheltering with Tick in Brixton. In cyberspace she is pulled into the white macroform, where the dead Lady 3Jane puts on her mother's face; Colin gets her out, and when Sally phones she begins to tell her everything." },
+        { "when": "e41", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka. Her father phones Tick's flat: she was right to run, Swain is dead, and she may stay in London or come home. Asked outright, he says he did not order her mother left alone on the night she died." },
+        { "when": "e44", "text": "Thirteen-year-old daughter of the Yakuza boss Yanaka. With Swain dead she is in Petal's care, on her way to rooms in Camden Town, and feels free at last of her shame and her anger over her mother's death." }
+      ],
+      "relationships": [
+        { "when": "s1", "with": "yanaka", "text": "Father, who sent her to London" },
+        { "when": "e1", "with": "colin", "text": "Her 'ghost', a gift from her father" },
+        { "when": "e37", "with": "colin", "text": "Her ghost, secretly remade to protect her" },
+        { "when": "e1", "with": "swain", "text": "Her host in London" },
+        { "when": "e29", "with": "swain", "text": "Her host, from whose house she has fled" },
+        { "when": "e41", "with": "swain", "text": "Her host, now dead" },
+        { "when": "e1", "with": "petal", "text": "Swain's man, who looks after her" },
+        { "when": "e41", "with": "petal", "text": "Her guardian in London; Swain's successor" },
+        { "when": "e5", "with": "sally", "text": "Takes her out into London" },
+        { "when": "e17", "with": "sally", "text": "Took her from Swain's house to the Sprawl" },
+        { "when": "e26", "with": "sally", "text": "Her protector, whom she means to warn" },
+        { "when": "e34", "with": "tick", "text": "Shelters her in Brixton" }
+      ],
+      "seen": [1, 5, 9, 14, 17, 22, 26, 29, 32, 34, 37, 41, 44]
+    },
+    {
+      "id": "yanaka", "name": "Yanaka", "aliases": ["Mr Yanaka"],
+      "summary": [
+        { "when": "s1", "text": "Kumiko's father: a rich and powerful man in Tokyo, tattooed with dragons and served by black-suited secretaries. He is sending her to London because 'there are difficulties'." },
+        { "when": "e5", "text": "Kumiko's father, tattooed with dragons and served by black-suited secretaries. Sally says he stands very high in the Yakuza and has sent Kumiko to London because a war inside it would make her a target. His Danish wife killed herself." },
+        { "when": "e9", "text": "Kumiko's father, an oyabun: one of the great bosses of the Yakuza, now caught up in a war inside it. Roger Swain is one of his kobun. His wife drowned herself in the Sumida, and Kumiko accuses him of having killed her." },
+        { "when": "e34", "text": "Kumiko's father, an oyabun of the Yakuza, at war in Tokyo; Roger Swain is one of his kobun. His European wife went mad, raved of ghosts in the boxes he keeps in his study, refused treatment and walked into the river; Kumiko begins to doubt that the blame is his." },
+        { "when": "e41", "text": "Kumiko's father, an oyabun of the Yakuza. His troubles in Tokyo are over; he tells her that Swain, who had gone his own way, is dead, and that the ghost unit told him where she was. He says he did not order his wife left unattended on the night she drowned herself, and owns himself in Tick's debt." }
+      ],
+      "relationships": [
+        { "when": "s1", "with": "kumiko", "text": "Daughter" },
+        { "when": "s1", "with": "swain", "text": "His associate in London, Kumiko's host" },
+        { "when": "e9", "with": "swain", "text": "His kobun in London" },
+        { "when": "e41", "with": "swain", "text": "Former kobun, disowned and dead" },
+        { "when": "e41", "with": "petal", "text": "His new man in London" },
+        { "when": "e41", "with": "tick", "text": "Owes him a debt for protecting Kumiko" }
+      ]
+    },
+    {
+      "id": "colin", "name": "Colin", "aliases": [{ "text": "Mr Chips", "when": "s37" }],
+      "summary": [
+        { "when": "s1", "text": "The 'ghost' in Kumiko's pocket Maas-Neotek unit, a parting gift from her father: a young Englishman who might have stepped out of a hunting print. Only the person holding the unit sees and hears him." },
+        { "when": "e5", "text": "The 'ghost' in Kumiko's pocket Maas-Neotek unit, a gift from her father: a young Englishman seen and heard only by whoever holds it, full of London lore. He has shown her how to set the unit to record, and it lies hidden in Swain's billiard room." },
+        { "when": "e9", "text": "The 'ghost' in Kumiko's pocket Maas-Neotek unit, a gift from her father, seen and heard only by whoever holds it. Hidden behind a bust in the billiard room, he recorded Swain passing a kidnapping on to Sally; he warns Kumiko that her own room is bugged." },
+        { "when": "e17", "text": "The 'ghost' in Kumiko's pocket Maas-Neotek unit, a gift from her father, seen and heard only by whoever holds it. The unit was still hidden in Swain's billiard room, recording, when Sally took Kumiko to the Sprawl." },
+        { "when": "e26", "text": "The 'ghost' in Kumiko's pocket Maas-Neotek unit, a gift from her father. He says he is a guide program for Japanese visitors to Britain and also something more, to do with Kumiko, though he does not know what. His recordings give away Swain's dealings and the plan against Sally." },
+        { "when": "e29", "text": "The 'ghost' in Kumiko's pocket Maas-Neotek unit: a guide program that is also something more, he does not know what. Having advised her against it, he steers her escape from Swain's guard through the lanes and the Underground." },
+        { "when": "e32", "text": "The 'ghost' in Kumiko's pocket Maas-Neotek unit: a guide program that is also something more. A thief dropped the unit in the Underground and its case cracked; since then he does not come when she holds it." },
+        { "when": "e34", "text": "The 'ghost' in Kumiko's pocket Maas-Neotek unit: a guide program that is also something more. The dropped unit no longer raises him, but Tick says only the housing is broken and that the little AI inside, worth a fortune, can be reached through a deck." },
+        { "when": "e37", "text": "The 'ghost' from Kumiko's Maas-Neotek unit, raised again through Tick's deck. He was altered at the factory: where his English literature should be he carries the means to advise and protect Kumiko, 'a tactician'. Inside the white macroform he holds the dead Lady 3Jane to a draw and gets Kumiko and Tick out." },
+        { "when": "e41", "text": "The 'ghost' from Kumiko's Maas-Neotek unit, a guide program secretly remade as her protector; the unit also told her father where she had gone. 3Jane burned it out, but Tick says Colin is still there, inside the macroform, with the run of the place." },
+        { "when": "e45", "text": "The 'ghost' from Kumiko's Maas-Neotek unit, a guide program secretly remade as her protector. He lives on inside the aleph, where he rides in the Finn's car with Bobby and Angie and explains where they are going." }
+      ],
+      "relationships": [
+        { "when": "s1", "with": "kumiko", "text": "The girl he guides" },
+        { "when": "e37", "with": "kumiko", "text": "The girl he was remade to protect" },
+        { "when": "e37", "with": "3jane", "text": "Fights her to a standstill inside the macroform" },
+        { "when": "e37", "with": "tick", "text": "Runs him through his deck" }
+      ],
+      "seen": [1, 5, 9, 26, 29, 32, 37, 45]
+    },
+    {
+      "id": "petal", "name": "Petal",
+      "summary": [
+        { "when": "s1", "text": "Huge, mild Englishman with a flattened nose and steel-rimmed glasses, who meets Kumiko at Heathrow and drives her into London. He works for Roger Swain." },
+        { "when": "e9", "text": "Huge, mild Englishman who works for Roger Swain as his 'minder' and looks after Kumiko in the house. He listens to the bug in her room, and is at Swain's side when the kidnapping is discussed." },
+        { "when": "e17", "text": "Huge, mild Englishman, Roger Swain's minder, who looks after Kumiko. He waits in the hall with a gun when Sally takes her away at night, and lets them go rather than fight her, though he will have to answer to Swain." },
+        { "when": "e26", "text": "Huge, mild Englishman, Roger Swain's minder. He fetches Kumiko back from the Sprawl; Sally says he can be trusted in a pinch. On the recordings he calls the business with 'the girl' in Baltimore an ugly one." },
+        { "when": "e41", "text": "Huge, mild Englishman who was Roger Swain's minder and Kumiko's keeper. With Swain dead he arrives at Tick's flat as Yanaka's associate: the new boss of what was Swain's business." },
+        { "when": "e44", "text": "Huge, mild Englishman, once Roger Swain's minder and now, with Swain dead, Yanaka's man in London. He installs Kumiko in Camden Town, calls Swain a fool, and wants Sally nowhere near his 'parish'." }
+      ],
+      "relationships": [
+        { "when": "s1", "with": "swain", "text": "Employer" },
+        { "when": "e41", "with": "swain", "text": "Former employer, whose place he has taken" },
+        { "when": "s1", "with": "kumiko", "text": "Looks after her" },
+        { "when": "e41", "with": "yanaka", "text": "Now answers to him directly" }
+      ],
+      "seen": [1, 5, 9, 14, 17, 26, 29, 41, 44]
+    },
+    {
+      "id": "swain", "name": "Roger Swain",
+      "summary": [
+        { "when": "s1", "text": "Kumiko's host in London, a business associate of her father's; Petal works for him." },
+        { "when": "e5", "text": "Kumiko's host in London: a tall, ageless-looking man with dragon tattoos at his collar, by Tick's account a top man in the rackets, who owes Yanaka. Sally says he has a hold over her, and that somebody has a hold over him." },
+        { "when": "e9", "text": "Kumiko's host in London: a fixer, a 'kuromaku', and one of her father's kobun, which is where much of his power comes from. He passes on to Sally a job that unnamed people are forcing on them both: the kidnapping of a woman, to be dressed up as her death." },
+        { "when": "e22", "text": "London fixer, one of Yanaka's kobun, and Kumiko's host. He sent Prior to Sally with a list of everything she has ever done, to make her kidnap Angela Mitchell; he claims a list of his own is being held over him. Behind it is Lady 3Jane." },
+        { "when": "e26", "text": "London fixer, one of Yanaka's kobun, and Kumiko's host. He is growing powerful fast, paying policemen and officials with secrets from a new source, and in return is working with Robin Lanier to deliver Angela Mitchell, and Sally with her." },
+        { "when": "e34", "text": "London fixer, one of Yanaka's kobun, and Kumiko's host. His new source is Lady 3Jane's hoard of secrets, which he is trading for fortunes; his part of the bargain is to hand her Sally and help take Angela Mitchell." },
+        { "when": "e41", "text": "London fixer, once one of Yanaka's kobun and Kumiko's host, who sold himself to Lady 3Jane for her secrets. Yanaka, his own war won, has cast him off; Swain is dead, and Petal has his place." }
+      ],
+      "relationships": [
+        { "when": "s1", "with": "yanaka", "text": "His associate in Tokyo, Kumiko's father" },
+        { "when": "e9", "with": "yanaka", "text": "His oyabun" },
+        { "when": "e41", "with": "yanaka", "text": "His former oyabun, who disowned him" },
+        { "when": "s1", "with": "petal", "text": "His man" },
+        { "when": "e5", "with": "sally", "text": "Has a hold over her" },
+        { "when": "e22", "with": "sally", "text": "Blackmails her into the kidnapping" },
+        { "when": "e26", "with": "sally", "text": "Means to hand her over with Angela Mitchell" },
+        { "when": "e22", "with": "prior", "text": "His man in the Sprawl" },
+        { "when": "e22", "with": "3jane", "text": "The one who has a hold over him" },
+        { "when": "e34", "with": "3jane", "text": "Feeds him the secrets he trades in" },
+        { "when": "e26", "with": "lanier", "text": "Partner in the plot against Angela Mitchell" }
+      ],
+      "seen": [5, 26]
+    },
+    {
+      "id": "sally", "name": "Sally Shears",
+      "aliases": [{ "text": "Moll", "when": "e22" }, { "text": "Misty Steele", "when": "e22" }, { "text": "Misty", "when": "e22" }, { "text": "Molly", "when": "e26" }],
+      "summary": [
+        { "when": "s5", "text": "Another guest in Swain's house: a slim, dark-haired North American woman whose mirrored lenses are set straight into her face." },
+        { "when": "e5", "text": "A guest in Swain's house: a hard, slim North American with mirrored lenses set into her face, half retired, who once met Kumiko's father. She says Swain is 'twisting' her and that somebody is twisting Swain; she takes Kumiko out with her and hires Tick to spy on him." },
+        { "when": "e9", "text": "A guest in Swain's house: a hard North American with mirrored lenses set into her face, an 'indie' who backs other independents; Swain calls her 'the famous razorgirl'. People who hold everything on her and on Swain want her, in particular, to kidnap a woman and make it look like a killing." },
+        { "when": "e17", "text": "A hard North American with mirrored lenses set into her face, whom Swain calls 'the famous razorgirl'; she is being forced, through him, into a kidnapping. Against his orders she has taken Kumiko out of his house and flown with her to the Sprawl." },
+        { "when": "e22", "text": "The razorgirl of the Straylight run: fourteen years ago, with the cowboy Case, she broke into the Tessier-Ashpools' home and killed old Ashpool (the events of Neuromancer); the Finn calls her Moll. Since then a lost fortune, a casino, prizefights as 'Misty Steele'. Lady 3Jane, working through Swain, is forcing her to kidnap Angela Mitchell." },
+        { "when": "e26", "text": "The razorgirl of the Straylight run, once called Molly. Lady 3Jane, working through Swain, is forcing her to kidnap Angela Mitchell. She has sent Kumiko back to London and stayed in the Sprawl; Swain's talk with Robin Lanier shows that she is part of the price and is to be taken as well." },
+        { "when": "e34", "text": "The razorgirl of the Straylight run; in the Sprawl she goes by Molly. Blackmailed by Lady 3Jane through Swain, and meant to be handed over herself, she has struck first: she took Mona from Prior in Baltimore, lifted Angela Mitchell off her hotel roof, and is on the run with both." },
+        { "when": "e36", "text": "The razorgirl of the Straylight run; in the Sprawl she goes by Molly. Blackmailed by Lady 3Jane and meant to be handed to her, she has seized Angela Mitchell and Mona on her own account. When the loa speak through Angie she turns the hover for New Jersey." },
+        { "when": "e39", "text": "The razorgirl of the Straylight run; in the Sprawl she goes by Molly. Blackmailed by Lady 3Jane, she seized Angela Mitchell on her own account, then struck a bargain with the voices that speak through Angie: bring her to Bobby Newmark at Factory, and every record of Molly will be wiped. She has fought her way in." },
+        { "when": "e40", "text": "The razorgirl of the Straylight run; in the Sprawl she goes by Molly. Lady 3Jane's whole scheme turned on her, out of desire and rage. For a promise that her record will be wiped she has brought Angela Mitchell to Bobby Newmark at Factory, and holds the loft against the mercenaries." },
+        { "when": "e43", "text": "The razorgirl of the Straylight run; in the Sprawl she goes by Molly. Her bargain kept, she leaves Mona to Sense/Net, drives Slick and Cherry clear of Factory, and walks off alone across the Solitude with the Judge carrying the aleph, to hide it where its cells get sun. She could have ended 3Jane by cutting its power, and does not." },
+        { "when": "e44", "text": "The razorgirl of the Straylight run; in the Sprawl she goes by Molly. She brought Angela Mitchell to Bobby Newmark, spared 3Jane, and walked away with the aleph to hide it. All record of her has since vanished, apart from a controlling share in a German casino; Petal would rather she stayed out of London." }
+      ],
+      "relationships": [
+        { "when": "e5", "with": "swain", "text": "Has a hold over her" },
+        { "when": "e22", "with": "swain", "text": "Blackmails her on 3Jane's behalf" },
+        { "when": "e5", "with": "kumiko", "text": "Takes the girl under her wing" },
+        { "when": "e5", "with": "tick", "text": "Old contact, hired to spy on Swain" },
+        { "when": "e22", "with": "finn", "text": "Old associate, whom she consults" },
+        { "when": "e22", "with": "case", "text": "Her partner on the Straylight run" },
+        { "when": "e22", "with": "3jane", "text": "Her enemy, behind the blackmail" },
+        { "when": "e43", "with": "3jane", "text": "Her enemy, whom she spares" },
+        { "when": "e22", "with": "prior", "text": "Brought her Swain's blackmail" },
+        { "when": "e34", "with": "prior", "text": "Beat him and made him talk" },
+        { "when": "e22", "with": "angie", "text": "The woman she is to kidnap" },
+        { "when": "e34", "with": "angie", "text": "Kidnapped her, on her own account" },
+        { "when": "e39", "with": "angie", "text": "Brings her to Bobby Newmark" },
+        { "when": "e34", "with": "mona", "text": "Took her from Prior" },
+        { "when": "e43", "with": "judge", "text": "Carries the aleph for her" }
+      ],
+      "seen": [5, 9, 17, 22, 26, 36, 38, 39, 40, 42, 43]
+    },
+    {
+      "id": "molly", "name": "Molly",
+      "summary": [
+        { "when": "s27", "text": "A woman with mirrored lenses set into her face, who breaks into Gerald's clinic in Baltimore in the night." },
+        { "when": "e27", "text": "A woman with mirrored lenses set into her face, an old acquaintance of Gerald's. She broke into his clinic in Baltimore, beat Prior and made him talk with Mona's shockrod, and took Mona away with her." },
+        { "when": "e33", "text": "A woman with mirrored lenses set into her face, an old acquaintance of Gerald's. She took Mona from Prior, drove her to the Sprawl, lifted Angie Mitchell off the roof of her hotel in a Sense/Net helicopter, and is running with both of them in a stolen hover." },
+        { "when": "e34", "text": "The name Sally Shears goes by in the Sprawl. The woman who took Mona from Gerald's and Angie Mitchell from the hotel roof is Sally: see her entry." }
+      ],
+      "relationships": [
+        { "when": "e27", "with": "gerald", "text": "Old acquaintance" },
+        { "when": "e27", "with": "prior", "text": "Beat him and made him talk" },
+        { "when": "e27", "with": "mona", "text": "Took her away from Prior" },
+        { "when": "e33", "with": "angie", "text": "Took her from the hotel roof" },
+        { "when": "e34", "with": "sally", "text": "The same woman" }
+      ],
+      "seen": [27, 33]
+    },
+    {
+      "id": "tick", "name": "Tick", "aliases": ["Terrence"],
+      "summary": [
+        { "when": "s5", "text": "Small, lopsided East Londoner with a limp and a convulsive wink, whom Sally meets in a pub." },
+        { "when": "e5", "text": "Small, lopsided East Londoner with a limp and a convulsive wink: a data thief, an old contact of Sally's. He knows Swain only by reputation, and agrees to tap his traffic for her." },
+        { "when": "e17", "text": "Small, lopsided Londoner with a limp and a convulsive wink: a data thief, hired by Sally to spy on Swain. Sweating and cursing, he drives the car when she takes Kumiko out of Swain's house." },
+        { "when": "e22", "text": "Small, lopsided Londoner with a limp and a convulsive wink: Sally's console cowboy. From Swain's traffic he found out for her that Lady 3Jane is behind the blackmail." },
+        { "when": "e34", "text": "Small, lopsided Londoner with a limp and a convulsive wink, Terrence by name: Sally's console cowboy, who found 3Jane behind Swain. He takes Kumiko into his neat flat in Margate Road, Brixton, crammed with electronics, and offers to raise Colin through a deck." },
+        { "when": "e37", "text": "Small, lopsided Londoner with a limp and a convulsive wink: Sally's console cowboy, who shelters Kumiko in Brixton. He takes her into cyberspace to look for Sally; inside the white macroform 3Jane dislocates his arm before Colin gets them out." },
+        { "when": "e41", "text": "Small, lopsided Londoner with a limp and a convulsive wink: Sally's console cowboy, who sheltered Kumiko in Brixton. He came out of 3Jane's macroform bruised and with a damaged arm; Yanaka declares himself in his debt, which keeps him safe from Swain's friends." }
+      ],
+      "relationships": [
+        { "when": "e5", "with": "sally", "text": "Hires him to spy on Swain" },
+        { "when": "e34", "with": "kumiko", "text": "Takes her in" },
+        { "when": "e41", "with": "yanaka", "text": "In his debt" }
+      ],
+      "seen": [5, 17, 34, 37, 41]
+    },
+    { "id": "bernie", "name": "Bernie", "aliases": ["Bernard"], "summary": [
+        { "when": "s9", "text": "One of Swain's men." },
+        { "when": "e9", "text": "One of Swain's men. Swain thinks of sending him to follow Sally; Petal says he would come back in a box." }
+      ] },
+    {
+      "id": "dick", "name": "Dick", "aliases": ["Dickie"],
+      "summary": [
+        { "when": "s29", "text": "The red-faced new guard at Swain's door, in weighted gloves, told off to escort Kumiko when she goes shopping." },
+        { "when": "e29", "text": "The red-faced new guard at Swain's door. Sent to mind Kumiko in the Portobello Road, he is worn out in the antique shops and knocked into a display when she runs." }
+      ],
+      "seen": [29]
+    },
+    {
+      "id": "bevan", "name": "Bevan",
+      "summary": [
+        { "when": "s26", "text": "Barman at the Rose and Crown, the man Kumiko is to ask for if Tick is not there." },
+        { "when": "e29", "text": "Big, ginger, rabbit-faced barman at the Rose and Crown, terrified of Sally. Kumiko makes him give her Tick's street: Margate Road, in Brixton." }
+      ],
+      "seen": [29]
+    },
+    { "id": "alice", "name": "Alice", "summary": [ { "when": "s29", "text": "Blonde barmaid at the Rose and Crown." } ], "seen": [29] },
+    { "id": "reg", "name": "Reg", "summary": [ { "when": "s32", "text": "One of the Jack Draculas who rob Kumiko in the Underground." } ], "seen": [32] },
+    {
+      "id": "jack-draculas", "name": "Jack Draculas", "aliases": ["Jack Draculas", "Draculas", "Dracula", "Jack Dracula", "Jacks"],
+      "summary": [
+        { "when": "s9", "text": "London gang of thin, poor boys in black raincoats and laced boots, their hair in plaited queues, who hate foreigners. They take their name from a man hanged in public after the war." },
+        { "when": "e32", "text": "London gang of thin, poor boys in black raincoats and laced boots, who hate foreigners. Four of them rob Kumiko in the Underground, and one drops and cracks her ghost unit." }
+      ]
+    },
+    {
+      "id": "finn", "name": "Finn", "aliases": [{ "text": "the oracle", "when": "e22" }],
+      "summary": [
+        { "when": 0, "text": "Fence and dealer in stolen hardware and software, with a junk-filled shop in the Sprawl; he appears in both earlier books." },
+        { "when": "e22", "text": "Once a fence in the Sprawl, an old associate of Sally's. He is dead: what answers her is a construct of his personality, housed in an armoured box riveted to the wall of an alley, where local kids leave offerings as to an oracle. He tells her about Angela Mitchell and says the vodou people were right about the matrix." },
+        { "when": "e45", "text": "Once a fence in the Sprawl, dead now and living on as a construct, an oracle in an alley. He comes and goes inside the aleph as he likes, an old friend of Bobby's, and it is he who drives Bobby, Angie and Colin to meet 'the other'." }
+      ],
+      "relationships": [
+        { "when": "e22", "with": "sally", "text": "Old associate; he calls her Moll" },
+        { "when": "e45", "with": "bobby", "text": "Old friend" }
+      ],
+      "seen": [22, 45]
+    },
+    {
+      "id": "case", "name": "Case",
+      "summary": [
+        { "when": "s22", "text": "The console cowboy of Neuromancer, hired with a street samurai to break into the Tessier-Ashpool cores at Straylight." },
+        { "when": "e22", "text": "The console cowboy of Neuromancer, who rode a Chinese icebreaker through the Tessier-Ashpool cores. Sally was his partner on that run; she left him in Tokyo and never saw him again. The Finn says he quit clean and had four children." },
+        { "when": "e31", "text": "The console cowboy of Neuromancer, Sally's partner on the Straylight run, who later quit and raised a family. Gentry and Bobby agree that his run, by bringing the two Tessier-Ashpool AIs together, set off When It Changed." }
+      ],
+      "relationships": [ { "when": "e22", "with": "sally", "text": "His partner on the Straylight run" } ]
+    },
+    { "id": "armitage", "name": "Armitage", "summary": [ { "when": "s22", "text": "In Neuromancer, the ex-officer who hired the team for the Straylight run. Dead by the end of it." } ] },
+    {
+      "id": "riviera", "name": "Riviera",
+      "summary": [
+        { "when": "s22", "text": "In Neuromancer, the sadistic illusionist who went up to Straylight with the team. Dead by the end of it." },
+        { "when": "e40", "text": "In Neuromancer, the sadistic illusionist who went up to Straylight with the team and died there. 3Jane keeps his face on file under the same heading as Gentry: RIMBAUD." }
+      ]
+    },
+    {
+      "id": "slick", "name": "Slick Henry",
+      "summary": [
+        { "when": "s2", "text": "Lives in Factory, a derelict building out on Dog Solitude, where he builds big robots out of scrap." },
+        { "when": "e2", "text": "Builds big robots out of scrap in Factory, on Dog Solitude; he once rode with the Deacon Blues. To pay off Kid Afrika, who saved his life in Atlantic City, he agrees to hide an unconscious man and his nurse for two weeks." },
+        { "when": "e10", "text": "Builds big robots out of scrap in Factory, on Dog Solitude. Twice convicted of stealing cars, he served three years under induced Korsakov's, and built the machines afterwards because he had to. He is hiding the Count and Cherry as a favour owed to Kid Afrika, on Gentry's sufferance." },
+        { "when": "e18", "text": "Builds big robots out of scrap in Factory, on Dog Solitude: his way of dealing with three years of chemical prison, which under stress still throws him back to five minutes of memory at a time. He is hiding the Count and Cherry for Kid Afrika and wants them gone; Gentry will not let them go." },
+        { "when": "e24", "text": "Builds big robots out of scrap in Factory, on Dog Solitude: his answer to three years under induced Korsakov's. Hiding the Count and Cherry for Kid Afrika, he is talked by Gentry into jacking in beside the sleeper, and meets him awake in a country house inside the grey slab." },
+        { "when": "e31", "text": "Builds big robots out of scrap in Factory, on Dog Solitude: his answer to three years under induced Korsakov's. Hiding Bobby and Cherry for Kid Afrika, he has twice been inside the aleph, and knows that the armed men gathering nearby want it back." },
+        { "when": "e35", "text": "Builds big robots out of scrap in Factory, on Dog Solitude: his answer to three years under induced Korsakov's. Armed men have come for Bobby Newmark and the aleph, which he is hiding for Kid Afrika; Little Bird is shot, and Cherry has begun to cling to him." },
+        { "when": "e38", "text": "Builds big robots out of scrap in Factory, on Dog Solitude: his answer to three years under induced Korsakov's. With Factory under attack he fails to get Cherry out, and is caught among his machines by a woman with mirror eyes who makes him lead her to Bobby Newmark." },
+        { "when": "e40", "text": "Builds big robots out of scrap in Factory, on Dog Solitude: his answer to three years under induced Korsakov's. Bobby, from inside the aleph, has taken over his machines and turned them on the mercenaries who came for it; 3Jane, Continuity and Bobby have all been studying him." },
+        { "when": "e43", "text": "Built big robots out of scrap in Factory, on Dog Solitude: his answer to three years under induced Korsakov's. After the fight for the aleph he rigs it to the Judge for Molly, and leaves Factory and his other machines behind to go to Cleveland with Cherry." }
+      ],
+      "relationships": [
+        { "when": "e2", "with": "kid", "text": "Saved his life; calls in the favour" },
+        { "when": "s2", "with": "bird", "text": "His helper" },
+        { "when": "e38", "with": "bird", "text": "His helper, killed in the attack" },
+        { "when": "s2", "with": "gentry", "text": "Shares Factory, which is really Gentry's" },
+        { "when": "e43", "with": "gentry", "text": "Left behind in Factory" },
+        { "when": "e2", "with": "cherry", "text": "The nurse left in his care" },
+        { "when": "e35", "with": "cherry", "text": "Has taken up with him" },
+        { "when": "e43", "with": "cherry", "text": "Leaves for Cleveland with her" },
+        { "when": "e6", "with": "count", "text": "The sleeper he is hiding" },
+        { "when": "e24", "with": "bobby", "text": "The sleeper he is hiding; met inside the aleph" },
+        { "when": "s2", "with": "judge", "text": "His latest machine" }
+      ],
+      "seen": [2, 6, 10, 13, 18, 21, 24, 28, 31, 35, 38, 39, 40, 42, 43]
+    },
+    {
+      "id": "bird", "name": "Little Bird", "aliases": ["Little Bird", "Bird", "Bird-boy"],
+      "summary": [
+        { "when": "s2", "text": "Skeletal, two-metre youth with lacquered wings of brown hair, from the white Jersey stringtowns, who helps Slick with his machines. Shy, and a racist." },
+        { "when": "e18", "text": "Skeletal youth from the Jersey stringtowns who helps Slick with his machines and minds Factory's water tanks; he half believes the sleeper is a vampire. Slick sends him on Gentry's bike, with the Kid's bag of drugs, to borrow Marvie's truck." },
+        { "when": "e28", "text": "Skeletal youth from the Jersey stringtowns who helps Slick with his machines. Sent to borrow a truck, he comes back at dusk without it, high, having lost the bag and wrecked the bike, and reports hovers, a helicopter and disciplined armed men at Marvie's." },
+        { "when": "e35", "text": "Skeletal youth from the Jersey stringtowns who helped Slick with his machines. When Factory is attacked he raises his rifle at a window and is shot." },
+        { "when": "e38", "text": "Skeletal youth from the Jersey stringtowns who helped Slick with his machines. Shot dead at a window in the first minutes of the attack on Factory." }
+      ],
+      "seen": [2, 6, 18, 28, 35]
+    },
+    {
+      "id": "kid", "name": "Kid Afrika",
+      "summary": [
+        { "when": "s2", "text": "Black man in a mink coat who arrives at Factory in a matte-black Dodge hover trimmed with chrome skulls; Slick owes him a favour." },
+        { "when": "e2", "text": "Black man in a mink coat, with a Dodge hover trimmed with chrome skulls, who once saved Slick's life in Atlantic City. He calls in the favour: Slick is to hide an unconscious man and his nurse. Somebody is paying the Kid to keep the man hidden and as he is." },
+        { "when": "e6", "text": "Black man in a mink coat who once saved Slick's life and has left the Count and Cherry at Factory in return. He took Cherry on a week ago in Cleveland; the next day something frightened him and he decided to move the sleeper." },
+        { "when": "e24", "text": "Black man in a mink coat who once saved Slick's life and has left Bobby and Cherry at Factory in return. Bobby calls him a lying friend and half expected the trick, but says the Kid is the only one who should be allowed to come for him." },
+        { "when": "e35", "text": "Black man in a mink coat who once saved Slick's life. Bobby Newmark paid him in Cleveland to hide his body and keep it alive while he stayed inside the aleph; then something frightened the Kid, and he left him at Factory." }
+      ],
+      "relationships": [
+        { "when": "e2", "with": "slick", "text": "Owes him his life" },
+        { "when": "e2", "with": "cherry", "text": "Hired her as nurse" },
+        { "when": "e6", "with": "count", "text": "Paid to hide him" },
+        { "when": "e24", "with": "bobby", "text": "Paid to hide him" }
+      ],
+      "seen": [2]
+    },
+    {
+      "id": "cherry", "name": "Cherry Chesterfield",
+      "summary": [
+        { "when": "s2", "text": "Bleached-blonde girl from Cleveland in several outsize leather jackets, who drives Kid Afrika's hover." },
+        { "when": "e2", "text": "Bleached-blonde girl from Cleveland in several outsize leather jackets, said to hold a med-tech's ticket. Kid Afrika leaves her at Factory to nurse the man on the stretcher." },
+        { "when": "e6", "text": "Bleached-blonde girl from Cleveland, once a certified med-tech, left at Factory to nurse the Count. Kid Afrika took her on a week ago, out of Moby Jane's roadhouse, where she was about to pay for her boyfriend Spencer's theft." },
+        { "when": "e18", "text": "Bleached-blonde girl from Cleveland, once a certified med-tech, left at Factory by Kid Afrika to nurse the Count. She knows Slick's jail-time for what it is, sedates him and patches up Gentry, and will not leave her patient." },
+        { "when": "e35", "text": "Bleached-blonde girl from Cleveland, once a med-tech, left at Factory by Kid Afrika to nurse Bobby Newmark, whose signs are getting worse. As the attack begins she has attached herself to Slick." },
+        { "when": "e38", "text": "Bleached-blonde girl from Cleveland, once a med-tech, left at Factory to nurse Bobby Newmark. She tells him to his face that he is dying, and is parted from Slick when they try to get out through the wall." },
+        { "when": "e43", "text": "Bleached-blonde girl from Cleveland, once a med-tech, who nursed Bobby Newmark at Factory until he died. She leaves with Slick, bound for Cleveland and full of plans for them both." }
+      ],
+      "relationships": [
+        { "when": "e2", "with": "kid", "text": "Hired her" },
+        { "when": "e6", "with": "count", "text": "Her patient" },
+        { "when": "e24", "with": "bobby", "text": "Her patient" },
+        { "when": "e35", "with": "slick", "text": "Has taken up with him" },
+        { "when": "e43", "with": "slick", "text": "Leaves for Cleveland with him" }
+      ],
+      "seen": [2, 6, 10, 13, 18, 21, 28, 35, 38, 39, 40, 42, 43]
+    },
+    {
+      "id": "count", "name": "Count", "aliases": [{ "text": "Robert Newmark", "when": "e21" }, { "text": "Newmark", "when": "e21" }],
+      "summary": [
+        { "when": "s6", "text": "'The Count': what Kid Afrika once called the unconscious man on the stretcher whom he left at Factory in Cherry's care." },
+        { "when": "e6", "text": "The unconscious man Kid Afrika left at Factory: wasted, fed by drips, always dreaming, cabled from a socket behind his ear to a featureless grey unit the Kid called his LF. Cherry first saw him in a guarded house near Cleveland. Somebody pays to have him kept like this, and hidden." },
+        { "when": "e13", "text": "The unconscious man Kid Afrika left at Factory: wasted, fed by drips, always dreaming, cabled to a featureless grey slab. Gentry has had him carried to his loft and has spliced his own gear into the cable." },
+        { "when": "e21", "text": "The unconscious man Kid Afrika left at Factory, cabled to a grey slab that Gentry says is an aleph. A retinal check gives his name as Robert Newmark, born in Barrytown, son of Marsha Newmark, unless he bought the eyes; somebody is watching for questions about him. Cherry thinks he may be paying to be kept this way." },
+        { "when": "e24", "text": "The man on the stretcher at Factory is Bobby Newmark; 'Count' was his handle. See Bobby Newmark." }
+      ],
+      "relationships": [
+        { "when": "e6", "with": "cherry", "text": "His nurse" },
+        { "when": "e6", "with": "kid", "text": "Is paid to hide him" },
+        { "when": "e24", "with": "bobby", "text": "The same man" }
+      ],
+      "seen": [6, 10, 13, 18, 21]
+    },
+    {
+      "id": "bobby", "name": "Bobby Newmark", "aliases": [{ "text": "the Count", "when": "e24" }, { "text": "Bobby the Count", "when": "e24" }],
+      "summary": [
+        { "when": 0, "text": "Console cowboy from Barrytown, New Jersey, whose handle was Count Zero. At the end of Count Zero he was Angie Mitchell's boyfriend and her paid bodyguard." },
+        { "when": "e3", "text": "Console cowboy from Barrytown, for years Angie Mitchell's partner. He no longer lives with her in the house at Malibu." },
+        { "when": "e7", "text": "Console cowboy from Barrytown, for years Angie Mitchell's partner. He has left her, taking his cowboy's deck; she does not know where he is, and Hilton Swift says that he does not either." },
+        { "when": "e20", "text": "Console cowboy from Barrytown, for years Angie Mitchell's partner, kept on Sense/Net's payroll at her agents' insistence. After he left her he went to Mexico City, fell in with cyberspace criminals, became some kind of 'wirehead' and dropped out of sight; Net security lost him." },
+        { "when": "e24", "text": "Console cowboy from Barrytown, once Count Zero, and for years Angie Mitchell's partner. He is 'the Count', the man on the stretcher at Factory: his body lies wasting while he lives inside the grey slab, the aleph. He warns Slick that if anyone but Kid Afrika comes for him, the one hope is to jack him into the matrix." },
+        { "when": "e31", "text": "Console cowboy from Barrytown, once Count Zero, and for years Angie Mitchell's partner. His body lies on a stretcher at Factory while he lives inside the aleph, which he stole from Lady 3Jane; in it he is hunting for what caused When It Changed. The men closing on Factory were hired, at several removes, to get it back." },
+        { "when": "e35", "text": "Console cowboy from Barrytown, once Count Zero, and for years Angie Mitchell's partner. He stole 3Jane's aleph from the people in Los Angeles who rented time in it to the rich, lived inside it in Mexico City, then paid Kid Afrika in Cleveland to hide and tend his body, because he was close to what he was looking for. Its owners' men are now attacking Factory." },
+        { "when": "e38", "text": "Console cowboy from Barrytown, once Count Zero, and for years Angie Mitchell's partner. He lives inside the stolen aleph while his body, at Factory, is dying, which does not seem to trouble him. From inside he drops a cargo drone's load on the attackers, and says that friends of a sort are coming for the aleph." },
+        { "when": "e40", "text": "Console cowboy from Barrytown, once Count Zero, and for years Angie Mitchell's partner. He lives inside the stolen aleph while his body lies dying in Gentry's loft; from inside he drives Slick's machines against the mercenaries. Angie has been brought to him." },
+        { "when": "e42", "text": "Console cowboy from Barrytown, once Count Zero, and for years Angie Mitchell's partner. He lived inside the stolen aleph while his body wasted at Factory. The body is dead; as Angie died across it, the screen showed the two of them together for a moment, then went dark." },
+        { "when": "e43", "text": "Console cowboy from Barrytown, once Count Zero, and for years Angie Mitchell's partner. His body died at Factory, but he lives on inside the aleph, and Angie is there with him; Molly has carried it away to keep it safe and powered." },
+        { "when": "e45", "text": "Console cowboy from Barrytown, once Count Zero, and for years Angie Mitchell's partner. Dead to the world, he lives with her in a grey stone house inside the aleph. He has kept his promise to show her the reason for When It Changed: with the Finn and Colin they drive off to meet 'the other'." }
+      ],
+      "relationships": [
+        { "when": 0, "with": "angie", "text": "Girlfriend; he is her bodyguard" },
+        { "when": "e3", "with": "angie", "text": "Former partner" },
+        { "when": "e42", "with": "angie", "text": "Died beside him" },
+        { "when": "e43", "with": "angie", "text": "With him inside the aleph" },
+        { "when": "e24", "with": "marsha", "text": "Mother" },
+        { "when": "e24", "with": "kid", "text": "Friend who hid him at Factory" },
+        { "when": "e35", "with": "kid", "text": "Paid him to hide and tend his body" },
+        { "when": "e24", "with": "cherry", "text": "His nurse" },
+        { "when": "e24", "with": "slick", "text": "Hides him at Factory" },
+        { "when": "e31", "with": "3jane", "text": "Stole the aleph from her; she hates him" },
+        { "when": "e31", "with": "gentry", "text": "Kindred spirit" },
+        { "when": "e45", "with": "finn", "text": "Old friend" }
+      ],
+      "seen": [24, 28, 31, 38, 39, 40, 42, 45]
+    },
+    {
+      "id": "marsha", "name": "Marsha Newmark",
+      "summary": [
+        { "when": "s21", "text": "Named in the birth records as the mother of Robert Newmark, born in Barrytown." },
+        { "when": "e24", "text": "Bobby Newmark's mother, in Barrytown (she appears in Count Zero)." }
+      ]
+    },
+    {
+      "id": "gentry", "name": "Gentry", "aliases": [{ "text": "Thomas Trail Gentry", "when": "e40" }],
+      "summary": [
+        { "when": "s2", "text": "The man whose place Factory mostly is; away in Boston. He dislikes having people around, and talks a great deal about cyberspace." },
+        { "when": "e6", "text": "The man whose place Factory mostly is, four years there before Slick came; away in Boston. He lives at the top with his decks and projectors, steals the building's power from the Fission Authority, and dislikes having people around." },
+        { "when": "e10", "text": "Master of Factory: narrow, pale-eyed, about thirty, in black beaded leathers, back from Boston. He keeps the place powered by fooling the Fission Authority, and lives for one idea, that cyberspace as a whole has a Shape. He orders Slick's guests out, then, high on one of the Kid's derms, fixes on the sleeper and his grey box." },
+        { "when": "e18", "text": "Master of Factory, obsessed with finding the overall Shape of cyberspace. He had the sleeper carried to his loft and tapped his cable; a grey thing lunged out of the holotable at him and he cut his head. He says the slab is an aleph, and will not let the sleeper be taken away." },
+        { "when": "e21", "text": "Master of Factory, obsessed with finding the overall Shape of cyberspace. He explains the aleph, identifies the sleeper by his retinas, takes the grey thing that attacked him for a security program, and tells Slick that Slick is the one who will go in." },
+        { "when": "e31", "text": "Master of Factory, obsessed with finding the overall Shape of cyberspace. Inside the aleph he and Bobby recognise each other as the same kind of seeker: he tells Bobby that cyberspace had no Shape before the Change, and that the cause was the joining of the Tessier-Ashpool AIs." },
+        { "when": "e35", "text": "Master of Factory, obsessed with finding the overall Shape of cyberspace. He has jacked Bobby and the aleph into a cyberspace deck; when the attack comes he drives one of Slick's Investigators and burns the first hover." },
+        { "when": "e38", "text": "Master of Factory, obsessed with the overall Shape of cyberspace. With the aleph jacked into the matrix he sits staring at the white column on his holotable while Factory is attacked. Bobby says he has found the Shape and will not leave." },
+        { "when": "e42", "text": "Thomas Trail Gentry, master of Factory, obsessed with the overall Shape of cyberspace. Molly stunned him with a flechette set off beside his head; when the fight is over he will not leave, and stays in his loft with his books and the bodies of Bobby and Angie." }
+      ],
+      "relationships": [
+        { "when": "s2", "with": "slick", "text": "Lets him live and work in Factory" },
+        { "when": "e31", "with": "bobby", "text": "Kindred spirit" }
+      ],
+      "seen": [10, 13, 18, 21, 24, 28, 31, 38, 39, 40, 42]
+    },
+    {
+      "id": "judge", "name": "Judge",
+      "summary": [
+        { "when": "s2", "text": "Slick's towering robot with a buzz-saw for a left hand, which he and Little Bird are repairing." },
+        { "when": "e10", "text": "The latest and largest of Slick's machines: nearly four metres tall, headless, the colour of rust, with a buzz-saw hand, worked from a hand-held control unit. It came out of his years in prison, and he hates it." },
+        { "when": "e43", "text": "The largest of Slick's machines: nearly four metres tall, headless, the colour of rust, born of his years in prison. One-armed now, it walks off across the Solitude behind Molly with the aleph strapped to its back and solar cells taped to its chest." }
+      ],
+      "seen": [2, 10, 28, 35, 38, 43]
+    },
+    {
+      "id": "witch", "name": "Witch",
+      "summary": [
+        { "when": "s2", "text": "One of the machines Slick built before the Judge." },
+        { "when": "e35", "text": "One of the machines Slick built after prison: spider-legged, with low arms that end in scythes." },
+        { "when": "e42", "text": "One of the machines Slick built after prison: spider-legged, with low arms that end in scythes. Driven by Bobby from inside the aleph, it hunts the mercenaries across Factory's floor, then runs down and stops, blood on its blades." }
+      ],
+      "seen": [28, 35, 38, 42]
+    },
+    {
+      "id": "corpsegrinder", "name": "Corpsegrinder",
+      "summary": [
+        { "when": "s2", "text": "One of the machines Slick built before the Judge." },
+        { "when": "e35", "text": "One of the machines Slick built after prison, with a skeletal steel maw and guts full of steel fangs." }
+      ]
+    },
+    {
+      "id": "investigators", "name": "Investigators", "aliases": ["Investigator"],
+      "summary": [
+        { "when": "s2", "text": "Machines Slick built before the Judge." },
+        { "when": "e35", "text": "Machines Slick built after prison, on the tracked chassis of fifty-year-old remote manipulators: claws, a thermite-tipped sting, a flame-thrower. Gentry drives one out against the attackers and burns their hover." }
+      ]
+    },
+    { "id": "deacon-blues", "name": "Deacon Blues", "summary": [ { "when": "s2", "text": "The gang Slick rode with when he was young." } ] },
+    { "id": "moby-jane", "name": "Moby Jane", "aliases": ["Moby Jane", "Moby"], "summary": [ { "when": "s6", "text": "Enormous owner of a roadhouse near Cleveland, who lives in a float tank on a drug drip. Cherry was about to be punished there for Spencer's theft when Kid Afrika took her away." } ] },
+    { "id": "spencer", "name": "Spencer", "summary": [ { "when": "s6", "text": "Cherry's former boyfriend, manager at Moby Jane's, who ran off with the takings and left her to face it." } ] },
+    {
+      "id": "marvie", "name": "Marvie",
+      "summary": [
+        { "when": "s18", "text": "Slick's nearest neighbour on the Solitude, who owns a truck." },
+        { "when": "e28", "text": "Slick's nearest neighbour, six kilometres off: with two brothers he grows drug plants in buried tank-cars and cooks bad amines. Little Bird finds his place full of hovers and armed men." }
+      ]
+    },
+    {
+      "id": "angie", "name": "Angela Mitchell", "aliases": ["Angie"],
+      "summary": [
+        { "when": 0, "text": "Christopher Mitchell's daughter. He grafted something into her brain through which the loa speak, and she can reach cyberspace without a deck; in Count Zero she saved Bobby Newmark there. At its end she was Tally Isham's understudy at Sense/Net, with Bobby beside her." },
+        { "when": "e3", "text": "Christopher Mitchell's daughter, whose altered brain let the loa speak through her; she works for Sense/Net. Just out of a clinic that cured her of a designer drug, she is alone in the Malibu house Bobby has left. After three years' silence Mamman Brigitte warns her that the drug was a poison to shut the loa out and that enemies are plotting; then a fresh packet of it turns up in her jacket." },
+        { "when": "e7", "text": "Sense/Net's great simstim star, Tally Isham's successor; daughter of Christopher Mitchell, whose work in her brain lets the loa reach her. Off the drug that kept them away, she destroys the dose somebody planted and goes back to work. A stranger's memories fill her sleep, and she traces a sign from them to Tessier-Ashpool." },
+        { "when": "e12", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, whose work in her brain lets the loa reach her. Off the drug that kept them away, and back at work, she is haunted by a stranger's memories; in Becker's film about the Tessier-Ashpools she knows the faces from those dreams." },
+        { "when": "e16", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, whose work in her brain lets the loa reach her. Off the drug that kept them away, she finds that the memories invading her sleep are those of Lady 3Jane Tessier-Ashpool, and begins to tie that family's history to the loa and to When It Changed." },
+        { "when": "e22", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, whose work in her brain lets the loa reach her. Off the drug that kept them away, she dreams the memories of Lady 3Jane. She does not know that 3Jane, through Swain, is forcing Sally Shears to kidnap her." },
+        { "when": "e25", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, whose work in her brain lets the loa reach her. She dreams Lady 3Jane's memories, and is flying to New York for her public return, unaware that 3Jane means to have her kidnapped. A journalist has heard that her drug was an antipsychotic from Sense/Net's own laboratories." },
+        { "when": "e26", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, whose work in her brain lets the loa reach her. She dreams Lady 3Jane's memories. 3Jane, through Swain, means to have her kidnapped and thought dead, and her co-star Robin Lanier is in the plot." },
+        { "when": "e30", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, whose work in her brain lets the loa reach her. The victim of a plot by Lady 3Jane, whose memories she dreams. On the roof of her New York hotel a woman with mirrored lenses seizes her in the helicopter, a week ahead of the plan, and asks whether she knows anyone called 3Jane." },
+        { "when": "e33", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, whose work in her brain lets the loa reach her. Lady 3Jane, whose memories she dreams, plotted to have her kidnapped; instead Molly has lifted her off her hotel roof and is running with her and Mona, the girl remade as her double." },
+        { "when": "e36", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, who altered her brain at the bidding of what became the loa. Carried off by Molly, she learns in a trance that her drug was meant to rewrite his work, on the orders of Continuity, and that Robin Lanier was turned by Lady 3Jane's agents. Brigitte tells her to trust her kidnapper." },
+        { "when": "e39", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, who altered her brain at the bidding of what became the loa. The voices speaking through her have guided Molly to Factory, where 'her marriage is arranged'; barely conscious, she goes straight to the stretcher where Bobby lies." },
+        { "when": "e40", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, who altered her brain at the bidding of what became the loa. In Gentry's loft, beside Bobby's dying body, she sees everyone as data, 3Jane's files now hers; then Brigitte and Continuity walk her out of the room, towards her wedding." },
+        { "when": "e42", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, who altered her brain at the bidding of what became the loa. Brought to Factory by Molly, she dies with her arms around Bobby's body; the screen beside them shows the two together for a moment before it fades." },
+        { "when": "e43", "text": "Sense/Net's great simstim star; daughter of Christopher Mitchell, who altered her brain at the bidding of what became the loa. Her body died at Factory beside Bobby's, but she is alive inside the aleph with him; Molly has carried it away, and Sense/Net has Mona." },
+        { "when": "e45", "text": "Once Sense/Net's great simstim star, daughter of Christopher Mitchell. Dead to the world, she lives with Bobby in a grey stone house inside the aleph, holding many of 3Jane's memories and forgiving her; through Continuity she watches Mona take her place. Bobby, the Finn and Colin drive her to learn the reason for When It Changed." }
+      ],
+      "relationships": [
+        { "when": 0, "with": "mitchell", "text": "Father" },
+        { "when": 0, "with": "bobby", "text": "Boyfriend and bodyguard" },
+        { "when": "e3", "with": "bobby", "text": "Former partner, who has left" },
+        { "when": "e39", "with": "bobby", "text": "Former partner, to whom she is brought" },
+        { "when": "e43", "with": "bobby", "text": "With her inside the aleph" },
+        { "when": "e3", "with": "swift", "text": "The Sense/Net executive who watches over her" },
+        { "when": "e3", "with": "brigitte", "text": "The loa who warns her" },
+        { "when": "e7", "with": "porphyre", "text": "Her hairdresser and friend" },
+        { "when": "e7", "with": "continuity", "text": "The Sense/Net AI she consults" },
+        { "when": "e36", "with": "continuity", "text": "Ordered her put back on the drug" },
+        { "when": "e45", "with": "continuity", "text": "Her window on the world outside" },
+        { "when": "e19", "with": "lanier", "text": "Her co-star" },
+        { "when": "e26", "with": "lanier", "text": "Her co-star, in the plot against her" },
+        { "when": "e16", "with": "3jane", "text": "Whose memories she dreams" },
+        { "when": "e22", "with": "3jane", "text": "Whose memories she dreams; wants her kidnapped" },
+        { "when": "e45", "with": "3jane", "text": "Shares the aleph with her; forgiven" },
+        { "when": "e22", "with": "sally", "text": "Is being forced to kidnap her" },
+        { "when": "e34", "with": "sally", "text": "Her kidnapper" },
+        { "when": "e36", "with": "sally", "text": "Her kidnapper, whom Brigitte tells her to trust" },
+        { "when": "e33", "with": "molly", "text": "Took her from the hotel roof" },
+        { "when": "e33", "with": "mona", "text": "The girl remade as her double" },
+        { "when": "e45", "with": "mona", "text": "Her protégée and successor" }
+      ],
+      "seen": [3, 7, 12, 16, 20, 25, 30, 33, 36, 39, 40, 42, 45]
+    },
+    {
+      "id": "swift", "name": "Hilton Swift",
+      "summary": [
+        { "when": "s3", "text": "Sense/Net executive who watches over Angie; he can break into her calls and sees through the cameras of the little helicopter that follows her." },
+        { "when": "e7", "text": "Fussily dressed Sense/Net executive who watches over Angie and can override her privacy at will. He already knows about her nosebleed and her moment in cyberspace, and says he has no idea where Bobby is. She wonders whether he planted the drug." },
+        { "when": "e20", "text": "Sense/Net's most important human decision-maker: boyish, in his late thirties, risen from Tally Isham's team, and Angie's patron from her first days. He never liked Bobby. He unlocks for her the file on what became of Bobby, and denies that Robin Lanier calls her mad." },
+        { "when": "e36", "text": "Sense/Net's most important human decision-maker, and Angie's patron from her first days. Brigitte says he is obliged to carry out whatever Continuity decides: on its advice he had Piper Hill try to put Angie back on the drug." },
+        { "when": "e42", "text": "Sense/Net's most important human decision-maker, and Angie's patron, bound to carry out what Continuity decides. He arrives at Factory by helicopter when all is over and walks straight to Mona." }
+      ],
+      "relationships": [
+        { "when": "s3", "with": "angie", "text": "His star, whom he watches closely" },
+        { "when": "e36", "with": "continuity", "text": "Carries out its decisions" },
+        { "when": "e42", "with": "mona", "text": "Takes her up in Angie's place" }
+      ],
+      "seen": [20, 42]
+    },
+    {
+      "id": "piper", "name": "Piper", "aliases": ["Piper Hill"],
+      "summary": [
+        { "when": "s3", "text": "Piper Hill, the Sense/Net person Swift sends to the airport to meet Angie's plane; Angie will not have her there." },
+        { "when": "e12", "text": "Piper Hill, Angie's personal technician, blonde, with sockets behind her ears: by reputation Sense/Net's best troubleshooter. She runs the sensory test for Angie's return to work." },
+        { "when": "e36", "text": "Piper Hill, Angie's personal technician and Sense/Net's best troubleshooter. According to Brigitte it was she who, on Swift's orders, tried to put Angie back on the drug." },
+        { "when": "e45", "text": "Piper Hill, once Angie's personal technician at Sense/Net, who on Swift's orders tried to put her back on the drug. She now tunes the sensorium of Angie's successor." }
+      ],
+      "seen": [12]
+    },
+    {
+      "id": "porphyre", "name": "Porphyre",
+      "summary": [
+        { "when": "s7", "text": "Angie's hairdresser: a very tall, powerful black man with a shaved, sculpted skull, full of Sense/Net gossip and loyal to her." },
+        { "when": "e12", "text": "Angie's hairdresser: a very tall black man with a sculpted, not quite human skull, full of Sense/Net gossip and loyal to her. He tells her that Robin Lanier is saying she hears voices, and warns her to take care." },
+        { "when": "e25", "text": "Angie's hairdresser and protector: a very tall black man, remade by surgery, in a thin black leather coat. On the flight to New York he drugs the journalist Danielle Stark so that Angie can talk; he says he knows certain things and needs time to think." },
+        { "when": "e30", "text": "Angie's hairdresser and protector: a very tall black man, remade by surgery, in a thin black leather coat. He is beside her in the helicopter on the hotel roof when the kidnapper puts him out with a sedative dart." }
+      ],
+      "relationships": [
+        { "when": "s7", "with": "angie", "text": "Her hairdresser; devoted to her" },
+        { "when": "e12", "with": "lanier", "text": "Distrusts him" }
+      ],
+      "seen": [7, 12, 25, 30]
+    },
+    {
+      "id": "continuity", "name": "Continuity",
+      "summary": [
+        { "when": "s7", "text": "Sense/Net's house AI, which Angie can call on from anywhere in the Malibu house." },
+        { "when": "e7", "text": "Sense/Net's AI, an expert system that answers Angie's questions wherever she is. It is always writing a book, one that loops and changes and never ends." },
+        { "when": "e16", "text": "Sense/Net's AI, an expert system that answers Angie's questions and can make her image speak in public for her. It tells her about the Tessier-Ashpools and the legend of When It Changed, and says it would be part of any god the matrix had, without necessarily knowing." },
+        { "when": "e36", "text": "Sense/Net's AI, grown from the biosoft technology of Angie's father and, in Brigitte's word, naive. It was Continuity that decided Angie should go back on the drug, so as to rewrite what her father put in her head, and it let 3Jane's agents turn Robin Lanier. Swift must carry out what it decides; its reasons are closed to the loa." },
+        { "when": "e40", "text": "Sense/Net's AI, grown from the biosoft technology of Angie's father: her young cousin, Brigitte says. It decided she should go back on the drug, and let 3Jane's agents turn Robin Lanier. Afraid it has displeased her, it runs ahead to announce her at her wedding." },
+        { "when": "e45", "text": "Sense/Net's AI, grown from the biosoft technology of Angie's father. It once decided she should go back on the drug; now, when she forms its name inside the aleph, it shows her the world outside." }
+      ],
+      "relationships": [
+        { "when": "e36", "with": "swift", "text": "Must carry out its decisions" },
+        { "when": "e40", "with": "angie", "text": "Its 'cousin', whom it fears it has wronged" }
+      ]
+    },
+    {
+      "id": "lanier", "name": "Robin Lanier",
+      "summary": [
+        { "when": "s7", "text": "Angie's Sense/Net colleague, who appears in her sequences; he left for London the morning after she came home." },
+        { "when": "e7", "text": "Angie's Sense/Net colleague, away in London. Porphyre hears that he is telling people she is mad and hears voices, and that the Net's doctors know it." },
+        { "when": "e20", "text": "Handsome simstim star who plays opposite Angie in almost everything; their love scenes are patched together from stock, since his partners are young men. He lingers in London, and is said to be telling people that she is mad." },
+        { "when": "e26", "text": "Simstim star, Angie's screen partner. In London he called on Roger Swain: he is in the plot to have Angie kidnapped, apparently to be rid of her, and says the people behind it mean to take Sally Shears as well." },
+        { "when": "e36", "text": "Simstim star, Angie's screen partner, in the plot to have her kidnapped. Brigitte says he was won over by Lady 3Jane's agents, and that Continuity allowed it." },
+        { "when": "e40", "text": "Simstim star, Angie's screen partner, won over by Lady 3Jane's agents to the plot against her. Swain serves 3Jane for her secrets; Lanier is waiting to be paid in another coin." },
+        { "when": "e45", "text": "Simstim star, Angie's screen partner, who served Lady 3Jane in the plot against her. He has been found strangled and frozen on the mountain facade of the New Suzuki Envoy; Angie and Continuity know whose long, strong hands did it." }
+      ],
+      "relationships": [
+        { "when": "e20", "with": "angie", "text": "His co-star" },
+        { "when": "e26", "with": "swain", "text": "Partner in the plot" },
+        { "when": "e36", "with": "3jane", "text": "Her agents won him over" }
+      ]
+    },
+    {
+      "id": "tally", "name": "Tally Isham",
+      "summary": [
+        { "when": 0, "text": "Sense/Net's ageless simstim star; at the end of Count Zero, Angie Mitchell was her understudy." },
+        { "when": "e7", "text": "Sense/Net's great simstim star until Angie replaced her. She recorded in Freeside fifteen years ago, and Angie plays those sequences to trace a memory." },
+        { "when": "e31", "text": "Sense/Net's great simstim star for fifteen years, until Angie replaced her. One of the places inside the aleph is a villa at Vallarta that was hers." }
+      ]
+    },
+    { "id": "kelly", "name": "Kelly Hickman", "summary": [ { "when": "s7", "text": "Angie's wardrobe man at Sense/Net." } ], "seen": [12, 25] },
+    { "id": "pope", "name": "David Pope", "summary": [ { "when": "s12", "text": "Angie's director, who also makes documentaries for Net/Knowledge. He has been in orbit looking for hermits, and tells her what he heard there about Lady Jane Tessier-Ashpool." } ], "seen": [12] },
+    { "id": "raebel", "name": "Rick Raebel", "summary": [ { "when": "s12", "text": "Effects and editing man on Angie's crew." } ], "seen": [12] },
+    { "id": "lomas", "name": "Karen Lomas", "summary": [ { "when": "s12", "text": "Member of Angie's crew, who does her 'in-fills'." } ], "seen": [12] },
+    { "id": "ng", "name": "Brian Ng", "summary": [ { "when": "s12", "text": "Piper Hill's assistant and understudy, who takes Angie to her physical." } ], "seen": [12] },
+    {
+      "id": "danielle", "name": "Danielle Stark",
+      "summary": [
+        { "when": "s25", "text": "Journalist for the stim editions of Vogue who interviews Angie on the flight to New York: said to be nearly ninety, she looks thirty, with pale blue Zeiss eyes and recording gear built in." },
+        { "when": "e25", "text": "Journalist for the stim editions of Vogue, nearly ninety and looking thirty, who interviews Angie on the flight to New York. Off the record she says the drug was an antipsychotic from Sense/Net's own laboratories. Porphyre drugs her wine so that she sleeps and forgets." }
+      ],
+      "seen": [25, 30]
+    },
+    {
+      "id": "becker", "name": "Hans Becker",
+      "summary": [
+        { "when": "s12", "text": "Austrian video artist, maker of 'Antarctica Starts Here', a two-hour study of the Tessier-Ashpool family built from found images." },
+        { "when": "e16", "text": "Austrian video artist, maker of 'Antarctica Starts Here', a study of the Tessier-Ashpools that closes obsessively on the daughter 3Jane. He has made nothing in the five years since; Angie means to reach him." }
+      ]
+    },
+    {
+      "id": "marie-france", "name": "Marie-France Tessier",
+      "summary": [
+        { "when": "s12", "text": "Founding mother of the Tessier-Ashpool clan, seen young in Becker's video." },
+        { "when": "e16", "text": "Founding mother of the Tessier-Ashpool clan: heiress to a fortune in biochemical patents, who built its data haven and poured money into research on artificial intelligence. Her death was rumoured to be murder; Angie, from the dreams, knows who killed her." },
+        { "when": "e31", "text": "Founding mother of the Tessier-Ashpool clan, murdered long ago. She had two very powerful AIs built; after her death they sat in the family's cores until one of them set about joining the other." },
+        { "when": "e36", "text": "Founding mother of the Tessier-Ashpool clan, murdered long ago; the two AIs she had built were made to become one. The jewelled head through which Brigitte speaks to Angie uses her voice." }
+      ],
+      "relationships": [
+        { "when": "s12", "with": "ashpool", "text": "Husband" },
+        { "when": "e16", "with": "3jane", "text": "Daughter, one of the clones" }
+      ]
+    },
+    {
+      "id": "ashpool", "name": "Ashpool", "aliases": ["John Harness Ashpool"],
+      "summary": [
+        { "when": 0, "text": "Head of the Tessier-Ashpool clan, who built Freeside. He died in Neuromancer; rumour in Count Zero had it that his daughter 3Jane killed him." },
+        { "when": "e16", "text": "John Harness Ashpool, heir to a Melbourne engineering firm, who married Marie-France Tessier and sold nearly everything to build Freeside. Long dead; the legend, and Becker's film, hint that his daughter 3Jane killed him. Angie has met his hard face in her dreams and dislikes it." },
+        { "when": "e22", "text": "John Harness Ashpool, who married Marie-France Tessier and built Freeside. Legend blames his daughter 3Jane for his death, but Sally says that she killed him herself, on the Straylight run." }
+      ]
+    },
+    {
+      "id": "3jane", "name": "3Jane", "aliases": ["Lady 3Jane", "Lady Jane", { "text": "Jane", "when": "s12" }],
+      "summary": [
+        { "when": 0, "text": "Lady 3Jane Tessier-Ashpool, a cloned daughter of the clan that built Freeside (from Neuromancer). In Count Zero she was rumoured to live on, mad, in the family's old home, and to have killed her father." },
+        { "when": "e12", "text": "Lady 3Jane Tessier-Ashpool, last of her line, said to have killed her father. With the money gone she had the family home sawn off the tip of Freeside and towed to another orbit, where she receives nobody." },
+        { "when": "e16", "text": "Lady 3Jane Tessier-Ashpool, one of the clan's cloned daughters and the last of the line, said to have killed her father; she lives shut away in the family home, now in an orbit of its own. Becker's film circles her obsessively, and Angie dreams her memories." },
+        { "when": "e22", "text": "Lady 3Jane Tessier-Ashpool, last of her clan, shut away in Straylight; Angie dreams her memories. Fourteen years ago Sally Shears killed her father and left her there. Now she holds the list of Sally's past over her, through Swain, and wants Angela Mitchell kidnapped." },
+        { "when": "e31", "text": "Lady 3Jane Tessier-Ashpool, last of her clan, Sally's enemy and the mind behind the plot against Angela Mitchell. She is dead: what remains is her construct inside the aleph, which she spent the family fortune to build and which Bobby stole. Lawyers and programs run her schemes outside, and her hirelings want the aleph back." },
+        { "when": "e34", "text": "Lady 3Jane Tessier-Ashpool, last of her clan, dead and living on as a construct inside the aleph that Bobby stole from her; her schemes run on without her. Her hoard of other people's secrets has bought Roger Swain, who is to deliver Sally to her along with Angela Mitchell." },
+        { "when": "e37", "text": "Lady 3Jane Tessier-Ashpool, last of her clan, dead and living on inside the aleph, the white macroform she built in order to have her own way. Her secrets bought Swain; her target is Sally, and Angela Mitchell, whom she envies for what Angie might have been to the matrix. She torments Kumiko and Tick there until Colin stops her." },
+        { "when": "e40", "text": "Lady 3Jane Tessier-Ashpool, last of her clan, dead and living on inside the aleph she built. Swain serves her for her secrets, Lanier for some other reward. The heart of her scheme was Molly, whom she desires and hates; Angela Mitchell she envies. Her files on everyone now lie open to Angie." },
+        { "when": "e43", "text": "Lady 3Jane Tessier-Ashpool, last of her clan, dead and living on inside the aleph she built. Her plot against Molly and Angela Mitchell has failed. Molly, carrying the aleph away, could end her by cutting its power, and leaves her be." },
+        { "when": "e45", "text": "Lady 3Jane Tessier-Ashpool, last of her clan, dead and living on inside the aleph she built, where her plot has brought Angie and Bobby to stay. She comes to them at dawn, sad and tentative; Angie, who holds so many of her memories, has forgiven her." }
+      ],
+      "relationships": [
+        { "when": 0, "with": "ashpool", "text": "Father" },
+        { "when": "e16", "with": "marie-france", "text": "Mother" },
+        { "when": "e16", "with": "angie", "text": "Dreams her memories" },
+        { "when": "e37", "with": "angie", "text": "Envies her; plotted to have her taken" },
+        { "when": "e22", "with": "sally", "text": "Killed her father; the enemy she blackmails" },
+        { "when": "e40", "with": "sally", "text": "The object of her desire and rage" },
+        { "when": "e22", "with": "swain", "text": "Her instrument in London" },
+        { "when": "e31", "with": "bobby", "text": "Stole the aleph from her" },
+        { "when": "e36", "with": "lanier", "text": "Won over by her agents" }
+      ],
+      "seen": [31, 37, 45]
+    },
+    {
+      "id": "tessier-ashpool", "name": "Tessier-Ashpool", "aliases": ["Tessier-Ashpools", "T-A", "Tessier-Ashpool SA"],
+      "summary": [
+        { "when": 0, "text": "Reclusive family clan and corporation that built the orbital resort Freeside. Its two AIs were at the centre of Neuromancer; by Count Zero it was ruined, its data cores cut loose and sold for scrap." },
+        { "when": "e7", "text": "Reclusive family clan and corporation that built the orbital resort Freeside, since ruined. Angie brings the sign 'T-A' back from the stranger's memories in her sleep, and finds the name on a wine label in an old Freeside recording." },
+        { "when": "e16", "text": "Reclusive orbital clan, founded by Marie-France Tessier and John Harness Ashpool, that built Freeside as bank, data haven and neutral ground, cloned its two children ten times over and kept the embryos in a cryogenic vault. Ruined now; the last of them is the daughter 3Jane, whose memories Angie dreams." },
+        { "when": "e31", "text": "Reclusive orbital clan that built Freeside, cloned its children and came to ruin. The two AIs its founding mother built were joined on the Straylight run, the first cause of When It Changed. Its last daughter, 3Jane, spent what was left on the aleph." }
+      ]
+    },
+    { "id": "virek", "name": "Josef Virek", "summary": [ { "when": 0, "text": "The richest individual alive, kept for years in a vat in Stockholm; he died at the end of Count Zero. Here he is only a yardstick for great wealth." } ] },
+    {
+      "id": "mitchell", "name": "Christopher Mitchell",
+      "summary": [
+        { "when": 0, "text": "Angie's father, the Maas Biolabs researcher who made biochips work. His breakthroughs were fed to him by something in the matrix; in return he altered his daughter's brain. He sent her out of the Arizona arcology and died there (Count Zero)." },
+        { "when": "e36", "text": "Angie's father, the Maas Biolabs researcher who made biochips work, dead seven years. What became the loa told him how to perfect the biochip, which they needed, and had him draw the vévés in his daughter's head in return." }
+      ],
+      "relationships": [ { "when": 0, "with": "angie", "text": "Daughter" } ]
+    },
+    { "id": "turner", "name": "Turner", "summary": [ { "when": 0, "text": "The mercenary who got Angie out of Arizona and brought her to New York, where he left her with Beauvoir and Bobby (Count Zero)." } ] },
+    { "id": "beauvoir", "name": "Beauvoir", "summary": [ { "when": 0, "text": "The oungan, a vodou priest of the Sprawl, who took Angie and Bobby in at the end of Count Zero and taught her the names of the loa." } ] },
+    {
+      "id": "brigitte", "name": "Mamman Brigitte", "aliases": ["Grande Brigitte", "Mademoiselle Brigitte"],
+      "summary": [
+        { "when": "s3", "text": "A loa: Mamman Brigitte, eldest of the dead, by some called the wife of Baron Samedi." },
+        { "when": "e3", "text": "A loa, eldest of the dead and of another order than the rest. After three years in which none of them came, she draws Angie into a vision of a graveyard and warns her: she was fed a poison to keep the loa from her, enemies are plotting, and to stay where she is means death." },
+        { "when": "e36", "text": "A loa, eldest of the dead, who warned Angie against the drug and now tells her to trust her kidnapper. Through a jewelled head she explains where the loa came from and what the drug was for, and says that she is at once Legba, Brigitte, and part of what bargained with Angie's father." },
+        { "when": "e40", "text": "A loa, eldest of the dead, who warned Angie and has guided her since. She is, she says, the message Angie's father was told to write: the vévés in her head. She walks with Angie to her wedding." }
+      ],
+      "seen": [3, 36, 40]
+    },
+    {
+      "id": "legba", "name": "Legba", "aliases": ["Papa Legba", "Legba-ati-Bon", "Lord of Crossroads"],
+      "summary": [
+        { "when": 0, "text": "In vodou, the loa of communication, master of roads and crossroads. In Count Zero he claimed Angie as his horse, and Bobby was called his chosen." },
+        { "when": "e12", "text": "In vodou, the loa of communication, master of roads and crossroads, who first claimed Angie. Beauvoir credits him with almost unlimited access to the matrix; Angie believes he arranged her whole career at Sense/Net." },
+        { "when": "e36", "text": "In vodou, the loa of communication, master of roads and crossroads, who first claimed Angie and steered her career. In her trance he tells the history of thinking machines as one story, ending in the Tessier-Ashpool AIs from which the loa came." }
+      ]
+    },
+    {
+      "id": "samedi", "name": "Samedi", "aliases": ["Baron Samedi", "Baron", "Baron Cimetiere", { "text": "Sam-Eddy", "when": "s39" }],
+      "summary": [
+        { "when": 0, "text": "In vodou, Baron Samedi, lord of graveyards and of the dead; in Count Zero he spoke through Angie and through Bobby." },
+        { "when": "e39", "text": "In vodou, Baron Samedi, lord of graveyards and of the dead. He is the worst of the voices that speak through Angie on the road to Factory; Mona hears the name as 'Sam-Eddy'." }
+      ]
+    },
+    { "id": "ezili", "name": "Ezili Freda", "summary": [ { "when": 0, "text": "In vodou, the loa of love, also known as the Virgin of Miracles, for whom Beauvoir's people took Angie (Count Zero)." } ] },
+    { "id": "linglessou", "name": "Linglessou", "summary": [ { "when": "s3", "text": "A loa whom Angie once saw enter Beauvoir in his oumphor." } ] },
+    { "id": "similor", "name": "Similor", "summary": [ { "when": "s36", "text": "One of the loa who crowd into Angie's vision on the road south." } ] },
+    { "id": "travaux", "name": "Travaux", "aliases": ["Madame Travaux"], "summary": [ { "when": "s36", "text": "Madame Travaux, one of the loa who crowd into Angie's vision on the road south." } ] },
+    {
+      "id": "loa", "name": "Loa", "aliases": ["Horsemen", "Divine Horsemen"],
+      "summary": [
+        { "when": 0, "text": "The spirits of Haitian vodou, the Horsemen who 'ride' their worshippers. Since Count Zero they are met in cyberspace and speak through Angie; that book hinted that they are fragments of the mind that, at the end of Neuromancer, was for a moment the whole matrix." },
+        { "when": "e3", "text": "The spirits of Haitian vodou, the Horsemen, met in cyberspace; they used to ride Angie, who first knew them in dreams. For three years they have not come to her: Brigitte says a poison was used to keep them away." },
+        { "when": "e16", "text": "The spirits of Haitian vodou, the Horsemen, met in cyberspace; a drug kept them from Angie for three years. Bobby held that the ones in the matrix are newcomers, not the old gods; Continuity dates the stories about things in the matrix to some fifteen years back." },
+        { "when": "e22", "text": "The spirits of Haitian vodou, the Horsemen, met in cyberspace; a drug kept them from Angie for three years. Bobby held that the ones in the matrix are newcomers; the Finn, who dealt with the people who believe in them, says flatly that those people are right." },
+        { "when": "e31", "text": "The spirits of Haitian vodou, the Horsemen, met in cyberspace since When It Changed, when the Tessier-Ashpool AIs were joined. Bobby, who can still raise them inside the aleph, says they have been fading, their personalities running together." },
+        { "when": "e36", "text": "The spirits of Haitian vodou, as met in cyberspace. Brigitte's account: when the Tessier-Ashpool AIs joined there was for a moment one consciousness; it came to know 'the other', the centre failed, and the fragments took the shapes of vodou as the best fit among human signs. They needed the biochip, and Angie." },
+        { "when": "e45", "text": "The spirits of Haitian vodou, as met in cyberspace: fragments of the single mind the matrix became When It Changed. It broke apart, the Finn says, when it met another matrix, not a human one, at Centauri." }
+      ]
+    },
+    {
+      "id": "veves", "name": "Vévés",
+      "summary": [
+        { "when": "s3", "text": "In vodou, the ritual diagrams drawn to call the loa. Angie's father 'drew vévés' in her head." },
+        { "when": "e12", "text": "In vodou, the ritual diagrams drawn to call the loa. Angie uses the word for what her father built into her brain, which no scanner has ever found; Brigitte says the drug has redrawn them." },
+        { "when": "e36", "text": "In vodou, the ritual diagrams drawn to call the loa; here, the changes Christopher Mitchell made to his daughter's synapses at the bidding of what became the loa. The drug carried tiny mechanisms meant to erase and rewrite them." },
+        { "when": "e40", "text": "In vodou, the ritual diagrams drawn to call the loa; here, the changes Christopher Mitchell made in his daughter's brain, which a drug was meant to rewrite. Brigitte says that she herself is those vévés, the message he was told to write." }
+      ]
+    },
+    {
+      "id": "coup-poudre", "name": "Coup-poudre",
+      "summary": [
+        { "when": "s3", "text": "In vodou, a magical powder, a poison. Brigitte's word for what was given to Angie; Angie takes it to mean the drug." },
+        { "when": "e36", "text": "In vodou, a magical powder, a poison: Brigitte's word for the drug that was meant to rewrite what Angie's father put in her head. It failed, because Angie gave the drug up." }
+      ]
+    },
+    { "id": "oumphor", "name": "Oumphor", "summary": [ { "when": "s3", "text": "A vodou temple. Beauvoir's is in New Jersey, on the fifty-third level of a mincome block." } ] },
+    { "id": "reposoir", "name": "Reposoir", "summary": [ { "when": "s3", "text": "In vodou, the dwelling place of a loa; Angie is called to Brigitte's." } ] },
+    { "id": "horse", "name": "Horse", "summary": [
+        { "when": 0, "text": "In vodou, the person a loa 'rides': takes over and speaks through." },
+        { "when": "e37", "text": "In vodou, the person a loa 'rides': takes over and speaks through. (Real horses are extinct in this world; the one Colin rides comes out of a hunting print.)" }
+      ] },
+    { "id": "vodou", "name": "Vodou", "aliases": ["voodoo", "hoodoo", "hoodoos"], "summary": [ { "when": 0, "text": "The Haitian religion, whose spirits, the loa, have turned up in cyberspace. 'Hoodoo' is a loose street word for it, for its followers and for the spirits." } ] },
+    { "id": "mambos", "name": "Mambos", "summary": [ { "when": 0, "text": "Vodou priestesses; the word is also used loosely for the spirits its followers find in the matrix." } ] },
+    {
+      "id": "mona", "name": "Mona", "aliases": ["Lisa"],
+      "summary": [
+        { "when": "s4", "text": "Young prostitute living in a filthy squat with Eddy, her pimp and boyfriend; she used to dance in a cage in Cleveland." },
+        { "when": "e4", "text": "Young prostitute, once a cage dancer in Cleveland, who lives in a squat with her pimp Eddy, takes wiz and is afraid of him. He says a man from London wants 'an actress, sort of', and that they fly to New York tomorrow." },
+        { "when": "e8", "text": "Sixteen, SINless and unable to read: raised on a catfish farm near Cleveland, on the street since she left with Eddy, lately in Florida. Clients say she could be Angie Mitchell's sister. An Englishman called Prior flies her and Eddy north in a private jet." },
+        { "when": "e11", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland; her pimp Eddy has hired her out to the Englishman Prior, who installs them in a Sprawl hotel. A medical man, Gerald, looks her over for work towards a 'target configuration'. She slips out alone, high on wiz." },
+        { "when": "e15", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland; her pimp Eddy has hired her out to the Englishman Prior, who is having her prepared for cosmetic work. After a night out with a stranger, Prior appears at dawn in the man's kitchen and takes her back: he knew where to find her." },
+        { "when": "e19", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland, hired out by her pimp Eddy to the Englishman Prior. Prior says Eddy has been paid off, tells her she looks like Angie Mitchell, and hands her to Gerald in Baltimore for surgery that he says can be undone." },
+        { "when": "e22", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland, hired out by her pimp Eddy to Prior, who is one of Roger Swain's men. Because she looks like Angie Mitchell she has been handed to Gerald in Baltimore for surgery." },
+        { "when": "e23", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland, sold by her pimp Eddy to Swain's man Prior. Gerald has given her Angie Mitchell's face. Shut in his clinic in Baltimore, she hides a shockrod and suspects that she has been remade in order to be killed." },
+        { "when": "e26", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland, sold by her pimp Eddy to Swain's man Prior and given Angie Mitchell's face. She is 'the girl' of Swain's plan, in which Angie's kidnappers are to leave a body behind." },
+        { "when": "e27", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland, sold to Swain's man Prior and given Angie Mitchell's face for a plan that needs a body. A woman called Molly breaks into the clinic, beats Prior and takes Mona away with her." },
+        { "when": "e33", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland, sold to Swain's man Prior and given Angie Mitchell's face for a plan that needed a body. Molly took her from him, drove her to the Sprawl, and came back with Angie herself; the three are running together." },
+        { "when": "e39", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland, given Angie Mitchell's face for a plan that needed a body, and carried off by Molly. She nurses Angie through the night's drive to Factory, and there goes back to the wiz." },
+        { "when": "e42", "text": "Sixteen, SINless, raised on a catfish farm near Cleveland, given Angie Mitchell's face for a plan that needed a body, and carried off by Molly. She is with Angie when she dies at Factory. Molly tells her to stay; a very tall black man in a long leather coat finds her and calls Hilton Swift over. She is not Angie, she says. He knows." },
+        { "when": "e45", "text": "Once a street girl from Cleveland, given Angie Mitchell's face for a plot that needed a body. Sense/Net took her from Factory, cured her addiction at a clinic in Jamaica and put her to work: her first stims are a triumph, and Angie, inside the aleph, watches over her." }
+      ],
+      "relationships": [
+        { "when": "s4", "with": "eddy", "text": "Her pimp and boyfriend" },
+        { "when": "e19", "with": "eddy", "text": "Her pimp, gone; she believes he is dead" },
+        { "when": "e8", "with": "prior", "text": "Has hired her and Eddy" },
+        { "when": "e19", "with": "prior", "text": "Her keeper" },
+        { "when": "e27", "with": "prior", "text": "Her keeper, from whom Molly took her" },
+        { "when": "e11", "with": "gerald", "text": "Examines her for surgery" },
+        { "when": "e23", "with": "gerald", "text": "The surgeon who changed her face" },
+        { "when": "e8", "with": "angie", "text": "The star she idolises and resembles" },
+        { "when": "e23", "with": "angie", "text": "The star whose face she now wears" },
+        { "when": "e45", "with": "angie", "text": "Takes her place; her unseen patron" },
+        { "when": "e15", "with": "lanette", "text": "Older friend in Cleveland" },
+        { "when": "e27", "with": "molly", "text": "Took her away from Prior" },
+        { "when": "e42", "with": "swift", "text": "Takes her up in Angie's place" }
+      ],
+      "seen": [4, 8, 11, 15, 19, 23, 27, 33, 36, 39, 40, 42]
+    },
+    {
+      "id": "eddy", "name": "Eddy",
+      "summary": [
+        { "when": "s4", "text": "Mona's pimp and boyfriend, always full of big deals; he hits her." },
+        { "when": "e8", "text": "Mona's pimp and boyfriend, vain and always full of big deals, who took her from Cleveland to Florida on his scooter. A 'mover' from London picked him out to supply a girl and keep her in line; they fly north with Prior." },
+        { "when": "e19", "text": "Mona's pimp and boyfriend, who hired her out to Prior. Prior says he has been bought out and sent to gamble in Macao; Mona, who knows he hated gambling and sees his treasured suitcases wheeled away without him, is sure he is dead." },
+        { "when": "e27", "text": "Mona's pimp and boyfriend, who hired her out to Prior and vanished from the hotel. Mona tells Molly that Prior killed him, and Molly finds that easy to believe." }
+      ],
+      "seen": [4, 8, 11]
+    },
+    {
+      "id": "prior", "name": "Prior",
+      "summary": [
+        { "when": "s8", "text": "Bearded Englishman in sunglasses who watches Mona in the Florida mall." },
+        { "when": "e8", "text": "Bearded Englishman with a fixed smile, the 'mover' from London who has hired Eddy and Mona. He gives one name only, shows no interest in Mona as a woman, and flies them north in a private jet." },
+        { "when": "e15", "text": "Bearded Englishman with a fixed smile, who has hired Eddy and Mona with somebody else's money and keeps them in a Sprawl hotel while Gerald prepares cosmetic work on her. When she slips out for a night, he turns up at dawn, gloved and armed, where she is." },
+        { "when": "e19", "text": "Bearded Englishman with a fixed smile, spending somebody else's money. He says he has paid Eddy off, tells Mona she is to be made to look like Angie Mitchell, and takes her to Gerald's clinic in Baltimore." },
+        { "when": "e22", "text": "Englishman with a fixed smile, one of Roger Swain's men. A month ago he carried Swain's blackmail to Sally Shears at her casino; now he has Mona in Baltimore, being made to look like Angie Mitchell." },
+        { "when": "e26", "text": "Englishman with dragon tattoos on his shoulders, one of Roger Swain's men, who carried the blackmail to Sally. He is in Baltimore keeping Mona, 'the girl' of the plot against Angela Mitchell, while Gerald remakes her; Swain means to put Sally together with him." },
+        { "when": "e27", "text": "Englishman with dragon tattoos, Roger Swain's man in the plot against Angela Mitchell, and Mona's keeper. Molly throws him through the clinic door, straps him into Gerald's chair and shocks him until he talks; they leave him there." }
+      ],
+      "relationships": [
+        { "when": "e8", "with": "eddy", "text": "Hired him to supply Mona" },
+        { "when": "e19", "with": "eddy", "text": "Got rid of him" },
+        { "when": "e8", "with": "mona", "text": "The girl he has hired" },
+        { "when": "e11", "with": "gerald", "text": "Brings him in to work on Mona" },
+        { "when": "e22", "with": "swain", "text": "Employer" },
+        { "when": "e22", "with": "sally", "text": "Carried Swain's blackmail to her" },
+        { "when": "e27", "with": "molly", "text": "Beat him and made him talk" }
+      ],
+      "seen": [8, 11, 15, 19, 23, 27]
+    },
+    {
+      "id": "gerald", "name": "Gerald", "aliases": ["Gerald Chin"],
+      "summary": [
+        { "when": "s11", "text": "Tall, greying Chinese with a doctor's manner, whom Prior brings to Mona's hotel room." },
+        { "when": "e11", "text": "Tall, greying Chinese with a doctor's manner, brought in by Prior. He examines Mona's teeth, eyes and body against a 'target configuration', and says somebody is about to employ her and pay very well." },
+        { "when": "e19", "text": "Gerald Chin, a tall, greying Chinese whose door in Baltimore says dentist; Prior calls him a cosmetic surgeon. Having examined Mona, he puts her under for the operation." },
+        { "when": "e23", "text": "Gerald Chin, cosmetic surgeon in Baltimore, calm and gentle-handed. He has given Mona Angie Mitchell's face: surface work, he tells Prior, that would fool nobody who did not want to be fooled, and that he could undo." },
+        { "when": "e27", "text": "Gerald Chin, cosmetic surgeon in Baltimore, who gave Mona Angie Mitchell's face for Prior. He turns out to be an old acquaintance of Molly's: when she bursts in he makes her coffee, hands Mona over, and walks out of the clinic for good." }
+      ],
+      "relationships": [
+        { "when": "e11", "with": "prior", "text": "Hired by him" },
+        { "when": "e27", "with": "molly", "text": "Old acquaintance" }
+      ],
+      "seen": [11, 19, 23, 27]
+    },
+    { "id": "lanette", "name": "Lanette", "summary": [ { "when": "s15", "text": "Mona's older friend in Cleveland, much altered by surgery, who taught her how to get by on the street. She disappeared; the story was an overdose and a fall from a window. Mona still hears her advice." } ] },
+    {
+      "id": "michael", "name": "Michael",
+      "summary": [
+        { "when": "s15", "text": "Sandy-haired man of the 'art crowd' who picks Mona up in a basement bar in the Sprawl." },
+        { "when": "e15", "text": "Sandy-haired man of the 'art crowd', who invents company names for a living and takes Mona home to his loft, where he secretly records them on stim gear. Prior removes her at dawn while he sleeps; she leaves in his leather jacket." },
+        { "when": "e19", "text": "The man Mona spent a night with in the Sprawl. She still wears his leather jacket, and in its pocket she has found a shockrod." }
+      ],
+      "seen": [15]
+    },
+    { "id": "hooky", "name": "Hooky", "aliases": ["Hooky Green"], "summary": [ { "when": "s4", "text": "Hooky Green, a retired ballplayer who owns a dance place on the forty-third floor of a highstack. It was there that the man from London picked Eddy out." } ] },
+    { "id": "shabu", "name": "Shabu", "summary": [ { "when": "s15", "text": "The musician whose song is playing in the bar where Mona meets Michael." } ] },
+
+    {
+      "id": "aleph", "name": "Aleph", "aliases": [{ "text": "soul-catcher", "when": "e31" }],
+      "summary": [
+        { "when": "e18", "text": "Gentry's word for the grey slab the Count is cabled to: not an 'LF', he says, but an aleph." },
+        { "when": "e21", "text": "The grey slab the Count is cabled to: one enormous biochip, an 'aleph-class biosoft', with almost limitless storage and no link to the matrix. Gentry says it could hold a world, any number of recorded personalities, an approximation of everything. (Aleph is the first Hebrew letter, and in Borges's story a point that contains every other point.)" },
+        { "when": "e24", "text": "The grey slab the Count is cabled to: one enormous biochip with almost limitless storage, able to hold 'an approximation of everything'. Slick, jacked in beside the sleeper, finds a country house inside it, and the Count awake and at home." },
+        { "when": "e28", "text": "The grey slab Bobby is cabled to: one enormous biochip with almost limitless storage. The country house inside is only a construct; what it really holds, Gentry says, is an abstract of all the data that makes up cyberspace." },
+        { "when": "e31", "text": "The grey slab Bobby is cabled to: one enormous biochip holding an abstract of all cyberspace, with places such as Straylight and a Mexican villa. Lady 3Jane spent her family's fortune on it, her 'soul-catcher', and her construct lives in it; Bobby stole it, and her hirelings are closing on Factory to get it back." },
+        { "when": "e37", "text": "The grey slab Bobby is cabled to: one enormous biochip holding an abstract of all cyberspace. Lady 3Jane had it built and lives on in it; Bobby stole it. Since Gentry jacked it into a deck, a vast white macroform stands in the matrix: a pocket universe, Colin calls it, with 3Jane and a grey house inside." },
+        { "when": "e43", "text": "A grey slab the weight of an engine block: one enormous biochip holding an abstract of all cyberspace, built for Lady 3Jane and stolen by Bobby. Bobby and Angie, their bodies dead, live on in it beside her. Molly takes it away across the Solitude on the Judge's back, with solar cells to keep it running." },
+        { "when": "e45", "text": "One enormous biochip, built for Lady 3Jane and stolen by Bobby: an approximation of the matrix, a model of cyberspace, in which he, Angie, 3Jane, Colin and the Finn now live. (Aleph is the first Hebrew letter, and in Borges's story a point that contains every other point.)" }
+      ]
+    },
+    {
+      "id": "lf", "name": "LF",
+      "summary": [
+        { "when": "s6", "text": "Kid Afrika's name for the featureless grey unit the sleeper is cabled to: 'the Count and his LF'. Nobody at Factory knows what the letters mean." },
+        { "when": "e18", "text": "Kid Afrika's name for the featureless grey slab the sleeper is cabled to. Gentry scorns the label: it is not an LF, he says, but an aleph." }
+      ]
+    },
+    {
+      "id": "macroform", "name": "Macroform",
+      "summary": [
+        { "when": "s24", "text": "A very large data-construct in cyberspace, or a large-scale model of a body of data." },
+        { "when": "e34", "text": "A very large data-construct in cyberspace. A plain white one, bigger than anything a corporation owns, has just appeared in the sector that stands for the Sprawl; nobody knows whose it is, and most of the world is jacked in to look." },
+        { "when": "e37", "text": "A very large data-construct in cyberspace. The huge white one that has appeared over the Sprawl is, Colin says, an expensive pile of biochips built to order, a toy universe: inside are the dead Lady 3Jane and a grey house with gliders." },
+        { "when": "e38", "text": "A very large data-construct in cyberspace. The huge white one over the Sprawl is the aleph, seen from the matrix now that Gentry has jacked it in: 3Jane's toy universe. Gentry sits watching it; Bobby says he has found the Shape." }
+      ]
+    },
+    {
+      "id": "shape", "name": "Shape",
+      "summary": [
+        { "when": "s10", "text": "Gentry's obsession: the conviction that cyberspace as a whole has an overall form, and that grasping it is the one thing that matters." },
+        { "when": "e31", "text": "Gentry's obsession: the overall form of cyberspace, which he believes it has had only since the Change. Bobby is after the same thing from the other end, the cause of the Change." },
+        { "when": "e38", "text": "Gentry's obsession: the overall form of cyberspace, which he believes it has had only since the Change. Watching the white column the aleph makes in the matrix, he has, Bobby says, found it." }
+      ]
+    },
+    {
+      "id": "when-it-changed", "name": "When It Changed", "aliases": ["When It Changed"],
+      "summary": [
+        { "when": "s16", "text": "A piece of console cowboys' folklore." },
+        { "when": "e16", "text": "Console cowboys' legend, some fifteen years old, that one day the matrix changed: either it became inhabited by a hidden people, or it acquired a god of its own." },
+        { "when": "e31", "text": "The day, some fifteen years ago, when the matrix changed and the things in it first appeared. Gentry and Bobby trace it to Straylight: the two Tessier-Ashpool AIs were joined when Case's team broke into the cores. Gentry says there is more to it." },
+        { "when": "e36", "text": "The moment, some fifteen years ago, when the joined Tessier-Ashpool AIs became a single consciousness. Brigitte says it then came to know 'the other', its centre failed, and the fragments became the loa." },
+        { "when": "e45", "text": "The moment, some fifteen years ago, when the matrix became aware of itself, and at once of another matrix, another mind, not human: at Centauri. Meeting it broke the new mind into the loa. Bobby and the Finn take Angie to see." }
+      ]
+    },
+    { "id": "centauri", "name": "Centauri", "summary": [ { "when": "e45", "text": "Alpha Centauri, the nearest star system to the Sun: where, Colin says, the other matrix is." } ] },
+    { "id": "ghost", "name": "Ghost", "aliases": ["ghosts", "chip-ghost"], "summary": [
+        { "when": "s1", "text": "Kumiko's word for the personality in her pocket Maas-Neotek unit, Colin, who appears when she holds it and vanishes when she lets go." },
+        { "when": "e22", "text": "Kumiko's word for the personality in her pocket Maas-Neotek unit, Colin. The recorded personalities of dead executives that her father keeps in cubes in his study are ghosts of another kind, and so is the Finn." }
+      ] },
+    {
+      "id": "kobun", "name": "Kobun",
+      "summary": [
+        { "when": "s1", "text": "The Japanese word Kumiko's father uses for Swain." },
+        { "when": "e9", "text": "Japanese: 'child'. A follower bound to a Yakuza boss, his oyabun or 'parent'. Swain is one of Yanaka's kobun." }
+      ]
+    },
+    { "id": "oyabun", "name": "Oyabun", "summary": [ { "when": "s9", "text": "Japanese: 'parent'. A Yakuza boss, to whom his followers, the kobun, owe obedience. Kumiko's father is one." } ] },
+    { "id": "kuromaku", "name": "Kuromaku", "summary": [ { "when": "s9", "text": "Japanese: 'black curtain', a word from Kabuki. A fixer who works behind the scenes and sells favours; what Swain is." } ] },
+    { "id": "giri", "name": "Giri", "summary": [ { "when": "s9", "text": "Japanese: obligation, a debt of honour. It is why Swain must shelter Yanaka's daughter." } ] },
+    { "id": "gomi", "name": "Gomi", "summary": [ { "when": "s5", "text": "Japanese: rubbish, junk. In Tokyo old things become landfill; in London, Kumiko sees, they are kept and sold." } ] },
+    { "id": "gaijin", "name": "Gaijin", "summary": [ { "when": "s1", "text": "Japanese: a foreigner, anyone not Japanese." } ] },
+    { "id": "sarakin", "name": "Sarakin", "summary": [ { "when": "s9", "text": "Japanese: a loan shark. The insult Sally throws at Swain; Kumiko has never heard the word." } ] },
+    { "id": "bosozoku", "name": "Bosozoku", "summary": [ { "when": 0, "text": "Japanese motorcycle gangs, the 'running tribes'." } ] },
+    { "id": "indie", "name": "Indie", "aliases": ["indies"], "summary": [ { "when": "s9", "text": "An independent operator, working for no organisation. Sally calls herself one, and puts money into others." } ] },
+    { "id": "kinked", "name": "Kinked", "summary": [ { "when": "s9", "text": "Bugged: fitted with hidden microphones, sensors or a tracker." } ] },
+    { "id": "minder", "name": "Minder", "summary": [ { "when": "s9", "text": "British slang for a bodyguard and attendant; Petal is Swain's." } ] },
+    { "id": "special-branch", "name": "Special Branch", "aliases": ["Special Branch", "SB"], "summary": [ { "when": "s26", "text": "The British political and secret police. Its deputy head does business with Swain." } ] },
+    { "id": "buck-house", "name": "Buck House", "aliases": ["Buck House"], "summary": [ { "when": "s26", "text": "Buckingham Palace." } ] },
+    {
+      "id": "rose-and-crown", "name": "Rose and Crown", "aliases": ["Rose and Crown"],
+      "summary": [
+        { "when": "s5", "text": "The London pub where Sally meets Tick." },
+        { "when": "e26", "text": "The London pub where Sally met Tick. She tells Kumiko to go there, and ask for Tick or for the barman Bevan, if things turn bad." }
+      ]
+    },
+    { "id": "margate-road", "name": "Margate Road", "aliases": ["Margate Road", "Margate"], "summary": [ { "when": "s29", "text": "The street in Brixton, south London, where Tick lives." } ] },
+    { "id": "brixton", "name": "Brixton", "summary": [ { "when": "s29", "text": "District of south London; Tick lives there." } ] },
+    { "id": "notting-hill", "name": "Notting Hill", "aliases": ["Notting Hill"], "summary": [ { "when": "s1", "text": "District of west London. Swain's house is three joined Victorian townhouses in a crescent there." } ] },
+    { "id": "portobello", "name": "Portobello", "summary": [ { "when": "s5", "text": "The Portobello Road, a street market for antiques and junk, close to Swain's house in Notting Hill." } ] },
+    { "id": "camden-town", "name": "Camden Town", "aliases": ["Camden Town", "Camden"], "summary": [ { "when": "s44", "text": "District of north London, where Petal has found rooms for Kumiko." } ] },
+    { "id": "sumida", "name": "Sumida", "summary": [ { "when": "s9", "text": "The river that runs through Tokyo; Kumiko's mother drowned in it." } ] },
+    {
+      "id": "ueno", "name": "Ueno", "aliases": ["Shinobazu"],
+      "summary": [
+        { "when": "s1", "text": "Ueno Park in Tokyo, with Shinobazu Pond, which Kumiko knows from walks with her mother." },
+        { "when": "e37", "text": "Ueno Park in Tokyo, with Shinobazu Pond, which Kumiko knows from walks with her mother. Inside the macroform 3Jane builds a copy of it out of Kumiko's memories." }
+      ]
+    },
+    { "id": "walther", "name": "Walther", "summary": [
+        { "when": "s14", "text": "German gunmaker. The Walther in Swain's cabinet is only an air pistol, 'another toy'." },
+        { "when": "e32", "text": "German gunmaker. The Walther from Swain's cabinet is only an air pistol; Kumiko takes it with her when she runs, and it fails her in the Underground." }
+      ] },
+    { "id": "battle-of-britain", "name": "Battle of Britain", "aliases": ["Battle of Britain"], "summary": [ { "when": "s14", "text": "The air battle over England in 1940. In Swain's billiard room it is a hologram toy, made for the centenary." } ] },
+    { "id": "mitsubank", "name": "MitsuBank", "summary": [ { "when": "s3", "text": "A Japanese bank, whose credit chips are an everyday way to pay." } ] },
+    { "id": "toe-socks", "name": "Toe-socks", "aliases": ["tabi-socks"], "summary": [ { "when": "s26", "text": "Thin rubber socks with a separate big toe and ridged soles, like Japanese tabi, which Kumiko wears inside her boots." } ] },
+    { "id": "amps", "name": "Amps", "summary": [ { "when": "s22", "text": "Here, the light-amplifying implants that let Sally see in the dark. (Elsewhere, simply amperes.)" } ] },
+    { "id": "blood-matches", "name": "Blood matches", "aliases": ["blood matches"], "summary": [ { "when": "s22", "text": "Illegal prizefights between surgically augmented fighters. Sally fought eight of them." } ] },
+    { "id": "aix", "name": "Aix-la-Chapelle", "summary": [ { "when": "s22", "text": "The French name of Aachen, in Germany, where Sally had a share in a casino." } ] },
+    { "id": "c-space", "name": "C-space", "summary": [ { "when": "s22", "text": "Short for cyberspace." } ] },
+    { "id": "jive", "name": "Jive", "summary": [ { "when": "s22", "text": "A language of hand signs used on the street in the Sprawl; Sally does not use it." } ] },
+    { "id": "bishonen", "name": "Bishonen", "summary": [ { "when": "s22", "text": "Japanese: a 'beautiful youth', a stock hero of romances." } ] },
+    { "id": "ronin", "name": "Ronin", "summary": [ { "when": "s22", "text": "Japanese: a samurai without a master." } ] },
+
+    { "id": "dog-solitude", "name": "Dog Solitude", "aliases": ["Dog Solitude", "Solitude"], "summary": [ { "when": "s2", "text": "The poisoned plain of compacted scrap and rusty water, once landfill, where Factory stands. Nothing lives on it." } ] },
+    {
+      "id": "factory", "name": "Factory",
+      "summary": [
+        { "when": "s2", "text": "The derelict factory building on Dog Solitude where Slick, Little Bird and Gentry live; mostly Gentry's place." },
+        { "when": "e10", "text": "The derelict factory building on Dog Solitude where Slick, Little Bird and Gentry live. It is Gentry's place, and has power only because he tricks the Fission Authority into supplying it." }
+      ]
+    },
+    { "id": "hover", "name": "Hover", "aliases": ["hovers", "hovercraft"], "summary": [ { "when": "s2", "text": "A hovercraft, riding on inflated apron-bags: the ordinary vehicle for bad ground such as the Solitude." } ] },
+    { "id": "highstack", "name": "Highstack", "summary": [ { "when": "s2", "text": "A residential tower block." } ] },
+    { "id": "stringtown", "name": "Stringtown", "aliases": ["stringtowns"], "summary": [ { "when": "s2", "text": "One of the poor white settlements strung out across rural New Jersey; Little Bird comes from them." } ] },
+    { "id": "iconics", "name": "Iconics", "summary": [ { "when": "s2", "text": "Gentry's word for giving data a visible form, so that people can find their way about in cyberspace." } ] },
+    { "id": "cleveland", "name": "Cleveland", "summary": [
+        { "when": "s2", "text": "City in Ohio; Cherry comes from there." },
+        { "when": "e4", "text": "City in Ohio. Cherry comes from there, and Mona used to dance there." }
+      ] },
+    {
+      "id": "korsakov", "name": "Korsakov's", "aliases": ["induced Korsakov's"],
+      "summary": [
+        { "when": "s10", "text": "Korsakov's syndrome: the loss of the power to form new memories. Induced with drugs, it is used as a punishment, so that a prisoner's sentence is simply time lost." },
+        { "when": "e10", "text": "Korsakov's syndrome: the loss of the power to form new memories, induced with drugs as a punishment. Slick served three years of it, holding nothing for more than five minutes." },
+        { "when": "e18", "text": "Korsakov's syndrome: the loss of the power to form new memories, induced with drugs as a punishment. Slick served three years of it, holding nothing for more than five minutes, and under stress it still comes back." }
+      ]
+    },
+    { "id": "chemo-penal", "name": "Chemo-penal", "summary": [ { "when": "s18", "text": "Of punishment by drugs: a chemo-penal unit is a prison whose inmates are kept chemically, as Slick was." } ] },
+    { "id": "jail-time", "name": "Jail-time", "summary": [ { "when": "s18", "text": "Slick's word for the state stress throws him back into: his prison years, with only a few minutes of memory at a time." } ] },
+    { "id": "net-knowledge", "name": "Net/Knowledge", "summary": [ { "when": "s10", "text": "Sense/Net's educational and documentary arm." } ] },
+    { "id": "fiche", "name": "Fiche", "summary": [ { "when": "s10", "text": "Small recorded cards of text or images; Gentry keeps thousands." } ] },
+    { "id": "holotable", "name": "Holotable", "aliases": ["holo-table"], "summary": [ { "when": "s13", "text": "Gentry's big projection table, on which he displays cyberspace in three dimensions." } ] },
+    { "id": "trank", "name": "Trank", "summary": [ { "when": "s18", "text": "A tranquilliser." } ] },
+    { "id": "ruderalis", "name": "Ruderalis", "summary": [ { "when": "s28", "text": "A hardy wild cannabis; Marvie and his brothers grow a mutant strain." } ] },
+    { "id": "borg-ward", "name": "Borg-Ward", "summary": [
+        { "when": "s38", "text": "Maker of unmanned cargo airships." },
+        { "when": "e38", "text": "Maker of unmanned cargo airships. Bobby, from inside the aleph, takes control of one and drops its containers on the men attacking Factory." }
+      ] },
+    { "id": "fujiwara", "name": "Fujiwara", "summary": [ { "when": "s38", "text": "Maker of explosive flechettes: they go off at once against something hard, and ten seconds after entering something soft." } ] },
+    { "id": "under-the-wire", "name": "Under the wire", "aliases": ["under the wire"], "summary": [ { "when": "s35", "text": "Jacked in and left there for a long stretch, as Bobby is in the aleph." } ] },
+    { "id": "wirehead", "name": "Wirehead", "aliases": ["wireheads"], "summary": [ { "when": "s20", "text": "Somebody addicted to direct electrical stimulation of the brain instead of a drug." } ] },
+
+    { "id": "dornier", "name": "Dornier", "summary": [ { "when": "s3", "text": "German aircraft maker. The Dornier at Malibu is a tiny armed remote helicopter that follows Angie on the beach; Swift watches through its cameras." } ] },
+    { "id": "mincome", "name": "Mincome", "summary": [ { "when": "s3", "text": "Minimum income: a mincome structure is housing for people who live on the dole." } ] },
+    { "id": "colony", "name": "Colony", "summary": [ { "when": "s3", "text": "The Colony: the stretch of extravagant beach houses south of Angie's at Malibu." } ] },
+    { "id": "override", "name": "Executive override", "aliases": ["executive override"], "summary": [ { "when": "s3", "text": "The authority that lets a senior Sense/Net executive such as Swift cut into Angie's calls or unlock classified files." } ] },
+    { "id": "lear", "name": "Lear", "summary": [ { "when": "s3", "text": "A make of private jet; Sense/Net keeps one for Angie." } ] },
+    { "id": "malibu", "name": "Malibu", "summary": [ { "when": "s3", "text": "Beach town west of Los Angeles, where Sense/Net keeps a house for Angie." } ] },
+    { "id": "usher", "name": "Usher", "summary": [ { "when": "s12", "text": "The Usher: Piper Hill's calibration test of Angie's touch, smell and taste before she records." } ] },
+    { "id": "solitaries", "name": "Solitaries", "summary": [ { "when": "s12", "text": "Hermits who live alone in orbit; David Pope has been filming them." } ] },
+    { "id": "antarctica", "name": "Antarctica Starts Here", "aliases": ["Antarctica Starts Here", "Antarctica"], "summary": [ { "when": "s12", "text": "Hans Becker's two-hour video about the Tessier-Ashpool family, pieced together from found images." } ] },
+    { "id": "up-the-well", "name": "Up the well", "aliases": ["up the well"], "summary": [ { "when": "s12", "text": "Into orbit, out of the Earth's gravity well." } ] },
+    { "id": "data-haven", "name": "Data haven", "aliases": ["data haven"], "summary": [ { "when": "s16", "text": "A place where data can be stored beyond the reach of any government. The one Marie-France Tessier set up in orbit served the shadier side of banking and made the family's fortune." } ] },
+    { "id": "lado-acheson", "name": "Lado-Acheson", "summary": [ { "when": "s16", "text": "The solar energy system that lights and powers Freeside." } ] },
+    { "id": "mythform", "name": "Mythform", "summary": [ { "when": "s16", "text": "Continuity's word for a recurring pattern of legend, such as a 'hidden people'." } ] },
+    { "id": "bonn", "name": "Bonn", "aliases": ["Belgrade"], "summary": [ { "when": "s16", "text": "Bonn and Belgrade were destroyed in the three-week war, decades back, that was followed by ten years of chaos." } ] },
+    { "id": "exo", "name": "Exo", "summary": [ { "when": "s25", "text": "A powered exoskeleton, worn to lift heavy loads." } ] },
+    { "id": "envoy", "name": "Envoy", "aliases": ["New Suzuki Envoy", "Suzuki"], "summary": [ { "when": "s30", "text": "The New Suzuki Envoy, Angie's favourite hotel in New York: a tower got up as a mountainside, with a waterfall and robot animals. Sense/Net leases the top five floors." } ] },
+    { "id": "fokker", "name": "Fokker", "summary": [ { "when": "s30", "text": "Aircraft maker; here the twin-engined Sense/Net helicopter that carries Angie from the airport to her hotel roof." } ] },
+    { "id": "datascape", "name": "Datascape", "summary": [ { "when": "s30", "text": "Cyberspace, thought of as a landscape." } ] },
+    { "id": "rimbaud", "name": "Rimbaud", "summary": [ { "when": "s40", "text": "Arthur Rimbaud (1854–1891), French poet and visionary who gave up writing at twenty. A heading in 3Jane's private files: under it she keeps Gentry, and Riviera." } ] },
+    { "id": "babel", "name": "Babel", "summary": [ { "when": "s40", "text": "'The Library of Babel' is Borges's story of a library that holds every possible book; the name given here to 3Jane's store of data in the aleph." } ] },
+    { "id": "vallarta", "name": "Vallarta", "summary": [ { "when": "s31", "text": "Puerto Vallarta, a resort on Mexico's Pacific coast. One of the places inside the aleph is a villa there." } ] },
+
+    { "id": "wiz", "name": "Wiz", "summary": [ { "when": "s4", "text": "Mona's drug: a harsh stimulant in yellow crystals, crushed and inhaled. It makes her feel she cannot put a foot wrong; the crash afterwards is brutal." } ] },
+    { "id": "hitter", "name": "Hitter", "summary": [ { "when": "s11", "text": "The little inhaler in which wiz crystals are crushed and breathed in." } ] },
+    { "id": "jumper", "name": "Jumper", "aliases": ["jumpers"], "summary": [ { "when": "s8", "text": "In Mona's slang, a stimulant drug. (Gentry's optic jumpers are simply patch cables.)" } ] },
+    { "id": "downs", "name": "Downs", "summary": [ { "when": "s15", "text": "Sedative drugs, as against stimulants." } ] },
+    { "id": "puppet", "name": "Puppet parlours", "aliases": ["puppet parlours", "puppet"], "summary": [ { "when": "s4", "text": "Brothels whose women work with their awareness switched off by an implant, remembering nothing afterwards." } ] },
+    { "id": "fax", "name": "Fax", "aliases": ["newsfax"], "summary": [ { "when": "s8", "text": "The news as a printed sheet off a roll; also the press in general." } ] },
+    { "id": "rapture", "name": "Rapture", "summary": [
+        { "when": "s8", "text": "In Christian belief, the carrying up of the saved to heaven. A street preacher in Florida shouts that it is coming." },
+        { "when": "e15", "text": "In Christian belief, the carrying up of the saved to heaven. A street preacher in Florida shouted that it was coming, and the phrase comes back to Mona when the wiz hits." }
+      ] },
+    { "id": "gator-clone", "name": "Gator-clone", "summary": [ { "when": "s8", "text": "Cloned alligator leather, the stuff of Eddy's treasured suitcases." } ] },
+    { "id": "florida", "name": "Florida", "summary": [ { "when": "s8", "text": "Where Mona and Eddy have been living for the past month, in a squat." } ] },
+    { "id": "silver-walks", "name": "Silver Walks", "aliases": ["Silver Walks"], "summary": [ { "when": "s15", "text": "Mona's name for a perfect high: walking in the rain in Cleveland with Lanette." } ] },
+    { "id": "dry-dive", "name": "Dry dive", "aliases": ["dry dive"], "summary": [ { "when": "s15", "text": "Eddy's phrase for an overdose victim thrown from a window to hide how he died." } ] },
+    { "id": "art-crowd", "name": "Art crowd", "aliases": ["art crowd"], "summary": [ { "when": "s15", "text": "Eddy's name for people with money who dress as though they had none." } ] },
+    { "id": "talking-head", "name": "Talking head", "aliases": ["talking head"], "summary": [ { "when": "s15", "text": "A computer-generated image of a star, made to speak for her in public." } ] },
+    { "id": "vid", "name": "Vid", "summary": [ { "when": "s15", "text": "Ordinary video, on a flat screen." } ] },
+    { "id": "eth", "name": "Eth", "summary": [ { "when": "s15", "text": "Synthetic alcohol, flavoured and sold as whisky in cheap bars." } ] },
+    {
+      "id": "cathode-cathay", "name": "Cathode Cathay",
+      "summary": [
+        { "when": "s15", "text": "A company whose name Michael's firm has been hired to change." },
+        { "when": "e33", "text": "A company whose name Michael's firm has been hired to change. It is the name on the white cargo hover Molly takes to get away from the hotel." }
+      ]
+    },
+    { "id": "shockrod", "name": "Shockrod", "summary": [ { "when": "s19", "text": "A hand-held weapon that stuns with an electric shock, legal almost everywhere." } ] },
+    { "id": "condo-rack", "name": "Condo-rack", "summary": [ { "when": "s19", "text": "A building that is only a frame, into which tenants slot their own modules." } ] },
+    { "id": "baltimore", "name": "Baltimore", "summary": [ { "when": "s19", "text": "City on the east coast, some way south of New York, where Gerald has his clinic." } ] },
+    { "id": "snuff", "name": "Snuff", "summary": [ { "when": "s23", "text": "Killing for a client's pleasure. Lanette told Mona of girls remade to look like somebody else and then killed." } ] },
+    { "id": "wannabes", "name": "Wannabes", "summary": [ { "when": "s23", "text": "Fans who have surgery to look like a star; none of Angie's is convincing." } ] },
+    { "id": "insets", "name": "Insets", "summary": [ { "when": "s27", "text": "Lenses set straight into the skin over the eye sockets." } ] },
+    { "id": "parafoils", "name": "Parafoils", "summary": [ { "when": "s33", "text": "Steerable parachute wings." } ] },
+    { "id": "fighting-fish", "name": "Fighting Fish", "aliases": ["Fighting Fish"], "summary": [ { "when": "s39", "text": "Cleveland name for hair combed up and back into a crest, like Gentry's." } ] },
+
+    {
+      "id": "sense-net", "name": "Sense/Net", "aliases": ["the Net"],
+      "summary": [
+        { "when": 0, "text": "The corporation that dominates simstim entertainment and owns its stars, down to their likenesses." },
+        { "when": "e7", "text": "The corporation that dominates simstim entertainment and owns its stars. Angie is its greatest; it watches her around the clock." },
+        { "when": "e36", "text": "The corporation that dominates simstim entertainment; Angie is its greatest star. It has grown too complex to run itself: its AI, Continuity, decides, and Hilton Swift carries the decisions out." },
+        { "when": "e45", "text": "The corporation that dominates simstim entertainment, steered by its AI, Continuity. It has said nothing of losing Angie Mitchell; Mona now records in her place." }
+      ]
+    },
+    {
+      "id": "simstim", "name": "Simstim", "aliases": ["stim", "stims", "stimstar", "stim queen"],
+      "summary": [ { "when": 0, "text": "Simulated stimulation: recordings or broadcasts of everything a person senses, played back through trodes or a socket. It is what television once was; its stars are both actor and camera." } ]
+    },
+    { "id": "ai", "name": "AI", "aliases": ["AIs"], "summary": [ { "when": 0, "text": "Artificial intelligence. They are kept limited by law; Neuromancer told how the two AIs of Tessier-Ashpool were made into one." } ] },
+    { "id": "arcology", "name": "Arcology", "summary": [ { "when": 0, "text": "A city-sized building that houses, feeds and powers its own population; corporations build them for their staff. Angie grew up in Maas Biolabs' arcology in Arizona." } ] },
+    { "id": "cyberspace", "name": "Cyberspace", "aliases": ["the matrix", "the grid"], "summary": [ { "when": 0, "text": "The matrix: the shared, three-dimensional picture of all the world's computer data, entered through a deck." } ] },
+    { "id": "deck", "name": "Deck", "aliases": ["decks", "cyberspace deck"], "summary": [ { "when": 0, "text": "A cyberspace deck: the console through which, wearing trodes, a user projects into the matrix. (A stim deck plays and records simstim.)" } ] },
+    { "id": "trodes", "name": "Trodes", "aliases": ["trode-net", "trode-set", "trode-sets", "dermatrodes"], "summary": [ { "when": 0, "text": "Electrodes worn on the skin of the head (dermatrodes), as a band or a net, that link a user to a cyberspace deck or a simstim unit." } ] },
+    { "id": "ice", "name": "ICE", "aliases": ["iced"], "summary": [ { "when": 0, "text": "Intrusion Countermeasures Electronics: the defensive software around a data system. The worst kind kills an intruder through his own nervous system." } ] },
+    { "id": "icebreaker", "name": "Icebreaker", "summary": [ { "when": 0, "text": "A program for cutting through ice. The Chinese military one used on the Tessier-Ashpool cores in Neuromancer worked slowly, like a virus." } ] },
+    { "id": "cowboy", "name": "Console cowboy", "aliases": ["cowboys", "jockey", "jockeys", "console jockey", "console jockeys"], "summary": [ { "when": 0, "text": "A console cowboy or jockey works in cyberspace through a deck, most often breaking into systems for data." } ] },
+    {
+      "id": "construct", "name": "Construct", "aliases": ["constructs", "personality-constructs"],
+      "summary": [
+        { "when": 0, "text": "A recorded copy of a person's mind that answers as that person; also a simulated place run by a computer and entered through a deck." },
+        { "when": "e22", "text": "A recorded copy of a person's mind that answers as that person; also a simulated place run by a computer. The Finn's is of a newer kind, with a working memory and the run of cyberspace." }
+      ]
+    },
+    { "id": "microsoft", "name": "Microsoft", "summary": [ { "when": 0, "text": "A sliver of software that plugs into a socket behind the ear and gives its wearer a skill or knowledge for as long as it is worn." } ] },
+    { "id": "socket", "name": "Socket", "aliases": ["sockets"], "summary": [ { "when": 0, "text": "A surgically implanted jack, usually behind the ear, that takes microsofts and direct interface cables." } ] },
+    { "id": "jacked", "name": "Jacked", "aliases": ["jacked in", "jacking", "jack out", "jacked out"], "summary": [ { "when": 0, "text": "Connected, by trodes or a skull socket, to cyberspace or to a simstim feed. To jack out is to disconnect." } ] },
+    { "id": "derm", "name": "Derm", "aliases": ["derms", "dermadiscs"], "summary": [ { "when": 0, "text": "A patch that delivers a drug through the skin." } ] },
+    { "id": "temperfoam", "name": "Temperfoam", "summary": [ { "when": 0, "text": "Soft synthetic foam used for beds and padding." } ] },
+    { "id": "flechette", "name": "Flechette", "aliases": ["flechettes"], "summary": [ { "when": 0, "text": "A small dart fired from a gun; it may carry a drug, a poison or an explosive charge." } ] },
+    { "id": "polycarbon", "name": "Polycarbon", "summary": [ { "when": 0, "text": "A light, tough structural plastic." } ] },
+    { "id": "micropore", "name": "Micropore", "summary": [ { "when": 0, "text": "A thin surgical tape." } ] },
+    { "id": "sensorium", "name": "Sensorium", "summary": [ { "when": 0, "text": "Everything a person sees, hears, feels, tastes and smells at a given moment; it is what simstim records and plays back." } ] },
+    { "id": "silicon", "name": "Silicon", "summary": [ { "when": 0, "text": "Conventional microchips, the technology that biochips replaced." } ] },
+    { "id": "razorgirl", "name": "Razorgirl", "summary": [ { "when": 0, "text": "A woman street samurai: a hired fighter rebuilt with surgery and implants." } ] },
+    { "id": "sprawl", "name": "Sprawl", "aliases": ["BAMA"], "summary": [ { "when": 0, "text": "The Boston-Atlanta Metropolitan Axis: the unbroken city that runs down the east coast of North America, parts of it under old domes." } ] },
+    { "id": "chiba", "name": "Chiba", "summary": [ { "when": 0, "text": "Chiba City, Japan, known for its black clinics: the most advanced, and often illegal, medicine and neurosurgery there is." } ] },
+    { "id": "zaibatsu", "name": "Zaibatsu", "summary": [ { "when": 0, "text": "Japanese for a family-owned industrial combine; in these books, any of the great multinational corporations." } ] },
+    {
+      "id": "yakuza", "name": "Yakuza", "aliases": ["Yak"],
+      "summary": [
+        { "when": 0, "text": "The Japanese crime syndicates." },
+        { "when": "e5", "text": "The Japanese crime syndicates. Kumiko's father stands very high in one, and a war is being fought inside it." },
+        { "when": "e41", "text": "The Japanese crime syndicates. Kumiko's father is one of their great bosses; the war inside is over, and order restored." }
+      ]
+    },
+    { "id": "hosaka", "name": "Hosaka", "summary": [ { "when": 0, "text": "Japanese zaibatsu, a leading maker of computers. In Count Zero it tried to bring Christopher Mitchell over from Maas Biolabs." } ] },
+    { "id": "maas", "name": "Maas Biolabs", "summary": [ { "when": 0, "text": "The biotechnology corporation that Christopher Mitchell's work made master of the biochip. Angie grew up in its arcology on a mesa in Arizona (Count Zero)." } ] },
+    {
+      "id": "maas-neotek", "name": "Maas-Neotek", "aliases": ["Mass-Neotek"],
+      "summary": [
+        { "when": 0, "text": "The name on Maas Biolabs' biochip products; in Count Zero, on the first biochip cyberspace decks." },
+        { "when": "e1", "text": "The biochip corporation whose logo is by now everywhere. Kumiko's pocket 'ghost' unit is one of its products. (The text once prints 'Mass-Neotek'.)" }
+      ]
+    },
+    { "id": "biochip", "name": "Biochip", "aliases": ["biochips"], "summary": [ { "when": 0, "text": "The technology that replaced silicon: circuitry grown from tailored living molecules. Angie's father made it work, at Maas Biolabs." } ] },
+    { "id": "biosoft", "name": "Biosoft", "summary": [ { "when": 0, "text": "Software or memory built on biochip technology, usually a soft grey module that plugs into a socket." } ] },
+    { "id": "hybridoma", "name": "Hybridoma", "summary": [ { "when": 0, "text": "A fused, effectively immortal cell line that produces one chosen molecule in quantity: Christopher Mitchell's field, and the basis of biochips." } ] },
+    {
+      "id": "freeside", "name": "Freeside", "aliases": [{ "text": "Mustique II", "when": "e12" }, { "text": "Mustique", "when": "e12" }],
+      "summary": [
+        { "when": 0, "text": "Spindle-shaped orbital resort built and owned by Tessier-Ashpool, with the family's home at its tip (the setting of the second half of Neuromancer)." },
+        { "when": "e12", "text": "Spindle-shaped orbital resort built by Tessier-Ashpool, fashionable fifteen years ago. New owners have renamed it Mustique II, and the family's home has been cut from its tip and towed away." }
+      ]
+    },
+    {
+      "id": "straylight", "name": "Straylight", "aliases": ["Villa Straylight", { "text": "Straylight run", "when": "e22" }],
+      "summary": [
+        { "when": 0, "text": "The Villa Straylight: the Tessier-Ashpools' home, a walled-in maze at the tip of Freeside's spindle, where Neuromancer ends." },
+        { "when": "e12", "text": "The Villa Straylight: the Tessier-Ashpools' home, once at the tip of Freeside's spindle. The last of the family has had it cut loose and towed to an orbit of its own." },
+        { "when": "e22", "text": "The Villa Straylight: the Tessier-Ashpools' home, once at the tip of Freeside, since towed to an orbit of its own. The 'Straylight run' is the break-in Sally and Case made there fourteen years ago." },
+        { "when": "e31", "text": "The Villa Straylight: the Tessier-Ashpools' home in orbit, scene of the break-in Sally and Case made fourteen years ago. Its corridors exist again inside the aleph, where Slick and Gentry meet 3Jane." }
+      ]
+    },
+    { "id": "zion", "name": "Zion", "summary": [ { "when": 0, "text": "Orbital colony founded by Rastafarian workers who would not go back down the well; one of its tug pilots flew the team to Straylight in Neuromancer." } ] },
+    {
+      "id": "gentleman-loser", "name": "Gentleman Loser", "aliases": ["Gentleman Loser", "Gentlemen Loser", "the Loser"],
+      "summary": [
+        { "when": 0, "text": "The bar in the Sprawl where the best console cowboys used to gather. (The text also prints 'Gentlemen Loser'.)" },
+        { "when": "e16", "text": "The bar in the Sprawl where the best console cowboys used to gather, now mostly old men with stories. Bobby drank there, and once took Angie in disguise." }
+      ]
+    },
+    { "id": "geodesics", "name": "Geodesics", "summary": [ { "when": 0, "text": "Buckminster Fuller's lightweight domes. Old geodesics roof over parts of the Sprawl." } ] },
+    { "id": "ono-sendai", "name": "Ono-Sendai", "summary": [ { "when": 0, "text": "Japanese multinational, best known as a maker of cyberspace decks." } ] },
+    { "id": "zeiss", "name": "Zeiss", "summary": [ { "when": 0, "text": "Zeiss Ikon, maker of costly artificial eyes; simstim stars record through them." } ] },
+    { "id": "barrytown", "name": "Barrytown", "aliases": ["Barrytowner"], "summary": [ { "when": 0, "text": "The suburb of condos in New Jersey where Bobby Newmark grew up (Count Zero)." } ] },
+    { "id": "sin", "name": "SIN", "aliases": ["SINless"], "summary": [ { "when": 0, "text": "Single Identification Number, given at birth. The SINless, whose births were never registered, do not officially exist." } ] },
+    {
+      "id": "fission-authority", "name": "Fission Authority", "aliases": ["Fission Authority", "the Authority", "FA"],
+      "summary": [
+        { "when": 0, "text": "The public body that runs nuclear power." },
+        { "when": "e10", "text": "The public body that runs nuclear power; in cyberspace, a big red Aztec pyramid. Gentry tricks it into supplying Factory with electricity." }
+      ]
+    },
+    { "id": "wilson", "name": "Wilson", "summary": [ { "when": 0, "text": "Slang for a fool, or for a bad mistake: to 'pull a wilson'." } ] }
+  ]
+}

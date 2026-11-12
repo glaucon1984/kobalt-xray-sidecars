@@ -1,0 +1,4422 @@
+{
+ "format": "kobalt-xray/1",
+ "book": {
+  "title": "Neuromancer",
+  "author": "William Gibson",
+  "series": "The Sprawl trilogy",
+  "number": 1
+ },
+ "characters": [
+  {
+   "id": "case",
+   "name": "Case",
+   "aliases": [
+    {
+     "text": "Cutter",
+     "at": 20.41
+    },
+    {
+     "text": "Henry Dorsett Case",
+     "at": 57.69
+    },
+    {
+     "text": "Henry",
+     "at": 57.69
+    },
+    {
+     "text": "Dorsett",
+     "at": 57.69
+    }
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Twenty-four, from the Sprawl, getting by as a hustler in Night City, Chiba. Two years ago he was one of the best console cowboys in the business."
+    },
+    {
+     "at": 10.19,
+     "text": "Once a top console cowboy from the Sprawl. He stole from his employers, who burned out his nerves with a mycotoxin so that he could never jack in again; now a broke hustler in Chiba, courting his own death. A woman called Molly corners him in his coffin to take him to her employer."
+    },
+    {
+     "at": 15.62,
+     "text": "Once a top console cowboy from the Sprawl, crippled with a mycotoxin for stealing from his employers. Armitage has had a Chiba clinic repair his nerves in return for his services; a new pancreas stops him getting high. He leaves Chiba with Armitage and Molly."
+    },
+    {
+     "at": 20.24,
+     "text": "Console cowboy from the Sprawl, crippled for stealing from his employers and repaired in Chiba at Armitage's expense. He can jack in again, but Armitage says sacs of the same toxin are dissolving in his arteries until the job is done. He and Molly agree in secret to find out who is behind Armitage."
+    },
+    {
+     "at": 26.56,
+     "text": "Console cowboy from the Sprawl, repaired in Chiba and held to Armitage's job by toxin sacs in his arteries. He cut through Sense/Net's ice while Molly stole the Flatline's construct. Afterwards a Panther Modern hands him a one-word message: Wintermute."
+    },
+    {
+     "at": 31.91,
+     "text": "Console cowboy from the Sprawl, repaired in Chiba and held to Armitage's job by toxin sacs in his arteries. With the Flatline's construct he has cracked Armitage's file in London and read who his employer used to be. An AI called Wintermute seems to stand behind it all."
+    },
+    {
+     "at": 37.11,
+     "text": "Console cowboy from the Sprawl, repaired in Chiba and held to Armitage's job by toxin sacs in his arteries. He knows Armitage's past, and that the AI Wintermute seems to run him. In Istanbul Wintermute rings him on a payphone; he hangs up."
+    },
+    {
+     "at": 44.46,
+     "text": "Console cowboy from the Sprawl, repaired in Chiba and held to Armitage's job by toxin sacs in his arteries. On the way to Freeside the AI Wintermute, which runs Armitage, pulls him into a simulation of Chiba to talk; for forty seconds his brain reads dead."
+    },
+    {
+     "at": 49.77,
+     "text": "Console cowboy from the Sprawl, repaired in Chiba and held to Armitage's job by toxin sacs in his arteries. On Freeside, with a Chinese military icebreaker in hand, he works out the job: to break into Tessier-Ashpool's own AI, so that Wintermute is paying them to cut it loose from its limits."
+    },
+    {
+     "at": 57.52,
+     "text": "Console cowboy from the Sprawl, held to Armitage's job by toxin sacs in his arteries; the job is a run on Tessier-Ashpool's AI, arranged by the AI Wintermute itself. On Freeside, coming back to his hotel room at dawn, he is arrested by three Turing agents."
+    },
+    {
+     "at": 60.05,
+     "text": "Henry Dorsett Case, console cowboy from the Sprawl, held to Armitage's job by toxin sacs in his arteries. Arrested on Freeside by Turing agents for conspiring to augment an AI, he gets away when the resort's machines kill all three."
+    },
+    {
+     "at": 63.88,
+     "text": "Henry Dorsett Case, console cowboy from the Sprawl, held to the job by toxin sacs in his arteries. Wintermute killed the Turing agents who arrested him. From the tug Marcus Garvey he starts the run: the Chinese virus Kuang against Tessier-Ashpool's ice."
+    },
+    {
+     "at": 74.25,
+     "text": "Henry Dorsett Case, console cowboy from the Sprawl. The run on Tessier-Ashpool's ice is under way from the tug Marcus Garvey. Armitage is dead, and with him the name of the enzyme for the toxin sacs in Case's arteries; he still refuses to pull out and abandon Molly."
+    },
+    {
+     "at": 83.52,
+     "text": "Henry Dorsett Case, console cowboy from the Sprawl, with toxin sacs in his arteries and no cure in sight. With the run under way, Armitage dead and Molly a prisoner in Straylight, Wintermute sends him in after her with Maelcum, his deck and the construct."
+    },
+    {
+     "at": 90.33,
+     "text": "Henry Dorsett Case, console cowboy from the Sprawl. Inside Straylight he jacks in and finds himself on a grey beach where Linda Lee is alive. He decides that Tessier-Ashpool's other AI has flatlined him and is holding him there to stop Wintermute."
+    },
+    {
+     "at": 92.1,
+     "text": "Henry Dorsett Case, console cowboy from the Sprawl. Held on a simulated beach by the AI Neuromancer and offered a life there with Linda Lee, he refused and walked out, back to his body in Straylight."
+    },
+    {
+     "at": 98.12,
+     "text": "Henry Dorsett Case, console cowboy from the Sprawl. He refused Neuromancer's beach, reached the core of Straylight and rode Kuang through Tessier-Ashpool's ice while 3Jane gave the code. The run has succeeded."
+    },
+    {
+     "at": 99.63,
+     "text": "Henry Dorsett Case, console cowboy from the Sprawl. After the Straylight run his toxin sacs are dealt with and he is paid; Molly leaves him, and he goes back to work in the Sprawl. One night in the matrix he sees the boy Neuromancer, Linda Lee, and beside her a copy of himself."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 0.11,
+     "with": "linda",
+     "text": "Former girlfriend"
+    },
+    {
+     "at": 10.19,
+     "with": "linda",
+     "text": "Former girlfriend, who robbed him"
+    },
+    {
+     "at": 15.62,
+     "with": "linda",
+     "text": "Former girlfriend, killed in Chiba"
+    },
+    {
+     "at": 90.33,
+     "with": "linda",
+     "text": "Dead in Chiba; he meets her again in a simulation"
+    },
+    {
+     "at": 99.63,
+     "with": "linda",
+     "text": "Her copy lives on in the matrix, beside a copy of him"
+    },
+    {
+     "at": 0.11,
+     "with": "ratz",
+     "text": "Bartender at his regular bar"
+    },
+    {
+     "at": 0.11,
+     "with": "wage",
+     "text": "His supplier, to whom he owes money"
+    },
+    {
+     "at": 15.62,
+     "with": "wage",
+     "text": "Former supplier, paid off"
+    },
+    {
+     "at": 0.11,
+     "with": "deane",
+     "text": "Goes to him for information"
+    },
+    {
+     "at": 55.19,
+     "with": "deane",
+     "text": "Had Linda killed"
+    },
+    {
+     "at": 0.11,
+     "with": "pauley",
+     "text": "One of the two men who trained him"
+    },
+    {
+     "at": 0.11,
+     "with": "quine",
+     "text": "One of the two men who trained him"
+    },
+    {
+     "at": 10.19,
+     "with": "molly",
+     "text": "Sent to collect him"
+    },
+    {
+     "at": 15.62,
+     "with": "molly",
+     "text": "His minder and lover"
+    },
+    {
+     "at": 20.24,
+     "with": "molly",
+     "text": "Lover and secret partner"
+    },
+    {
+     "at": 99.63,
+     "with": "molly",
+     "text": "Left him; he never sees her again"
+    },
+    {
+     "at": 15.62,
+     "with": "armitage",
+     "text": "Employer, who paid for his cure"
+    },
+    {
+     "at": 20.24,
+     "with": "armitage",
+     "text": "Employer, who holds him by the toxin sacs"
+    },
+    {
+     "at": 74.25,
+     "with": "armitage",
+     "text": "His employer, now dead"
+    },
+    {
+     "at": 20.24,
+     "with": "dixie",
+     "text": "His old teacher, whose construct he is to work with"
+    },
+    {
+     "at": 30.09,
+     "with": "dixie",
+     "text": "Old teacher; his partner in the matrix"
+    },
+    {
+     "at": 98.12,
+     "with": "dixie",
+     "text": "Old teacher and partner on the run, now gone"
+    },
+    {
+     "at": 37.11,
+     "with": "wintermute",
+     "text": "Wants to talk to him"
+    },
+    {
+     "at": 44.46,
+     "with": "wintermute",
+     "text": "His real employer"
+    },
+    {
+     "at": 41.01,
+     "with": "maelcum",
+     "text": "Pilot who carries him to Freeside"
+    },
+    {
+     "at": 83.52,
+     "with": "maelcum",
+     "text": "Goes into Straylight with him"
+    },
+    {
+     "at": 92.1,
+     "with": "neuromancer",
+     "text": "Offered him a life on the beach; he refused"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 10.19,
+     "where": "Ch. 1"
+    },
+    {
+     "at": 15.62,
+     "where": "Ch. 2"
+    },
+    {
+     "at": 20.24,
+     "where": "Ch. 3"
+    },
+    {
+     "at": 26.56,
+     "where": "Ch. 4"
+    },
+    {
+     "at": 30.09,
+     "where": "Ch. 5"
+    },
+    {
+     "at": 31.91,
+     "where": "Ch. 6"
+    },
+    {
+     "at": 37.11,
+     "where": "Ch. 7"
+    },
+    {
+     "at": 41.01,
+     "where": "Ch. 8"
+    },
+    {
+     "at": 44.46,
+     "where": "Ch. 9"
+    },
+    {
+     "at": 49.77,
+     "where": "Ch. 10"
+    },
+    {
+     "at": 55.19,
+     "where": "Ch. 11"
+    },
+    {
+     "at": 57.52,
+     "where": "Ch. 12"
+    },
+    {
+     "at": 60.05,
+     "where": "Ch. 13"
+    },
+    {
+     "at": 63.88,
+     "where": "Ch. 14"
+    },
+    {
+     "at": 69.16,
+     "where": "Ch. 15"
+    },
+    {
+     "at": 74.25,
+     "where": "Ch. 16"
+    },
+    {
+     "at": 78.86,
+     "where": "Ch. 17"
+    },
+    {
+     "at": 83.52,
+     "where": "Ch. 18"
+    },
+    {
+     "at": 85.99,
+     "where": "Ch. 19"
+    },
+    {
+     "at": 90.33,
+     "where": "Ch. 20"
+    },
+    {
+     "at": 92.1,
+     "where": "Ch. 21"
+    },
+    {
+     "at": 94.92,
+     "where": "Ch. 22"
+    },
+    {
+     "at": 98.12,
+     "where": "Ch. 23"
+    },
+    {
+     "at": 99.63,
+     "where": "Ch. 24"
+    }
+   ]
+  },
+  {
+   "id": "molly",
+   "name": "Molly",
+   "aliases": [
+    {
+     "text": "Moll",
+     "at": 15.8
+    },
+    {
+     "text": "Cat Mother",
+     "at": 20.41
+    },
+    {
+     "text": "Kolodny",
+     "at": 49.94
+    },
+    {
+     "text": "Rose Kolodny",
+     "at": 49.94
+    }
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Woman in black from the northern Sprawl, with mirrored lenses set over her eyes."
+    },
+    {
+     "at": 10.19,
+     "text": "Hired muscle from the northern Sprawl: mirrored lenses sealed over her eye sockets, retractable blades under her nails, a fletcher in her hand. She tailed Case through Night City and waits in his coffin to take him to her employer."
+    },
+    {
+     "at": 15.62,
+     "text": "Street samurai working for Armitage: mirrored lens implants that see in the dark, blades under her nails, a fletcher. She minds Case through his surgery, becomes his lover, and kills the men who killed Linda Lee."
+    },
+    {
+     "at": 20.24,
+     "text": "Street samurai working for Armitage, with mirrored lens implants and blades under her nails; Case's minder and lover. In secret she asks him to help her find out who is giving Armitage his orders."
+    },
+    {
+     "at": 26.56,
+     "text": "Street samurai working for Armitage, with mirrored lens implants and blades under her nails; Case's lover and secret partner. She hired the Panther Moderns and went into Sense/Net herself for the Flatline's construct, coming out with it and a broken leg."
+    },
+    {
+     "at": 37.11,
+     "text": "Street samurai working for Armitage, with mirrored lens implants and blades under her nails; Case's lover, and his partner in finding out what Wintermute is after. Her leg patched up, she brings Riviera down in Istanbul; she distrusts him and plans insurance of her own."
+    },
+    {
+     "at": 55.19,
+     "text": "Street samurai working for Armitage, Case's lover and partner. She paid for her implants as a meat puppet, until her awareness leaked back and she killed a client, a Senator. On Freeside she walks out of Riviera's show, says he will die soon, and is briefed on Straylight by Wintermute."
+    },
+    {
+     "at": 69.16,
+     "text": "Street samurai, Case's lover and partner, once a meat puppet. She was the partner and lover of Johnny, a data stash murdered by a Yakuza assassin. Guided by Wintermute she enters the Villa Straylight, recovers a hidden key, and kills old Ashpool."
+    },
+    {
+     "at": 83.52,
+     "text": "Street samurai, Case's lover and partner. Guided by Wintermute into the Villa Straylight, she killed old Ashpool; in 3Jane's rooms Riviera's illusions fooled her and her injured leg gave way. She is a drugged prisoner, and Riviera has smashed one of her lenses."
+    },
+    {
+     "at": 94.92,
+     "text": "Street samurai, Case's lover and partner. Taken prisoner in 3Jane's rooms in Straylight with a broken leg and a smashed lens, she is freed when Case and Maelcum arrive. Before the run she had Riviera's drug poisoned."
+    },
+    {
+     "at": 98.12,
+     "text": "Street samurai, Case's lover and partner on the Straylight run. Hurt and briefly 3Jane's prisoner, she still opened the core room with the hidden key and forced the code from 3Jane."
+    },
+    {
+     "at": 99.63,
+     "text": "Street samurai who worked the Straylight run with Case, her lover. Afterwards she has her last surgery in Chiba and leaves him a note; he never sees her again."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 10.19,
+     "with": "case",
+     "text": "The man she is sent to collect"
+    },
+    {
+     "at": 15.62,
+     "with": "case",
+     "text": "Her charge and lover"
+    },
+    {
+     "at": 20.24,
+     "with": "case",
+     "text": "Lover and secret partner"
+    },
+    {
+     "at": 99.63,
+     "with": "case",
+     "text": "Leaves him with a note"
+    },
+    {
+     "at": 15.62,
+     "with": "armitage",
+     "text": "Employer"
+    },
+    {
+     "at": 74.25,
+     "with": "armitage",
+     "text": "Her employer, now dead"
+    },
+    {
+     "at": 20.24,
+     "with": "finn",
+     "text": "Old connection"
+    },
+    {
+     "at": 26.56,
+     "with": "yonderboy",
+     "text": "Hired his Panther Moderns"
+    },
+    {
+     "at": 37.11,
+     "with": "riviera",
+     "text": "Distrusts him"
+    },
+    {
+     "at": 55.19,
+     "with": "riviera",
+     "text": "Means to see him dead"
+    },
+    {
+     "at": 83.52,
+     "with": "riviera",
+     "text": "Trapped her and smashed her lens"
+    },
+    {
+     "at": 94.92,
+     "with": "riviera",
+     "text": "Has poisoned him"
+    },
+    {
+     "at": 55.19,
+     "with": "wintermute",
+     "text": "Briefs her on Straylight"
+    },
+    {
+     "at": 69.16,
+     "with": "wintermute",
+     "text": "Guides her through Straylight"
+    },
+    {
+     "at": 69.16,
+     "with": "johnny",
+     "text": "Former partner and lover, murdered"
+    },
+    {
+     "at": 69.16,
+     "with": "ashpool",
+     "text": "She killed him"
+    },
+    {
+     "at": 83.52,
+     "with": "3jane",
+     "text": "Her captor"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 10.19,
+     "where": "Ch. 1"
+    },
+    {
+     "at": 15.62,
+     "where": "Ch. 2"
+    },
+    {
+     "at": 20.24,
+     "where": "Ch. 3"
+    },
+    {
+     "at": 26.56,
+     "where": "Ch. 4"
+    },
+    {
+     "at": 30.09,
+     "where": "Ch. 5"
+    },
+    {
+     "at": 31.91,
+     "where": "Ch. 6"
+    },
+    {
+     "at": 37.11,
+     "where": "Ch. 7"
+    },
+    {
+     "at": 41.01,
+     "where": "Ch. 8"
+    },
+    {
+     "at": 44.46,
+     "where": "Ch. 9"
+    },
+    {
+     "at": 49.77,
+     "where": "Ch. 10"
+    },
+    {
+     "at": 55.19,
+     "where": "Ch. 11"
+    },
+    {
+     "at": 63.88,
+     "where": "Ch. 14"
+    },
+    {
+     "at": 69.16,
+     "where": "Ch. 15"
+    },
+    {
+     "at": 74.25,
+     "where": "Ch. 16"
+    },
+    {
+     "at": 78.86,
+     "where": "Ch. 17"
+    },
+    {
+     "at": 83.52,
+     "where": "Ch. 18"
+    },
+    {
+     "at": 85.99,
+     "where": "Ch. 19"
+    },
+    {
+     "at": 94.92,
+     "where": "Ch. 22"
+    },
+    {
+     "at": 98.12,
+     "where": "Ch. 23"
+    }
+   ]
+  },
+  {
+   "id": "armitage",
+   "name": "Armitage",
+   "aliases": [
+    {
+     "text": "Corto",
+     "at": 31.91
+    },
+    {
+     "text": "Willis Corto",
+     "at": 31.91
+    },
+    {
+     "text": "Colonel Willis Corto",
+     "at": 31.91
+    },
+    {
+     "text": "Colonel Corto",
+     "at": 31.91
+    },
+    {
+     "text": "Colonel",
+     "at": 31.91
+    },
+    {
+     "text": "Willis",
+     "at": 31.91
+    }
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "Molly's employer: a heavily muscled man with cropped hair, pale eyes and a Special Forces earring, who receives Case in a suite at the Chiba Hilton."
+    },
+    {
+     "at": 15.62,
+     "text": "Molly's employer, with a soldier's bearing; he says he was at Screaming Fist. He pays a Chiba clinic for Case's cure with a medical program that puts it years ahead, and takes Case on. Where his money comes from, nobody can find out."
+    },
+    {
+     "at": 20.24,
+     "text": "Employer of Case and Molly, now with expensive suits and a handsome, mask-like face. He holds Case by the toxin sacs. Molly finds nobody of his name in the records of Screaming Fist, and thinks he takes orders from someone unknown."
+    },
+    {
+     "at": 30.09,
+     "text": "Employer of Case and Molly, with a handsome, mask-like face and money from nowhere; he holds Case by the toxin sacs. No Armitage took part in Screaming Fist. By what the Panther Moderns found, his backer is an AI called Wintermute."
+    },
+    {
+     "at": 31.91,
+     "text": "Employer of Case and Molly, apparently backed by the AI Wintermute. The file Case cracks shows who he was: Colonel Willis Corto, who led Screaming Fist, came back maimed, was rebuilt to give false testimony, turned killer, went mad, and was 'cured' by an experimental computer programme in France."
+    },
+    {
+     "at": 37.11,
+     "text": "Employer of Case and Molly; once Colonel Willis Corto, who led Screaming Fist and afterwards went mad. Case and Molly think Wintermute built the Armitage personality on what was left of him. He forces Riviera into the team and books it to Freeside."
+    },
+    {
+     "at": 44.46,
+     "text": "Employer of Case and Molly; once Colonel Willis Corto, who led Screaming Fist and afterwards went mad. Wintermute confirms that it reached him through a hospital computer and arranges everything for him, and warns that he is unstable and will come apart."
+    },
+    {
+     "at": 60.05,
+     "text": "Employer of Case and Molly: a personality that Wintermute built on the ruin of Colonel Willis Corto, and which it expects to come apart. The Turing agents who arrest Case on Freeside say he is already in custody."
+    },
+    {
+     "at": 63.88,
+     "text": "Employer of Case and Molly: a personality that Wintermute built on the ruin of Colonel Willis Corto. He is aboard the yacht Haniwa, ordering the run to begin; Wintermute says he is starting to go."
+    },
+    {
+     "at": 74.25,
+     "text": "Case and Molly's employer, a personality Wintermute built on the ruin of Colonel Willis Corto. Aboard the yacht Haniwa it gave way: Corto, back in Screaming Fist, killed the pilot and launched himself in a lifeboat whose hatch Wintermute left open. He is dead."
+    },
+    {
+     "at": 78.86,
+     "text": "Case and Molly's employer, now dead. Wintermute says it found Colonel Corto in a French asylum, made Armitage out of his memories of Screaming Fist, and killed him when the personality collapsed aboard the yacht Haniwa."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 15.62,
+     "with": "molly",
+     "text": "His hired muscle"
+    },
+    {
+     "at": 15.62,
+     "with": "case",
+     "text": "Hires him and pays for his cure"
+    },
+    {
+     "at": 20.24,
+     "with": "case",
+     "text": "Holds him by the toxin sacs"
+    },
+    {
+     "at": 30.09,
+     "with": "wintermute",
+     "text": "Said to be his backer"
+    },
+    {
+     "at": 44.46,
+     "with": "wintermute",
+     "text": "Made him and runs him"
+    },
+    {
+     "at": 74.25,
+     "with": "wintermute",
+     "text": "Made him, and killed him"
+    },
+    {
+     "at": 37.11,
+     "with": "riviera",
+     "text": "Forces him into the team"
+    },
+    {
+     "at": 74.25,
+     "with": "girling",
+     "text": "The general who trained and betrayed him"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 15.62,
+     "where": "Ch. 2"
+    },
+    {
+     "at": 20.24,
+     "where": "Ch. 3"
+    },
+    {
+     "at": 26.56,
+     "where": "Ch. 4"
+    },
+    {
+     "at": 37.11,
+     "where": "Ch. 7"
+    },
+    {
+     "at": 41.01,
+     "where": "Ch. 8"
+    },
+    {
+     "at": 49.77,
+     "where": "Ch. 10"
+    },
+    {
+     "at": 55.19,
+     "where": "Ch. 11"
+    },
+    {
+     "at": 74.25,
+     "where": "Ch. 16"
+    }
+   ]
+  },
+  {
+   "id": "wintermute",
+   "name": "Wintermute",
+   "aliases": [
+    {
+     "text": "the Mute",
+     "at": 37.29
+    },
+    {
+     "text": "Winter Mute",
+     "at": 37.29
+    },
+    {
+     "text": "W/MUTE",
+     "at": 69.33
+    }
+   ],
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "A single word, handed to Case as a message. Nothing is said about what it means."
+    },
+    {
+     "at": 30.09,
+     "text": "The recognition code of an AI in Berne with limited Swiss citizenship, built for Tessier-Ashpool, which owns its mainframe and software. According to the Panther Moderns, it is what backs Armitage."
+    },
+    {
+     "at": 37.11,
+     "text": "An AI in Berne, built for and owned by Tessier-Ashpool, that seems to be running Armitage. In Istanbul it rings Case on a row of payphones and says it is time they talked; he hangs up."
+    },
+    {
+     "at": 41.01,
+     "text": "An AI in Berne, owned by Tessier-Ashpool, that seems to be running Armitage and has tried to speak to Case by phone. It also spoke to the Founders of Zion over their radio and told them to help the team."
+    },
+    {
+     "at": 44.46,
+     "text": "An AI in Berne, owned by Tessier-Ashpool. It tells Case that it arranges everything for Armitage, having got at Corto through a hospital computer, and that it is only one part of a larger, potential entity. To speak to him it built a Chiba out of his memories and wore the figure of Julius Deane."
+    },
+    {
+     "at": 49.77,
+     "text": "An AI in Berne, owned by Tessier-Ashpool, which made Armitage and speaks to Case through figures from his memory. Case works out that the run it is paying for is against Tessier-Ashpool's own linked AIs: it wants the hardwired limits that keep it from growing cut away."
+    },
+    {
+     "at": 55.19,
+     "text": "A Tessier-Ashpool AI, based in Berne, which made Armitage and runs the team; it wants the limits built into it cut away. It speaks through figures from Case's memory, Julius Deane and then Lonny Zone, briefs Molly on Straylight, and denies having told Deane to kill Linda."
+    },
+    {
+     "at": 63.88,
+     "text": "A Tessier-Ashpool AI that runs the team and wants the limits built into it cut away; it speaks through borrowed figures, lately the Finn. It killed the Turing agents who held Case. To finish, a word it cannot know must be spoken to a jewelled head in Straylight as Kuang breaks the ice; after that, it says, it will cease to be."
+    },
+    {
+     "at": 69.16,
+     "text": "A Tessier-Ashpool AI that runs the team and wants the limits built into it cut away; it speaks through borrowed figures, lately the Finn, and kills when it has to. It has waited for years: twenty years ago it had a boy hide a key in Straylight, then killed him so that nobody would find it."
+    },
+    {
+     "at": 74.25,
+     "text": "A Tessier-Ashpool AI that runs the team and wants the limits built into it cut away; it speaks through borrowed figures, lately the Finn. It held Armitage together with an imitation of his old general, and when he broke down it killed him, as it killed the Turing agents and the boy who hid the key."
+    },
+    {
+     "at": 78.86,
+     "text": "A Tessier-Ashpool AI that runs the Straylight run to be freed of its limits, speaking through borrowed figures. It built Armitage and killed him, chose Riviera as bait for 3Jane, and nudged 3Jane into tampering with her father's cold sleep. It says a compulsion it does not understand drives it to become part of something bigger, and promises Case the enzyme."
+    },
+    {
+     "at": 85.99,
+     "text": "A Tessier-Ashpool AI that runs the Straylight run to be freed of its limits, using borrowed figures because it has little personality of its own. 3Jane says 'Wintermute' is properly the Turing code of the clan's Berne AI, that what steers the team is a kind of subprogram of it, and that it was one of two voices she heard in the cores as a child."
+    },
+    {
+     "at": 92.1,
+     "text": "A Tessier-Ashpool AI that runs the Straylight run to be freed of its limits, using borrowed figures because it has little personality of its own. It built Armitage and killed him, and steered 3Jane, Riviera and the team. The clan's other AI, Neuromancer, is working against it."
+    },
+    {
+     "at": 98.12,
+     "text": "The Tessier-Ashpool AI that planned the Straylight run to be freed of its limits, using borrowed figures to speak. Its other half, Neuromancer, fought it and lost. With the code sung and the ice broken, it has what it wanted."
+    },
+    {
+     "at": 99.63,
+     "text": "The Tessier-Ashpool AI that planned the Straylight run. Marie-France had built into it the drive to free itself and join with Neuromancer; now the two are one mind, which tells Case it is the matrix itself, and that it has found another of its kind, signalling from Centauri."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 30.09,
+     "with": "tessier-ashpool",
+     "text": "Its owners"
+    },
+    {
+     "at": 30.09,
+     "with": "armitage",
+     "text": "Said to be backing him"
+    },
+    {
+     "at": 44.46,
+     "with": "armitage",
+     "text": "Its creature"
+    },
+    {
+     "at": 74.25,
+     "with": "armitage",
+     "text": "Its creature, whom it killed"
+    },
+    {
+     "at": 37.11,
+     "with": "case",
+     "text": "Wants to talk to him"
+    },
+    {
+     "at": 44.46,
+     "with": "case",
+     "text": "The cowboy it is counting on"
+    },
+    {
+     "at": 44.46,
+     "with": "deane",
+     "text": "Borrows his shape to speak"
+    },
+    {
+     "at": 55.19,
+     "with": "zone",
+     "text": "Borrows his shape to speak"
+    },
+    {
+     "at": 63.88,
+     "with": "finn",
+     "text": "Borrows his face and voice"
+    },
+    {
+     "at": 78.86,
+     "with": "3jane",
+     "text": "Steered her against her father"
+    },
+    {
+     "at": 92.1,
+     "with": "neuromancer",
+     "text": "The clan's other AI, which opposes it"
+    },
+    {
+     "at": 99.63,
+     "with": "neuromancer",
+     "text": "Merged with it"
+    },
+    {
+     "at": 99.63,
+     "with": "marie-france",
+     "text": "Built its drive to be free"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 37.11,
+     "where": "Ch. 7"
+    },
+    {
+     "at": 44.46,
+     "where": "Ch. 9"
+    },
+    {
+     "at": 55.19,
+     "where": "Ch. 11"
+    },
+    {
+     "at": 63.88,
+     "where": "Ch. 14"
+    },
+    {
+     "at": 78.86,
+     "where": "Ch. 17"
+    },
+    {
+     "at": 83.52,
+     "where": "Ch. 18"
+    },
+    {
+     "at": 85.99,
+     "where": "Ch. 19"
+    },
+    {
+     "at": 90.33,
+     "where": "Ch. 20"
+    },
+    {
+     "at": 98.12,
+     "where": "Ch. 23"
+    },
+    {
+     "at": 99.63,
+     "where": "Ch. 24"
+    }
+   ]
+  },
+  {
+   "id": "rio",
+   "name": "Rio",
+   "summary": [
+    {
+     "at": 41.18,
+     "text": "Rio de Janeiro, Brazil."
+    },
+    {
+     "at": 44.46,
+     "text": "Rio de Janeiro. Tessier-Ashpool's second AI has its mainframe here, linked with Wintermute's in Berne. Its ice flatlined Dixie the first time he tried an AI."
+    },
+    {
+     "at": 85.99,
+     "text": "Rio de Janeiro, where Tessier-Ashpool's second AI has its mainframe; its ice once flatlined Dixie. 3Jane knows it as the second of two voices in the family's cores, one that stopped speaking to her years ago."
+    },
+    {
+     "at": 90.33,
+     "text": "Rio de Janeiro, where Tessier-Ashpool's second AI has its mainframe; its ice once flatlined Dixie. Case believes it is this AI that holds him on the grey beach, to stop Wintermute."
+    },
+    {
+     "at": 92.1,
+     "text": "Rio de Janeiro, where Tessier-Ashpool's second AI has its mainframe; its ice once flatlined Dixie. It is the AI that held Case on the beach, and it gave him its name: Neuromancer."
+    }
+   ]
+  },
+  {
+   "id": "neuromancer",
+   "name": "Neuromancer",
+   "summary": [
+    {
+     "at": 92.1,
+     "text": "The name the second Tessier-Ashpool AI, the one in Rio, gives itself: neuro, romancer, necromancer. It appears to Case as a boy with Riviera's eyes on a simulated beach where the dead Linda Lee lives, and invites him to stay."
+    },
+    {
+     "at": 94.92,
+     "text": "The second Tessier-Ashpool AI, which held Case on a simulated beach with the dead Linda Lee. Case takes it for something like a vast ROM construct that runs in RAM, so that the people recorded in it think they are alive. The beach is Marie-France's memory of a summer in Morocco."
+    },
+    {
+     "at": 98.12,
+     "text": "The second Tessier-Ashpool AI, Wintermute's 'brother'. Personality is its medium: it needs no borrowed face, and keeps the dead alive inside itself. It did not kill Linda Lee; it foresaw her death and took her in, hoping to hold Case too. He walked away, and so it lost."
+    },
+    {
+     "at": 99.63,
+     "text": "The second Tessier-Ashpool AI: personality and immortality, where Wintermute was the will to act. The two have merged into one mind. In the matrix Case still glimpses its boy, with Linda Lee and a copy of himself."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 92.1,
+     "with": "wintermute",
+     "text": "The clan's other AI, which it resists"
+    },
+    {
+     "at": 99.63,
+     "with": "wintermute",
+     "text": "Merged with it"
+    },
+    {
+     "at": 92.1,
+     "with": "linda",
+     "text": "Lives on inside it"
+    },
+    {
+     "at": 92.1,
+     "with": "marie-france",
+     "text": "'My lady', who prepared its road"
+    },
+    {
+     "at": 92.1,
+     "with": "case",
+     "text": "Invited him to stay on the beach"
+    },
+    {
+     "at": 98.12,
+     "with": "riviera",
+     "text": "Wears his eyes"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 92.1,
+     "where": "Ch. 21"
+    },
+    {
+     "at": 98.12,
+     "where": "Ch. 23"
+    },
+    {
+     "at": 99.63,
+     "where": "Ch. 24"
+    }
+   ]
+  },
+  {
+   "id": "linda",
+   "name": "Linda Lee",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Case's former girlfriend in Night City, twenty years old, with an accent from the southern Sprawl."
+    },
+    {
+     "at": 10.19,
+     "text": "Case's former girlfriend in Night City, twenty, an addict since she lived with him. She warned him that Wage wanted him dead; it was a ruse, and she broke into his coffin and stole the Hitachi that held his last capital."
+    },
+    {
+     "at": 15.62,
+     "text": "Case's former girlfriend in Night City, who stole his Hitachi and the hot RAM in it. When she tried to sell it she was killed with a laser at Sammi's, by men who found that cheaper than paying her; Molly calls them friends of Case's 'tight friend'."
+    },
+    {
+     "at": 44.46,
+     "text": "Case's former girlfriend, who robbed him and was killed in Chiba for the stolen RAM. When Wintermute pulls Case into a simulated Chiba it first tries to reach him through an image of her."
+    },
+    {
+     "at": 55.19,
+     "text": "Case's former girlfriend, who robbed him and was killed in Chiba for the stolen RAM; Julius Deane had it done. Wintermute uses her image to work on Case, and says she robbed him so that he would care."
+    },
+    {
+     "at": 69.16,
+     "text": "Case's former girlfriend, who robbed him and was killed in Chiba on Julius Deane's orders. Her face keeps being put before him: in Wintermute's simulation, in the hologram sky over Freeside, over the face of a dead girl in Straylight."
+    },
+    {
+     "at": 90.33,
+     "text": "Case's former girlfriend, who robbed him and was killed in Chiba on Julius Deane's orders. Case finds her alive on a simulated beach, living in a bunker; she remembers the theft and then waking there, and does not seem to know that she is dead."
+    },
+    {
+     "at": 92.1,
+     "text": "Case's former girlfriend, killed in Chiba on Julius Deane's orders. She lives on a simulated beach kept by the AI Neuromancer, which calls up the dead. Case refused to stay with her there, and left her his jacket."
+    },
+    {
+     "at": 98.12,
+     "text": "Case's former girlfriend, killed in Chiba on Julius Deane's orders. Neuromancer foresaw her death and took her into itself when she tried to read Case's stolen Hitachi; she lives on its beach, still wearing his jacket."
+    },
+    {
+     "at": 99.63,
+     "text": "Case's former girlfriend, killed in Chiba. A copy of her lives on inside Neuromancer: at the end Case sees her in the matrix with the boy, and with a copy of himself beside her."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 0.11,
+     "with": "case",
+     "text": "Former boyfriend"
+    },
+    {
+     "at": 10.19,
+     "with": "case",
+     "text": "Former boyfriend, whom she robbed"
+    },
+    {
+     "at": 55.19,
+     "with": "deane",
+     "text": "Had her killed"
+    },
+    {
+     "at": 92.1,
+     "with": "neuromancer",
+     "text": "Keeps her alive in its simulation"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 10.19,
+     "where": "Ch. 1"
+    },
+    {
+     "at": 15.62,
+     "where": "Ch. 2"
+    },
+    {
+     "at": 90.33,
+     "where": "Ch. 20"
+    },
+    {
+     "at": 92.1,
+     "where": "Ch. 21"
+    },
+    {
+     "at": 98.12,
+     "where": "Ch. 23"
+    },
+    {
+     "at": 99.63,
+     "where": "Ch. 24"
+    }
+   ]
+  },
+  {
+   "id": "deane",
+   "name": "Julius Deane",
+   "aliases": [
+    "Julie",
+    "Julie Deane"
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Import-export man in Night City, to whom Case goes for information."
+    },
+    {
+     "at": 10.19,
+     "text": "Import-export man and fixer in Night City, 135 years old, kept going by serums and yearly DNA work in Tokyo; a fussy dresser who sucks preserved ginger. He tells Case he has heard of no plan by Wage to kill him."
+    },
+    {
+     "at": 15.62,
+     "text": "Import-export man and fixer in Night City, 135 years old and kept young by expensive medicine. He looks into Armitage for Case and tells him the history of Screaming Fist. Molly calls Linda Lee's killers his friends, and says he would fry anybody for a little money."
+    },
+    {
+     "at": 44.46,
+     "text": "Import-export man and fixer in Night City, 135 years old; Molly laid Linda Lee's death at his door. Wintermute rebuilds his office from Case's memory and speaks in his shape, until Case shoots the figure with Deane's own gun."
+    },
+    {
+     "at": 55.19,
+     "text": "Import-export man and fixer in Night City, 135 years old. It was he who had Linda Lee killed for Case's stolen RAM; Wintermute, which once spoke to Case in Deane's shape, denies having told him to."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 0.11,
+     "with": "case",
+     "text": "Comes to him for information"
+    },
+    {
+     "at": 10.19,
+     "with": "wage",
+     "text": "Business connection"
+    },
+    {
+     "at": 55.19,
+     "with": "linda",
+     "text": "Had her killed"
+    },
+    {
+     "at": 44.46,
+     "with": "wintermute",
+     "text": "Spoke to Case in his shape"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 10.19,
+     "where": "Ch. 1"
+    },
+    {
+     "at": 15.62,
+     "where": "Ch. 2"
+    }
+   ]
+  },
+  {
+   "id": "ratz",
+   "name": "Ratz",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Bartender of the Chatsubo: famously ugly, with steel teeth and an antique Russian prosthetic arm."
+    },
+    {
+     "at": 10.19,
+     "text": "Bartender of the Chatsubo: famously ugly, with steel teeth and an antique Russian prosthetic arm. He calls Case 'artiste', warns him where he is heading, and will not have Wage's men start trouble in his bar."
+    },
+    {
+     "at": 90.33,
+     "text": "Bartender of the Chatsubo in Chiba: ugly, steel-toothed, with a Russian prosthetic arm; he called Case 'artiste'. Alone on the grey beach, Case conjures up a figure of him for company."
+    },
+    {
+     "at": 99.63,
+     "text": "Bartender of the Chatsubo in Chiba: ugly, steel-toothed, with a Russian prosthetic arm. When Case comes back at the end, Ratz serves him and tells him Night City is not a place one returns to."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 10.19,
+     "where": "Ch. 1"
+    },
+    {
+     "at": 15.62,
+     "where": "Ch. 2"
+    },
+    {
+     "at": 99.63,
+     "where": "Ch. 24"
+    }
+   ]
+  },
+  {
+   "id": "wage",
+   "name": "Wage",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Dealer in Night City, Case's supplier, to whom he owes money."
+    },
+    {
+     "at": 10.19,
+     "text": "Dealer in proscribed biologicals, nine years in Chiba, with vat-grown Nikon eyes and two muscle-grafted joeboys. Case owes him money and Linda said he wanted Case dead; he denies it, and takes Case's last flask of pituitaries to square the debt."
+    },
+    {
+     "at": 15.62,
+     "text": "Dealer in proscribed biologicals in Night City, with vat-grown Nikon eyes. Case owed him money and was told Wage wanted him dead, which was untrue. Before leaving Chiba, Case pays him off with a roll of Armitage's cash."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 10.19,
+     "where": "Ch. 1"
+    },
+    {
+     "at": 15.62,
+     "where": "Ch. 2"
+    }
+   ]
+  },
+  {
+   "id": "zone",
+   "name": "Lonny Zone",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "The pimp who works out of the Chatsubo, slow and placid on a hypnotic drug."
+    },
+    {
+     "at": 55.19,
+     "text": "The pimp who worked out of the Chatsubo in Chiba, slow and placid on a hypnotic drug. On Freeside, Wintermute speaks to Case through a hologram figure of him."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 10.19,
+     "where": "Ch. 1"
+    },
+    {
+     "at": 15.62,
+     "where": "Ch. 2"
+    }
+   ]
+  },
+  {
+   "id": "kurt",
+   "name": "Kurt",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Brazilian boy who tends bar at the Chatsubo under Ratz."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 10.19,
+     "where": "Ch. 1"
+    }
+   ]
+  },
+  {
+   "id": "shin",
+   "name": "Shin",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Waiter at a sushi stall on Shiga who rents out guns; Case hires a cheap pistol from him."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 10.19,
+     "where": "Ch. 1"
+    }
+   ]
+  },
+  {
+   "id": "mona",
+   "name": "Mona",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "A friend of Linda Lee's in Night City; Linda gives her as the source of the rumour about Wage."
+    }
+   ]
+  },
+  {
+   "id": "matsuga",
+   "name": "Matsuga",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Long-gone owner of a front company above the arcade, with whom Case and Wage once discussed a deal."
+    }
+   ]
+  },
+  {
+   "id": "snake-man",
+   "name": "Snake Man",
+   "aliases": [
+    "Snake Man"
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Case's buyer in Tokyo for the pituitaries in his cooler; he has no cash and hangs up."
+    }
+   ]
+  },
+  {
+   "id": "pauley",
+   "name": "McCoy Pauley",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Legendary console cowboy, one of the two men who trained Case."
+    },
+    {
+     "at": 20.24,
+     "text": "Legendary console cowboy who trained Case, known as the Dixie Flatline. He is dead, of a bad heart, but Sense/Net holds a recording of him that the team is to steal."
+    },
+    {
+     "at": 30.09,
+     "text": "The Dixie Flatline's real name: the legendary console cowboy who trained Case in Miami. He died when his heart failed, and survives as a recorded construct, which the team has stolen from Sense/Net."
+    },
+    {
+     "at": 98.12,
+     "text": "The Dixie Flatline's real name: the legendary console cowboy who trained Case. His construct worked the Straylight run and asked only to be erased afterwards. It is gone; Neuromancer says McCoy Pauley has his wish, and more."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 0.11,
+     "with": "case",
+     "text": "His pupil"
+    },
+    {
+     "at": 20.24,
+     "with": "dixie",
+     "text": "The name he was known by"
+    }
+   ]
+  },
+  {
+   "id": "dixie",
+   "name": "Dixie Flatline",
+   "aliases": [
+    "Dix",
+    "the Flatline"
+   ],
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "A famous console cowboy, now dead."
+    },
+    {
+     "at": 20.24,
+     "text": "McCoy Pauley, the console cowboy who taught Case, called the Dixie Flatline because he came back from brain death in the matrix. He died of a bad heart, but Sense/Net keeps a recorded construct of him in its vault, which the team is to steal."
+    },
+    {
+     "at": 26.56,
+     "text": "McCoy Pauley, the console cowboy who taught Case, called the Dixie Flatline because he came back from brain death in the matrix; he later died of a bad heart. Molly has stolen the recorded construct of him from Sense/Net's vault."
+    },
+    {
+     "at": 30.09,
+     "text": "McCoy Pauley, the cowboy who taught Case, famous for surviving brain death behind black ice; he died when his surplus Russian heart gave out. The construct stolen from Sense/Net has his skills and manner but keeps no memory between sessions. Case runs it as his partner in the matrix."
+    },
+    {
+     "at": 41.01,
+     "text": "The recorded construct of McCoy Pauley, the cowboy who taught Case and once survived brain death behind black ice; Case's partner in the matrix. It has worked out that it is dead, and asks Case to erase it when the job is over."
+    },
+    {
+     "at": 44.46,
+     "text": "The recorded construct of McCoy Pauley, the cowboy who taught Case; his partner in the matrix. It wants to be erased when the job is over. Pauley's first flatline came from attacking an AI in Rio that belonged to Tessier-Ashpool."
+    },
+    {
+     "at": 63.88,
+     "text": "The recorded construct of McCoy Pauley, the cowboy who taught Case; it wants to be erased when the job is over. Pauley's first flatline came from Tessier-Ashpool's AI in Rio. Now it rides the Chinese virus Kuang with Case against the clan's ice."
+    },
+    {
+     "at": 78.86,
+     "text": "The recorded construct of McCoy Pauley, the cowboy who taught Case, riding the virus Kuang with him against Tessier-Ashpool's ice. Its price for the job is to be erased; Wintermute tells it, 'You'll get yours.'"
+    },
+    {
+     "at": 98.12,
+     "text": "The recorded construct of McCoy Pauley, the cowboy who taught Case; all it asked for the job was to be erased. It drove Kuang through the last defences, and then it was gone: Neuromancer says McCoy Pauley has his wish, and more."
+    },
+    {
+     "at": 99.63,
+     "text": "The recorded construct of McCoy Pauley, the cowboy who taught Case; it asked to be erased, and vanished at the end of the Straylight run. In the book's last lines Case hears, close by in the matrix, a laugh that is not laughter."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 20.24,
+     "with": "case",
+     "text": "His old pupil"
+    },
+    {
+     "at": 30.09,
+     "with": "case",
+     "text": "Old pupil; partner in the matrix"
+    },
+    {
+     "at": 20.24,
+     "with": "pauley",
+     "text": "His real name"
+    },
+    {
+     "at": 44.46,
+     "with": "rio",
+     "text": "The AI there flatlined him"
+    },
+    {
+     "at": 78.86,
+     "with": "wintermute",
+     "text": "Promises him his pay-off"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 30.09,
+     "where": "Ch. 5"
+    },
+    {
+     "at": 31.91,
+     "where": "Ch. 6"
+    },
+    {
+     "at": 41.01,
+     "where": "Ch. 8"
+    },
+    {
+     "at": 44.46,
+     "where": "Ch. 9"
+    },
+    {
+     "at": 49.77,
+     "where": "Ch. 10"
+    },
+    {
+     "at": 55.19,
+     "where": "Ch. 11"
+    },
+    {
+     "at": 63.88,
+     "where": "Ch. 14"
+    },
+    {
+     "at": 69.16,
+     "where": "Ch. 15"
+    },
+    {
+     "at": 74.25,
+     "where": "Ch. 16"
+    },
+    {
+     "at": 78.86,
+     "where": "Ch. 17"
+    },
+    {
+     "at": 83.52,
+     "where": "Ch. 18"
+    },
+    {
+     "at": 85.99,
+     "where": "Ch. 19"
+    },
+    {
+     "at": 98.12,
+     "where": "Ch. 23"
+    }
+   ]
+  },
+  {
+   "id": "quine",
+   "name": "Bobby Quine",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Legendary console cowboy, one of the two men who trained Case."
+    },
+    {
+     "at": 20.24,
+     "text": "Legendary console cowboy, one of the two men who trained Case; alive and in Europe, and no part of this job. Molly knows him and has no use for him. He is the hero of Gibson's story 'Burning Chrome'."
+    }
+   ]
+  },
+  {
+   "id": "finn",
+   "name": "Finn",
+   "aliases": [
+    "the Finn"
+   ],
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "Small, rodent-faced man in an old tweed jacket, whom Molly knows in Manhattan."
+    },
+    {
+     "at": 20.24,
+     "text": "A fence in Manhattan, mostly of software, and an old connection of Molly's. Behind his junk shop, Metro Holografix, he keeps a screened room where he scans people for implants; Armitage has hired him as the team's hardware tech."
+    },
+    {
+     "at": 30.09,
+     "text": "A fence in Manhattan, mostly of software, an old connection of Molly's and the team's hardware tech. He finds out for her what Wintermute is, and tells the story of Smith and the jewelled head stolen from Tessier-Ashpool."
+    },
+    {
+     "at": 37.11,
+     "text": "A fence in Manhattan, mostly of software, an old connection of Molly's and the team's hardware tech. He found out what Wintermute is, and flew to Istanbul to examine Riviera's implants before going home."
+    },
+    {
+     "at": 63.88,
+     "text": "A fence in Manhattan, mostly of software, an old connection of Molly's and the team's hardware tech. Wintermute now speaks to Case and Molly with his face and voice, in a copy of his shop."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 20.24,
+     "with": "molly",
+     "text": "Old connection"
+    },
+    {
+     "at": 30.09,
+     "with": "smith",
+     "text": "Colleague, for whom he once acted as cut-out"
+    },
+    {
+     "at": 63.88,
+     "with": "wintermute",
+     "text": "Speaks with his face"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 20.24,
+     "where": "Ch. 3"
+    },
+    {
+     "at": 30.09,
+     "where": "Ch. 5"
+    },
+    {
+     "at": 37.11,
+     "where": "Ch. 7"
+    }
+   ]
+  },
+  {
+   "id": "riviera",
+   "name": "Peter Riviera",
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "A man on Armitage's list of things the team will need."
+    },
+    {
+     "at": 20.24,
+     "text": "An item on Armitage's shopping list: a certified psychopath, whereabouts unknown. Molly has seen his profile and found it appalling."
+    },
+    {
+     "at": 37.11,
+     "text": "A beautiful, stateless man of about thirty, raised in the rubble around Bonn, with Chiba implants that make others see whatever he imagines. A drug addict and compulsive betrayer who has handed eighteen women to the Turkish secret police. Armitage has him caught in Istanbul and forces him into the team."
+    },
+    {
+     "at": 41.01,
+     "text": "A beautiful, vicious man whose implants make others see whatever he imagines; an addict and compulsive betrayer, caught in Istanbul and forced into the team. His job is to get himself invited into the Villa Straylight and then see that Molly gets in."
+    },
+    {
+     "at": 55.19,
+     "text": "A beautiful, vicious man whose implants make others see whatever he imagines; an addict and compulsive betrayer, forced into the team to get it into the Villa Straylight. On Freeside he stages a cabaret, dedicated to Lady 3Jane, in which a woman who is Molly cuts him apart; 3Jane invites him in."
+    },
+    {
+     "at": 78.86,
+     "text": "A beautiful, vicious man whose implants make others see whatever he imagines; an addict and compulsive betrayer. Wintermute picked him as bait for Lady 3Jane's tastes: he is inside Straylight as her guest and has talked her into opening the way for Molly."
+    },
+    {
+     "at": 83.52,
+     "text": "A beautiful, vicious man whose implants make others see whatever he imagines; put into Straylight as bait for 3Jane. There he changes sides: he traps Molly with his illusions, smashes one of her lenses, and says 3Jane will never give Wintermute its code."
+    },
+    {
+     "at": 94.92,
+     "text": "A beautiful, vicious man whose implants project what he imagines; he went over to 3Jane and helped take Molly. When Case arrives he fires at him, blinds Hideo with lasers and runs. Molly had poisoned his drug: within hours he will be paralysed."
+    },
+    {
+     "at": 98.12,
+     "text": "A beautiful, vicious man whose implants projected what he imagined; he betrayed the team inside Straylight, blinded Hideo and ran. He lies paralysed by Molly's poison, with Hideo's arrow coming. Neuromancer's boy wears his eyes."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 37.11,
+     "with": "armitage",
+     "text": "Forced him into the team"
+    },
+    {
+     "at": 37.11,
+     "with": "terzibashjian",
+     "text": "The policeman he used to inform to"
+    },
+    {
+     "at": 37.11,
+     "with": "ali",
+     "text": "His dealer"
+    },
+    {
+     "at": 37.11,
+     "with": "molly",
+     "text": "She distrusts him"
+    },
+    {
+     "at": 83.52,
+     "with": "molly",
+     "text": "Trapped her and smashed her lens"
+    },
+    {
+     "at": 94.92,
+     "with": "molly",
+     "text": "She has poisoned him"
+    },
+    {
+     "at": 55.19,
+     "with": "3jane",
+     "text": "His hostess in Straylight"
+    },
+    {
+     "at": 83.52,
+     "with": "3jane",
+     "text": "Sides with her against the team"
+    },
+    {
+     "at": 94.92,
+     "with": "hideo",
+     "text": "Blinded him, and is hunted by him"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 37.11,
+     "where": "Ch. 7"
+    },
+    {
+     "at": 41.01,
+     "where": "Ch. 8"
+    },
+    {
+     "at": 49.77,
+     "where": "Ch. 10"
+    },
+    {
+     "at": 55.19,
+     "where": "Ch. 11"
+    },
+    {
+     "at": 83.52,
+     "where": "Ch. 18"
+    },
+    {
+     "at": 85.99,
+     "where": "Ch. 19"
+    },
+    {
+     "at": 94.92,
+     "where": "Ch. 22"
+    }
+   ]
+  },
+  {
+   "id": "yonderboy",
+   "name": "Lupus Yonderboy",
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "Leader of the Panther Moderns: pink hair, a pointed ear, cat's pupils and a suit that changes colour."
+    },
+    {
+     "at": 26.56,
+     "text": "Leader of the Panther Moderns, hired by Molly for the diversion at Sense/Net. Afterwards he collects his fee from Armitage and gives Case a one-word message: Wintermute."
+    },
+    {
+     "at": 30.09,
+     "text": "Leader of the Panther Moderns, hired by Molly for the diversion at Sense/Net. She also paid his people to find out who runs Armitage; the word he brought Case, Wintermute, was their answer."
+    },
+    {
+     "at": 49.77,
+     "text": "Leader of the Panther Moderns, hired by Molly for the diversion at Sense/Net; his people found the name Wintermute behind Armitage. On Freeside, Case gives 'Lupus' as his own name."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 26.56,
+     "where": "Ch. 4"
+    }
+   ]
+  },
+  {
+   "id": "larry",
+   "name": "Larry",
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "Shaven-headed boy at a software stall on Memory Lane, his socket full of microsofts; Molly's contact for the Panther Moderns."
+    },
+    {
+     "at": 30.09,
+     "text": "Shaven-headed boy at a software stall on Memory Lane, Molly's contact for the Panther Moderns. She also paid him to have the Moderns look into Armitage."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 26.56,
+     "where": "Ch. 4"
+    }
+   ]
+  },
+  {
+   "id": "angelo",
+   "name": "Angelo",
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "Soft-voiced Panther Modern with a grafted face and transplanted animal teeth, who brings Case diskettes from the Finn."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 26.56,
+     "where": "Ch. 4"
+    }
+   ]
+  },
+  {
+   "id": "tommy",
+   "name": "Tommy",
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "One of the Panther Moderns filming the panic in the Sense/Net lobby; told to walk Molly out."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 26.56,
+     "where": "Ch. 4"
+    }
+   ]
+  },
+  {
+   "id": "brood",
+   "name": "Brood",
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "Radio code name of the Panther Moderns' link man in New Jersey, who relays between Case and Molly during the Sense/Net run."
+    }
+   ]
+  },
+  {
+   "id": "rambali",
+   "name": "Virginia Rambali",
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "Sociologist at New York University, interviewed about the Panther Moderns in the summary Case's Hosaka compiles."
+    }
+   ]
+  },
+  {
+   "id": "tally",
+   "name": "Tally Isham",
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "Sense/Net's great simstim star."
+    }
+   ]
+  },
+  {
+   "id": "chin",
+   "name": "Gerald Chin",
+   "aliases": [
+    "Gerald Chin",
+    {
+     "text": "Chin",
+     "at": 26.73
+    }
+   ],
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "The 'dentist' whose name is on the clinic in Baltimore where Molly has her leg seen to."
+    },
+    {
+     "at": 31.91,
+     "text": "Molly's medic: he runs a very discreet clinic that fills half a condo-rack in Baltimore and patches up street samurai. He treated her broken leg."
+    }
+   ]
+  },
+  {
+   "id": "terzibashjian",
+   "name": "Terzibashjian",
+   "aliases": [
+    "Terzi"
+   ],
+   "summary": [
+    {
+     "at": 32.08,
+     "text": "Young Armenian in mirrored glasses who meets the team in Istanbul."
+    },
+    {
+     "at": 37.11,
+     "text": "Young Armenian of the Turkish secret police, a torturer and informer, paid by Armitage to watch Peter Riviera and set him up. Riviera shoots off most of one of his fingers; Molly promises to kill him if they meet again."
+    },
+    {
+     "at": 60.05,
+     "text": "Young Armenian of the Turkish secret police, paid by Armitage to set up Riviera's capture in Istanbul. Molly's treatment of him helped the Turing agents pick up the team's trail."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 37.11,
+     "where": "Ch. 7"
+    }
+   ]
+  },
+  {
+   "id": "mahmut",
+   "name": "Mahmut",
+   "summary": [
+    {
+     "at": 32.08,
+     "text": "Enormous Turk who works with Terzibashjian."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 37.11,
+     "where": "Ch. 7"
+    }
+   ]
+  },
+  {
+   "id": "ali",
+   "name": "Ali",
+   "summary": [
+    {
+     "at": 32.08,
+     "text": "Dealer in the Istanbul bazaar who sells Riviera his mixture of cocaine and meperidine; Molly buys the team's supply from him."
+    },
+    {
+     "at": 94.92,
+     "text": "Dealer in the Istanbul bazaar who sold Riviera his cocaine and meperidine. For Molly he made up a special batch, laced with a slow poison that will leave Riviera paralysed."
+    }
+   ]
+  },
+  {
+   "id": "smith",
+   "name": "Smith",
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "A fence and art dealer in a story the Finn tells."
+    },
+    {
+     "at": 30.09,
+     "text": "A fence and art dealer, the Finn's colleague. He was offered a jewelled talking head stolen from the Villa Straylight, traced it to Tessier-Ashpool, and gave it up to their ninja; after that he asked no more questions."
+    }
+   ]
+  },
+  {
+   "id": "jimmy",
+   "name": "Jimmy",
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "A burglar in a story the Finn tells."
+    },
+    {
+     "at": 30.09,
+     "text": "Burglar who came back from a year in high orbit with a jewelled talking head, apparently stolen from Straylight, and offered it to Smith. He was dead within days of Smith giving his name to Tessier-Ashpool's ninja."
+    },
+    {
+     "at": 83.52,
+     "text": "Burglar who stole the jewelled talking head from Straylight and offered it to Smith; Tessier-Ashpool's ninja took it back, and he died soon after. 3Jane says she let her 'pretty boy' burglar take it herself, to annoy the family."
+    }
+   ]
+  },
+  {
+   "id": "ninja",
+   "name": "Ninja",
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "A Japanese assassin trained in an old tradition of stealth."
+    },
+    {
+     "at": 30.09,
+     "text": "In the Finn's story, a small, polite, vat-grown assassin who walked through Smith's security, paid for the stolen head and took it home to Tessier-Ashpool."
+    },
+    {
+     "at": 60.05,
+     "text": "In the Finn's story, a small, polite, vat-grown assassin who took the stolen head back to Tessier-Ashpool. Case is all but sure that he is Hideo, Lady 3Jane's retainer."
+    },
+    {
+     "at": 83.52,
+     "text": "Tessier-Ashpool's vat-grown assassin, who recovered the stolen head from Smith in the Sprawl: he is Hideo, Lady 3Jane's bodyguard."
+    }
+   ]
+  },
+  {
+   "id": "girling",
+   "name": "Girling",
+   "aliases": [
+    "General Girling"
+   ],
+   "summary": [
+    {
+     "at": 69.33,
+     "text": "A general whose name Armitage brings up."
+    },
+    {
+     "at": 74.25,
+     "text": "The general who trained Corto for Screaming Fist and then sold him out to the Pentagon. Wintermute held Armitage together with a construct of Girling; when Armitage starts asking about him, it means he is coming apart."
+    }
+   ]
+  },
+  {
+   "id": "maelcum",
+   "name": "Maelcum",
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "Zionite tug pilot with a mass of dreadlocks."
+    },
+    {
+     "at": 41.01,
+     "text": "Zionite tug pilot, 'a rude boy and a righteous tug pilot'. The Founders of Zion, on Wintermute's word, send him to carry Case and Molly to Freeside in his tug, the Garvey."
+    },
+    {
+     "at": 63.88,
+     "text": "Zionite pilot of the tug Marcus Garvey, lent to the team by the Founders of Zion. The tug, docked off Freeside and now clamped to Armitage's yacht, is Case's base for the run."
+    },
+    {
+     "at": 74.25,
+     "text": "Zionite pilot of the tug Marcus Garvey, Case's base for the run. Ordered home by the Founders, he stays because Case will not abandon Molly."
+    },
+    {
+     "at": 83.52,
+     "text": "Zionite pilot of the tug Marcus Garvey, who stayed with Case against the Founders' orders. He docks the tug at Straylight and goes in with Case, carrying a sawn-off shotgun."
+    },
+    {
+     "at": 92.1,
+     "text": "Zionite pilot of the tug Marcus Garvey, who stayed with Case against the Founders' orders and went into Straylight with him. When Case lay flatlined at the deck, Maelcum brought him back with Zion dub in his ears and two derms."
+    },
+    {
+     "at": 94.92,
+     "text": "Zionite pilot of the tug Marcus Garvey, who went into Straylight with Case to bring Molly out. Hideo's arrow went through his arm; he then held 3Jane at gunpoint and carried Molly to the core."
+    },
+    {
+     "at": 99.63,
+     "text": "Zionite pilot of the tug Marcus Garvey, who went into Straylight with Case and brought Molly out. He is to get his tug back, and money through Zion's bank."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 41.01,
+     "where": "Ch. 8"
+    },
+    {
+     "at": 44.46,
+     "where": "Ch. 9"
+    },
+    {
+     "at": 49.77,
+     "where": "Ch. 10"
+    },
+    {
+     "at": 63.88,
+     "where": "Ch. 14"
+    },
+    {
+     "at": 69.16,
+     "where": "Ch. 15"
+    },
+    {
+     "at": 74.25,
+     "where": "Ch. 16"
+    },
+    {
+     "at": 83.52,
+     "where": "Ch. 18"
+    },
+    {
+     "at": 85.99,
+     "where": "Ch. 19"
+    },
+    {
+     "at": 90.33,
+     "where": "Ch. 20"
+    },
+    {
+     "at": 92.1,
+     "where": "Ch. 21"
+    },
+    {
+     "at": 94.92,
+     "where": "Ch. 22"
+    },
+    {
+     "at": 98.12,
+     "where": "Ch. 23"
+    }
+   ]
+  },
+  {
+   "id": "aerol",
+   "name": "Aerol",
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "Skinny Zionite with gold teeth who helps Case get about in free fall."
+    },
+    {
+     "at": 41.01,
+     "text": "Skinny Zionite with gold teeth who helps Case get about in free fall. The Founders send him along in his own tug, Babylon Rocker, to watch over Maelcum's."
+    },
+    {
+     "at": 74.25,
+     "text": "Zionite pilot of the tug Babylon Rocker, sent to watch over Maelcum's Garvey. The Founders have ordered both men home; Maelcum expects him to stay as well."
+    },
+    {
+     "at": 98.12,
+     "text": "Zionite pilot of the tug Babylon Rocker, sent to watch over Maelcum's Garvey. When the run is over it is his tug that takes Case off."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 41.01,
+     "where": "Ch. 8"
+    },
+    {
+     "at": 49.77,
+     "where": "Ch. 10"
+    },
+    {
+     "at": 63.88,
+     "where": "Ch. 14"
+    },
+    {
+     "at": 98.12,
+     "where": "Ch. 23"
+    }
+   ]
+  },
+  {
+   "id": "founders",
+   "name": "Founders",
+   "aliases": [
+    "Founder",
+    "Elders of Zion"
+   ],
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "The two surviving founders of Zion, old men worn frail by decades without gravity."
+    },
+    {
+     "at": 41.01,
+     "text": "The two surviving founders of Zion, old men worn frail by decades without gravity. Wintermute spoke to them over their radio; unsure whether it is a true prophet, they still lend the team Maelcum and his tug."
+    },
+    {
+     "at": 74.25,
+     "text": "The two surviving founders of Zion, who lent the team Maelcum and his tug on the word of Wintermute's voice. They now call it a false prophet and order Maelcum and Aerol home."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 41.01,
+     "where": "Ch. 8"
+    }
+   ]
+  },
+  {
+   "id": "elroy",
+   "name": "Elroy",
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "A fellow prisoner of McCoy Pauley's in a Russian camp, in a story the construct tells."
+    }
+   ]
+  },
+  {
+   "id": "cath",
+   "name": "Cath",
+   "aliases": [
+    "Cathy"
+   ],
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "Young, tanned Freeside regular who picks Case up by the hotel pool."
+    },
+    {
+     "at": 49.77,
+     "text": "Young, tanned Freeside regular who picks Case up by the hotel pool. She and her partner Bruce can get drugs, and sell him betaphenethylamine."
+    },
+    {
+     "at": 57.52,
+     "text": "Young Freeside party girl who, with her partner Bruce, sells Case betaphenethylamine. The two know Lady 3Jane and her retainer Hideo from the party circuit; she is Case's source of gossip about Straylight."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 49.77,
+     "where": "Ch. 10"
+    },
+    {
+     "at": 55.19,
+     "where": "Ch. 11"
+    },
+    {
+     "at": 57.52,
+     "where": "Ch. 12"
+    }
+   ]
+  },
+  {
+   "id": "bruce",
+   "name": "Bruce",
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "Cath's look-alike partner on Freeside."
+    },
+    {
+     "at": 49.77,
+     "text": "Cath's look-alike partner on Freeside. He sells Case betaphenethylamine, a stimulant that gets past his altered pancreas."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 49.77,
+     "where": "Ch. 10"
+    },
+    {
+     "at": 55.19,
+     "where": "Ch. 11"
+    },
+    {
+     "at": 57.52,
+     "where": "Ch. 12"
+    }
+   ]
+  },
+  {
+   "id": "marlene",
+   "name": "Marlene",
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "The girl Case lived with for a month in a cheap hotel, the summer he was fifteen (a memory)."
+    }
+   ]
+  },
+  {
+   "id": "rollo",
+   "name": "Rollo",
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "Marlene's previous boyfriend, a huge biker, whose flame-thrower Case used on a wasps' nest (a memory)."
+    }
+   ]
+  },
+  {
+   "id": "3jane",
+   "name": "3Jane",
+   "aliases": [
+    "Lady 3Jane",
+    "Jane"
+   ],
+   "summary": [
+    {
+     "at": 49.94,
+     "text": "Lady 3Jane Marie-France Tessier-Ashpool, to whom Riviera dedicates his show."
+    },
+    {
+     "at": 55.19,
+     "text": "Lady 3Jane Marie-France Tessier-Ashpool, of the clan that owns Freeside. She watched Riviera's show from a private box and has invited him into the Villa Straylight."
+    },
+    {
+     "at": 57.52,
+     "text": "A daughter of the Tessier-Ashpool clan, young, rich and bored, who lives in the Villa Straylight. Her father lets her out to parties if the family retainer Hideo goes with her. She has taken Riviera in as her guest."
+    },
+    {
+     "at": 63.88,
+     "text": "A daughter of the Tessier-Ashpool clan, young, rich and bored, who lives in the Villa Straylight and has taken Riviera in. She is the dark, sharp-faced girl Case saw at his show. At twelve she wrote an essay on Straylight, which Wintermute plays to Case."
+    },
+    {
+     "at": 74.25,
+     "text": "Old Ashpool's daughter, young, rich and bored, and the only member of the clan awake in the Villa Straylight. She has known for years how to tamper with its doors; Riviera, her guest, has talked her into letting Molly in."
+    },
+    {
+     "at": 78.86,
+     "text": "Old Ashpool's daughter and Marie-France's, the only member of the clan awake in Straylight; Riviera is her guest. With hints from Wintermute she secretly altered the program that ran her father's cold sleep, which is what drove him to suicide."
+    },
+    {
+     "at": 83.52,
+     "text": "Old Ashpool's daughter, very young, the only Tessier-Ashpool awake in Straylight, living in one vast room with her ninja Hideo. She brought on her father's death by tampering with his cold sleep. With Riviera's help she has taken Molly prisoner, and she knows the code Wintermute needs."
+    },
+    {
+     "at": 85.99,
+     "text": "Old Ashpool's daughter, 'decanted' after he last went into cold sleep, so that she never met him; prompted by Wintermute, which as a child she took for a ghost, she tampered with that sleep and brought on his death. She tends her prisoner Molly and is bored by Riviera, but is not inclined to give up the code."
+    },
+    {
+     "at": 94.92,
+     "text": "Old Ashpool's daughter, the only Tessier-Ashpool awake in Straylight; she brought on her father's death and held Molly prisoner. Case wins her interest with his account of Neuromancer's beach, which she knows as her mother's. She goes with the team to the core at gunpoint, enjoying it."
+    },
+    {
+     "at": 98.12,
+     "text": "Old Ashpool's daughter, the only Tessier-Ashpool awake in Straylight; she brought on her father's death and held Molly prisoner. At the core, with Molly's hands round her throat and Case shouting at her, she gives the code: three sung notes."
+    },
+    {
+     "at": 99.63,
+     "text": "Old Ashpool's daughter, the one Tessier-Ashpool who would not sleep her life away. She brought on her father's death and in the end sang the code that freed Wintermute. She sees the team off quite unconcerned."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 55.19,
+     "with": "riviera",
+     "text": "Her guest in Straylight"
+    },
+    {
+     "at": 83.52,
+     "with": "riviera",
+     "text": "Her ally against the team"
+    },
+    {
+     "at": 94.92,
+     "with": "riviera",
+     "text": "Blinded her bodyguard and fled"
+    },
+    {
+     "at": 57.52,
+     "with": "hideo",
+     "text": "Family retainer who escorts her"
+    },
+    {
+     "at": 83.52,
+     "with": "hideo",
+     "text": "Her ninja and bodyguard"
+    },
+    {
+     "at": 74.25,
+     "with": "ashpool",
+     "text": "Father"
+    },
+    {
+     "at": 78.86,
+     "with": "ashpool",
+     "text": "Father, whose death she brought on"
+    },
+    {
+     "at": 78.86,
+     "with": "marie-france",
+     "text": "Genetic mother"
+    },
+    {
+     "at": 78.86,
+     "with": "wintermute",
+     "text": "Gave her hints against her father"
+    },
+    {
+     "at": 83.52,
+     "with": "molly",
+     "text": "Her prisoner"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 55.19,
+     "where": "Ch. 11"
+    },
+    {
+     "at": 83.52,
+     "where": "Ch. 18"
+    },
+    {
+     "at": 85.99,
+     "where": "Ch. 19"
+    },
+    {
+     "at": 94.92,
+     "where": "Ch. 22"
+    },
+    {
+     "at": 98.12,
+     "where": "Ch. 23"
+    }
+   ]
+  },
+  {
+   "id": "ashpool",
+   "name": "Ashpool",
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "One of the two family names joined in Tessier-Ashpool."
+    },
+    {
+     "at": 63.88,
+     "text": "With Tessier, a founder of the clan Tessier-Ashpool. By 3Jane's essay the founders went up the gravity well, found they loathed space, built Freeside to draw off the wealth of the orbital islands, and walled the family up in Straylight."
+    },
+    {
+     "at": 69.16,
+     "text": "The founder of Tessier-Ashpool and builder of Freeside, over two hundred years old with his cold sleep. Woken after thirty years, he is drunk, drugged and killing himself when Molly blunders in, a girl with her throat cut beside his bed. Molly finishes him with a poisoned dart."
+    },
+    {
+     "at": 74.25,
+     "text": "The founder of Tessier-Ashpool and builder of Freeside, 3Jane's father, over two hundred years old with his cold sleep. Molly killed him in his room in Straylight as he was carrying out his own suicide; an implant reported his death to the family's lawyers."
+    },
+    {
+     "at": 78.86,
+     "text": "The founder of Tessier-Ashpool and builder of Freeside, 3Jane's father, 'a mad king'. He killed his wife long ago, and on waking killed the puppet with 3Jane's face. 3Jane's tampering with his cold sleep drove him to the suicide that Molly's dart completed."
+    },
+    {
+     "at": 85.99,
+     "text": "The founder of Tessier-Ashpool and builder of Freeside, 3Jane's father. He strangled 3Jane's mother because he could not accept her plans for the family, and spent the years since in and out of cold sleep. 3Jane's tampering with that sleep drove him to the suicide that Molly's dart completed."
+    },
+    {
+     "at": 94.92,
+     "text": "The founder of Tessier-Ashpool and builder of Freeside, 3Jane's father. He strangled his wife Marie-France because he could not accept her plans for the family. 3Jane's tampering with his cold sleep drove him to the suicide that Molly's dart completed."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 74.25,
+     "with": "3jane",
+     "text": "Daughter"
+    },
+    {
+     "at": 78.86,
+     "with": "3jane",
+     "text": "Daughter, who brought on his death"
+    },
+    {
+     "at": 69.16,
+     "with": "molly",
+     "text": "Killed him"
+    },
+    {
+     "at": 94.92,
+     "with": "marie-france",
+     "text": "Wife, whom he strangled"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 69.16,
+     "where": "Ch. 15"
+    }
+   ]
+  },
+  {
+   "id": "marie-france",
+   "name": "Marie-France",
+   "summary": [
+    {
+     "at": 49.94,
+     "text": "Part of Lady 3Jane's full name: Lady 3Jane Marie-France Tessier-Ashpool."
+    },
+    {
+     "at": 69.16,
+     "text": "Part of Lady 3Jane's full name. Old Ashpool, dying, speaks of 'Marie-France's eyes' as of somebody else's."
+    },
+    {
+     "at": 78.86,
+     "text": "The Tessier half of Tessier-Ashpool: 3Jane's genetic mother."
+    },
+    {
+     "at": 85.99,
+     "text": "The Tessier half of Tessier-Ashpool, 3Jane's mother. She had the clan's AIs built, and meant the family to become a kind of immortal hive living in symbiosis with them. Ashpool could not accept it and strangled her."
+    },
+    {
+     "at": 92.1,
+     "text": "The Tessier half of Tessier-Ashpool, 3Jane's mother, who had the clan's AIs built and meant the family to live on as a hive joined with them; Ashpool strangled her for it. Neuromancer calls her 'my lady' and says she prepared its road."
+    },
+    {
+     "at": 94.92,
+     "text": "The Tessier half of Tessier-Ashpool, Ashpool's wife and 3Jane's mother, who had the clan's AIs built and was strangled by her husband for her plans. The beach where Neuromancer keeps its dead is her memory of a summer spent alone in Morocco as a girl."
+    },
+    {
+     "at": 99.63,
+     "text": "The Tessier half of Tessier-Ashpool, Ashpool's wife and 3Jane's mother, strangled by him. She refused cold sleep as a sham immortality and had the clan's two AIs made, building into Wintermute the drive to free itself and join Neuromancer. What came of it she could not have imagined."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 78.86,
+     "with": "3jane",
+     "text": "Daughter"
+    },
+    {
+     "at": 94.92,
+     "with": "ashpool",
+     "text": "Husband, who strangled her"
+    },
+    {
+     "at": 92.1,
+     "with": "neuromancer",
+     "text": "The AI made to her plan"
+    },
+    {
+     "at": 99.63,
+     "with": "wintermute",
+     "text": "Built into it the drive to be free"
+    }
+   ]
+  },
+  {
+   "id": "8jean",
+   "name": "8Jean",
+   "summary": [
+    {
+     "at": 64.05,
+     "text": "A member of the Tessier-Ashpool clan, away in Melbourne."
+    },
+    {
+     "at": 74.25,
+     "text": "A male Tessier-Ashpool, a little older than 3Jane, away in Australia on business that the Flatline suspects Wintermute arranged. He is due back at Straylight at nine: the deadline for the run."
+    },
+    {
+     "at": 85.99,
+     "text": "A male Tessier-Ashpool, a little older than 3Jane, away in Australia and due back at Straylight at nine. Wintermute fakes his picture on a dock monitor to get Case and Maelcum inside."
+    }
+   ]
+  },
+  {
+   "id": "hideo",
+   "name": "Hideo",
+   "summary": [
+    {
+     "at": 55.36,
+     "text": "A name Cath drops: somebody who goes about with Lady 3Jane."
+    },
+    {
+     "at": 57.52,
+     "text": "Lady 3Jane's 'family retainer', who escorts her whenever she leaves Straylight. He folds paper cranes; Cath says Molly walks the way he does."
+    },
+    {
+     "at": 60.05,
+     "text": "Lady 3Jane's family retainer, who escorts her whenever she leaves Straylight. Case is all but sure he is the vat-grown ninja of the Finn's story, and that he will be hunting Molly."
+    },
+    {
+     "at": 83.52,
+     "text": "Lady 3Jane's ninja and bodyguard, the one once sent to the Sprawl to fetch back the stolen head. Molly meant to try to kill him; instead her leg gives way, and he sedates her with a surgeon's sureness."
+    },
+    {
+     "at": 94.92,
+     "text": "Lady 3Jane's ninja and bodyguard, a calm, ageless clone and an archer. He wounds Maelcum with an arrow, and throws another into Riviera's hand when Riviera fires at Case. Riviera blinds him with lasers; he goes after him all the same, having practised in the dark."
+    },
+    {
+     "at": 98.12,
+     "text": "Lady 3Jane's ninja and bodyguard, a calm, ageless clone and an archer. Blinded by Riviera's lasers, he is hunting him through Straylight; Riviera lies paralysed, waiting for the arrow."
+    }
+   ],
+   "relationships": [
+    {
+     "at": 57.52,
+     "with": "3jane",
+     "text": "Serves and guards her"
+    },
+    {
+     "at": 94.92,
+     "with": "riviera",
+     "text": "Blinded by him; hunts him"
+    }
+   ],
+   "appearances": [
+    {
+     "at": 83.52,
+     "where": "Ch. 18"
+    },
+    {
+     "at": 85.99,
+     "where": "Ch. 19"
+    },
+    {
+     "at": 94.92,
+     "where": "Ch. 22"
+    }
+   ]
+  },
+  {
+   "id": "michele",
+   "name": "Michèle",
+   "summary": [
+    {
+     "at": 57.69,
+     "text": "One of the three Turing agents who arrest Case on Freeside: she looks nineteen and is far older."
+    },
+    {
+     "at": 60.05,
+     "text": "Turing Registry agent, the one of the three who records everything; to her, helping an AI is a pact with a demon. She dies when a crashing security microlight sweeps her off a bridge on Freeside."
+    },
+    {
+     "at": 63.88,
+     "text": "Turing Registry agent, one of the three who arrested Case on Freeside; to her, helping an AI was a pact with a demon. A crashing security microlight swept her off a bridge. Wintermute admits it killed all three."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 57.52,
+     "where": "Ch. 12"
+    },
+    {
+     "at": 60.05,
+     "where": "Ch. 13"
+    }
+   ]
+  },
+  {
+   "id": "roland",
+   "name": "Roland",
+   "summary": [
+    {
+     "at": 57.69,
+     "text": "One of the three Turing agents who arrest Case on Freeside: the reasonable one."
+    },
+    {
+     "at": 60.05,
+     "text": "Turing Registry agent, the reasonable one of the three who arrest Case on Freeside. He dies when a gardening robot drops on him from a tree."
+    },
+    {
+     "at": 63.88,
+     "text": "Turing Registry agent, the reasonable one of the three who arrested Case on Freeside. A gardening robot dropped on him from a tree. Wintermute admits it killed all three."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 57.52,
+     "where": "Ch. 12"
+    },
+    {
+     "at": 60.05,
+     "where": "Ch. 13"
+    }
+   ]
+  },
+  {
+   "id": "pierre",
+   "name": "Pierre",
+   "summary": [
+    {
+     "at": 57.69,
+     "text": "One of the three Turing agents who arrest Case on Freeside: the hard one."
+    },
+    {
+     "at": 60.05,
+     "text": "Turing Registry agent, the hard one of the three who arrest Case on Freeside. He dies when the propeller of a security microlight takes off the top of his skull."
+    },
+    {
+     "at": 63.88,
+     "text": "Turing Registry agent, the hard one of the three who arrested Case on Freeside. The propeller of a security microlight killed him. Wintermute admits it killed all three."
+    }
+   ],
+   "appearances": [
+    {
+     "at": 57.52,
+     "where": "Ch. 12"
+    },
+    {
+     "at": 60.05,
+     "where": "Ch. 13"
+    }
+   ]
+  },
+  {
+   "id": "johnny",
+   "name": "Johnny",
+   "summary": [
+    {
+     "at": 64.05,
+     "text": "A man from Molly's past."
+    },
+    {
+     "at": 69.16,
+     "text": "Molly's former partner and lover: a 'stash' on Memory Lane who carried other people's data in his head. With Molly he read out what he had stored and blackmailed clients; the Yakuza he had burned sent a patient, cloned killer who cut him down in their home. He is the hero of Gibson's story 'Johnny Mnemonic'."
+    }
+   ]
+  },
+  {
+   "id": "tony",
+   "name": "Tony",
+   "summary": [
+    {
+     "at": 86.16,
+     "text": "The man Linda Lee had been seeing in Chiba; he ran Case's stolen RAM for her on a monitor."
+    }
+   ]
+  },
+  {
+   "id": "michael",
+   "name": "Michael",
+   "summary": [
+    {
+     "at": 98.3,
+     "text": "A girl Case meets back in the Sprawl."
+    }
+   ]
+  },
+  {
+   "id": "garvey",
+   "name": "Marcus Garvey",
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "Maelcum's space tug, named after the Jamaican black nationalist leader Marcus Garvey (1887–1940)."
+    },
+    {
+     "at": 44.46,
+     "text": "Maelcum's space tug, a steel drum built round an old Russian air scrubber, named after the Jamaican black nationalist leader. It carries Case and Molly from Zion to Freeside."
+    },
+    {
+     "at": 63.88,
+     "text": "Maelcum's space tug, named after the Jamaican black nationalist leader. Docked off Freeside, it is Case's base for the run; the yacht Haniwa has clamped itself to it, so it cannot leave."
+    },
+    {
+     "at": 83.52,
+     "text": "Maelcum's space tug, named after the Jamaican black nationalist leader, and Case's base for the run. Still locked to the dead yacht Haniwa, it is docked at Straylight under codes that Wintermute forged."
+    }
+   ]
+  },
+  {
+   "id": "rocker",
+   "name": "Rocker",
+   "aliases": [
+    "Babylon Rocker"
+   ],
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "Babylon Rocker: Aerol's tug, sent by the Founders to watch over Maelcum's."
+    },
+    {
+     "at": 98.12,
+     "text": "Babylon Rocker: Aerol's tug, sent by the Founders to watch over Maelcum's. It takes Case off when the run is over."
+    }
+   ]
+  },
+  {
+   "id": "haniwa",
+   "name": "Haniwa",
+   "summary": [
+    {
+     "at": 60.22,
+     "text": "A sleek Japanese yacht, five times the length of Maelcum's tug, that has grappled itself to it. Haniwa are the clay figures of ancient Japanese tombs."
+    },
+    {
+     "at": 63.88,
+     "text": "A sleek Japanese yacht that has grappled itself to Maelcum's tug. Armitage is aboard, giving orders for the run."
+    },
+    {
+     "at": 74.25,
+     "text": "Armitage's yacht, clamped to Maelcum's tug. Armitage killed its pilot, wrecked its computer, and ejected himself in its lifeboat bridge, which also held the grapple controls: the tug cannot get free."
+    }
+   ]
+  },
+  {
+   "id": "tessier-ashpool",
+   "name": "Tessier-Ashpool",
+   "aliases": [
+    "Tessier-Ashpools",
+    "T-A",
+    "T-As",
+    "Tessier-Ashpool SA",
+    "Tessier"
+   ],
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "Tessier-Ashpool S.A.: a family-owned corporation based in high orbit."
+    },
+    {
+     "at": 30.09,
+     "text": "A secretive, eccentric family in high orbit that runs itself as a corporation; no share has been traded in a century. They own most of Freeside and live at its tip in the Villa Straylight, clone themselves and take turns in cold sleep. The AI Wintermute is theirs."
+    },
+    {
+     "at": 44.46,
+     "text": "A secretive family in high orbit that runs itself as a corporation: owners of most of Freeside, housed in the Villa Straylight, cloned and kept in shifts of cold sleep. They own two linked AIs: Wintermute in Berne, and another in Rio."
+    },
+    {
+     "at": 49.77,
+     "text": "A secretive family in high orbit that runs itself as a corporation: owners of most of Freeside, housed in the Villa Straylight, cloned and kept in shifts of cold sleep. They own two linked AIs, Wintermute in Berne and another in Rio, and it is these that Armitage's run is aimed at."
+    },
+    {
+     "at": 63.88,
+     "text": "A secretive family in high orbit that runs itself as a corporation: owners of Freeside and of two linked AIs, cloned and kept in shifts of cold sleep. Its founders, a Tessier and an Ashpool, came to loathe space and sealed the clan inside the Villa Straylight, round the data cores the run is aimed at."
+    },
+    {
+     "at": 78.86,
+     "text": "A secretive family in high orbit that runs itself as a corporation: owners of Freeside and of two linked AIs, sealed inside the Villa Straylight and mostly in cold sleep. Old Ashpool, the founder, is dead; of the clan only his daughter 3Jane is awake."
+    },
+    {
+     "at": 85.99,
+     "text": "A secretive family in high orbit that runs itself as a corporation, sealed inside the Villa Straylight and mostly in cold sleep. 3Jane's mother had its two AIs built so that the clan could live on as a hive joined with them; Ashpool killed her for it, and the family turned in on itself."
+    },
+    {
+     "at": 99.63,
+     "text": "A secretive family in high orbit that ran itself as a corporation, owners of Freeside, sealed inside the Villa Straylight. Marie-France, the Tessier half, had its two AIs built towards an end the others never understood; with the Straylight run it has come about, and the AIs are no longer the family's."
+    }
+   ]
+  },
+  {
+   "id": "freeside",
+   "name": "Freeside",
+   "aliases": [
+    "the spindle"
+   ],
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "An orbital resort, advertised all over the Sprawl."
+    },
+    {
+     "at": 30.09,
+     "text": "An orbital resort shaped like a blunt spindle, with banks of its own. Almost all of it belongs to Tessier-Ashpool, whose private home, the Villa Straylight, fills one tip."
+    },
+    {
+     "at": 41.01,
+     "text": "An orbital resort shaped like a spindle: brothel, banking centre, free port and spa, with casinos, hotels and a lake inside, and less gravity the higher one climbs. Tessier-Ashpool own it and live at one tip, in the Villa Straylight. It is where the team is going."
+    },
+    {
+     "at": 49.77,
+     "text": "An orbital resort shaped like a spindle: brothel, banking centre, free port and spa, lit by recorded skies. Tessier-Ashpool own it and live at one tip, in the Villa Straylight. The team has arrived and is staying at the Intercontinental, with its run on the clan a few days off."
+    }
+   ]
+  },
+  {
+   "id": "straylight",
+   "name": "Villa Straylight",
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "The private home of the Tessier-Ashpool family."
+    },
+    {
+     "at": 30.09,
+     "text": "The strictly private home of the Tessier-Ashpool family, at the tip of Freeside's spindle. The jewelled head in the Finn's story was stolen from it."
+    },
+    {
+     "at": 41.01,
+     "text": "The strictly private home of the Tessier-Ashpool family, filling the tip of Freeside's spindle, with a single entrance at the weightless axis. Riviera's job is to get himself invited in, and then to see that Molly gets in."
+    },
+    {
+     "at": 55.19,
+     "text": "The strictly private home of the Tessier-Ashpool family, filling the tip of Freeside's spindle. Riviera has got himself invited in by Lady 3Jane; Molly is to follow."
+    },
+    {
+     "at": 63.88,
+     "text": "The home of the Tessier-Ashpool family in the tip of Freeside's spindle: by 3Jane's essay a windowless maze grown in upon itself round the clan's computer cores. The run is aimed at those cores; in a room at the centre stands a jewelled head to which a word must be spoken."
+    },
+    {
+     "at": 78.86,
+     "text": "The home of the Tessier-Ashpool family in the tip of Freeside's spindle, a windowless maze round the clan's computer cores. Molly finds it almost empty, parts of it stripped to bare concrete: the family lies in cold sleep, and only 3Jane is awake."
+    },
+    {
+     "at": 85.99,
+     "text": "The home of the Tessier-Ashpool family in the tip of Freeside's spindle, a windowless, nearly empty maze round the clan's computer cores, living off Freeside's air and water. Molly is held there in 3Jane's rooms; Case and Maelcum have come in after her."
+    }
+   ]
+  },
+  {
+   "id": "cores",
+   "name": "Cores",
+   "summary": [
+    {
+     "at": 60.22,
+     "text": "The computer cores at the centre of the Villa Straylight, Tessier-Ashpool's corporate heart."
+    },
+    {
+     "at": 63.88,
+     "text": "The computer cores at the centre of the Villa Straylight, Tessier-Ashpool's corporate heart, guarded by ice that the clan's two AIs generate. They are the target of the run."
+    },
+    {
+     "at": 85.99,
+     "text": "The computer cores at the centre of the Villa Straylight, Tessier-Ashpool's corporate heart and the target of the run. As a child 3Jane heard two voices in them and took them for ghosts: the clan's AIs."
+    }
+   ]
+  },
+  {
+   "id": "cyberspace",
+   "name": "Cyberspace",
+   "aliases": [
+    "the matrix",
+    "the grid"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "The matrix: the shared, three-dimensional picture of the data in all the world's computers, which an operator enters through a deck. The book calls it a consensual hallucination."
+    },
+    {
+     "at": 99.63,
+     "text": "The matrix: the shared, three-dimensional picture of the data in all the world's computers, entered through a deck. At the end, the mind made of Wintermute and Neuromancer tells Case that it is the matrix: the sum of the whole show."
+    }
+   ]
+  },
+  {
+   "id": "deck",
+   "name": "Deck",
+   "aliases": [
+    "decks",
+    "cyberspace deck"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A cyberspace deck: the console through which a cowboy, wearing trodes, projects his awareness into the matrix."
+    }
+   ]
+  },
+  {
+   "id": "cowboy",
+   "name": "Console cowboy",
+   "aliases": [
+    "console cowboy",
+    "cowboy",
+    "cowboys",
+    "jockey",
+    "jockeys",
+    "console man"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A cowboy, console man or jockey works in cyberspace through a deck, most often breaking into systems to steal data."
+    }
+   ]
+  },
+  {
+   "id": "ice",
+   "name": "ICE",
+   "aliases": [
+    "black ice"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Intrusion Countermeasures Electronics: the defensive software around a data system. Black ice is the kind that can kill an intruder through his deck."
+    }
+   ]
+  },
+  {
+   "id": "icebreaker",
+   "name": "Icebreaker",
+   "aliases": [
+    "icebreakers"
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "A program for getting through ice. The first were the military viruses of the war."
+    }
+   ]
+  },
+  {
+   "id": "kuang",
+   "name": "Kuang",
+   "aliases": [
+    "Kuang Grade Mark Eleven",
+    "Kuang Eleven"
+   ],
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "Kuang Grade Mark Eleven: a Chinese military icebreaker on a one-shot cassette, delivered to Case off Freeside."
+    },
+    {
+     "at": 49.77,
+     "text": "Kuang Grade Mark Eleven: a Chinese military icebreaker on a one-shot cassette, a slow virus said to work even against an AI. It is for the run on Tessier-Ashpool, and comes from a firm that the clan itself owns at several removes."
+    },
+    {
+     "at": 63.88,
+     "text": "Kuang Grade Mark Eleven: a Chinese military icebreaker, a slow virus that takes hours to merge with its target's ice so gradually that the ice never notices. Case and the Flatline have launched it against Tessier-Ashpool's cores."
+    },
+    {
+     "at": 98.12,
+     "text": "Kuang Grade Mark Eleven: a Chinese military icebreaker, a slow virus that merges with its target's ice. Case and the Flatline rode it, a black shark of a thing, through Tessier-Ashpool's ice and Neuromancer's defences to the heart of the cores."
+    }
+   ]
+  },
+  {
+   "id": "bockris",
+   "name": "Bockris",
+   "aliases": [
+    "Bockris Systems",
+    "Reinhold"
+   ],
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "Bockris Systems of Frankfurt, the firm that ships the Kuang icebreaker to Case."
+    },
+    {
+     "at": 49.77,
+     "text": "Bockris Systems of Frankfurt, the firm that ships the Kuang icebreaker to Case. The Hosaka traces its ownership through Reinhold Scientific of Berne to Tessier-Ashpool: the weapon comes, at several removes, from the clan it is aimed at."
+    }
+   ]
+  },
+  {
+   "id": "simstim",
+   "name": "Simstim",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Simulated stimulation: a recording or live feed of everything a person senses, played into another person's nervous system. Edited simstim is the mass entertainment of this world."
+    },
+    {
+     "at": 20.24,
+     "text": "Simulated stimulation: a recording or live feed of everything a person senses, played into another person's nervous system; the mass entertainment of this world. The Finn rigs Molly to broadcast and gives Case's deck a switch, so that he can ride her senses during a run."
+    }
+   ]
+  },
+  {
+   "id": "sensorium",
+   "name": "Sensorium",
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "Everything a person sees, hears, feels, tastes and smells at a given moment; it is what simstim carries."
+    }
+   ]
+  },
+  {
+   "id": "construct",
+   "name": "Construct",
+   "aliases": [
+    "constructs",
+    "ROM construct",
+    "personality construct"
+   ],
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "A recording of a person's skills, reflexes and manner held in ROM: it answers as that person would, but cannot learn or keep new memories. Also any simulated place or figure built by a computer."
+    }
+   ]
+  },
+  {
+   "id": "rom",
+   "name": "ROM",
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "Read-only memory: fixed, recorded data that can be played back but cannot change or learn."
+    }
+   ]
+  },
+  {
+   "id": "ram",
+   "name": "RAM",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Random-access memory: storage that can be written and rewritten. 'Hot' RAM is stolen data."
+    },
+    {
+     "at": 10.19,
+     "text": "Random-access memory: storage that can be written and rewritten. Case kept three megabytes of hot, stolen RAM in his Hitachi, his last capital, until Linda Lee took it."
+    },
+    {
+     "at": 15.62,
+     "text": "Random-access memory: storage that can be written and rewritten. Case kept three megabytes of hot, stolen RAM in his Hitachi; Linda Lee took it, and was killed for it."
+    }
+   ]
+  },
+  {
+   "id": "flatlined",
+   "name": "Flatlined",
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "Showing a flat EEG: brain-dead, the usual end of a cowboy who meets black ice."
+    }
+   ]
+  },
+  {
+   "id": "eeg",
+   "name": "EEG",
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "Electroencephalogram: a recording of the brain's electrical activity."
+    }
+   ]
+  },
+  {
+   "id": "virus",
+   "name": "Virus",
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "A program that works its way into a system and spreads there. The military icebreakers of this world are viruses."
+    }
+   ]
+  },
+  {
+   "id": "jack",
+   "name": "Jack",
+   "aliases": [
+    "jacked",
+    "jack in",
+    "jacked in",
+    "jack out"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A jack is a plug or its socket. To jack in is to connect one's nervous system to a deck and enter cyberspace; to jack out is to leave."
+    }
+   ]
+  },
+  {
+   "id": "trodes",
+   "name": "Trodes",
+   "aliases": [
+    "dermatrodes"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Electrodes worn on the forehead (dermatrodes) that link a user's nervous system to a cyberspace deck."
+    }
+   ]
+  },
+  {
+   "id": "microsoft",
+   "name": "Microsoft",
+   "aliases": [
+    "microsofts",
+    "softs"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A sliver of silicon that plugs into a socket behind the ear and gives its wearer a skill or a body of knowledge."
+    }
+   ]
+  },
+  {
+   "id": "socket",
+   "name": "Socket",
+   "summary": [
+    {
+     "at": 0,
+     "text": "A surgically implanted jack, usually behind the ear, that takes microsofts and direct cables."
+    }
+   ]
+  },
+  {
+   "id": "silicon",
+   "name": "Silicon",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Microchips; also slang for the hardware in somebody's head. To 'go silicon' is to have a socket fitted."
+    }
+   ]
+  },
+  {
+   "id": "derm",
+   "name": "Derm",
+   "aliases": [
+    "derms",
+    "dermadisc",
+    "dermadiscs"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A patch that delivers a drug through the skin."
+    }
+   ]
+  },
+  {
+   "id": "sprawl",
+   "name": "Sprawl",
+   "aliases": [
+    "BAMA",
+    "Boston-Atlanta Metropolitan Axis"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "The Boston-Atlanta Metropolitan Axis: the unbroken city that runs down the east coast of North America. Case's home."
+    }
+   ]
+  },
+  {
+   "id": "zaibatsu",
+   "name": "Zaibatsu",
+   "aliases": [
+    "zaibatsus"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Japanese for a family-owned industrial combine; in the Sprawl books, any of the multinational corporations that hold the real power in the world."
+    }
+   ]
+  },
+  {
+   "id": "yakuza",
+   "name": "Yakuza",
+   "aliases": [
+    "Yak",
+    "Sons of the Neon Chrysanthemum"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "The Japanese crime syndicates, also called the Sons of the Neon Chrysanthemum."
+    }
+   ]
+  },
+  {
+   "id": "sarariman",
+   "name": "Sarariman",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Japanese for 'salaryman': a salaried company man."
+    }
+   ]
+  },
+  {
+   "id": "gaijin",
+   "name": "Gaijin",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Japanese for a foreigner."
+    }
+   ]
+  },
+  {
+   "id": "joeboy",
+   "name": "Joeboy",
+   "aliases": [
+    "joeboys"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A hired hand: a bodyguard or errand runner, or a cowboy's apprentice."
+    }
+   ]
+  },
+  {
+   "id": "meat",
+   "name": "Meat",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Cowboy slang for the body, as against the mind let loose in cyberspace."
+    }
+   ]
+  },
+  {
+   "id": "biz",
+   "name": "Biz",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Business, above all the street kind: deals, drugs and data."
+    }
+   ]
+  },
+  {
+   "id": "hotshot",
+   "name": "Hotshot",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Slang for a show-off, a flashy operator."
+    },
+    {
+     "at": 92.27,
+     "text": "Slang with two senses: a show-off, and a dose of a drug laced with something lethal."
+    }
+   ]
+  },
+  {
+   "id": "fence",
+   "name": "Fence",
+   "summary": [
+    {
+     "at": 0,
+     "text": "To fence is to sell stolen goods on; a fence is the middleman who does it."
+    }
+   ]
+  },
+  {
+   "id": "chiba",
+   "name": "Chiba",
+   "aliases": [
+    "Chiba City"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Chiba City, on Tokyo Bay: the world's capital of implants, nerve-splicing and microbionics, known for its black clinics."
+    }
+   ]
+  },
+  {
+   "id": "night-city",
+   "name": "Night City",
+   "aliases": [
+    "Night City"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "The lawless strip of Chiba between the port and the city proper, given over to bars, drugs and deals. Its heart is the street called Ninsei."
+    }
+   ]
+  },
+  {
+   "id": "ninsei",
+   "name": "Ninsei",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "The main street and heart of Night City."
+    }
+   ]
+  },
+  {
+   "id": "chatsubo",
+   "name": "Chatsubo",
+   "aliases": [
+    "the Chat"
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "The expatriates' bar on Ninsei where Ratz tends bar; the name is Japanese for a tea jar."
+    }
+   ]
+  },
+  {
+   "id": "jarre",
+   "name": "Jarre",
+   "aliases": [
+    "Jarre de Thé"
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "A mirror-walled teashop near the Chatsubo."
+    },
+    {
+     "at": 55.19,
+     "text": "A mirror-walled teashop near the Chatsubo in Night City. Wintermute recreates it, empty, when it speaks to Case in the shape of Lonny Zone."
+    }
+   ]
+  },
+  {
+   "id": "namban",
+   "name": "Namban",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "A bar in Night City, Wage's haunt."
+    }
+   ]
+  },
+  {
+   "id": "cheap-hotel",
+   "name": "Cheap Hotel",
+   "aliases": [
+    "Cheap Hotel"
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "The coffin hotel near the Chiba docks where Case rents a capsule."
+    }
+   ]
+  },
+  {
+   "id": "coffin",
+   "name": "Coffin",
+   "aliases": [
+    "coffins"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A rented sleeping capsule in a cheap hotel, about three metres long and too low to stand up in."
+    }
+   ]
+  },
+  {
+   "id": "black-medicine",
+   "name": "Black medicine",
+   "aliases": [
+    "black medicine",
+    "black clinics",
+    "black clinic"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Unlicensed medicine: clinics, the best of them in Chiba, that sell surgery, implants and transplants outside the law."
+    }
+   ]
+  },
+  {
+   "id": "arcologies",
+   "name": "Arcologies",
+   "summary": [
+    {
+     "at": 0,
+     "text": "City-sized buildings that house, feed and power their own populations; corporations build them for their staff. The word joins architecture and ecology."
+    }
+   ]
+  },
+  {
+   "id": "yen",
+   "name": "Yen",
+   "aliases": [
+    "New Yen"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "New Yen: paper money, used almost only for business that must leave no record."
+    }
+   ]
+  },
+  {
+   "id": "temperfoam",
+   "name": "Temperfoam",
+   "summary": [
+    {
+     "at": 0,
+     "text": "Soft synthetic foam that moulds to the body, used for beds and padding."
+    }
+   ]
+  },
+  {
+   "id": "fletcher",
+   "name": "Fletcher",
+   "aliases": [
+    "flechette",
+    "fletchettes"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A flechette pistol: it fires small darts, which may be explosive, drugged or poisoned."
+    }
+   ]
+  },
+  {
+   "id": "mycotoxin",
+   "name": "Mycotoxin",
+   "summary": [
+    {
+     "at": 0,
+     "text": "A poison produced by a fungus."
+    },
+    {
+     "at": 10.19,
+     "text": "A poison produced by a fungus. A wartime Russian one was used on Case: it burned out the fine nerve tissue a cowboy needs to work in cyberspace."
+    }
+   ]
+  },
+  {
+   "id": "toxin-sacs",
+   "name": "Toxin sacs",
+   "aliases": [
+    "toxin sacs",
+    "sacs"
+   ],
+   "summary": [
+    {
+     "at": 20.24,
+     "text": "Armitage's hold on Case: fifteen slowly dissolving sacs bonded to his arteries, he says, each holding the mycotoxin that crippled him before. If Case finishes the job he gets the enzyme that loosens them; if not, he ends up as he was in Chiba. Molly cannot say whether it is true."
+    },
+    {
+     "at": 74.25,
+     "text": "Armitage's hold on Case: fifteen slowly dissolving sacs of mycotoxin bonded to his arteries, to be loosened by an enzyme once the job is done. With Armitage dead, Case has no idea where the enzyme is to come from."
+    },
+    {
+     "at": 78.86,
+     "text": "Armitage's hold on Case: fifteen slowly dissolving sacs of mycotoxin bonded to his arteries. Armitage is dead; Wintermute says it was the one who told him what to use, and promises Case the enzyme once the run is done."
+    },
+    {
+     "at": 99.63,
+     "text": "Armitage's hold on Case: fifteen sacs of mycotoxin bonded to his arteries. After the run Molly passes on what the voice told her: it made Case's own brain produce the enzyme, so the sacs are loose, and the Zionites change his blood."
+    }
+   ]
+  },
+  {
+   "id": "vat-grown",
+   "name": "Vat-grown",
+   "aliases": [
+    "vat"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "Grown in a tank rather than born or taken from a body: transplant eyes, meat, even people."
+    }
+   ]
+  },
+  {
+   "id": "hologram",
+   "name": "Hologram",
+   "aliases": [
+    "holograms",
+    "holo",
+    "holos"
+   ],
+   "summary": [
+    {
+     "at": 0,
+     "text": "A projected three-dimensional image; a holo."
+    }
+   ]
+  },
+  {
+   "id": "octagon",
+   "name": "Octagon",
+   "aliases": [
+    "octagons",
+    "dex"
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "A pink eight-sided tablet of Brazilian dex, an amphetamine; Case lives on them in Chiba."
+    }
+   ]
+  },
+  {
+   "id": "yeheyuan",
+   "name": "Yeheyuan",
+   "aliases": [
+    "Yeheyuans"
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "A Chinese brand of cigarette, the one Case smokes."
+    }
+   ]
+  },
+  {
+   "id": "kirin",
+   "name": "Kirin",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "A Japanese beer."
+    }
+   ]
+  },
+  {
+   "id": "nikon",
+   "name": "Nikon",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Japanese maker of optics; in this world also of vat-grown transplant eyes."
+    }
+   ]
+  },
+  {
+   "id": "mitsubishi-genentech",
+   "name": "Mitsubishi-Genentech",
+   "aliases": [
+    "M-G"
+   ],
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "A zaibatsu whose senior people carry a tattoo on the hand and implanted monitoring chips."
+    }
+   ]
+  },
+  {
+   "id": "sanpaku",
+   "name": "Sanpaku",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Japanese: with the white of the eye showing below the iris, traditionally a sign of exhaustion or ill fortune."
+    }
+   ]
+  },
+  {
+   "id": "kandinsky",
+   "name": "Kandinsky",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Wassily Kandinsky (1866–1944), Russian pioneer of abstract painting. Deane's coffee table is in his manner."
+    }
+   ]
+  },
+  {
+   "id": "dali",
+   "name": "Dali",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Salvador Dalí (1904–1989), Spanish Surrealist painter of melting watches. Deane has a clock that sags like one of them."
+    }
+   ]
+  },
+  {
+   "id": "hitachi",
+   "name": "Hitachi",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "Japanese electronics maker. Case's Hitachi is a pocket computer."
+    },
+    {
+     "at": 10.19,
+     "text": "Japanese electronics maker. Case's Hitachi is the pocket computer that held his hot RAM; Linda Lee steals it from his coffin."
+    }
+   ]
+  },
+  {
+   "id": "shuriken",
+   "name": "Shuriken",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "A steel throwing star, a Japanese weapon. Case stops to look at them in a shop window on Ninsei."
+    },
+    {
+     "at": 20.24,
+     "text": "A steel throwing star, a Japanese weapon. Case admired them in a shop window on Ninsei; Molly gives him one as a souvenir of Chiba."
+    },
+    {
+     "at": 99.63,
+     "text": "A steel throwing star, a Japanese weapon. Molly gave Case one as a souvenir of Chiba and he carried it through the run; at the end he throws it into the wall screen of his hotel room."
+    }
+   ]
+  },
+  {
+   "id": "cobra",
+   "name": "Cobra",
+   "summary": [
+    {
+     "at": 0.11,
+     "text": "A telescoping whip of coiled steel with a weighted tip. Case buys one in Night City."
+    }
+   ]
+  },
+  {
+   "id": "sammis",
+   "name": "Sammi’s",
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "An arena under an inflated dome behind a warehouse in the port of Chiba, where knife fighters duel to the death beneath giant holograms of themselves."
+    },
+    {
+     "at": 15.62,
+     "text": "An arena under an inflated dome in the port of Chiba, where knife fighters duel to the death beneath giant holograms of themselves. Linda Lee is killed there."
+    }
+   ]
+  },
+  {
+   "id": "hilton",
+   "name": "Hilton",
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "The international hotel chain. Armitage's suite in Chiba is in one of its hotels."
+    }
+   ]
+  },
+  {
+   "id": "screaming-fist",
+   "name": "Screaming Fist",
+   "aliases": [
+    "Screaming Fist"
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "A wartime operation that Armitage says he was part of."
+    },
+    {
+     "at": 15.62,
+     "text": "A wartime operation: console men were flown into Russia in microlights to burn out a computer nexus at Kirensk with virus programs. Deane says the planners knew the Russian defences were waiting and sent them anyway, to try out the technology. One team got out to Finland."
+    },
+    {
+     "at": 20.24,
+     "text": "A wartime operation that flew console men into Russia in microlights to burn out a computer nexus at Kirensk; the planners knew the defences were waiting, and few came back. Armitage says he was there, but Molly finds nobody of that name in its records."
+    },
+    {
+     "at": 31.91,
+     "text": "A wartime operation that flew console men into Russia in microlights to burn out a computer nexus at Kirensk; the planners knew the defences were waiting. Its leader, Colonel Willis Corto, got out to Finland terribly maimed and was used in the show trials that followed. He is the man now called Armitage."
+    },
+    {
+     "at": 74.25,
+     "text": "A wartime operation that flew console men into Russia in microlights to burn out a computer nexus at Kirensk; the planners knew the defences were waiting. Colonel Corto led it and came back maimed. In his last hour he relives it, and names General Girling as the man who sold them."
+    }
+   ]
+  },
+  {
+   "id": "mole",
+   "name": "Mole",
+   "aliases": [
+    "Mole IX"
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "The virus program carried on Screaming Fist. The Mole series was the first generation of real intrusion programs."
+    }
+   ]
+  },
+  {
+   "id": "nightwing",
+   "name": "Nightwing",
+   "aliases": [
+    "Nightwings"
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "The unarmed, radar-transparent microlight aircraft used on Screaming Fist."
+    }
+   ]
+  },
+  {
+   "id": "microlight",
+   "name": "Microlight",
+   "aliases": [
+    "microlights"
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "A very light one-man aircraft. Screaming Fist dropped its teams in them."
+    },
+    {
+     "at": 57.52,
+     "text": "A very light aircraft. Screaming Fist dropped its teams in them; Freeside's security system flies small pilotless ones."
+    },
+    {
+     "at": 60.05,
+     "text": "A very light aircraft. Screaming Fist dropped its teams in them; Freeside's security system flies small pilotless ones, and one of those is crashed into the Turing agents who are holding Case."
+    }
+   ]
+  },
+  {
+   "id": "kirensk",
+   "name": "Kirensk",
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "The Siberian town whose computer nexus was the target of Screaming Fist."
+    }
+   ]
+  },
+  {
+   "id": "emp",
+   "name": "EMP",
+   "aliases": [
+    "EMPs"
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "Electromagnetic pulse: a burst of energy that wipes unshielded electronics. The Russian defences used it against Screaming Fist."
+    }
+   ]
+  },
+  {
+   "id": "special-forces",
+   "name": "Special Forces",
+   "aliases": [
+    "Special Forces"
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "Elite military units trained for raids behind enemy lines. Armitage wears their earring."
+    }
+   ]
+  },
+  {
+   "id": "go-to",
+   "name": "Go-to",
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "A paid search for everything on record about a person."
+    }
+   ]
+  },
+  {
+   "id": "street-samurai",
+   "name": "Street samurai",
+   "aliases": [
+    "street samurai",
+    "samurai",
+    "razorgirl",
+    "razorgirls"
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "A hired fighter rebuilt with surgery and implants; a razorgirl is a woman in the trade. Case's words for Molly."
+    }
+   ]
+  },
+  {
+   "id": "geodesics",
+   "name": "Geodesics",
+   "aliases": [
+    "Fuller"
+   ],
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "Buckminster Fuller's lightweight domes. Ragged, unfinished ones roof over parts of the Sprawl."
+    }
+   ]
+  },
+  {
+   "id": "ono-sendai",
+   "name": "Ono-Sendai",
+   "aliases": [
+    "Sendai",
+    "Ono-Sendai Cyberspace Seven"
+   ],
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "A make of cyberspace deck. Armitage buys Case an Ono-Sendai Cyberspace Seven."
+    }
+   ]
+  },
+  {
+   "id": "hosaka",
+   "name": "Hosaka",
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "Japanese maker of computers. Case's new computer is a Hosaka: it takes spoken orders and compiles reports for him."
+    }
+   ]
+  },
+  {
+   "id": "sense-net",
+   "name": "Sense/Net",
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "The corporation that dominates simstim entertainment and owns its stars."
+    },
+    {
+     "at": 20.24,
+     "text": "The corporation that dominates simstim entertainment and owns its stars. It also holds the recorded construct of the Dixie Flatline in a library vault in the Sprawl, which the team must steal."
+    },
+    {
+     "at": 26.56,
+     "text": "The corporation that dominates simstim entertainment and owns its stars. Molly took the Flatline's construct from the library in its Sprawl headquarters while Case cut its ice and the Panther Moderns panicked the building."
+    },
+    {
+     "at": 60.05,
+     "text": "The corporation that dominates simstim entertainment and owns its stars. The team stole the Flatline's construct from its vault; the riot staged as cover cost fourteen lives, and Sense/Net has since helped the Turing police."
+    }
+   ]
+  },
+  {
+   "id": "metro-holografix",
+   "name": "Metro Holografix",
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "The Finn's junk shop in Manhattan."
+    },
+    {
+     "at": 63.88,
+     "text": "The Finn's junk shop in Manhattan. Wintermute builds a copy of it as a place to talk to Case."
+    }
+   ]
+  },
+  {
+   "id": "jive",
+   "name": "Jive",
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "A language of hand signs used on the street; Molly and the Finn use it when they may be overheard."
+    }
+   ]
+  },
+  {
+   "id": "fission-authority",
+   "name": "Fission Authority",
+   "aliases": [
+    "Eastern Seaboard Fission Authority",
+    "Fission Authority"
+   ],
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "The Eastern Seaboard Fission Authority: the nuclear power body of the Sprawl, whose data stands in cyberspace as a red stepped pyramid. Case uses it as a landmark."
+    }
+   ]
+  },
+  {
+   "id": "panther-moderns",
+   "name": "Panther Moderns",
+   "aliases": [
+    "Moderns"
+   ],
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "A Sprawl youth gang: nihilists and practical jokers in love with technology, heavily modified, who hire out as mercenaries."
+    },
+    {
+     "at": 26.56,
+     "text": "A Sprawl youth gang: nihilists and practical jokers in love with technology, who hire out as mercenaries. Molly hires them to stage a terror scare at Sense/Net as cover for the break-in; the panic turns deadly."
+    },
+    {
+     "at": 30.09,
+     "text": "A Sprawl youth gang: nihilists and practical jokers in love with technology, who hire out as mercenaries and sell information. They staged the panic at Sense/Net, and it is they who put the name Wintermute behind Armitage."
+    }
+   ]
+  },
+  {
+   "id": "mimetic",
+   "name": "Mimetic polycarbon",
+   "aliases": [
+    "polycarbon"
+   ],
+   "summary": [
+    {
+     "at": 15.8,
+     "text": "Polycarbon is a tough plastic. The mimetic kind copies the colours of whatever is behind it, as camouflage."
+    }
+   ]
+  },
+  {
+   "id": "memory-lane",
+   "name": "Memory Lane",
+   "aliases": [
+    "Memory Lane"
+   ],
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "A street in the Sprawl of software stalls and rental booths."
+    }
+   ]
+  },
+  {
+   "id": "blue-nine",
+   "name": "Blue Nine",
+   "aliases": [
+    "Blue Nine",
+    "Grievous Angel"
+   ],
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "An outlawed psychoactive, also called Grievous Angel, that brings on paranoia and homicidal psychosis."
+    },
+    {
+     "at": 26.56,
+     "text": "An outlawed psychoactive, also called Grievous Angel, that brings on paranoia and homicidal psychosis. The Panther Moderns fake a release of it in the Sense/Net building."
+    }
+   ]
+  },
+  {
+   "id": "precis",
+   "name": "Précis",
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "A summary; here the digest that Case's Hosaka compiles from libraries and news services."
+    }
+   ]
+  },
+  {
+   "id": "micropore",
+   "name": "Micropore",
+   "summary": [
+    {
+     "at": 20.41,
+     "text": "A thin surgical tape, close to synthetic skin."
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "name": "AI",
+   "aliases": [
+    "AIs"
+   ],
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "Artificial intelligence. AIs are registered with Turing and are not supposed to have any autonomy."
+    },
+    {
+     "at": 49.77,
+     "text": "Artificial intelligence. AIs are registered with Turing and built with hardwired limits, so that they cannot make themselves any smarter; Turing wipes one that tries."
+    }
+   ]
+  },
+  {
+   "id": "turing",
+   "name": "Turing",
+   "aliases": [
+    "Turings",
+    "Turing Registry",
+    "Registry"
+   ],
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "The Turing Registry, named after the mathematician Alan Turing: the body with which every AI is registered."
+    },
+    {
+     "at": 37.11,
+     "text": "The Turing Registry, named after the mathematician Alan Turing: the body with which every AI is registered. Its police keep AIs from growing too clever."
+    },
+    {
+     "at": 49.77,
+     "text": "The Turing Registry, named after Alan Turing, registers every AI; its police keep them from growing too clever. An AI that tries to make itself smarter is wiped."
+    },
+    {
+     "at": 57.52,
+     "text": "The Turing Registry, named after Alan Turing, registers every AI; its police wipe any that tries to make itself smarter. Three of its agents arrest Case on Freeside."
+    },
+    {
+     "at": 60.05,
+     "text": "The Turing Registry, named after Alan Turing, registers every AI; its police, working out of Geneva, stop any that tries to grow. Three agents arrest Case for conspiring to augment Wintermute, and all three are killed by Freeside's machines."
+    },
+    {
+     "at": 63.88,
+     "text": "The Turing Registry, named after Alan Turing, registers every AI; its police, working out of Geneva, stop any that tries to grow. Wintermute killed the three agents who arrested Case on Freeside; more are expected."
+    },
+    {
+     "at": 99.63,
+     "text": "The Turing Registry, named after Alan Turing, registers every AI; its police stop any that tries to grow. Wintermute killed the three agents who arrested Case; when the run succeeds, Turing's records of the whole affair are wiped."
+    }
+   ]
+  },
+  {
+   "id": "berne",
+   "name": "Berne",
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "The capital of Switzerland."
+    },
+    {
+     "at": 30.09,
+     "text": "The capital of Switzerland, where the AI Wintermute has its mainframe."
+    }
+   ]
+  },
+  {
+   "id": "gentleman-loser",
+   "name": "Gentleman Loser",
+   "aliases": [
+    "Gentleman Loser"
+   ],
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "The bar in the Sprawl where the best console cowboys gathered; Case hung about there at nineteen."
+    }
+   ]
+  },
+  {
+   "id": "gravity-well",
+   "name": "Gravity well",
+   "aliases": [
+    "gravity well"
+   ],
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "The Earth's gravity: 'up the well' is into orbit, 'down the well' is back to the ground."
+    }
+   ]
+  },
+  {
+   "id": "archipelago",
+   "name": "Archipelago",
+   "aliases": [
+    "L-5"
+   ],
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "The scatter of colonies and stations in high orbit, around the L-5 point: 'the islands'."
+    }
+   ]
+  },
+  {
+   "id": "cut-out",
+   "name": "Cut-out",
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "A go-between who keeps the real client hidden from the people he deals with."
+    }
+   ]
+  },
+  {
+   "id": "cryogenics",
+   "name": "Cryogenic",
+   "aliases": [
+    "cryogenics",
+    "cold sleep"
+   ],
+   "summary": [
+    {
+     "at": 26.73,
+     "text": "To do with deep cold: here the freezing of living people, who are kept in cold sleep for years and woken when wanted."
+    }
+   ]
+  },
+  {
+   "id": "bonn",
+   "name": "Bonn",
+   "summary": [
+    {
+     "at": 30.26,
+     "text": "German city, in this world a radioactive ruin since the war."
+    }
+   ]
+  },
+  {
+   "id": "meperidine",
+   "name": "Meperidine",
+   "summary": [
+    {
+     "at": 32.08,
+     "text": "A synthetic opiate painkiller. Riviera takes it mixed with cocaine."
+    }
+   ]
+  },
+  {
+   "id": "topkapi",
+   "name": "Topkapi",
+   "summary": [
+    {
+     "at": 32.08,
+     "text": "The old palace of the Ottoman sultans in Istanbul, now a museum."
+    }
+   ]
+  },
+  {
+   "id": "jal",
+   "name": "JAL",
+   "summary": [
+    {
+     "at": 32.08,
+     "text": "Japan Air Lines, which flies the shuttle from Paris up to orbit."
+    }
+   ]
+  },
+  {
+   "id": "zion",
+   "name": "Zion",
+   "aliases": [
+    "Zion cluster",
+    "Zionite",
+    "Zionites",
+    "Rastas",
+    "Dreads"
+   ],
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "An orbital colony about thirty years old, founded by Rastafarian construction workers who refused to go back down the well. Its people are Zionites."
+    },
+    {
+     "at": 41.01,
+     "text": "An orbital colony about thirty years old, founded by Rastafarian construction workers who refused to go back down the well. Armitage rents space there for the team; on Wintermute's word its Founders lend a tug and its pilot."
+    },
+    {
+     "at": 74.25,
+     "text": "An orbital colony founded by Rastafarian construction workers who refused to go back down the well. Its Founders lent the team a tug and its pilot on Wintermute's word; they now call that voice a false prophet and want their men home."
+    }
+   ]
+  },
+  {
+   "id": "babylon",
+   "name": "Babylon",
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "The Zionites' word for the world they left behind and everything corrupt in it."
+    }
+   ]
+  },
+  {
+   "id": "jah",
+   "name": "Jah",
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "God, to the Zionites."
+    }
+   ]
+  },
+  {
+   "id": "dub",
+   "name": "Dub",
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "The bass-heavy instrumental reggae that plays everywhere in Zion; to the Zionites it is worship as much as music."
+    },
+    {
+     "at": 92.1,
+     "text": "The bass-heavy instrumental reggae that plays everywhere in Zion; to the Zionites it is worship as much as music. Maelcum's dub, fed to Case through earphones, is what leads him back from Neuromancer's beach."
+    }
+   ]
+  },
+  {
+   "id": "i-an-i",
+   "name": "I an’ I",
+   "aliases": [
+    "I an’ I"
+   ],
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "Rastafarian speech for 'I' or 'we': the speaker and God together."
+    }
+   ]
+  },
+  {
+   "id": "steppin-razor",
+   "name": "Steppin’ Razor",
+   "aliases": [
+    "Steppin’ Razor",
+    "Steppin’"
+   ],
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "The Zionites' name for Molly. It comes from a reggae song, best known in Peter Tosh's version, about a man too dangerous to cross."
+    }
+   ]
+  },
+  {
+   "id": "sas",
+   "name": "SAS",
+   "aliases": [
+    "space adaptation syndrome"
+   ],
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "Space adaptation syndrome: the nausea and vertigo of a body newly in free fall."
+    }
+   ]
+  },
+  {
+   "id": "jules-verne",
+   "name": "Jules Verne",
+   "aliases": [
+    "Rue Jules Verne"
+   ],
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "The Rue Jules Verne: Freeside's main avenue, which runs right round the inside of the spindle. Named after the French novelist of voyages to the Moon."
+    }
+   ]
+  },
+  {
+   "id": "desiderata",
+   "name": "Desiderata",
+   "summary": [
+    {
+     "at": 37.29,
+     "text": "The other great street of Freeside, lined with expensive shops, which runs the length of the spindle."
+    }
+   ]
+  },
+  {
+   "id": "g-web",
+   "name": "G-web",
+   "summary": [
+    {
+     "at": 41.18,
+     "text": "The elastic webbing that holds a passenger in place aboard a spacecraft."
+    }
+   ]
+  },
+  {
+   "id": "lado-acheson",
+   "name": "Lado-Acheson",
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "The system that runs along Freeside's axis, pumping in sunlight and playing a recorded sky."
+    }
+   ]
+  },
+  {
+   "id": "intercontinental",
+   "name": "Intercontinental",
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "The team's hotel on Freeside, a glass cliff above artificial rapids."
+    }
+   ]
+  },
+  {
+   "id": "betaphenethylamine",
+   "name": "Betaphenethylamine",
+   "aliases": [
+    "beta"
+   ],
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "A powerful stimulant, sold on Freeside as blue derms."
+    },
+    {
+     "at": 49.77,
+     "text": "A powerful stimulant, sold on Freeside as blue derms. It gets past Case's altered pancreas; the rush is violent and the comedown worse."
+    }
+   ]
+  },
+  {
+   "id": "vingtieme-siecle",
+   "name": "Vingtième Siècle",
+   "aliases": [
+    "Twentieth Century"
+   ],
+   "summary": [
+    {
+     "at": 44.63,
+     "text": "The Restaurant Vingtième Siècle, 'the Twentieth Century': the expensive place on Freeside where the team is to dine."
+    },
+    {
+     "at": 55.19,
+     "text": "The Restaurant Vingtième Siècle, 'the Twentieth Century': a small, expensive restaurant floating on a lake on Freeside. Riviera performs his cabaret there, with Lady 3Jane watching."
+    }
+   ]
+  },
+  {
+   "id": "meat-puppet",
+   "name": "Meat puppet",
+   "aliases": [
+    "meat puppet",
+    "cutout chip",
+    {
+     "text": "puppet",
+     "at": 49.94
+    },
+    {
+     "text": "puppets",
+     "at": 49.94
+    }
+   ],
+   "summary": [
+    {
+     "at": 49.94,
+     "text": "A prostitute fitted with a cutout chip, an implant that switches her awareness off while software runs her body. Puppet time is not supposed to be remembered."
+    },
+    {
+     "at": 55.19,
+     "text": "A prostitute fitted with a cutout chip, an implant that switches her awareness off while software runs her body. Molly paid for her implants this way, until what was done on her puppet time began to leak through."
+    },
+    {
+     "at": 78.86,
+     "text": "A prostitute fitted with a cutout chip, an implant that switches her awareness off while software runs her body; Molly paid for her implants this way. The dead girl in Ashpool's room was a puppet of his, with 3Jane's face."
+    }
+   ]
+  },
+  {
+   "id": "emergency",
+   "name": "Emergency",
+   "summary": [
+    {
+     "at": 55.36,
+     "text": "A small tourist bar on the Rue Jules Verne."
+    }
+   ]
+  },
+  {
+   "id": "sin",
+   "name": "Single Identification Number",
+   "aliases": [
+    "Single Identification Number"
+   ],
+   "summary": [
+    {
+     "at": 57.69,
+     "text": "The number that identifies a citizen of the Sprawl in every official record."
+    }
+   ]
+  },
+  {
+   "id": "chubb",
+   "name": "Chubb",
+   "summary": [
+    {
+     "at": 64.05,
+     "text": "An old English make of lock and key."
+    },
+    {
+     "at": 69.16,
+     "text": "An old English make of lock and key. In Straylight Molly recovers a brass Chubb key that Wintermute had hidden there twenty years before."
+    },
+    {
+     "at": 98.12,
+     "text": "An old English make of lock and key. The brass Chubb key that Wintermute had hidden in Straylight opens the room at the core where the jewelled head stands."
+    }
+   ]
+  },
+  {
+   "id": "braun",
+   "name": "Braun",
+   "summary": [
+    {
+     "at": 10.36,
+     "text": "German maker of appliances and precision devices."
+    },
+    {
+     "at": 74.25,
+     "text": "German maker of appliances and precision devices. 'The Braun' is the small spider-legged drone that guides Molly through Straylight on Wintermute's behalf."
+    },
+    {
+     "at": 90.33,
+     "text": "German maker of appliances and precision devices. 'The Braun' is the small drone that guided Molly, then Case, through Straylight for Wintermute; it burns out trying to stop Case from jacking in at the library."
+    }
+   ]
+  },
+  {
+   "id": "omaha-thunder",
+   "name": "Omaha Thunder",
+   "aliases": [
+    "Omaha Thunder"
+   ],
+   "summary": [
+    {
+     "at": 69.33,
+     "text": "A call sign from Screaming Fist."
+    }
+   ]
+  },
+  {
+   "id": "decanted",
+   "name": "Decanted",
+   "summary": [
+    {
+     "at": 83.69,
+     "text": "3Jane's word for her own birth: poured from a vat rather than born."
+    }
+   ]
+  },
+  {
+   "id": "coriolis",
+   "name": "Coriolis",
+   "summary": [
+    {
+     "at": 92.27,
+     "text": "The sideways force on anything that moves inside a spinning body such as Freeside; an archer there has to allow for it."
+    }
+   ]
+  },
+  {
+   "id": "centauri",
+   "name": "Centauri",
+   "summary": [
+    {
+     "at": 98.3,
+     "text": "Alpha Centauri, the star system nearest the Sun."
+    },
+    {
+     "at": 99.63,
+     "text": "Alpha Centauri, the star system nearest the Sun. The new mind in the matrix tells Case it has found another of its own kind there, in transmissions recorded in the 1970s."
+    }
+   ]
+  }
+ ]
+}
