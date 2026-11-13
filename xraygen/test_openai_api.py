@@ -105,6 +105,21 @@ class Tests(unittest.TestCase):
         self.assertEqual(client.ask("s", "u", SCHEMA, temperature=0.5), {"x": 6})
         self.assertEqual((seen[0][1]["temperature"], seen[1][1]["temperature"]), (0.5, 0.0))
 
+    def test_cut_off_answer_retried_warmer_with_more_room(self):
+        def respond(body, n):
+            if n < 3:
+                return 200, {"choices": [{"message": {"content": '{"x": [1, 1, 1'}, "finish_reason": "length"}]}, {}
+            return 200, chat('{"x": 8}'), {}
+        client, seen = self.run_against(respond)
+        self.assertEqual(client.ask("s", "u", SCHEMA, max_tokens=100, temperature=0.2), {"x": 8})
+        self.assertEqual([(b["temperature"], b["max_tokens"]) for _, b, _ in seen], [(0.2, 100), (0.5, 200), (0.7, 200)])
+
+    def test_gives_up_after_three_tries(self):
+        client, seen = self.run_against(lambda body, n: (200, chat("nope"), {}))
+        with self.assertRaises(OpenAIError):
+            client.ask("s", "u", SCHEMA)
+        self.assertEqual(len(seen), 3)
+
     def test_max_completion_tokens_switch(self):
         def respond(body, n):
             if "max_tokens" in body:

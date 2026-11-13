@@ -9,7 +9,7 @@ import time
 import urllib.error
 import urllib.request
 
-from .errors import ModelError
+from .errors import TRIES, ModelError, next_try
 
 PAUSES = (2, 5, 15)            # seconds before each of the three retries
 MODES = ("json_schema", "json_object", "none")
@@ -111,19 +111,22 @@ class OpenAI:
             raise OpenAIError("%s answered %s: %s" % (self.base_url, status, reply[:300]))
 
     def ask(self, system, user, schema, max_tokens=6000, temperature=0.2):
-        """The model's answer as a parsed JSON object. One retry, colder, when the answer does not parse."""
+        """The model's answer as a parsed JSON object, asked again when it does not parse (see errors.next_try)."""
         last = None
-        for attempt in range(2):
-            reply = self._call(system, user, schema, max_tokens, temperature if attempt == 0 else 0.0)
+        for attempt in range(TRIES):
+            reply = self._call(system, user, schema, max_tokens, temperature)
             usage = reply.get("usage") or {}
             self.input_tokens += usage.get("prompt_tokens") or 0
             self.output_tokens += usage.get("completion_tokens") or 0
+            stopped = None
             try:
                 choice = reply["choices"][0]
+                stopped = choice.get("finish_reason")
                 answer = parse_json(choice["message"]["content"])
                 if isinstance(answer, dict):
                     return answer
                 last = "not a JSON object"
-            except (KeyError, IndexError, TypeError, ValueError) as error:
-                last = "%s (stopped: %s)" % (error, (reply.get("choices") or [{}])[0].get("finish_reason"))
-        raise OpenAIError("the model's answer was not valid JSON twice: %s" % last)
+            except (KeyError, IndexError, TypeError, ValueError, AttributeError) as error:
+                last = "%s (stopped: %s)" % (error, stopped)
+            temperature, max_tokens = next_try(attempt, temperature, max_tokens, stopped == "length")
+        raise OpenAIError("the model's answer was not valid JSON in %d tries: %s" % (TRIES, last))

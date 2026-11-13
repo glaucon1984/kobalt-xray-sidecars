@@ -4,7 +4,7 @@ import time
 import urllib.error
 import urllib.request
 
-from .errors import ModelError
+from .errors import TRIES, ModelError, next_try
 
 
 class OllamaError(ModelError):
@@ -40,13 +40,12 @@ class Ollama:
         return self._thinking
 
     def ask(self, system, user, schema, max_tokens=6000, temperature=0.2):
-        """The model's answer as a parsed JSON object. One retry, colder, when the answer does not parse."""
+        """The model's answer as a parsed JSON object, asked again when it does not parse (see errors.next_try)."""
         last = None
-        for attempt in range(2):
+        for attempt in range(TRIES):
             body = {
                 "model": self.model, "stream": False, "format": schema,
-                "options": {"num_ctx": self.num_ctx, "temperature": temperature if attempt == 0 else 0.0,
-                            "num_predict": max_tokens},
+                "options": {"num_ctx": self.num_ctx, "temperature": temperature, "num_predict": max_tokens},
                 "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
             }
             if self.thinks():
@@ -60,4 +59,5 @@ class Ollama:
                 return json.loads(reply["message"]["content"])
             except (KeyError, ValueError) as error:
                 last = "%s (stopped: %s)" % (error, reply.get("done_reason"))
-        raise OllamaError("the model's answer was not valid JSON twice: %s" % last)
+            temperature, max_tokens = next_try(attempt, temperature, max_tokens, reply.get("done_reason") == "length")
+        raise OllamaError("the model's answer was not valid JSON in %d tries: %s" % (TRIES, last))
