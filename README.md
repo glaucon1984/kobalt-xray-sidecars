@@ -11,6 +11,11 @@ X-Ray is a Lua plugin by Dave Allie ([daveallie/kobalt-plugins](https://github.c
 | William Gibson, *Neuromancer* | Gollancz/Orion ebook (S.F. Masterworks), 2016 | 24 | 180 |
 | William Gibson, *Count Zero* | Gollancz/Orion ebook, 2016 | 36 | 247 |
 | William Gibson, *Mona Lisa Overdrive* | Gollancz/Orion ebook, 2016 | 45 | 225 |
+| Liu Cixin, *El problema de los tres cuerpos* (in Spanish) | Spanish translation (Nova), ebook | 35 | 262 |
+| Liu Cixin, *El bosque oscuro* (in Spanish) | Spanish translation (Nova), ebook | 45 parts | 321 |
+| Liu Cixin, *El fin de la muerte* (in Spanish) | Spanish translation (Nova), ebook | 91 parts | 392 |
+
+The three Gibson files were reviewed by hand and tried on an e-reader. The three Liu Cixin files have cards in Spanish and are not reviewed: a model wrote them and only a sample of cards was read against the books (see [How these files were made](#how-these-files-were-made)). The last two of those books have no numbered chapters, so their long sections are cut into parts of about 4,500 words, and facts are placed by part.
 
 Entries are people, AIs and other named entities, plus the invented vocabulary, places and organisations of the setting. The files are in [`sidecars/`](sidecars/), each as a pair:
 
@@ -53,14 +58,31 @@ The source file names chapters ("from the end of chapter 14"), and the tool work
 - [`tools/try_sidecar.lua`](tools/try_sidecar.lua) with [`tools/to_lua.py`](tools/to_lua.py) — look words up at a given position with the real plugin and a stock Lua 5.4, without an e-reader.
 - [`docs/sprawl-glossary.md`](docs/sprawl-glossary.md) — reworded glossary notes for the Sprawl trilogy.
 
+## Generating one with a model (experimental)
+
+`xraygen` writes a source and a sidecar for a book with a model served by [Ollama](https://ollama.com) on your own machine, or with any hosted model that has an OpenAI-compatible API:
+
+```sh
+python -m xraygen "My Book.epub" -o out --host http://localhost:11434 --model qwen3.8:27b
+python -m xraygen "My Book.epub" -o out --api openai --base-url https://api.example.com/v1 --model some-model
+```
+
+For a hosted model the key is read from the environment variable `OPENAI_API_KEY` (or the one named by `--api-key-env`), never from the command line; that route was tested for the protocol only, against a local OpenAI-compatible endpoint, and with no hosted provider. Other options: `--language es` names the language of the cards (a model does not follow the book's language by itself), `--chapter-pattern` chooses the table-of-contents entries that are chapters when they are not numbered, and `--chapter-split 4500` cuts long sections into parts. `python -m xraygen --help` lists them all.
+
+It reads the book one chapter at a time, so a fact can only be dated to the chapter it came from; names, dates and checks are done by code, and the cards are written in the book's language. Every answer is cached in the output folder, so a run can be stopped and resumed. A novel takes roughly half an hour on a 24 GB graphics card.
+
+The result is clearly rougher than the reviewed files in `sidecars/`: expect some wrong statements and missing turns of the plot. Treat it as a draft: the `.source.json` it writes can be corrected by hand and rebuilt with `tools/make_sidecar.py`.
+
 ## How these files were made
 
-They were written with an AI assistant (Claude), not by hand and not from memory of the novels. For each book, readers went through every chapter in full and logged who appears, under which names, and what the chapter reveals; a writer then composed the entries from those logs, placing each fact at the chapter whose text states it; the result was reviewed for spoiler timing and tried with the real plugin at several positions. Mistakes are still possible: corrections are welcome as issues or pull requests against the `.source.json` files.
+They were written with an AI assistant (Claude), not by hand and not from memory of the novels. For each Gibson book, readers went through every chapter in full and logged who appears, under which names, and what the chapter reveals; a writer then composed the entries from those logs, placing each fact at the chapter whose text states it; the result was reviewed for spoiler timing and tried with the real plugin at several positions. Mistakes are still possible: corrections are welcome as issues or pull requests against the `.source.json` files.
+
+The Liu Cixin files were made a cheaper way: `xraygen` with a local model wrote the notes on each chapter, and one writer (Claude Sonnet 5.5) composed the entries from those notes and from the book, and ran a set of checks on its own file. I checked the builds and read the main characters' cards at several points and at the end against the books, and had the faults I found corrected; nobody has reviewed every card. The first book's file was made before the checks on relationship wording, so some of its relationships may read stale late in the book.
 
 ## Licences and credits
 
 - The sidecars and their sources (`sidecars/`) and the documents (`docs/`) are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). They are original descriptions and summaries; they contain no text of the novels beyond a few words in quotation marks.
-- The tools (`tools/`) are under the [MIT licence](LICENSE).
+- The tools (`tools/` and `xraygen/`) are under the [MIT licence](LICENSE).
 - The novels belong to their authors and publishers. This is an unofficial reader's aid, not affiliated with them.
 - The X-Ray plugin and Kobalt's plugin system are by Dave Allie; Kobalt is by Nico Verbruggen. The sidecar format, `kobalt-xray/1`, is defined in the plugin's repository.
 - Glossary sources for the Sprawl trilogy, reworded: the Sprawl glossary of the *William Gibson aleph* site (antonraubenweiss.com/gibson/sprawlgloss.html) and the post "Neuromancer Terms and Definitions" in r/Neuromancer.

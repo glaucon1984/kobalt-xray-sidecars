@@ -1,0 +1,5376 @@
+{
+ "book": {
+  "title": "El problema de los tres cuerpos",
+  "author": "Liu Cixin",
+  "series": "Trilogía de los Tres Cuerpos",
+  "number": 1
+ },
+ "notes": "Escrito por un modelo (Claude Sonnet 5.5) a partir de los registros por capítulo de un modelo local y del EPUB en español; no revisado por una persona, salvo una muestra de fichas (35 capítulos en tres partes; la lista de personajes inicial no se cuenta como capítulo). Las presentaciones usan el inicio del capítulo (sN) y dicen solo lo que muestran sus primeras páginas; lo que un capítulo revela usa su final (eN). Es el primer libro de la trilogía, así que lo marcado con 0 es solo conocimiento general. Las figuras del videojuego Tres Cuerpos que llevan nombres históricos se describen aparte de las personas reales.",
+ "entries": [
+  {
+   "id": "ye-wenjie",
+   "name": "Ye Wenjie",
+   "aliases": [
+    "Wenjie",
+    "Ye",
+    {
+     "text": "Profesora Ye",
+     "when": "e8"
+    }
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Hija del profesor Ye Zhetai, que se queda sola ante el escenario de la sesión de castigo donde acaban de matar a su padre."
+    },
+    {
+     "when": "e1",
+     "text": "Estudiante de posgrado de Astrofísica en la Universidad de Tsinghua e hija del profesor de Física Ye Zhetai. En 1967, en Pekín, ve cómo los guardias rojos matan a su padre en una sesión de castigo y después encuentra muerta a su profesora Ruan Wen, incapaz ya de sentir pena."
+    },
+    {
+     "when": "e2",
+     "text": "Hija del físico Ye Zhetai, al que mataron los guardias rojos en 1967. En 1969 trabaja como leñadora en el Gran Khingan; el libro «Primavera silenciosa» le hace pensar que la humanidad no podrá mejorar por sí sola. Por pasar a limpio una carta de Bai Mulin la acusan, y como se niega a firmar contra su padre la dejan helarse en una celda."
+    },
+    {
+     "when": "e3",
+     "text": "Hija del físico Ye Zhetai, asesinado en 1967, y astrofísica de formación. Detenida en 1969 por una carta ecologista, la sacan de la celda en helicóptero y la llevan a la base militar secreta de Pico Radar, Costa Roja, donde acepta quedarse de por vida a cambio de librarse de la cárcel."
+    },
+    {
+     "when": "e8",
+     "text": "Hija del físico Ye Zhetai, asesinado en 1967, y en su juventud destinada a la base Costa Roja. Hoy es una anciana jubilada que vive en Pekín, madre de la física Yang Dong, muerta hace poco; cuida a los hijos de sus vecinos. Recibe a Wang Miao, le regala ginseng y le da el contacto de su exalumna Sha Ruishan."
+    },
+    {
+     "when": "e9",
+     "text": "Profesora de Astrofísica jubilada, madre de Yang Dong y exprofesora de Sha Ruishan. Sha cuenta a Wang que vio morir a su padre en la Revolución Cultural y que pasó veinte años en la base Costa Roja, cuya historia salió a la luz con las memorias de uno de sus técnicos. Desde los años noventa dio clases de Astrofísica en Tsinghua, donde había enseñado su padre, hasta jubilarse."
+    },
+    {
+     "when": "e14",
+     "text": "Anciana serena que cuenta a Wang Miao la historia de Costa Roja, un proyecto militar secreto de búsqueda de inteligencia extraterrestre en el que trabajó veinte años sin oír nada. Se casó con el ingeniero Yang Weining; él y el comisario Lei murieron en un accidente y su hija Yang Dong nació poco después. Aún piensa mucho en su hija."
+    },
+    {
+     "when": "e21",
+     "text": "Máxima líder, a la que llaman «comandante», del Ejército Rebelde Terrícola-trisolariano, una organización que sirve a una civilización extraterrestre. Hace matar a Pan Han por traición, denuncia a los adventistas y a Mike Evans, y presenta a Wang Miao como amigo suyo. Dice que su relato de Costa Roja apenas había empezado."
+    },
+    {
+     "when": "e22",
+     "text": "Líder de los rebeldes terrícola-trisolarianos, que cuenta a Wang su historia. En los años setenta, como técnica de Costa Roja, descubre que el Sol amplifica las ondas de radio y en 1971 envía a escondidas una señal de prueba hacia él, sin saber aún qué conseguirá."
+    },
+    {
+     "when": "e23",
+     "text": "Líder de los rebeldes terrícola-trisolarianos. Un día, haciendo guardia en Costa Roja, recibe un mensaje de Trisolaris, un mundo a cuatro años luz, que le suplica no contestar; ella, desengañada de la humanidad, responde invitándolos a conquistar la Tierra. Luego se desmaya y despierta embarazada."
+    },
+    {
+     "when": "e25",
+     "text": "Líder de los rebeldes terrícola-trisolarianos, detenida e interrogada. Confiesa que en Costa Roja contestó a Trisolaris, que el comisario Lei lo descubrió, y que para taparlo cortó la cuerda de la que colgaban Lei y su marido Yang Weining en el acantilado de Pico Radar, matándolos."
+    },
+    {
+     "when": "e26",
+     "text": "Líder de los rebeldes, que mató a Lei y a su marido Yang Weining. Dio a luz a su hija Yang Dong con ayuda de los campesinos de Qijiatun y más tarde volvió a Pekín como profesora. Rompió para siempre con su madre y sus tres antiguas torturadoras no le piden perdón; considera su mensaje a Trisolaris la mayor venganza contra la humanidad."
+    },
+    {
+     "when": "e28",
+     "text": "Mató a Lei y a su marido Yang y contestó a Trisolaris. Tras conocer a Mike Evans y contarle toda la historia, acepta en la segunda Costa Roja, un barco en el Atlántico, ser la máxima líder del Movimiento Terrícola-trisolariano, que ya cuenta con unos dos mil miembros."
+    },
+    {
+     "when": "e30",
+     "text": "Fundó con Evans el Movimiento Terrícola-trisolariano y es su líder espiritual, aunque no controla a las facciones que se enfrentan dentro de él. Interrogada, afirma que Evans le ocultó su odio a la humanidad y que Trisolaris envió a la Tierra dos protones para paralizar el progreso de la ciencia."
+    },
+    {
+     "when": "e31",
+     "text": "Líder espiritual del Movimiento Terrícola-trisolariano, ahora en manos de los militares. Cree que una ciencia tan avanzada como la trisolariana tendrá una moral igual de elevada. Se entera de que Evans murió en la captura del «Juicio Final» y recibe los mensajes trisolarianos incautados."
+    },
+    {
+     "when": "e35",
+     "text": "Anciana enferma, antigua líder del Movimiento Terrícola-trisolariano. Tras conocerse la verdad sobre los trisolarianos apenas habla; sube a pie hasta Pico Radar, donde ya no queda base alguna, mira hacia Qijiatun y muere contemplando la puesta de sol, que llama el ocaso de la humanidad y el suyo."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e1",
+     "with": "ye-zhetai",
+     "text": "Su padre, asesinado ante sus ojos"
+    },
+    {
+     "when": "e1",
+     "with": "ruan-wen",
+     "text": "Su profesora y amiga, hallada muerta"
+    },
+    {
+     "when": "e2",
+     "with": "ye-wenxue",
+     "text": "Su hermana menor, guardia roja que denunció al padre"
+    },
+    {
+     "when": "e2",
+     "with": "bai-mulin",
+     "text": "Reportero que le presta el libro y la delata"
+    },
+    {
+     "when": "e2",
+     "with": "cheng-lihua",
+     "text": "Representante militar que intenta que firme contra su padre"
+    },
+    {
+     "when": "e3",
+     "with": "yang-weining",
+     "text": "Antiguo alumno de su padre y ingeniero jefe de la base"
+    },
+    {
+     "when": "e14",
+     "with": "yang-weining",
+     "text": "Antiguo alumno de su padre e ingeniero jefe de la base; su marido, muerto en un accidente"
+    },
+    {
+     "when": "e25",
+     "with": "yang-weining",
+     "text": "Antiguo alumno de su padre e ingeniero jefe de la base; su marido, al que mató con Lei"
+    },
+    {
+     "when": "e3",
+     "with": "lei-zhicheng",
+     "text": "Comisario político de la base"
+    },
+    {
+     "when": "e14",
+     "with": "lei-zhicheng",
+     "text": "Comisario político de la base, muerto en el mismo accidente que su marido"
+    },
+    {
+     "when": "e25",
+     "with": "lei-zhicheng",
+     "text": "Comisario político de la base, al que mató para ocultar su respuesta"
+    },
+    {
+     "when": "e3",
+     "with": "costa-roja",
+     "text": "Base secreta donde se queda para siempre"
+    },
+    {
+     "when": "e8",
+     "with": "yang-dong",
+     "text": "Su hija, fallecida"
+    },
+    {
+     "when": "e26",
+     "with": "yang-dong",
+     "text": "Su hija, nacida en 1979 y fallecida"
+    },
+    {
+     "when": "e8",
+     "with": "wang-miao",
+     "text": "Investigador joven que la visita"
+    },
+    {
+     "when": "e9",
+     "with": "sha-ruishan",
+     "text": "Exalumna, astrónoma"
+    },
+    {
+     "when": "e21",
+     "with": "pan-han",
+     "text": "Adventista al que hace ejecutar por traidor"
+    },
+    {
+     "when": "e21",
+     "with": "evans",
+     "text": "Dirigente adventista, al que se acusa de engañarla"
+    },
+    {
+     "when": "e27",
+     "with": "evans",
+     "text": "Ecologista estadounidense al que cuenta la historia de Costa Roja; dirigente adventista al que se acusa de engañarla"
+    },
+    {
+     "when": "e28",
+     "with": "evans",
+     "text": "Cofundador del Movimiento, que le ofrece liderarlo; dirigente adventista al que se acusa de engañarla"
+    },
+    {
+     "when": "e30",
+     "with": "evans",
+     "text": "Cofundador del Movimiento y cerebro adventista, que le ocultó su odio a la humanidad"
+    },
+    {
+     "when": "e31",
+     "with": "evans",
+     "text": "Cofundador del Movimiento y cerebro adventista que le ocultó su odio; muerto en la captura del «Juicio Final»"
+    },
+    {
+     "when": "e21",
+     "with": "organizacion",
+     "text": "Organización clandestina de la que es comandante"
+    },
+    {
+     "when": "e23",
+     "with": "trisolaris",
+     "text": "Civilización a la que contestó y que viene hacia la Tierra"
+    },
+    {
+     "when": "e26",
+     "with": "ye-shaolin",
+     "text": "Su madre, con la que rompe para siempre"
+    },
+    {
+     "when": "e26",
+     "with": "feng",
+     "text": "Campesina que amamantó a su hija"
+    },
+    {
+     "when": "e30",
+     "with": "adventistas",
+     "text": "Facción que se le escapó de las manos"
+    },
+    {
+     "when": "e35",
+     "with": "xu-bingbing",
+     "text": "Joven policía que la acompaña a Pico Radar"
+    }
+   ],
+   "seen": [
+    1,
+    2,
+    3,
+    8,
+    11,
+    12,
+    14,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30,
+    31,
+    35
+   ]
+  },
+  {
+   "id": "wang-miao",
+   "name": "Wang Miao",
+   "aliases": [
+    "Wang",
+    "Miao",
+    "profesor Wang",
+    {
+     "text": "Xiao Wang",
+     "when": "e8"
+    },
+    {
+     "text": "Navegante",
+     "when": "e7"
+    },
+    {
+     "text": "Copérnico",
+     "when": "e15"
+    }
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Profesor que investiga nanomateriales. Dos policías y dos militares van a buscarlo a casa para llevarlo a una reunión importante."
+    },
+    {
+     "when": "e4",
+     "text": "Investigador de nanomateriales del Centro de Nanotecnología y fotógrafo aficionado. En una reunión militar le hablan de la oleada de suicidios de físicos, entre ellos Yang Dong, a quien vio una vez y no olvida. Decide entrar en Fronteras de la Ciencia, no para hacer de topo, sino para demostrar que el comisario Shi Qiang es un idiota."
+    },
+    {
+     "when": "e6",
+     "text": "Investigador de nanomateriales, casado y con un hijo de seis años. Ding Yi le demuestra que la física parece no existir, y poco después empieza a ver una cuenta atrás en sus fotos, y luego ante los ojos. Shen Yufei le exige parar su investigación; al hacerlo, la cuenta atrás se detiene, pero ella le anuncia que dentro de tres días el universo le hará una señal."
+    },
+    {
+     "when": "e7",
+     "text": "Investigador de nanomateriales acosado por una cuenta atrás que solo él ve. Para entender a Shen Yufei entra en el videojuego Tres Cuerpos con el nombre «Navegante», acompaña al rey Wen por un mundo de soles irregulares y ve perecer de frío a la civilización 138."
+    },
+    {
+     "when": "e9",
+     "text": "Investigador de nanomateriales que ve una cuenta atrás. Visita a la anciana Ye Wenjie, que le da el contacto de su exalumna Sha Ruishan; en el observatorio de Miyun comprueba que el fondo cósmico de microondas parpadea con la cuenta atrás (quedan 1108 horas), y lo ve incluso a simple vista con las gafas de 3K. Destrozado, lo encuentra Da Shi ante una iglesia."
+    },
+    {
+     "when": "e11",
+     "text": "Investigador de nanomateriales, con una cuenta atrás grabada en el universo. Da Shi lo emborracha y le dice que alguien coordina todos los sucesos para acabar con la ciencia; le aconseja trabajar y jugar a Tres Cuerpos. En el juego ve arder la civilización 141 con Mozi y vuelve a visitar a Ye Wenjie, cuyo calor lo reconforta."
+    },
+    {
+     "when": "e14",
+     "text": "Investigador de nanomateriales atrapado en un misterio. Escucha de Ye Wenjie la historia de Costa Roja, el proyecto secreto de búsqueda de extraterrestres, y le ofrece acompañarla a ver lo que quede de la base; ella declina."
+    },
+    {
+     "when": "e15",
+     "text": "Investigador de nanomateriales y jugador de Tres Cuerpos. Con el nombre «Copérnico» explica ante sabios europeos de la Edad Media que su mundo tiene tres soles, y casi lo queman; el juego pasa a su segunda fase."
+    },
+    {
+     "when": "e17",
+     "text": "Investigador de nanomateriales y jugador experto de Tres Cuerpos. En la segunda fase ve a Newton y Von Neumann construir una computadora con soldados del emperador Qin Shi Huang, y la civilización 184 muere por la sizigia trisolar. Un administrador del juego lo cita a un encuentro de jugadores."
+    },
+    {
+     "when": "e18",
+     "text": "Jugador destacado de Tres Cuerpos y colaborador de la policía. Acude al encuentro de jugadores fingiéndose fanático; allí descubre que el organizador es Pan Han, sospechoso del asesinato de Shen Yufei, y avisa a Da Shi. Pan Han afirma que Trisolaris, el mundo del juego, existe de verdad y viene hacia la Tierra."
+    },
+    {
+     "when": "e19",
+     "text": "Jugador destacado de Tres Cuerpos. En la quinta partida, como Copérnico, lleva a los líderes del mundo del juego el modelo matemático de Wei Cheng y le dicen que el problema de los tres cuerpos no tiene solución. Allí, la civilización amenazada por sus soles planea emigrar."
+    },
+    {
+     "when": "e21",
+     "text": "Investigador de nanomateriales invitado a una reunión de la Organización Terrícola-trisolariana. Ve matar a Pan Han ante él y escucha a Ye Wenjie, la madre de Yang Dong, que resulta ser la máxima líder. Ella lo presenta como amigo y le dice que los nanomateriales son lo primero que su Señor quiere erradicar."
+    },
+    {
+     "when": "e24",
+     "text": "Investigador de nanomateriales que oye de Ye Wenjie cómo creció la Organización. En la asamblea rebelde irrumpe Da Shi con soldados, una chica amenaza con bombas nucleares en miniatura y Da Shi la abate; Wang sale ileso, y Da Shi le dice que fue él quien ganó."
+    },
+    {
+     "when": "e30",
+     "text": "Investigador de nanomateriales que escucha el interrogatorio de Ye Wenjie junto a Ding Yi. Duda de que dos protones puedan paralizar la ciencia humana, mientras Ding Yi le sugiere que para los trisolarianos quizá los humanos sean meros insectos."
+    },
+    {
+     "when": "e31",
+     "text": "Investigador de nanomateriales y clave de la operación Guzheng, que con Shi Qiang diseña. Presta el nanomaterial para cortar el «Juicio Final» en el canal de Panamá, lo ve partirse en dos y sigue con angustia las vidas que se pierden; Stanton lo llama el Gaillard de su época."
+    },
+    {
+     "when": "e33",
+     "text": "Investigador de nanomateriales que lee los mensajes trisolarianos incautados al «Juicio Final». Con ellos conoce el proyecto Sofón, con el que Trisolaris bloquea la ciencia humana y espía la Tierra, y reconoce en los «milagros» de los sofones la misma mano que le mostró la cuenta atrás."
+    },
+    {
+     "when": "e34",
+     "text": "Investigador de nanomateriales que, borracho con Ding Yi tras entender que la ciencia humana está bloqueada, brinda por los insectos. Da Shi los lleva a un campo de trigo plagado de langostas para mostrarles que los insectos nunca han sido vencidos, y Wang decide volver al trabajo."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "s4",
+     "with": "shi-qiang",
+     "text": "Comisario grosero que le cae fatal"
+    },
+    {
+     "when": "e10",
+     "with": "shi-qiang",
+     "text": "Comisario grosero cuya compañía ahora le tranquiliza"
+    },
+    {
+     "when": "e24",
+     "with": "shi-qiang",
+     "text": "Comisario grosero y valiente que frena la amenaza de los rebeldes"
+    },
+    {
+     "when": "e31",
+     "with": "shi-qiang",
+     "text": "Comisario cuyo plan Guzheng ejecuta con su nanomaterial"
+    },
+    {
+     "when": "e34",
+     "with": "shi-qiang",
+     "text": "Comisario que les da ánimos con las langostas, y cuyo plan Guzheng ejecutó"
+    },
+    {
+     "when": "e4",
+     "with": "chang-weisi",
+     "text": "General que le pide infiltrarse en Fronteras de la Ciencia"
+    },
+    {
+     "when": "e31",
+     "with": "chang-weisi",
+     "text": "General que le pidió infiltrarse en Fronteras de la Ciencia y ahora manda la operación Guzheng"
+    },
+    {
+     "when": "e4",
+     "with": "yang-dong",
+     "text": "Física joven a quien vio una vez y no olvida"
+    },
+    {
+     "when": "e8",
+     "with": "yang-dong",
+     "text": "Física joven, muerta, a quien vio una vez y cuyo cuarto de infancia visita"
+    },
+    {
+     "when": "e4",
+     "with": "ding-yi",
+     "text": "Físico teórico, novio de Yang Dong"
+    },
+    {
+     "when": "e5",
+     "with": "ding-yi",
+     "text": "Físico teórico, novio de Yang Dong, que le muestra que la física parece no existir"
+    },
+    {
+     "when": "e34",
+     "with": "ding-yi",
+     "text": "Físico teórico, novio de Yang Dong, compañero de borrachera y de trabajo"
+    },
+    {
+     "when": "e4",
+     "with": "shen-yufei",
+     "text": "Física que lo presentó a Fronteras de la Ciencia"
+    },
+    {
+     "when": "e6",
+     "with": "shen-yufei",
+     "text": "Física que lo presentó a Fronteras de la Ciencia y le exige parar su investigación"
+    },
+    {
+     "when": "e16",
+     "with": "shen-yufei",
+     "text": "Física que lo presentó a Fronteras de la Ciencia y le exigió parar su investigación; asesinada"
+    },
+    {
+     "when": "e4",
+     "with": "fronteras-de-la-ciencia",
+     "text": "Asociación de físicos en la que decide entrar"
+    },
+    {
+     "when": "e4",
+     "with": "centro-nanotecnologia",
+     "text": "Su centro de trabajo"
+    },
+    {
+     "when": "e6",
+     "with": "li-yao",
+     "text": "Su esposa, médica"
+    },
+    {
+     "when": "e6",
+     "with": "dou-dou",
+     "text": "Su hijo de seis años"
+    },
+    {
+     "when": "e6",
+     "with": "pan-han",
+     "text": "Famoso biólogo de Fronteras de la Ciencia"
+    },
+    {
+     "when": "e18",
+     "with": "pan-han",
+     "text": "Famoso biólogo de Fronteras de la Ciencia, principal sospechoso de matar a Shen Yufei y organizador del encuentro de jugadores"
+    },
+    {
+     "when": "e21",
+     "with": "pan-han",
+     "text": "Biólogo de Fronteras de la Ciencia y adventista, al que ve ejecutar tras confesar el asesinato de Shen Yufei"
+    },
+    {
+     "when": "e6",
+     "with": "wei-cheng",
+     "text": "Marido de Shen Yufei"
+    },
+    {
+     "when": "e16",
+     "with": "wei-cheng",
+     "text": "Marido de Shen Yufei, matemático que le entrega su modelo para el problema de los tres cuerpos"
+    },
+    {
+     "when": "e7",
+     "with": "tres-cuerpos",
+     "text": "El videojuego al que se conecta"
+    },
+    {
+     "when": "e8",
+     "with": "ye-wenjie",
+     "text": "Anciana madre de Yang Dong, que lo acoge"
+    },
+    {
+     "when": "e14",
+     "with": "ye-wenjie",
+     "text": "Anciana madre de Yang Dong, que le cuenta la historia de Costa Roja"
+    },
+    {
+     "when": "e21",
+     "with": "ye-wenjie",
+     "text": "Madre de Yang Dong y máxima líder de la Organización rebelde, a la que llama amiga"
+    },
+    {
+     "when": "e9",
+     "with": "sha-ruishan",
+     "text": "Astrónoma del observatorio de Miyun"
+    },
+    {
+     "when": "e11",
+     "with": "mozi",
+     "text": "Figura del juego que le muestra su modelo del universo"
+    },
+    {
+     "when": "e16",
+     "with": "xu-bingbing",
+     "text": "Joven policía que monitoriza el juego"
+    },
+    {
+     "when": "e18",
+     "with": "trisolaris",
+     "text": "Mundo del juego que, según Pan Han, existe de verdad"
+    },
+    {
+     "when": "e21",
+     "with": "organizacion",
+     "text": "Organización clandestina que lo cita y quiere erradicar su nanomaterial"
+    },
+    {
+     "when": "e31",
+     "with": "stanton",
+     "text": "Coronel que dirige la operación Guzheng a su lado"
+    },
+    {
+     "when": "e33",
+     "with": "sofon",
+     "text": "Inteligencias con las que Trisolaris bloquea la ciencia humana"
+    }
+   ],
+   "seen": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    24,
+    30,
+    31,
+    34
+   ]
+  },
+  {
+   "id": "shi-qiang",
+   "name": "Shi Qiang",
+   "aliases": [
+    "Da Shi",
+    "Shi",
+    "Qiang",
+    "Gran Shi",
+    "comisario Shi"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Comisario de policía alto y corpulento, de modales groseros, que fuma sin parar y no le cae nada bien a Wang Miao."
+    },
+    {
+     "when": "e4",
+     "text": "Comisario apodado Da Shi, fumador empedernido y de historial polémico por errores y torturas. Fue soldado a las órdenes del general Chang, que lo respeta como experto en antiterrorismo; en el Centro de Comandancia de Batalla pide en vano paridad de información."
+    },
+    {
+     "when": "e10",
+     "text": "Comisario Shi Qiang, «Da Shi». Pese a sus modales, resulta un policía de vista de lince que acompaña a Wang en su peor momento: lo emborracha y le cuenta su ley universal («cuando algo es muy raro, hay gato encerrado») y su teoría de que alguien coordina en secreto sucesos para destruir la ciencia."
+    },
+    {
+     "when": "e16",
+     "text": "Comisario Da Shi, que sigue a Wang y se convierte en su apoyo. Investiga con su subordinada Xu Bingbing la denuncia de Wei Cheng, registra la casa de los Shen, donde encuentran muerta a Shen Yufei, y no logra atrapar al asesino que huye en un Volkswagen Santana negro."
+    },
+    {
+     "when": "e24",
+     "text": "Comisario Da Shi. Irrumpe con soldados en su asamblea y, cuando una chica amenaza con una bomba nuclear en miniatura, la distrae con una carta supuestamente de su madre y dispara; la bomba estalla en sus manos. Queda irradiado y dice a Wang que fue él quien ganó."
+    },
+    {
+     "when": "e31",
+     "text": "Comisario Da Shi, ya sin radiactividad, que en una reunión militar internacional humilla al coronel Stanton y propone el plan Guzheng: tender nanofilamentos de Wang entre dos pilares para rebanar el «Juicio Final» en el canal de Panamá. Gana un puro del coronel."
+    },
+    {
+     "when": "e34",
+     "text": "Comisario Da Shi, sin miedo a nada porque nada sabe. Tras la revelación de los sofones lleva a Wang y Ding Yi a un campo de langostas para recordarles que los insectos nunca han sido vencidos."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "s4",
+     "with": "wang-miao",
+     "text": "Profesor al que quiere usar de informante"
+    },
+    {
+     "when": "e10",
+     "with": "wang-miao",
+     "text": "Profesor de nanomateriales al que acompaña y anima"
+    },
+    {
+     "when": "e24",
+     "with": "wang-miao",
+     "text": "Profesor de nanomateriales al que dice que ganó la apuesta"
+    },
+    {
+     "when": "e31",
+     "with": "wang-miao",
+     "text": "Profesor de nanomateriales cuyo material usa en su plan Guzheng"
+    },
+    {
+     "when": "e4",
+     "with": "chang-weisi",
+     "text": "Su antiguo jefe y ahora superior"
+    },
+    {
+     "when": "e4",
+     "with": "centro-comandancia",
+     "text": "Unidad militar de la que forma parte la policía"
+    },
+    {
+     "when": "e16",
+     "with": "xu-bingbing",
+     "text": "Joven agente informática que trabaja con él"
+    },
+    {
+     "when": "e16",
+     "with": "wei-cheng",
+     "text": "Hombre que denuncia amenazas de muerte"
+    },
+    {
+     "when": "e24",
+     "with": "ye-wenjie",
+     "text": "Líder rebelde a la que arrestan"
+    },
+    {
+     "when": "e31",
+     "with": "stanton",
+     "text": "Coronel estadounidense con el que discute y al que quita puros"
+    }
+   ],
+   "seen": [
+    4,
+    6,
+    9,
+    10,
+    16,
+    24,
+    31,
+    34
+   ]
+  },
+  {
+   "id": "chang-weisi",
+   "name": "Chang Weisi",
+   "aliases": [
+    "Chang",
+    "general Chang"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "General del Ejército de Tierra que preside una reunión militar en una sala desordenada, a la que ha invitado a Wang Miao."
+    },
+    {
+     "when": "e4",
+     "text": "General del Ejército de Tierra que dirige una investigación secreta sobre la muerte de físicos. Dice que Fronteras de la Ciencia es el centro de sus pesquisas y que el mundo está en guerra, aunque no explica contra quién. Conoce a Shi Qiang desde hace veinte años."
+    },
+    {
+     "when": "e10",
+     "text": "General del Ejército de Tierra al frente del Centro de Comandancia de Batalla. Según Da Shi, está muy preocupado por un desastre de dimensiones enormes."
+    },
+    {
+     "when": "e31",
+     "text": "General del Ejército de Tierra al frente de una guerra internacional contra los invasores alienígenas. Preside la reunión de los ejércitos del mundo para capturar el «Juicio Final» y acepta el plan de Shi Qiang, aunque se enfada con él por sus modales."
+    },
+    {
+     "when": "e33",
+     "text": "General del Ejército de Tierra y jefe del Centro de Comandancia de Batalla. Avisa a los presentes de que los sofones vigilan todo cuanto digan: a partir de ese momento, ya nada será secreto."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e4",
+     "with": "shi-qiang",
+     "text": "Antiguo soldado suyo, al que usa pese a sus modales"
+    },
+    {
+     "when": "e4",
+     "with": "wang-miao",
+     "text": "Profesor al que pide ayuda"
+    },
+    {
+     "when": "e4",
+     "with": "centro-comandancia",
+     "text": "Unidad militar que dirige"
+    },
+    {
+     "when": "e31",
+     "with": "stanton",
+     "text": "Coronel estadounidense que dirige el plan en el canal"
+    },
+    {
+     "when": "e31",
+     "with": "guzheng",
+     "text": "Operación que aprueba"
+    }
+   ],
+   "seen": [
+    4,
+    31,
+    33
+   ]
+  },
+  {
+   "id": "ding-yi",
+   "name": "Ding Yi",
+   "aliases": [
+    "Ding",
+    "Doctor Ding"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Físico presente en la reunión militar, al que llaman doctor Ding, que permanece en silencio."
+    },
+    {
+     "when": "e4",
+     "text": "Físico teórico, descubridor del macroátomo, y novio de la suicida Yang Dong. Explica a los militares y a Wang qué es Fronteras de la Ciencia: una asociación que usa el método científico para hallar los límites de la ciencia."
+    },
+    {
+     "when": "e5",
+     "text": "Físico teórico, novio de la suicida Yang Dong. Borracho y solo en un piso casi vacío, demuestra a Wang con la mesa de billar que las leyes de la física han dejado de ser iguales en todo tiempo y lugar, y le dice que una fuerza inimaginable está matando a la ciencia."
+    },
+    {
+     "when": "e30",
+     "text": "Físico teórico, amigo de Wang Miao y novio de la fallecida Yang Dong. Tras oír a Ye Wenjie, le explica con filtros de cigarrillo que una partícula como el protón encierra dimensiones enormes que una civilización avanzada podría usar, y dice que los humanos son insectos."
+    },
+    {
+     "when": "e34",
+     "text": "Físico teórico. Convencido de que todo está perdido porque la física quedó cerrada para siempre, se emborracha con Wang, brinda por los insectos y recobra el ánimo con la lección de langostas de Da Shi."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e4",
+     "with": "yang-dong",
+     "text": "Su novia, suicida"
+    },
+    {
+     "when": "e4",
+     "with": "wang-miao",
+     "text": "Profesor de nanomateriales al que cuenta lo ocurrido"
+    },
+    {
+     "when": "e30",
+     "with": "wang-miao",
+     "text": "Profesor de nanomateriales y amigo con el que escucha el interrogatorio de Ye Wenjie"
+    },
+    {
+     "when": "e4",
+     "with": "fronteras-de-la-ciencia",
+     "text": "Asociación cuya finalidad explica"
+    },
+    {
+     "when": "e5",
+     "with": "chang-weisi",
+     "text": "General al que considera perspicaz"
+    },
+    {
+     "when": "e34",
+     "with": "shi-qiang",
+     "text": "Comisario que les levanta el ánimo"
+    }
+   ],
+   "seen": [
+    4,
+    5,
+    30,
+    31,
+    34
+   ]
+  },
+  {
+   "id": "yang-dong",
+   "name": "Yang Dong",
+   "aliases": [
+    "Dong Dong",
+    {
+     "text": "Dong",
+     "when": "s8"
+    }
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Joven que Wang Miao vio una vez junto a las obras de un acelerador de partículas y cuyo nombre figura en una lista de físicos."
+    },
+    {
+     "when": "e4",
+     "text": "Joven física teórica y de supercuerdas, huraña con la prensa, que se suicidó hace dos noches con somníferos y dejó una nota: la física nunca ha existido ni existirá. Wang la vio una vez en las obras del acelerador de Liangxiang y no ha dejado de pensar en ella; era la novia de Ding Yi."
+    },
+    {
+     "when": "e8",
+     "text": "Física teórica de supercuerdas que se suicidó. Era hija de Ye Wenjie y vivía con ella, en un cuarto de paredes cubiertas de corteza. Desde niña dibujaba con rabia contenida y adoraba la elegancia de las fórmulas y la música de Bach. Su madre sigue sin superar su pérdida."
+    },
+    {
+     "when": "e14",
+     "text": "Física teórica de supercuerdas, hija de Ye Wenjie y de Yang Weining, nacida poco después de la muerte de su padre en Costa Roja, donde vivió de niña hasta los años ochenta. Se suicidó tras los experimentos que mostraron que la física no existe."
+    },
+    {
+     "when": "e26",
+     "text": "Hija de Ye Wenjie y Yang Weining, nacida en 1979 tras un parto en que su madre casi muere. La amamantó la campesina Feng en la aldea de Qijiatun y creció en Pico Radar, hasta que Ye la llevó a Pekín cuando rehabilitaron a la familia. Más tarde fue física teórica y se suicidó."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e4",
+     "with": "ding-yi",
+     "text": "Su novio, físico teórico"
+    },
+    {
+     "when": "e4",
+     "with": "wang-miao",
+     "text": "Investigador que la admiró de lejos"
+    },
+    {
+     "when": "e8",
+     "with": "ye-wenjie",
+     "text": "Su madre, con la que vivía"
+    },
+    {
+     "when": "e14",
+     "with": "yang-weining",
+     "text": "Su padre, muerto antes de que naciera"
+    },
+    {
+     "when": "e26",
+     "with": "feng",
+     "text": "Campesina que la amamantó"
+    },
+    {
+     "when": "e26",
+     "with": "ye-shaolin",
+     "text": "Su abuela, que apenas la conoció"
+    }
+   ],
+   "seen": [
+    4,
+    26
+   ]
+  },
+  {
+   "id": "shen-yufei",
+   "name": "Shen Yufei",
+   "aliases": [
+    "Yufei",
+    "Doctora Shen",
+    "Shen"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Física japonesa de origen chino a quien Wang Miao nombra como su contacto con Fronteras de la Ciencia."
+    },
+    {
+     "when": "e4",
+     "text": "Física japonesa de origen chino, antes investigadora de nanotecnología en un laboratorio de Mitsubishi y hoy empleada de una empresa japonesa en Pekín. Fue quien introdujo a Wang Miao en Fronteras de la Ciencia."
+    },
+    {
+     "when": "e6",
+     "text": "Física de Fronteras de la Ciencia, silenciosa, rica y casada con Wei Cheng. Recibe a Wang jugando a un videojuego con traje de realidad virtual y, ante su historia de la cuenta atrás, solo le dice que detenga su investigación; luego le anuncia que dentro de tres días el universo le hará una señal."
+    },
+    {
+     "when": "e16",
+     "text": "Física de Fronteras de la Ciencia. Conoció a Wei Cheng en un templo y le ofreció un supercomputador; allí rezaba a Buda para que ayudara a su Señor. Discutió con Pan Han sobre usar el poder de ese Señor contra la humanidad, y Wang la encuentra asesinada a tiros en su casa."
+    },
+    {
+     "when": "e18",
+     "text": "Física japonesa de origen chino, asesinada a tiros en su casa. Hablaba de un Señor y de una Organización, y la policía sospecha sobre todo de Pan Han."
+    },
+    {
+     "when": "e21",
+     "text": "Física japonesa de origen chino, miembro de Fronteras de la Ciencia y asesinada. Por lo que dice Ye Wenjie, estaba en el núcleo duro de los adventistas, pero seguía siendo redencionista en el fondo y sabía demasiado. Pan Han la mató a tiros en su casa cuando fue a liquidar a su marido, y asegura que ella disparó antes."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e4",
+     "with": "wang-miao",
+     "text": "Investigador al que presentó a sus colegas"
+    },
+    {
+     "when": "e4",
+     "with": "fronteras-de-la-ciencia",
+     "text": "Asociación a la que pertenece"
+    },
+    {
+     "when": "e6",
+     "with": "wei-cheng",
+     "text": "Su marido, matemático"
+    },
+    {
+     "when": "e16",
+     "with": "wei-cheng",
+     "text": "Su marido, matemático al que descubrió en un templo"
+    },
+    {
+     "when": "e6",
+     "with": "pan-han",
+     "text": "Biólogo de su grupo que va a amenazarla"
+    },
+    {
+     "when": "e16",
+     "with": "pan-han",
+     "text": "Biólogo de su grupo, enemigo con el que discutió por el Señor"
+    },
+    {
+     "when": "e21",
+     "with": "pan-han",
+     "text": "Biólogo de su grupo que la mató a tiros"
+    },
+    {
+     "when": "e21",
+     "with": "organizacion",
+     "text": "Organización en cuyo núcleo adventista militaba"
+    }
+   ],
+   "seen": [
+    6,
+    16
+   ]
+  },
+  {
+   "id": "wei-cheng",
+   "name": "Wei Cheng",
+   "aliases": [
+    "Wei"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Hombre despeinado, marido de Shen Yufei, que recibe a Wang Miao en su casa y lo manda a verla arriba."
+    },
+    {
+     "when": "e6",
+     "text": "Marido de Shen Yufei, que recibe en casa a Wang Miao; guarda un costoso servidor Hewlett-Packard en el piso de arriba."
+    },
+    {
+     "when": "e16",
+     "text": "Matemático extremadamente perezoso, marido de Shen Yufei, que de adolescente descubrió su talento con la proporción áurea y un profesor lo llevó a las matemáticas. En un templo, donde lo encontró Shen Yufei, ideó un algoritmo evolutivo para el problema de los tres cuerpos. Denuncia amenazas de muerte; cuando matan a su mujer, entrega su modelo a Wang y le aconseja apartarse de todo."
+    },
+    {
+     "when": "e21",
+     "text": "Matemático genial y marido de la asesinada Shen Yufei. Según Pan Han, él era el verdadero objetivo de la misión, porque un modelo que resolviera el problema de los tres cuerpos haría fracasar los planes de Trisolaris."
+    },
+    {
+     "when": "e29",
+     "text": "Matemático genial que halló una posible solución al problema de los tres cuerpos, en la que los redencionistas habían puesto grandes esperanzas, aunque no tenía relación con los adventistas."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e6",
+     "with": "shen-yufei",
+     "text": "Su esposa"
+    },
+    {
+     "when": "e16",
+     "with": "shen-yufei",
+     "text": "Su esposa, asesinada"
+    },
+    {
+     "when": "e16",
+     "with": "wang-miao",
+     "text": "Profesor al que entrega su modelo y aconseja apartarse"
+    },
+    {
+     "when": "e16",
+     "with": "shi-qiang",
+     "text": "Comisario ante el que denuncia las amenazas"
+    },
+    {
+     "when": "e16",
+     "with": "pan-han",
+     "text": "Biólogo que discutió con su mujer"
+    },
+    {
+     "when": "e21",
+     "with": "pan-han",
+     "text": "Biólogo que fue a matarlo y mató a su mujer"
+    },
+    {
+     "when": "e29",
+     "with": "redencionistas",
+     "text": "Facción que esperaba que su solución salvara a su Señor"
+    }
+   ],
+   "seen": [
+    6,
+    16
+   ]
+  },
+  {
+   "id": "pan-han",
+   "name": "Pan Han",
+   "aliases": [
+    "Pan Han",
+    "Pan"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Biólogo y ecologista famoso que llega en coche a casa de Shen Yufei cuando Wang Miao se marcha."
+    },
+    {
+     "when": "e6",
+     "text": "Famoso biólogo y ecologista de Fronteras de la Ciencia, fundador de la comunidad experimental China Rural. Defiende que el progreso tecnológico es una enfermedad de la sociedad. Llega en coche a casa de Shen Yufei y le advierte de que no los provoquen."
+    },
+    {
+     "when": "e16",
+     "text": "Biólogo ecologista de Fronteras de la Ciencia. Discutió en casa de Shen Yufei sobre un Señor y sobre el comandante de la Organización; poco después ella aparece asesinada."
+    },
+    {
+     "when": "e18",
+     "text": "Biólogo ecologista, principal sospechoso del asesinato de Shen Yufei. Organiza el encuentro de jugadores de Tres Cuerpos, donde afirma que Trisolaris es real y que su civilización viene a la Tierra; llama «camaradas» a los jugadores con los que simpatiza y expulsa a otros dos."
+    },
+    {
+     "when": "e21",
+     "text": "Biólogo ecologista y adventista de la Organización Terrícola-trisolariana. Confiesa que mató a Shen Yufei cuando fue a eliminar a su marido Wei Cheng por orden de Evans y acusa a Ye Wenjie de tolerar traidores; ella lo hace ejecutar por violar las normas."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e6",
+     "with": "shen-yufei",
+     "text": "Colega a la que amenaza"
+    },
+    {
+     "when": "e18",
+     "with": "shen-yufei",
+     "text": "Colega a la que amenazó, su presunta víctima"
+    },
+    {
+     "when": "e21",
+     "with": "shen-yufei",
+     "text": "Colega a la que amenazó y mató a tiros"
+    },
+    {
+     "when": "e6",
+     "with": "china-rural",
+     "text": "Comunidad experimental que fundó"
+    },
+    {
+     "when": "e6",
+     "with": "fronteras-de-la-ciencia",
+     "text": "Asociación de la que es miembro destacado"
+    },
+    {
+     "when": "e18",
+     "with": "wang-miao",
+     "text": "Jugador que lo vigila para la policía"
+    },
+    {
+     "when": "e21",
+     "with": "evans",
+     "text": "Quien lo envió a matar"
+    },
+    {
+     "when": "e21",
+     "with": "ye-wenjie",
+     "text": "Comandante que lo condena"
+    },
+    {
+     "when": "e21",
+     "with": "wei-cheng",
+     "text": "Matemático al que iba a liquidar"
+    },
+    {
+     "when": "e21",
+     "with": "adventistas",
+     "text": "Facción a la que pertenece"
+    }
+   ],
+   "seen": [
+    6,
+    18,
+    21
+   ]
+  },
+  {
+   "id": "evans",
+   "name": "Mike Evans",
+   "aliases": [
+    "Evans",
+    {
+     "text": "Bethune",
+     "when": "e27"
+    }
+   ],
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Camarada al que Pan Han atribuye la decisión de matar a Wei Cheng."
+    },
+    {
+     "when": "e21",
+     "text": "Dirigente de la Organización Terrícola-trisolariana. Según Pan Han, decidió con el Comité matar a Wei Cheng; según Rafael, es el cerebro de los adventistas y sueña desde el principio con destruir a la humanidad, y engañó a la Organización y a la comandante Ye Wenjie."
+    },
+    {
+     "when": "e27",
+     "text": "Ecologista estadounidense, biólogo de aves, rubio y de ojos verdes, hijo de un multimillonario del petróleo, que planta árboles en una colina de loess para salvar una especie de golondrina. Los aldeanos lo llaman Bethune. Defiende el comunismo panespecie; heredó cerca de cuatro mil quinientos millones de dólares y, tras ver talar su bosque, escucha de Ye Wenjie la historia de Costa Roja y Trisolaris."
+    },
+    {
+     "when": "e28",
+     "text": "Ecologista multimillonario, hijo de un petrolero, creador del comunismo panespecie. Usó la frecuencia y las coordenadas de Ye Wenjie para recibir un mensaje de Trisolaris; funda con ella el Movimiento Terrícola-trisolariano y le ofrece ser su líder."
+    },
+    {
+     "when": "e29",
+     "text": "Ecologista multimillonario, hijo de un petrolero. Su comunismo panespecie, que iguala el derecho a vivir de todas las especies, inspira el adventismo, la facción que lleva su odio a la humanidad hasta aspirar a su exterminio."
+    },
+    {
+     "when": "e31",
+     "text": "Ecologista multimillonario y cerebro de los adventistas, que odiaba a la humanidad y engañó a Ye Wenjie. Murió durante la captura del «Juicio Final»; la postura de su cadáver llevó a los ordenadores donde guardaban los mensajes trisolarianos."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e21",
+     "with": "pan-han",
+     "text": "Su emisario para matar a Wei Cheng"
+    },
+    {
+     "when": "e21",
+     "with": "ye-wenjie",
+     "text": "Comandante a la que engañó"
+    },
+    {
+     "when": "e27",
+     "with": "ye-wenjie",
+     "text": "Comandante de la Organización, entonces científica china, que le cuenta la historia de Costa Roja y a la que, según Rafael, engañó"
+    },
+    {
+     "when": "e28",
+     "with": "ye-wenjie",
+     "text": "Comandante del Movimiento que funda con ella y a la que, según Rafael, engañó"
+    },
+    {
+     "when": "e30",
+     "with": "ye-wenjie",
+     "text": "Comandante del Movimiento a la que ocultó su odio a la humanidad"
+    },
+    {
+     "when": "e28",
+     "with": "organizacion",
+     "text": "Movimiento que funda con ella"
+    },
+    {
+     "when": "e29",
+     "with": "adventistas",
+     "text": "Facción que nace de sus ideas"
+    },
+    {
+     "when": "e29",
+     "with": "comunismo-panespecie",
+     "text": "Ideología que inventó"
+    },
+    {
+     "when": "e31",
+     "with": "juicio-final",
+     "text": "Barco donde murió"
+    }
+   ],
+   "seen": [
+    27,
+    28
+   ]
+  },
+  {
+   "id": "stanton",
+   "name": "Stanton",
+   "aliases": [
+    "coronel Stanton"
+   ],
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Coronel estadounidense, fumador de habanos, que toma la palabra en la reunión militar sobre el barco."
+    },
+    {
+     "when": "e31",
+     "text": "Coronel de los Marines estadounidenses, veterano de Vietnam y Panamá, que fuma habanos. Se pelea con Da Shi, a quien regala una caja de puros, y dirige sobre el terreno la operación Guzheng, en la que acompaña a Wang mientras el «Juicio Final» cruza los nanofilamentos."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e31",
+     "with": "shi-qiang",
+     "text": "Comisario que lo humilla y al que regala puros"
+    },
+    {
+     "when": "e31",
+     "with": "wang-miao",
+     "text": "Profesor al que llama el Gaillard de su tiempo"
+    },
+    {
+     "when": "e31",
+     "with": "guzheng",
+     "text": "La operación que dirige"
+    }
+   ],
+   "seen": [
+    31
+   ]
+  },
+  {
+   "id": "sha-ruishan",
+   "name": "Sha Ruishan",
+   "aliases": [
+    "Ruishan",
+    "Sha",
+    "doctora Sha"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Exalumna de Ye Wenjie que trabaja en un observatorio radioastronómico y a la que esta llama por teléfono para Wang Miao."
+    },
+    {
+     "when": "e8",
+     "text": "Exalumna de Ye Wenjie, que trabaja en un observatorio radioastronómico cerca de Pekín y tiene turno de noche."
+    },
+    {
+     "when": "e9",
+     "text": "Astrónoma del observatorio radioastronómico de Miyun y exalumna de Ye Wenjie, de quien habla con admiración. Ayuda a Wang a observar el fondo cósmico de microondas, comprueba con tres satélites que el universo parpadea y le consigue unas gafas de 3K, sin que él le explique el motivo."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e8",
+     "with": "ye-wenjie",
+     "text": "Su profesora, con la que sigue en contacto"
+    },
+    {
+     "when": "e9",
+     "with": "wang-miao",
+     "text": "Investigador al que ayuda a observar el cielo"
+    },
+    {
+     "when": "e9",
+     "with": "observatorio-miyun",
+     "text": "El observatorio donde trabaja"
+    }
+   ],
+   "seen": [
+    9
+   ]
+  },
+  {
+   "id": "yang-weining",
+   "name": "Yang Weining",
+   "aliases": [
+    "Yang",
+    "Weining"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Hombre con gafas que se presenta a Ye Wenjie como ingeniero jefe de la base Costa Roja, en el helicóptero."
+    },
+    {
+     "when": "e3",
+     "text": "Ingeniero jefe de la base Costa Roja y antiguo estudiante de posgrado del padre de Ye Wenjie. Es él quien la lleva en helicóptero a Pico Radar y le explica el proyecto; ella lo conoce de antes."
+    },
+    {
+     "when": "e12",
+     "text": "Ingeniero jefe de Costa Roja, técnico de mayor rango pero sin peso político, receloso de que el comisario Lei cuente cosas a Ye Wenjie. Al fin es él quien, tras consultar con sus superiores, le revela la verdadera naturaleza de Costa Roja."
+    },
+    {
+     "when": "e14",
+     "text": "Antiguo ingeniero jefe de Costa Roja. Se casó con Ye Wenjie y murió con Lei Zhicheng en un accidente poco antes de nacer su hija Yang Dong."
+    },
+    {
+     "when": "e22",
+     "text": "Ingeniero de Costa Roja, escéptico pero leal al talento de Ye Wenjie, de quien está enamorado en silencio. La ayuda a probar su idea del Sol y recibe de ella el secreto de que ha enviado una señal."
+    },
+    {
+     "when": "e23",
+     "text": "Ingeniero de Costa Roja que ama de verdad a Ye Wenjie y se casa con ella; por ello lo apartan de jefe de ingenieros. La cuida cuando se desmaya tras la transmisión."
+    },
+    {
+     "when": "e25",
+     "text": "Ingeniero de Costa Roja, marido de Ye Wenjie. Murió al caer por el acantilado de Pico Radar con Lei Zhicheng, cuando ella cortó la cuerda; se creyó un accidente."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e3",
+     "with": "ye-wenjie",
+     "text": "La hija de su viejo maestro, a la que lleva a la base"
+    },
+    {
+     "when": "e14",
+     "with": "ye-wenjie",
+     "text": "La hija de su viejo maestro, con la que se casó"
+    },
+    {
+     "when": "e25",
+     "with": "ye-wenjie",
+     "text": "La hija de su viejo maestro, con la que se casó y que lo mató"
+    },
+    {
+     "when": "e3",
+     "with": "lei-zhicheng",
+     "text": "Comisario político de la base"
+    },
+    {
+     "when": "e25",
+     "with": "lei-zhicheng",
+     "text": "Comisario político de la base, que murió con él"
+    },
+    {
+     "when": "e14",
+     "with": "yang-dong",
+     "text": "Su hija, que no llegó a conocer"
+    }
+   ],
+   "seen": [
+    3,
+    12,
+    22,
+    23,
+    25
+   ]
+  },
+  {
+   "id": "lei-zhicheng",
+   "name": "Lei Zhicheng",
+   "aliases": [
+    "Lei",
+    "Zhicheng",
+    "comisario Lei"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Militar que muestra a Ye Wenjie una revista científica en el helicóptero y que se presenta como comisario político de Costa Roja."
+    },
+    {
+     "when": "e3",
+     "text": "Comisario político de la base Costa Roja. Ofrece a Ye Wenjie la oportunidad de redimirse trabajando en la base secreta."
+    },
+    {
+     "when": "e12",
+     "text": "Comisario político de Costa Roja, convencido de la lucha de clases. Por su cuenta aprueba contarle a Ye Wenjie el propósito de la base y finge luego oponerse a que se le revele la verdad, para protegerla y obligarla a aceptar su destino."
+    },
+    {
+     "when": "e14",
+     "text": "Antiguo comisario político de Costa Roja, de formación astrofísica, que impulsó proyectos de investigación solar. Murió en un accidente con Yang Weining."
+    },
+    {
+     "when": "e22",
+     "text": "Comisario político de Costa Roja, que recela de la confianza del ingeniero Yang en Ye Wenjie y se opone a que apunten la antena al Sol, por el simbolismo que podría tener en tiempos de la Revolución Cultural."
+    },
+    {
+     "when": "e25",
+     "text": "Comisario político de Costa Roja. Descubrió que Ye Wenjie había contestado a Trisolaris y le exigió callar para quedarse con el mérito del contacto; ella lo mató cortando su cuerda en el acantilado, junto a Yang Weining."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e3",
+     "with": "yang-weining",
+     "text": "Ingeniero jefe de la base"
+    },
+    {
+     "when": "e25",
+     "with": "yang-weining",
+     "text": "Ingeniero jefe de la base, que murió con él"
+    },
+    {
+     "when": "e3",
+     "with": "ye-wenjie",
+     "text": "La joven a la que ofrece la base"
+    },
+    {
+     "when": "e12",
+     "with": "ye-wenjie",
+     "text": "La joven técnica a la que dice querer llamar «camarada»"
+    },
+    {
+     "when": "e25",
+     "with": "ye-wenjie",
+     "text": "La técnica a la que exigió callar y que lo mató"
+    }
+   ],
+   "seen": [
+    3,
+    12,
+    22,
+    25
+   ]
+  },
+  {
+   "id": "ye-zhetai",
+   "name": "Ye Zhetai",
+   "aliases": [
+    "Zhetai"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Profesor de Física de la Universidad de Tsinghua al que los guardias rojos someten a una sesión de castigo ante miles de personas."
+    },
+    {
+     "when": "e1",
+     "text": "Profesor de Física teórica de Tsinghua, padre de Ye Wenjie y marido de Ye Shaolin. En 1967, en una sesión de castigo, defiende la relatividad, la interpretación de Copenhague y el Big Bang sin inmutarse, pese a que su esposa lo denuncia; cuatro guardias rojas lo apalean con hebillas de cinturón hasta matarlo."
+    },
+    {
+     "when": "e3",
+     "text": "Profesor de Física teórica de Tsinghua, padre de Ye Wenjie y antiguo director de Yang Weining. Lo mataron los guardias rojos en 1967."
+    },
+    {
+     "when": "e26",
+     "text": "Profesor de Física de Tsinghua, padre de Ye Wenjie, matado en 1967 por cuatro guardias rojas. Sus delatores usaron contra él su modesta aportación a las pruebas nucleares chinas y los informes de su hija menor Ye Wenxue; tras su muerte, su viuda se casó con un viceministro."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e1",
+     "with": "ye-shaolin",
+     "text": "Su esposa, que lo denuncia"
+    },
+    {
+     "when": "e1",
+     "with": "ye-wenjie",
+     "text": "Su hija mayor"
+    },
+    {
+     "when": "e3",
+     "with": "yang-weining",
+     "text": "Antiguo alumno suyo de posgrado"
+    },
+    {
+     "when": "e26",
+     "with": "ye-wenxue",
+     "text": "Su hija menor, que lo denunció"
+    }
+   ],
+   "seen": [
+    1
+   ]
+  },
+  {
+   "id": "ye-shaolin",
+   "name": "Ye Shaolin",
+   "aliases": [
+    "Shaolin",
+    {
+     "text": "Shao Lin",
+     "when": "s26"
+    },
+    {
+     "text": "Shao",
+     "when": "s26"
+    },
+    {
+     "text": "Lin",
+     "when": "s26"
+    }
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Esposa de Ye Zhetai y profesora de Física como él, que sube al escenario de la sesión de castigo para denunciarlo."
+    },
+    {
+     "when": "e1",
+     "text": "Profesora de Física y esposa de Ye Zhetai. Para sobrevivir cambia los nombres de las leyes científicas y, en la sesión de castigo, denuncia públicamente a su marido; cuando lo matan pierde el juicio y se ríe de forma desquiciada."
+    },
+    {
+     "when": "e26",
+     "text": "Madre de Ye Wenjie, llamada también Shao Lin. Se recuperó pronto de su colapso nervioso, se casó con un alto cargo, hoy viceministro, y vuelve a moverse en política. Cuando Ye Wenjie va a verla con su nieta Yang Dong, el marido les prohíbe remover el pasado y ella las observa desde la ventana; Ye rompe con ella para siempre."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e1",
+     "with": "ye-zhetai",
+     "text": "Su marido, al que denuncia"
+    },
+    {
+     "when": "e1",
+     "with": "ye-wenjie",
+     "text": "Su hija mayor"
+    },
+    {
+     "when": "e26",
+     "with": "yang-dong",
+     "text": "Su nieta, a la que apenas conoce"
+    }
+   ],
+   "seen": [
+    1,
+    26
+   ]
+  },
+  {
+   "id": "ye-wenxue",
+   "name": "Ye Wenxue",
+   "aliases": [
+    "Wenxue"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Hermana menor de Ye Wenjie, guardia roja radical, cuya firma consta en los informes contra su padre."
+    },
+    {
+     "when": "e2",
+     "text": "Hermana menor de Ye Wenjie, radical de la Guardia Roja que rompió con su familia. Sus informes ayudaron a conducir a su padre a la muerte; murió en una guerra entre facciones de guardias rojos."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e2",
+     "with": "ye-wenjie",
+     "text": "Su hermana mayor, que la recuerda en sueños"
+    },
+    {
+     "when": "e2",
+     "with": "ye-zhetai",
+     "text": "Su padre, al que denunció"
+    }
+   ]
+  },
+  {
+   "id": "ruan-wen",
+   "name": "Ruan Wen",
+   "aliases": [
+    "Ruan"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Profesora que fue tutora y amiga de Ye Wenjie, en cuya casa busca esta refugio tras la muerte de su padre."
+    },
+    {
+     "when": "e1",
+     "text": "Profesora de Física que estudió en Cambridge y fue tutora y amiga de Ye Wenjie. Los guardias rojos la humillaron con zapatos de tacón y maquillaje por su estilo de vida occidental; se quita la vida con somníferos tras maquillarse con esmero."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e1",
+     "with": "ye-wenjie",
+     "text": "Su alumna predilecta y amiga"
+    }
+   ],
+   "seen": [
+    1
+   ]
+  },
+  {
+   "id": "bai-mulin",
+   "name": "Bai Mulin",
+   "aliases": [
+    "Mulin",
+    "Bai"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Reportero joven y delgado, con gafas, de «La Gran Producción», que visita la compañía de Ye Wenjie."
+    },
+    {
+     "when": "e2",
+     "text": "Reportero con gafas de «La Gran Producción», sensible a la destrucción de los bosques, que presta a Ye Wenjie «Primavera silenciosa» y le pide que pase a limpio una carta de denuncia a la Dirección Central. Para salvarse la señala como autora."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e2",
+     "with": "ye-wenjie",
+     "text": "La joven a la que delata para salvarse"
+    }
+   ],
+   "seen": [
+    2
+   ]
+  },
+  {
+   "id": "ma-gang",
+   "name": "Ma Gang",
+   "aliases": [
+    "Gang"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Leñador joven y robusto, orgulloso de su sierra mecánica, que tala un alerce en menos de diez minutos y no entiende por qué debería sentir pena por un árbol."
+    }
+   ],
+   "seen": [
+    2
+   ]
+  },
+  {
+   "id": "cheng-lihua",
+   "name": "Cheng Lihua",
+   "aliases": [
+    "Cheng",
+    "Lihua",
+    "representante Cheng"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Oficial de unos cuarenta años, con gafas, que visita a Ye Wenjie en la celda como representante del Tribunal Intermedio del Pueblo."
+    },
+    {
+     "when": "e2",
+     "text": "Oficial de unos cuarenta años y representante militar del Tribunal Intermedio del Pueblo, de aspecto amable. Intenta que Ye Wenjie firme un documento contra su padre y, al fracasar, le vacía encima un cubo de agua helada y la deja en una celda del invierno mongol."
+    },
+    {
+     "when": "e3",
+     "text": "Oficial de justicia militar que quiso la condena más severa para Ye Wenjie."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e2",
+     "with": "ye-wenjie",
+     "text": "La joven a la que quiere hacer firmar"
+    }
+   ],
+   "seen": [
+    2
+   ]
+  },
+  {
+   "id": "director-zhang",
+   "name": "director Zhang",
+   "aliases": [
+    "Zhang"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Hombre serio del Departamento Político de la División que llega para investigar a Ye Wenjie."
+    },
+    {
+     "when": "e2",
+     "text": "Director del Departamento Político de la División que investiga a Ye Wenjie por la carta y el libro prohibido, y le hace entender la gravedad de su situación."
+    }
+   ],
+   "seen": [
+    2
+   ]
+  },
+  {
+   "id": "zhang-vecino",
+   "name": "Zhang (vecino)",
+   "aliases": [
+    "Zhang"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Vecino jubilado de Wang Miao, al que este pide con urgencia una cámara."
+    },
+    {
+     "when": "e6",
+     "text": "Vecino jubilado de Wang Miao, que le presta una cámara digital Kodak corriente para probar la cuenta atrás."
+    }
+   ],
+   "seen": [
+    6
+   ]
+  },
+  {
+   "id": "li-yao",
+   "name": "Li Yao",
+   "aliases": [
+    "Yao"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Nombre de la esposa de Wang Miao, citado por el oftalmólogo que lo examina."
+    },
+    {
+     "when": "e6",
+     "text": "Esposa de Wang Miao, médica, preocupada por su comportamiento extraño; un antiguo compañero de su promoción, oftalmólogo, atiende a Wang en el hospital Tongren."
+    }
+   ],
+   "seen": [
+    6
+   ]
+  },
+  {
+   "id": "dou-dou",
+   "name": "Dou Dou",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Hijo pequeño de Wang Miao, a quien su madre se dispone a fotografiar."
+    },
+    {
+     "when": "e6",
+     "text": "Hijo de seis años de Wang Miao y Li Yao. Wang le pide que haga fotos con una cámara prestada, y en las suyas no aparece la cuenta atrás."
+    }
+   ],
+   "seen": [
+    6
+   ]
+  },
+  {
+   "id": "xu-bingbing",
+   "name": "Xu Bingbing",
+   "aliases": [
+    "Bingbing",
+    "Xu"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Joven policía especialista en informática que se abanica con un cuaderno en la oficina de Da Shi."
+    },
+    {
+     "when": "e16",
+     "text": "Joven policía especialista en informática que trabaja con Shi Qiang. Monitoriza el videojuego Tres Cuerpos, cuyos servidores están fuera de China, y acompaña al equipo en el registro de la casa de Shen Yufei."
+    },
+    {
+     "when": "e35",
+     "text": "Joven policía que sigue a Ye Wenjie hasta Pico Radar y descubre la losa de piedra con la placa que recuerda la base Costa Roja."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e16",
+     "with": "shi-qiang",
+     "text": "Comisario al que sirve"
+    },
+    {
+     "when": "e16",
+     "with": "wang-miao",
+     "text": "Profesor del que admira su fama como jugador"
+    }
+   ],
+   "seen": [
+    16,
+    35
+   ]
+  },
+  {
+   "id": "rafael",
+   "name": "Rafael",
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Israelí que se abre paso entre la multitud de la asamblea para gritar contra los adventistas."
+    },
+    {
+     "when": "e21",
+     "text": "Israelí miembro de la Organización Terrícola-trisolariana. Cuenta que, tras la muerte de su hijo, perdió la fe en la humanidad y que los adventistas lo admitieron en su círculo íntimo por su dinero; acusa a Mike Evans de querer exterminar a la raza humana desde el principio."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e21",
+     "with": "evans",
+     "text": "El adventista al que acusa"
+    }
+   ],
+   "seen": [
+    21
+   ]
+  },
+  {
+   "id": "feng",
+   "name": "Feng",
+   "summary": [
+    {
+     "when": "s26",
+     "text": "Campesina de Qijiatun que amamanta a la hija recién nacida de Ye Wenjie."
+    },
+    {
+     "when": "e26",
+     "text": "Campesina robusta de Qijiatun, nuera de Qi el Cazador, que borda zapatos y comparte cuarto con Ye Wenjie. La amamanta y, en el cuarto, pregunta por qué no se caen las estrellas."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e26",
+     "with": "ye-wenjie",
+     "text": "La mujer instruida a la que acoge"
+    },
+    {
+     "when": "e26",
+     "with": "qi-cazador",
+     "text": "Su suegro"
+    }
+   ],
+   "seen": [
+    26
+   ]
+  },
+  {
+   "id": "qi-cazador",
+   "name": "Qi",
+   "aliases": [
+    "Qi el Cazador",
+    "Cazador"
+   ],
+   "summary": [
+    {
+     "when": "s26",
+     "text": "Anciano de Qijiatun, antiguo cazador, que con su familia acoge a Ye Wenjie y a su hija."
+    },
+    {
+     "when": "e26",
+     "text": "Anciano de Qijiatun, antiguo cazador y ahora campesino, que con su familia acoge a Ye Wenjie y a su hija recién nacida en su casa durante medio año."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e26",
+     "with": "feng",
+     "text": "Su nuera, que cuida a la niña"
+    }
+   ],
+   "seen": [
+    26
+   ]
+  },
+  {
+   "id": "tang-hongjing",
+   "name": "Tang Hongjing",
+   "aliases": [
+    "Hongjing"
+   ],
+   "summary": [
+    {
+     "when": "s26",
+     "text": "Una de las guardias rojas que mataron al padre de Ye Wenjie, nombrada por una de sus antiguas compañeras."
+    },
+    {
+     "when": "e26",
+     "text": "Una de las cuatro guardias rojas que mataron a Ye Zhetai, la que le dio el golpe final. Murió ahogada en el río Amarillo, al intentar salvar ovejas del equipo de producción."
+    }
+   ]
+  },
+  {
+   "id": "nan-nan",
+   "name": "Nan Nan",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Niño de unos cinco años que dibuja en casa de Ye Wenjie, donde lo cuidan."
+    },
+    {
+     "when": "e8",
+     "text": "Niño de unos cinco años, hijo de unos vecinos de Ye Wenjie, que dibuja «Patitos al sol» mientras ella lo cuida junto a otros dos niños."
+    }
+   ],
+   "seen": [
+    8
+   ]
+  },
+  {
+   "id": "mao",
+   "name": "Mao Zedong",
+   "aliases": [
+    "Mao",
+    "Gran Timonel"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Dirigente comunista chino (1893-1976), fundador de la República Popular. Durante la Revolución Cultural su figura y sus consignas justificaron la violencia de los guardias rojos; lo llamaban Presidente Mao, Gran Timonel o Gran Líder."
+    }
+   ]
+  },
+  {
+   "id": "lao-she",
+   "name": "Lao She",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Escritor chino (1899-1966), autor de «El camello Xiangzi». La novela lo cita entre los intelectuales que prefirieron quitarse la vida durante la Revolución Cultural."
+    }
+   ]
+  },
+  {
+   "id": "yi-qun",
+   "name": "Yi Qun",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Escritor chino citado entre los literatos perseguidos que se quitaron la vida en la Revolución Cultural."
+    }
+   ]
+  },
+  {
+   "id": "wen-jie",
+   "name": "Wen Jie",
+   "aliases": [
+    "Jie"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Escritor chino citado entre los literatos perseguidos que se quitaron la vida en la Revolución Cultural."
+    }
+   ]
+  },
+  {
+   "id": "hai-mo",
+   "name": "Hai Mo",
+   "aliases": [
+    "Mo"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Escritor chino citado entre los literatos perseguidos que se quitaron la vida en la Revolución Cultural."
+    }
+   ]
+  },
+  {
+   "id": "wu-han",
+   "name": "Wu Han",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Historiador chino (1909-1969), vicealcalde de Pekín. Su obra teatral sobre un funcionario honrado destituido sirvió de pretexto para desatar la Revolución Cultural; murió en prisión."
+    }
+   ],
+   "aliases": [
+    "Wu Han",
+    "Wu"
+   ]
+  },
+  {
+   "id": "jian-bozan",
+   "name": "Jian Bozan",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Historiador chino de la Universidad de Pekín (1898-1968), perseguido en la Revolución Cultural; la novela lo cita entre quienes se quitaron la vida."
+    }
+   ]
+  },
+  {
+   "id": "fu-lei",
+   "name": "Fu Lei",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Traductor chino (1908-1966) de Balzac y otros autores franceses. Acosado en la Revolución Cultural, se suicidó con su esposa."
+    }
+   ]
+  },
+  {
+   "id": "zhao-jiuzhang",
+   "name": "Zhao Jiuzhang",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Meteorólogo y geofísico chino (1907-1968), impulsor de los primeros satélites del país, que se suicidó durante la Revolución Cultural."
+    }
+   ]
+  },
+  {
+   "id": "balzac",
+   "name": "Balzac",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Honoré de Balzac (1799-1850), novelista francés autor de «La comedia humana». Su traductor al chino, Fu Lei, fue una víctima de la Revolución Cultural."
+    }
+   ]
+  },
+  {
+   "id": "einstein",
+   "name": "Einstein",
+   "aliases": [
+    "Albert Einstein"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Albert Einstein (1879-1955), físico alemán creador de la teoría de la relatividad. En 1922 visitó Shanghai."
+    },
+    {
+     "when": "e1",
+     "text": "Albert Einstein (1879-1955), creador de la relatividad. En la Revolución Cultural lo acusan de ser una autoridad reaccionaria al servicio de los imperialistas. Según Ye Shaolin, en 1922 visitó Shanghai y su padre formó parte de la comitiva que lo acompañó."
+    },
+    {
+     "when": "s19",
+     "text": "Albert Einstein (1879-1955), físico creador de la relatividad. En el videojuego Tres Cuerpos aparece un viejo violinista con su nombre que, en la era de las Naciones Unidas, dice que Dios lo ha abandonado y que el modelo del movimiento solar falló por no considerar la curvatura del espacio-tiempo."
+    }
+   ]
+  },
+  {
+   "id": "yu-youren",
+   "name": "Yu Youren",
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Decano de la Universidad de Shanghai, nombrado en el recuerdo de Ye Zhetai sobre la visita de Einstein en 1922."
+    },
+    {
+     "when": "e1",
+     "text": "Decano de la Universidad de Shanghai que, según el recuerdo de Ye Zhetai, acompañó a Einstein en 1922."
+    }
+   ]
+  },
+  {
+   "id": "cao-gubing",
+   "name": "Cao Gubing",
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Director del periódico «La Gran Justicia», nombrado en el recuerdo de Ye Zhetai sobre la visita de Einstein en 1922."
+    },
+    {
+     "when": "e1",
+     "text": "Director del periódico «La Gran Justicia» que, según Ye Zhetai, acompañó a Einstein en 1922."
+    }
+   ]
+  },
+  {
+   "id": "rachel-carson",
+   "name": "Rachel Carson",
+   "aliases": [
+    "Carson"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Bióloga estadounidense (1907-1964), autora de «Primavera silenciosa», libro que denunció los daños de los pesticidas y dio origen al movimiento ecologista."
+    },
+    {
+     "when": "e2",
+     "text": "Bióloga estadounidense, autora de «Primavera silenciosa». En la China de 1969, el libro circula a escondidas, y a Ye Wenjie le cambia la manera de ver la maldad humana."
+    }
+   ]
+  },
+  {
+   "id": "qian-zhongshu",
+   "name": "Qian Zhongshu",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Escritor chino (1910-1998), brillante y retraído. El director del Centro de Nanotecnología lo cita como ejemplo de genio huraño que nunca salió en televisión."
+    }
+   ]
+  },
+  {
+   "id": "hawking",
+   "name": "Hawking",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Stephen Hawking (1942-2018), físico teórico británico, famoso por sus trabajos sobre agujeros negros y cosmología."
+    }
+   ]
+  },
+  {
+   "id": "asimov",
+   "name": "Asimov",
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Isaac Asimov (1920-1992), escritor de ciencia ficción y divulgación. Ding Yi cita una historia suya para ridiculizar lo que pasaría si una bola de billar escapara del sistema solar."
+    }
+   ]
+  },
+  {
+   "id": "arquimedes",
+   "name": "Arquímedes",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Matemático e inventor griego del siglo III a. C. que formuló el principio de la hidrostática que lleva su nombre."
+    }
+   ]
+  },
+  {
+   "id": "hemingway",
+   "name": "Hemingway",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Ernest Hemingway (1899-1961), novelista estadounidense de prosa seca y escueta. Los de Fronteras de la Ciencia dicen que Shen Yufei es un Hemingway hecho mujer."
+    }
+   ]
+  },
+  {
+   "id": "poincare",
+   "name": "Poincaré",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Henri Poincaré (1854-1912), matemático francés. Descubrió que una mínima variación en las condiciones iniciales produce enormes cambios, precursor de la teoría del caos, y demostró que el problema de los tres cuerpos no se resuelve con las matemáticas clásicas."
+    }
+   ]
+  },
+  {
+   "id": "montgomery",
+   "name": "Richard Montgomery",
+   "aliases": [
+    "Montgomery"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Matemático de la Universidad de California que, junto con Alain Chenciner, halló una solución estable del problema de los tres cuerpos en la que los tres se persiguen siguiendo una curva en forma de ocho."
+    }
+   ]
+  },
+  {
+   "id": "chenciner",
+   "name": "Alain Chenciner",
+   "aliases": [
+    "Chenciner"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Matemático de la Universidad de París Diderot que, junto con Richard Montgomery, descubrió una solución periódica del problema de los tres cuerpos con los cuerpos trazando un ocho."
+    }
+   ]
+  },
+  {
+   "id": "buda",
+   "name": "Buda",
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Siddharta Gautama, fundador del budismo. Shen Yufei le reza ante su estatua en un templo."
+    }
+   ]
+  },
+  {
+   "id": "holmes",
+   "name": "Sherlock Holmes",
+   "aliases": [
+    "Holmes",
+    "Watson"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Detective de ficción creado por Arthur Conan Doyle, célebre por deducir a partir de detalles mínimos. Un profesor lo usa para explicar a Wei Cheng cómo funciona su intuición matemática."
+    }
+   ]
+  },
+  {
+   "id": "madame-curie",
+   "name": "Madame Curie",
+   "aliases": [
+    "Curie"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Marie Curie (1867-1934), física y química polaca-francesa, descubridora del polonio y el radio y ganadora de dos premios Nobel. Yang Dong la citó a su madre como ejemplo de mujer que triunfó en la ciencia, y Ye Wenjie le respondió que su éxito se atribuía solo a su esfuerzo."
+    }
+   ]
+  },
+  {
+   "id": "wu-chien-shiung",
+   "name": "Wu Chien-Shiung",
+   "aliases": [
+    "Chien-Shiung"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Física experimental china-estadounidense (1912-1997), cuyo experimento de 1956 confirmó que se viola la paridad en la desintegración beta. Ye Wenjie la menciona por no ser la ciencia un ámbito pensado para mujeres."
+    }
+   ]
+  },
+  {
+   "id": "bach",
+   "name": "Bach",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Johann Sebastian Bach (1685-1750), compositor alemán. Yang Dong escuchaba una y otra vez una de sus piezas, imaginando un gigante levantando un edificio."
+    }
+   ]
+  },
+  {
+   "id": "mozart",
+   "name": "Mozart",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Wolfgang Amadeus Mozart (1756-1791), compositor austríaco. El violinista Einstein del juego interpreta una pieza suya en la plaza de las Naciones Unidas."
+    }
+   ]
+  },
+  {
+   "id": "penzias",
+   "name": "Penzias",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Arno Penzias, radioastrónomo estadounidense que con Robert Wilson descubrió en 1964 el fondo cósmico de microondas, hallazgo por el que recibieron el Nobel de Física en 1978."
+    }
+   ]
+  },
+  {
+   "id": "wilson",
+   "name": "Wilson",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Robert Wilson, radioastrónomo estadounidense que con Arno Penzias descubrió el fondo cósmico de microondas en 1964."
+    }
+   ]
+  },
+  {
+   "id": "hubble",
+   "name": "Hubble",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Edwin Hubble (1889-1953), astrónomo estadounidense que demostró que el universo se expande. Su ley, junto con la radiación de fondo, confirma el Big Bang."
+    }
+   ]
+  },
+  {
+   "id": "mathers",
+   "name": "Bill Mathers",
+   "aliases": [
+    "Mathers"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Sociólogo de la corporación RAND, autor de un libro sobre la búsqueda de inteligencia extraterrestre."
+    },
+    {
+     "when": "e14",
+     "text": "Sociólogo de la corporación RAND, autor del libro «El telón de acero de cien mil años luz». Formuló la teoría del contacto como símbolo, según la cual el contacto con extraterrestres, sea cual sea su civilización, dividiría y exacerbaría los conflictos humanos."
+    },
+    {
+     "when": "e29",
+     "text": "Sociólogo de la corporación RAND y autor de la teoría del contacto como símbolo, que los hechos del Movimiento Terrícola-trisolariano confirman con escalofriante exactitud."
+    }
+   ]
+  },
+  {
+   "id": "kardashov",
+   "name": "Kardashov",
+   "aliases": [
+    "Nikolái Kardashov"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Nikolái Kardashov (1932-2019), astrofísico soviético que propuso clasificar las civilizaciones según la energía que dominan: tipo 1 la de su planeta, tipo 2 la de su estrella y tipo 3 la de su galaxia."
+    }
+   ]
+  },
+  {
+   "id": "peterson",
+   "name": "Harry Peterson",
+   "aliases": [
+    "Peterson"
+   ],
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Astrónomo del Observatorio de Mount Wilson, autor de un artículo de una revista que Ye Wenjie lee en la biblioteca."
+    },
+    {
+     "when": "e22",
+     "text": "Astrónomo estadounidense del Observatorio de Mount Wilson que publica datos de una emisión de radio de Júpiter, y envía por correo sus gráficas a Ye Wenjie, quien las usa para comprobar su hipótesis sobre el Sol."
+    }
+   ]
+  },
+  {
+   "id": "mckenzie",
+   "name": "G. McKenzie",
+   "aliases": [
+    "McKenzie"
+   ],
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Autor de un artículo sobre Júpiter, citado en la revista que Ye Wenjie lee en la biblioteca."
+    },
+    {
+     "when": "e22",
+     "text": "Autor de un artículo sobre Júpiter que Ye Wenjie lee en la biblioteca de Costa Roja; sostiene que en el núcleo del planeta ha comenzado la fusión nuclear."
+    }
+   ]
+  },
+  {
+   "id": "inoue",
+   "name": "Inoue Kumoseki",
+   "aliases": [
+    "Kumoseki",
+    "Inoue"
+   ],
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Autor de un artículo sobre Júpiter, citado en la revista que Ye Wenjie lee en la biblioteca."
+    },
+    {
+     "when": "e22",
+     "text": "Autor de un artículo sobre Júpiter en la biblioteca de Costa Roja, que atribuye las emisiones de radio a movimientos del hidrógeno metálico del planeta."
+    }
+   ]
+  },
+  {
+   "id": "zhou-enlai",
+   "name": "Zhou Enlai",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Primer ministro de China entre 1949 y 1976. En la Revolución Cultural moderó a veces a los guardias rojos, como cuando disuadió de cambiar el sentido de los semáforos para que el rojo significara avanzar."
+    }
+   ]
+  },
+  {
+   "id": "guo-moruo",
+   "name": "Guo Moruo",
+   "summary": [
+    {
+     "when": "s26",
+     "text": "Escritor e historiador chino (1892-1978) que presidió la Academia de las Ciencias China; en 1978 proclamó el comienzo de una nueva primavera para la ciencia."
+    }
+   ]
+  },
+  {
+   "id": "bethune-real",
+   "name": "Norman Bethune",
+   "aliases": [
+    "Norman Bethune"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Médico canadiense (1890-1939) que sirvió al ejército comunista chino en la guerra contra Japón. Un ensayo de Mao lo convirtió en símbolo de entrega y uno de los pocos extranjeros conocidos en China."
+    },
+    {
+     "when": "s27",
+     "text": "Médico canadiense (1890-1939) que sirvió al ejército comunista chino. Mao lo convirtió en símbolo de entrega desinteresada, y por eso los aldeanos llaman Bethune al extranjero que planta árboles, sin conocer su nombre."
+    }
+   ]
+  },
+  {
+   "id": "peter-singer",
+   "name": "Peter Singer",
+   "summary": [
+    {
+     "when": "s27",
+     "text": "Filósofo australiano, autor de «Liberación animal», clave del movimiento por los derechos de los animales. Su libro está entre los de la cabaña de Evans."
+    }
+   ]
+  },
+  {
+   "id": "gaillard",
+   "name": "Gaillard",
+   "summary": [
+    {
+     "when": 0,
+     "text": "David du Bose Gaillard (1859-1913), ingeniero militar estadounidense responsable de las obras de Corte Culebra en el canal de Panamá, que llevó su nombre hasta el año 2000."
+    }
+   ]
+  },
+  {
+   "id": "noriega",
+   "name": "Noriega",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Manuel Noriega, dictador panameño derrocado por la invasión de Estados Unidos en 1989-1990, refugiado en la embajada del Vaticano."
+    }
+   ]
+  },
+  {
+   "id": "copernico",
+   "name": "Copérnico",
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Nicolás Copérnico (1473-1543), astrónomo polaco que propuso que la Tierra gira alrededor del Sol. Wang Miao toma su nombre como nick en el videojuego Tres Cuerpos."
+    }
+   ]
+  },
+  {
+   "id": "wiener",
+   "name": "Wiener",
+   "aliases": [
+    "Norbert Wiener"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Norbert Wiener (1894-1964), matemático estadounidense, fundador de la cibernética."
+    },
+    {
+     "when": "s17",
+     "text": "Norbert Wiener (1894-1964), matemático fundador de la cibernética. En el videojuego Tres Cuerpos, Newton cuenta que viajaba con ellos y murió heroicamente luchando contra unos piratas cerca de Madagascar."
+    }
+   ]
+  },
+  {
+   "id": "kepler",
+   "name": "Kepler",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Johannes Kepler (1571-1630), astrónomo alemán que formuló las leyes del movimiento de los planetas."
+    },
+    {
+     "when": "s17",
+     "text": "Johannes Kepler (1571-1630), astrónomo alemán. En el videojuego Tres Cuerpos figura entre los astrónomos europeos del Observatorio Imperial de Qin Shi Huang."
+    }
+   ]
+  },
+  {
+   "id": "herschel",
+   "name": "Herschel",
+   "summary": [
+    {
+     "when": 0,
+     "text": "William Herschel (1738-1822), astrónomo británico descubridor de Urano."
+    },
+    {
+     "when": "s17",
+     "text": "William Herschel (1738-1822), astrónomo británico. En el videojuego Tres Cuerpos aparece entre los astrónomos europeos del Observatorio Imperial de Qin Shi Huang."
+    }
+   ]
+  },
+  {
+   "id": "julio-cesar",
+   "name": "Julio César",
+   "aliases": [
+    "César"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Gayo Julio César (100-44 a. C.), general y político romano. En el videojuego Tres Cuerpos, Qin Shi Huang y Von Neumann hablan de su imperio y de su ejército sin llegar a verlo."
+    }
+   ]
+  },
+  {
+   "id": "rey-wen",
+   "name": "Rey Wen de los Zhou",
+   "aliases": [
+    "rey Wen",
+    "Wen",
+    "Ji Chang"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Rey Wen, fundador de la dinastía Zhou en el siglo XI a. C., a quien la tradición china atribuye el origen del I Ching."
+    },
+    {
+     "when": "s7",
+     "text": "Rey Wen de los Zhou (Ji Chang), fundador de la dinastía Zhou. En el videojuego Tres Cuerpos aparece una figura con su nombre, en una túnica agujereada, que cruza una llanura helada con un reloj de arena para llevar un calendario preciso al rey Zhou en Zhaoge."
+    },
+    {
+     "when": "e7",
+     "text": "Rey Wen de los Zhou (Ji Chang), fundador de la dinastía Zhou. En Tres Cuerpos, una figura con su nombre predice con el I Ching las eras caóticas y estables, ve cumplirse sus predicciones iniciales, pero el sol no vuelve a salir, y el rey Zhou lo condena al caldero, donde se arroja."
+    }
+   ]
+  },
+  {
+   "id": "seguidor",
+   "name": "SeguidorDelReyWen",
+   "aliases": [
+    "Seguidor"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Nick de un compañero de viaje del rey Wen en el videojuego Tres Cuerpos: un hombre quejica de túnica agujereada que se deshidrata cuando ya no soporta las eras caóticas."
+    }
+   ]
+  },
+  {
+   "id": "confucio",
+   "name": "Confucio",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Confucio (551-479 a. C.), filósofo chino que fundó la tradición del confucianismo, basada en la moral y los ritos."
+    },
+    {
+     "when": "s11",
+     "text": "Confucio (551-479 a. C.), filósofo chino del orden moral y los ritos. En el videojuego Tres Cuerpos, Mozi cuenta que predijo con un sistema de ritos una era estable y quedó congelado como estatua cuando el sol se apagó de golpe."
+    }
+   ]
+  },
+  {
+   "id": "leibniz",
+   "name": "Leibniz",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Gottfried Leibniz (1646-1716), filósofo y matemático alemán, inventor del cálculo diferencial al mismo tiempo que Newton."
+    },
+    {
+     "when": "s17",
+     "text": "Gottfried Leibniz (1646-1716), matemático alemán. En el videojuego Tres Cuerpos, figura alta que Newton llama deleznable por reclamar la invención del cálculo, y con quien se bate en duelo hasta que huye herido."
+    }
+   ]
+  },
+  {
+   "id": "qin-shi-huang",
+   "name": "Qin Shi Huang",
+   "aliases": [
+    "Qin Shi Huang",
+    "Shi Huang",
+    "Huang",
+    "Qin",
+    "Gran Emperador"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Qin Shi Huang (260-210 a. C.), rey de los Qin y primer emperador de la China unificada."
+    },
+    {
+     "when": "s17",
+     "text": "Qin Shi Huang (260-210 a. C.), primer emperador de China. En el videojuego Tres Cuerpos, figura que reina sobre treinta millones de soldados y los presta a Newton y Von Neumann para calcular el movimiento de los soles con una computadora humana."
+    },
+    {
+     "when": "e17",
+     "text": "Qin Shi Huang (260-210 a. C.), primer emperador de China. En Tres Cuerpos, figura que ordena decapitar a los soldados de una puerta lógica defectuosa y, cuando la sizigia trisolar destruye su imperio, ataca con la espada a Von Neumann y muere aplastado por una piedra."
+    }
+   ]
+  },
+  {
+   "id": "princeps",
+   "name": "Prínceps",
+   "summary": [
+    {
+     "when": "s32",
+     "text": "Líder supremo de la civilización trisolariana en los mensajes interceptados."
+    },
+    {
+     "when": "e32",
+     "text": "Líder supremo de Trisolaris. Juzga al escuchador que avisó a la Tierra, condena a seis mil cónsules a la deshidratación y la hoguera por no haber detectado la advertencia, y ordena que la flota parta hacia la Tierra en cuanto esté lista."
+    },
+    {
+     "when": "e33",
+     "text": "Líder supremo de Trisolaris. Apaga el péndulo, dirige el proyecto Sofón y ordena lanzar dos sofones contra la ciencia terrestre; acepta el riesgo de nuevos desdoblamientos y ordena preparar a su pueblo para la destrucción de la Tierra."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e32",
+     "with": "escuchador",
+     "text": "El pacifista al que juzga y deja libre"
+    },
+    {
+     "when": "e33",
+     "with": "sofon",
+     "text": "El proyecto con el que atacará la ciencia humana"
+    }
+   ],
+   "seen": [
+    32,
+    33
+   ]
+  },
+  {
+   "id": "escuchador",
+   "name": "Escuchador 1379",
+   "aliases": [
+    "escuchador",
+    "escuchadores",
+    "puesto 1379"
+   ],
+   "summary": [
+    {
+     "when": "s32",
+     "text": "Trisolariano que trabaja solo en un puesto de escucha; envejecido y solitario, vigila el cielo en busca de señales."
+    },
+    {
+     "when": "e32",
+     "text": "Trisolariano del puesto de escucha 1379, que recibe el primer mensaje de la Tierra y, para hacer algo de provecho en su vida, contesta con la advertencia de que no contesten. El prínceps lo declara el mayor criminal de Trisolaris y lo deja vivir para que vea la destrucción de la Tierra."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e32",
+     "with": "princeps",
+     "text": "El líder que lo juzga y lo libera"
+    }
+   ],
+   "seen": [
+    32
+   ]
+  },
+  {
+   "id": "revolucion-cultural",
+   "name": "Revolución Cultural",
+   "aliases": [
+    "Revolución",
+    "Gran Revolución Cultural Proletaria"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Campaña política lanzada por Mao en 1966 y vigente hasta su muerte en 1976, que provocó el caos y la persecución de intelectuales, cuadros y supuestos enemigos de la Revolución; los guardias rojos, jóvenes fanáticos, fueron su brazo violento."
+    }
+   ]
+  },
+  {
+   "id": "guardias-rojos",
+   "name": "Guardias rojos",
+   "aliases": [
+    "Guardias rojos",
+    "Guardia Roja",
+    "guardia roja"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Jóvenes estudiantes organizados en facciones que, en nombre de Mao, atacaron a profesores y supuestos enemigos de la Revolución durante la Revolución Cultural; con frecuencia luchaban entre sí."
+    }
+   ]
+  },
+  {
+   "id": "liga-roja",
+   "name": "Liga Roja",
+   "aliases": [
+    "Liga"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Facción de guardias rojos, formada en 1966, que en 1967 asedia en Pekín el cuartel de la Brigada del 28 de Abril."
+    }
+   ]
+  },
+  {
+   "id": "brigada-28-abril",
+   "name": "Brigada del 28 de Abril",
+   "aliases": [
+    "Brigada"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Facción de guardias rojos más joven y fanática, que en 1967 resiste en su cuartel de Pekín, asediada por la Liga Roja, con estufas de hierro llenas de explosivos."
+    }
+   ]
+  },
+  {
+   "id": "sesion-castigo",
+   "name": "Sesión de castigo",
+   "aliases": [
+    "Sesión de castigo"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Acto público de la Revolución Cultural en que se humillaba, insultaba y golpeaba a un acusado hasta forzar su confesión; muchas terminaban con la muerte de la víctima."
+    }
+   ]
+  },
+  {
+   "id": "monstruos-demonios",
+   "name": "Monstruos y demonios",
+   "aliases": [
+    "monstruos"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Insulto con que los guardias rojos llamaban a las víctimas de la persecución política, a las que consideraban enemigas de la Revolución."
+    }
+   ]
+  },
+  {
+   "id": "editorial-agosto",
+   "name": "Editorial de Agosto",
+   "aliases": [
+    "Editorial"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Texto del número de agosto de 1967 de la revista «Bandera Roja» que pedía limpiar de contrarrevolucionarios el ejército; muchas facciones de guardias rojos lo tomaron como excusa para robar armas de los arsenales militares."
+    }
+   ]
+  },
+  {
+   "id": "jovenes-instruidos",
+   "name": "Jóvenes instruidos",
+   "aliases": [
+    "instruidos",
+    "instruida",
+    "instruido"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Jóvenes urbanos con estudios enviados al campo durante la Revolución Cultural para ser reeducados trabajando con los campesinos."
+    }
+   ]
+  },
+  {
+   "id": "mongolia-interior",
+   "name": "Mongolia Interior",
+   "aliases": [
+    "Mongolia"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Región autónoma del norte de China. En 1969 el Cuerpo de Producción y Construcción de Mongolia Interior, formado por jóvenes instruidos, talaba allí bosques y convertía praderas en campos; su periódico era «La Gran Producción»."
+    }
+   ]
+  },
+  {
+   "id": "gran-khingan",
+   "name": "Gran Khingan",
+   "aliases": [
+    "Khingan"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Cordillera boscosa del noreste de China, en Mongolia Interior, donde Ye Wenjie trabaja talando árboles."
+    },
+    {
+     "when": "e3",
+     "text": "Cordillera boscosa del noreste de China, en Mongolia Interior. Ye Wenjie trabaja allí talando árboles hasta que la llevan a la base Costa Roja, en lo alto de Pico Radar."
+    }
+   ]
+  },
+  {
+   "id": "rio-amarillo",
+   "name": "Río Amarillo",
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Segundo río más largo de China, cuya cuenca sufre una fuerte erosión; Bai Mulin alerta del descenso de limo por la deforestación."
+    }
+   ]
+  },
+  {
+   "id": "qijiatun",
+   "name": "Qijiatun",
+   "summary": [
+    {
+     "when": "s26",
+     "text": "Aldea de montaña cerca de Pico Radar, cuyos campesinos suben a pedir clases a Ye Wenjie; allí vive medio año con su hija recién nacida."
+    },
+    {
+     "when": "e35",
+     "text": "Pequeña aldea de la ladera de Pico Radar, que Ye Wenjie mira desde el acantilado antes de morir."
+    }
+   ]
+  },
+  {
+   "id": "tsinghua",
+   "name": "Tsinghua",
+   "aliases": [
+    "Universidad de Tsinghua"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Prestigiosa universidad de Pekín. Allí daban clases Ye Zhetai y Ye Shaolin, y allí lo mataron los guardias rojos en 1967."
+    }
+   ]
+  },
+  {
+   "id": "pekin",
+   "name": "Pekín",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Capital de China, escenario de buena parte de la novela, tanto en la Revolución Cultural de 1967 como en el presente."
+    }
+   ]
+  },
+  {
+   "id": "tiananmen",
+   "name": "Tiananmen",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Plaza principal de Pekín donde Mao pasaba revista a las grandes concentraciones de guardias rojos."
+    }
+   ]
+  },
+  {
+   "id": "primavera-silenciosa",
+   "name": "Primavera silenciosa",
+   "aliases": [
+    "Primavera silenciosa"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Libro de Rachel Carson de 1962 que alerta contra el uso de pesticidas. En la China de 1969 se considera propaganda reaccionaria."
+    },
+    {
+     "when": "e2",
+     "text": "Libro de Rachel Carson de 1962 sobre los pesticidas. Bai Mulin lo traduce para consumo interno y se lo presta a Ye Wenjie, y por él los dos acaban acusados; le cambia para siempre la visión de la maldad humana."
+    }
+   ]
+  },
+  {
+   "id": "selectividad",
+   "name": "Selectividad",
+   "summary": [
+    {
+     "when": "s26",
+     "text": "Examen de ingreso a la universidad. En 1977-1978 China lo restableció para todos, sin distinción de origen, y los jóvenes de las aldeas suben a pedir ayuda a Ye Wenjie."
+    }
+   ]
+  },
+  {
+   "id": "kang",
+   "name": "Kang",
+   "summary": [
+    {
+     "when": "s26",
+     "text": "Cama grande de ladrillo o barro con calefacción por debajo, típica del norte de China, donde Ye Wenjie duerme en Qijiatun."
+    }
+   ]
+  },
+  {
+   "id": "qipao",
+   "name": "Qipao",
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Vestido tradicional chino ceñido y de cuello alto. Ye Shaolin daba clases con uno antes de la Revolución Cultural."
+    }
+   ]
+  },
+  {
+   "id": "loess",
+   "name": "Loess",
+   "summary": [
+    {
+     "when": "s27",
+     "text": "Limo amarillento muy fértil pero fácilmente erosionable, que forma las colinas del noroeste de China."
+    }
+   ]
+  },
+  {
+   "id": "xiao",
+   "name": "Xiao",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Prefijo cariñoso o familiar en chino que significa «pequeño»; se añade al apellido de alguien más joven, como en «Xiao Wang»."
+    }
+   ]
+  },
+  {
+   "id": "ginseng",
+   "name": "Ginseng",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Raíz apreciada en la medicina china como tónico. Ye Wenjie regala una caja a Wang Miao y recuerda el ginseng silvestre de las montañas de Costa Roja."
+    }
+   ]
+  },
+  {
+   "id": "otan",
+   "name": "OTAN",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Organización del Tratado del Atlántico Norte, alianza militar de países occidentales. En la reunión del Centro de Comandancia de Batalla participan oficiales suyos."
+    }
+   ]
+  },
+  {
+   "id": "cia",
+   "name": "CIA",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Agencia de Inteligencia estadounidense. En la novela asisten oficiales suyos a las reuniones militares sobre la crisis."
+    }
+   ]
+  },
+  {
+   "id": "pentagono",
+   "name": "Pentágono",
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Sede del Departamento de Defensa de Estados Unidos. Da Shi cuenta que oficiales chinos trabajan allí y militares de la OTAN en el cuartel del ejército chino."
+    }
+   ]
+  },
+  {
+   "id": "unesco",
+   "name": "Unesco",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Organización de la ONU para la educación, la ciencia y la cultura. Declaró 2005 Año Mundial de la Física, y de los encuentros de ese año surgió Fronteras de la Ciencia."
+    }
+   ]
+  },
+  {
+   "id": "naciones-unidas",
+   "name": "Naciones Unidas",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Organización internacional fundada en 1945 para mantener la paz y la cooperación entre países."
+    },
+    {
+     "when": "s19",
+     "text": "Organización internacional fundada en 1945. En el videojuego Tres Cuerpos, su cuartel de edificio gris aparece sobre las ruinas de una pirámide, en la era de la ciencia moderna, y su secretario general preside la asamblea del péndulo."
+    }
+   ]
+  },
+  {
+   "id": "rand",
+   "name": "RAND",
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Corporación estadounidense de análisis estratégico, nacida junto al ejército de Estados Unidos. Bill Mathers trabajaba en ella."
+    }
+   ]
+  },
+  {
+   "id": "nasa",
+   "name": "NASA",
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Agencia espacial de Estados Unidos. Dispone de un programa SETI y satélites que la doctora Sha cita en el observatorio."
+    }
+   ]
+  },
+  {
+   "id": "seti",
+   "name": "SETI",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Siglas inglesas de Búsqueda de Inteligencia Extraterrestre, programas que escuchan señales de radio de posibles civilizaciones fuera de la Tierra."
+    }
+   ]
+  },
+  {
+   "id": "pacto-varsovia",
+   "name": "Pacto de Varsovia",
+   "aliases": [
+    "Varsovia"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Alianza militar de la Unión Soviética y sus aliados (1955-1991), opuesta a la OTAN en la guerra fría."
+    }
+   ]
+  },
+  {
+   "id": "vietnam",
+   "name": "Vietnam",
+   "summary": [
+    {
+     "when": "s31",
+     "text": "País del sudeste asiático escenario de una guerra con Estados Unidos (1955-1975). El coronel Stanton, y Da Shi, que hizo una incursión a su territorio, lo mencionan."
+    }
+   ]
+  },
+  {
+   "id": "kioto",
+   "name": "Protocolo de Kioto",
+   "aliases": [
+    "Kioto"
+   ],
+   "summary": [
+    {
+     "when": "s27",
+     "text": "Tratado de 1997 para reducir las emisiones que causan el calentamiento global. Evans cuenta que el gobierno de Estados Unidos se negó a firmarlo."
+    }
+   ]
+  },
+  {
+   "id": "comunismo-panespecie",
+   "name": "Comunismo panespecie",
+   "aliases": [
+    "panespecie"
+   ],
+   "summary": [
+    {
+     "when": "s27",
+     "text": "Ideología, casi una fe, que el extranjero que planta árboles dice haberse inventado."
+    },
+    {
+     "when": "e27",
+     "text": "Ideología, casi una fe, que Mike Evans se ha inventado: defiende que todas las especies del planeta tienen el mismo derecho a la vida, incluidos los humanos."
+    },
+    {
+     "when": "e29",
+     "text": "Ideología de Mike Evans, según la cual todas las especies tienen el mismo derecho a la vida. En la Organización Terrícola-trisolariana inspira el adventismo y su deseo de que la humanidad desaparezca."
+    }
+   ]
+  },
+  {
+   "id": "fondo-microondas",
+   "name": "Fondo cósmico de microondas",
+   "aliases": [
+    "microondas",
+    "3K"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Radiación de microondas, a unos 2,7 grados sobre el cero absoluto, que llena el universo y es el resto enfriado del Big Bang. Es casi uniforme en todas direcciones."
+    },
+    {
+     "when": "e9",
+     "text": "Radiación residual del Big Bang, casi uniforme y a unos 2,7 K. En la novela, su fluctuación general, medida por tres satélites y un observatorio, transmite en código morse la cuenta atrás que sigue a Wang Miao; con gafas de 3K se ve como un parpadeo rojizo."
+    }
+   ]
+  },
+  {
+   "id": "big-bang",
+   "name": "Big Bang",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Teoría de que el universo surgió de un estado inicial denso y caliente hace unos catorce mil millones de años. Los guardias rojos la tachaban de reaccionaria porque dejaba espacio a Dios."
+    }
+   ]
+  },
+  {
+   "id": "copenhague",
+   "name": "Interpretación de Copenhague",
+   "aliases": [
+    "Copenhague"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Interpretación de la mecánica cuántica de Bohr y Heisenberg según la cual la observación hace colapsar la función de onda. Para el marxismo de la Revolución Cultural era idealismo reaccionario."
+    }
+   ]
+  },
+  {
+   "id": "relatividad",
+   "name": "Relatividad",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Teoría de Einstein sobre el espacio, el tiempo y la gravedad. En la Revolución Cultural la acusaban de reaccionaria, y en el videojuego se necesita su curvatura del espacio-tiempo para predecir el movimiento de los tres soles."
+    }
+   ]
+  },
+  {
+   "id": "supercuerdas",
+   "name": "Teoría de supercuerdas",
+   "aliases": [
+    "supercuerdas"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Teoría física que intenta unificar las fuerzas del universo suponiendo que las partículas son cuerdas diminutas que vibran en más de tres dimensiones. Yang Dong trabajaba en ella."
+    }
+   ]
+  },
+  {
+   "id": "macroatomo",
+   "name": "Macroátomo",
+   "aliases": [
+    "globulares"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Descubrimiento de Ding Yi, físico teórico, que lo hizo estudiando los rayos globulares, esferas luminosas que a veces aparecen en las tormentas eléctricas."
+    }
+   ]
+  },
+  {
+   "id": "acelerador",
+   "name": "Acelerador de partículas",
+   "aliases": [
+    "aceleradores",
+    "acelerador"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Máquina que acelera partículas casi a la velocidad de la luz y las hace chocar para estudiar la estructura de la materia."
+    },
+    {
+     "when": "e5",
+     "text": "Máquina que acelera partículas y las hace chocar para estudiar la materia. Ding Yi cuenta que se construyeron tres, en Norteamérica, Europa y Liangxiang, y que sus experimentos dieron resultados distintos según el momento y el lugar, lo que mató la idea de unas leyes físicas universales."
+    },
+    {
+     "when": "e33",
+     "text": "Máquina que acelera partículas casi a la velocidad de la luz. Para Trisolaris, es el punto débil de la ciencia humana: los sofones sustituyen a las partículas del blanco y falsean los resultados de los experimentos, por lo que sirven de candado."
+    }
+   ]
+  },
+  {
+   "id": "liangxiang",
+   "name": "Liangxiang",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Lugar donde se construye un acelerador de partículas, en el que Wang recuerda haber visto a Ding Yi."
+    },
+    {
+     "when": "e4",
+     "text": "Distrito de las afueras de Pekín donde se construye el acelerador de partículas chino Sinotron II."
+    },
+    {
+     "when": "e5",
+     "text": "Distrito de las afueras de Pekín donde se levanta uno de los tres grandes aceleradores de partículas del mundo."
+    }
+   ]
+  },
+  {
+   "id": "sinotron",
+   "name": "Sinotron II",
+   "aliases": [
+    "Sinotron"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Proyecto de acelerador de partículas del que Wang Miao dirigió los componentes a nanoescala el año anterior."
+    },
+    {
+     "when": "e4",
+     "text": "Proyecto de acelerador de partículas chino de veinte mil millones de yuanes, en Liangxiang. Wang Miao dirigió sus componentes a nanoescala, y Yang Dong debía poner a prueba allí su modelo de supercuerdas."
+    }
+   ]
+  },
+  {
+   "id": "nanomateriales",
+   "name": "Nanomateriales",
+   "aliases": [
+    "nanomaterial"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Nueva clase de materiales de gran dureza que investiga Wang Miao."
+    },
+    {
+     "when": "e4",
+     "text": "Materiales de resistencia increíble, fabricados a escala molecular, que Wang Miao investiga. Un hilo de una centésima de un cabello cortaría un camión."
+    },
+    {
+     "when": "e24",
+     "text": "Materiales ultrarresistentes que Wang Miao investiga. Ye Wenjie le dice que son lo primero que su Señor quiere ver erradicado, porque permitirían construir un ascensor espacial y escapar al influjo de la gravedad."
+    },
+    {
+     "when": "e31",
+     "text": "Materiales ultrarresistentes de la investigación de Wang Miao. Con ellos se fabrican los nanofilamentos que parten en dos el «Juicio Final» en el canal de Panamá."
+    }
+   ]
+  },
+  {
+   "id": "daga-voladora",
+   "name": "Daga voladora",
+   "aliases": [
+    "daga"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Nombre provisional de un nanomaterial extremadamente resistente que se fabrica en el laboratorio de Wang Miao."
+    },
+    {
+     "when": "e6",
+     "text": "Nombre provisional de un nanomaterial extremadamente resistente que el laboratorio de Wang Miao consigue fabricar en pequeñas cantidades con técnicas de construcción molecular."
+    },
+    {
+     "when": "e31",
+     "text": "Nanomaterial de Wang Miao, extremadamente resistente y fabricado en forma de hilos finísimos, que se convierte en el arma de la operación Guzheng."
+    }
+   ]
+  },
+  {
+   "id": "nanofilamentos",
+   "name": "Nanofilamentos",
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Hilos finísimos y ultrarresistentes que Da Shi propone tender entre dos pilares sobre un canal."
+    },
+    {
+     "when": "e31",
+     "text": "Hilos finísimos de nanomaterial, capaces de rebanar un barco sin resistencia. En la operación Guzheng se tienden entre dos pilares sobre el canal de Panamá, separados cincuenta centímetros."
+    }
+   ]
+  },
+  {
+   "id": "ascensor-espacial",
+   "name": "Ascensor espacial",
+   "aliases": [
+    "ascensor"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Cable o torre ultrarresistente que iría desde la superficie de la Tierra hasta un punto de órbita geoestacionaria para subir cargas sin cohetes."
+    },
+    {
+     "when": "e24",
+     "text": "Cable que iría de la superficie de la Tierra a un punto geoestacionario. Ye Wenjie dice que los nanomateriales lo harían posible y que por eso su Señor quiere erradicarlos."
+    },
+    {
+     "when": "e31",
+     "text": "Cable que iría de la superficie de la Tierra a un punto geoestacionario, posibilitado por los nanomateriales. Stanton llama a Wang el Gaillard de su época, porque el ascensor sería un canal hacia el espacio, como el de Panamá entre dos océanos."
+    }
+   ]
+  },
+  {
+   "id": "problema-tres-cuerpos",
+   "name": "Problema de los tres cuerpos",
+   "aliases": [
+    "cuerpos"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Problema clásico de la mecánica: predecir cómo se mueven tres cuerpos que se atraen entre sí por la gravedad. Salvo casos muy particulares, no tiene solución general y su comportamiento es caótico."
+    },
+    {
+     "when": "s16",
+     "text": "Problema clásico de la mecánica: predecir el movimiento de tres cuerpos que se atraen por gravedad. Poincaré probó que no se resuelve con integrales, y es muy sensible a las condiciones iniciales. Wei Cheng cree que un algoritmo evolutivo que pruebe millones de configuraciones podría resolverlo."
+    },
+    {
+     "when": "e19",
+     "text": "Problema clásico de la mecánica sobre el movimiento de tres cuerpos que se atraen. En el videojuego Tres Cuerpos, las autoridades trisolarianas demuestran con una computación masiva que no tiene solución: es un caos impredecible. Una maqueta de tres esferas plateadas lo representa en la reunión de la Organización."
+    }
+   ]
+  },
+  {
+   "id": "metodo-montecarlo",
+   "name": "Método Montecarlo",
+   "aliases": [
+    "Montecarlo"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Algoritmo que calcula áreas o resultados disparando puntos al azar y contando cuántos caen dentro; muestra cómo la fuerza bruta aleatoria puede superar a la lógica más precisa. Wei Cheng lo usa como inspiración."
+    }
+   ]
+  },
+  {
+   "id": "algoritmo-evolutivo",
+   "name": "Algoritmo evolutivo",
+   "aliases": [
+    "evolutivo"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Método numérico que explora al azar muchas soluciones y hace sobrevivir las mejores combinaciones, a costa de una enorme capacidad de cálculo. Wei Cheng lo emplea para el problema de los tres cuerpos."
+    }
+   ]
+  },
+  {
+   "id": "proporcion-aurea",
+   "name": "Proporción áurea",
+   "aliases": [
+    "áurea"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Relación de aproximadamente 1,618 entre dos longitudes, famosa por su armonía. Wei Cheng, de niño, la trazaba a ojo sobre cualquier línea."
+    }
+   ]
+  },
+  {
+   "id": "sizigia",
+   "name": "Sizigia",
+   "aliases": [
+    "sizigia"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Alineación de tres cuerpos celestes, como el Sol, la Tierra y la Luna."
+    },
+    {
+     "when": "s17",
+     "text": "Alineación de tres astros en línea recta. En el videojuego Tres Cuerpos, la sizigia trisolar alinea los tres soles sobre el planeta, suma su atracción y levanta del suelo a toda la civilización."
+    }
+   ]
+  },
+  {
+   "id": "limite-roche",
+   "name": "Límite de Roche",
+   "aliases": [
+    "Roche"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Distancia mínima a la que un cuerpo celeste puede acercarse a otro sin deshacerse por las fuerzas de marea; lo calculó Édouard Roche en el siglo XIX."
+    }
+   ]
+  },
+  {
+   "id": "miodesopsia",
+   "name": "Miodesopsia",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Diagnóstico que da el oftalmólogo a Wang Miao cuando este le describe lo que ve: cuerpos flotantes."
+    },
+    {
+     "when": "e6",
+     "text": "Cuerpos flotantes en la visión, causados por la deshidratación del humor vítreo, frecuentes y poco graves. El oftalmólogo se lo diagnostica a Wang Miao, y le sugiere que su problema es psicológico."
+    }
+   ]
+  },
+  {
+   "id": "hipotesis-arquero",
+   "name": "Hipótesis del arquero",
+   "aliases": [
+    "Hipótesis del arquero"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Hipótesis de Fronteras de la Ciencia sobre un arquero que dispara a un blanco."
+    },
+    {
+     "when": "e6",
+     "text": "Hipótesis de Fronteras de la Ciencia: un arquero dispara a un blanco y deja un agujero cada diez centímetros; los científicos de la superficie, seres bidimensionales, deducen una ley universal, cuando en realidad es capricho del arquero."
+    }
+   ]
+  },
+  {
+   "id": "sf",
+   "name": "SF",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Abreviatura que usan los miembros de Fronteras de la Ciencia al hablar de física; no significa «ciencia ficción»."
+    },
+    {
+     "when": "e6",
+     "text": "Abreviatura que usan en Fronteras de la Ciencia para hablar de física: no es «science fiction», sino «shooter» y «farmer», es decir, la hipótesis del arquero y la del granjero."
+    }
+   ]
+  },
+  {
+   "id": "hipotesis-granjero",
+   "name": "Hipótesis del granjero",
+   "aliases": [
+    "Hipótesis del granjero"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Hipótesis de Fronteras de la Ciencia sobre un pavo que cree conocer la hora de su comida."
+    },
+    {
+     "when": "e6",
+     "text": "Hipótesis de Fronteras de la Ciencia: un pavo científico deduce que la comida llega cada día a las once, hasta que el Día de Acción de Gracias, el granjero lo mata. Una ley basada en observaciones puede fallar de golpe."
+    }
+   ]
+  },
+  {
+   "id": "cuenta-atras",
+   "name": "Cuenta atrás fantasma",
+   "aliases": [
+    "Cuenta atrás fantasma"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Números que Wang Miao descubre impresos en sus fotografías y que parecen contar el tiempo hacia atrás."
+    },
+    {
+     "when": "e6",
+     "text": "Serie de cifras que Wang Miao ve en sus fotos, solo en las que toma él, y después a todas horas ante sus ojos, con cuenta regresiva de 1200 horas que cambia de color según el fondo. Se detiene al suspender su experimento de nanomateriales."
+    },
+    {
+     "when": "e9",
+     "text": "Cuenta regresiva de 1200 horas que solo ve Wang Miao. Wang descubre en el observatorio de Miyun que el universo mismo la transmite, en código morse, a través del fondo cósmico de microondas; quedan 1108 horas."
+    }
+   ]
+  },
+  {
+   "id": "leica",
+   "name": "Leica",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Marca alemana de cámaras fotográficas, muy apreciadas. Wang Miao usa una Leica M2 de 1988, mecánica y de carrete, para fotografías en blanco y negro."
+    }
+   ]
+  },
+  {
+   "id": "mitsubishi",
+   "name": "Mitsubishi",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Conglomerado industrial japonés. Shen Yufei trabajó antes en un laboratorio suyo de nanotecnología."
+    }
+   ]
+  },
+  {
+   "id": "santana",
+   "name": "Volkswagen Santana",
+   "aliases": [
+    "Santana"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Modelo de coche de Volkswagen muy habitual en China. Da Shi conduce uno negro, y en otro huye el asesino de Shen Yufei."
+    }
+   ]
+  },
+  {
+   "id": "ozma",
+   "name": "Proyecto Ozma",
+   "aliases": [
+    "Ozma"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Primer intento serio de escuchar señales de otras civilizaciones, dirigido por Frank Drake en 1960 con un radiotelescopio de Green Bank hacia las estrellas Tau Ceti y Epsilon Eridani."
+    },
+    {
+     "when": "e13",
+     "text": "Primer proyecto de búsqueda de inteligencia extraterrestre, en 1960 con un radiotelescopio de Green Bank; los documentos de Costa Roja lo citan como antecedente occidental."
+    }
+   ]
+  },
+  {
+   "id": "tau-ceti",
+   "name": "Tau Ceti",
+   "aliases": [
+    "Ceti",
+    "Epsilon",
+    "Eridani"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Estrella parecida al Sol a unos once años luz. Con Epsilon Eridani fue objetivo del proyecto Ozma, primer intento de escuchar a extraterrestres."
+    }
+   ]
+  },
+  {
+   "id": "pioneer",
+   "name": "Pioneer",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Sondas espaciales estadounidenses Pioneer 10 y 11, lanzadas en los años setenta, que llevan placas con mensajes para posibles extraterrestres."
+    }
+   ]
+  },
+  {
+   "id": "voyager",
+   "name": "Voyager",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Sondas Voyager 1 y 2, lanzadas por la NASA en 1977, con un disco de oro con sonidos e imágenes de la Tierra por si lo halla una civilización alienígena."
+    }
+   ]
+  },
+  {
+   "id": "arecibo",
+   "name": "Arecibo",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Radiotelescopio gigante de Puerto Rico, usado para buscar señales extraterrestres; en 1974 emitió un mensaje hacia las estrellas."
+    }
+   ]
+  },
+  {
+   "id": "autointeligible",
+   "name": "Sistema de códigos autointeligible",
+   "aliases": [
+    "autointeligible"
+   ],
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Código que, según unos documentos de Costa Roja, permitiría a cualquier civilización entender un mensaje."
+    },
+    {
+     "when": "e13",
+     "text": "Código que se adjunta a un mensaje para que cualquier civilización pueda descifrarlo, basado en leyes universales de la matemática y la física."
+    },
+    {
+     "when": "e23",
+     "text": "Código adjunto a un mensaje de radio que permite descifrarlo sin conocer el idioma. El descodificador de Costa Roja lo lee al instante cuando llega la señal de Trisolaris."
+    }
+   ]
+  },
+  {
+   "id": "fortran",
+   "name": "Fortran",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Lenguaje de programación de los años cincuenta, parecido a la notación matemática. Ye Wenjie lo aprende en el Departamento de Monitorización de Costa Roja."
+    }
+   ]
+  },
+  {
+   "id": "dj130",
+   "name": "DJS130",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Miniordenador chino de los años setenta, más antiguo que los equipos de la base Costa Roja."
+    }
+   ]
+  },
+  {
+   "id": "kh9",
+   "name": "KH-9",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Satélite estadounidense de reconocimiento que recogía imágenes sobre todo en película recuperable, pero probaba también la transmisión digital. En Costa Roja interceptan esas transmisiones para espiar los sistemas de reconocimiento de Estados Unidos."
+    }
+   ]
+  },
+  {
+   "id": "espejos-energeticos",
+   "name": "Espejos energéticos",
+   "aliases": [
+    "Espejos energéticos"
+   ],
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Fenómeno de la zona de radiación solar que describe el modelo matemático del Sol de Ye Wenjie."
+    },
+    {
+     "when": "e22",
+     "text": "Fenómeno de la zona de radiación solar, según el modelo matemático de Ye Wenjie: capas que reflejan la radio de baja frecuencia y la amplifican cien millones de veces (ganancia de reflectividad). Convierten al Sol en una antena gigante capaz de enviar ondas por el universo."
+    }
+   ]
+  },
+  {
+   "id": "jupiter",
+   "name": "Júpiter",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Mayor planeta del sistema solar, gaseoso y con intensa emisión de radio."
+    },
+    {
+     "when": "e22",
+     "text": "Mayor planeta del sistema solar. Un estallido de radio de Júpiter, observado por Harry Peterson, llega al Sol y vuelve amplificado, lo que lleva a Ye Wenjie a descubrir que el Sol es una antena."
+    }
+   ]
+  },
+  {
+   "id": "alfa-centauro",
+   "name": "Alfa Centauro",
+   "aliases": [
+    "Centauro"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Sistema de tres estrellas, el más próximo al Sol, a unos cuatro años luz."
+    },
+    {
+     "when": "e23",
+     "text": "Sistema estelar más cercano a la Tierra, a cuatro años luz: de allí viene el mensaje de Trisolaris que Ye Wenjie recibe en Costa Roja."
+    },
+    {
+     "when": "e29",
+     "text": "Sistema estelar más cercano a la Tierra y hogar de Trisolaris. Para los redencionistas es su Olimpo en el espacio, objeto de veneración religiosa."
+    }
+   ]
+  },
+  {
+   "id": "protones",
+   "name": "Protón",
+   "aliases": [
+    "protones"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Partícula con carga positiva del núcleo del átomo; a ojos de la física actual, una estructura con dimensiones más allá de las tres que vemos."
+    },
+    {
+     "when": "e30",
+     "text": "Partícula del núcleo del átomo. Ye Wenjie dice que Trisolaris lanzó dos protones a una velocidad cercana a la de la luz hacia la Tierra, que alcanzaron el sistema solar hace dos años, como un candado para paralizar el avance científico humano."
+    },
+    {
+     "when": "e33",
+     "text": "Partícula del núcleo del átomo. Trisolaris despliega un protón en dos dimensiones, imprime circuitos en él y lo convierte en un sofón; dos protones, los sofones 1 y 2, fueron los enviados a la Tierra."
+    }
+   ]
+  },
+  {
+   "id": "dimensionalidad",
+   "name": "Dimensionalidad",
+   "aliases": [
+    "dimensiones",
+    "microdimensiones"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Tema de la conversación de Ding Yi y Wang Miao sobre las dimensiones que pueden tener las partículas."
+    },
+    {
+     "when": "e30",
+     "text": "Cantidad de dimensiones en que existe una partícula. Ding Yi explica que una pequeña estructura de muchas dimensiones, como un filtro de cigarrillo desplegado, encierra una enorme superficie; controlar las dimensiones microscópicas mide el avance de una civilización."
+    },
+    {
+     "when": "e33",
+     "text": "Dimensiones en que se mueve una partícula. Trisolaris sabe manipular nueve de las once dimensiones del mundo y baja o sube las de un sofón a voluntad, de manera que unas veces es una esfera de espejo y otras no se ve."
+    }
+   ]
+  },
+  {
+   "id": "microcosmos",
+   "name": "Microcosmos",
+   "summary": [
+    {
+     "when": "s33",
+     "text": "Palabra con que el prínceps pregunta por la vida en el interior de una partícula."
+    },
+    {
+     "when": "e33",
+     "text": "Universo en miniatura que podría estar contenido en una partícula subatómica, con inteligencias propias. El consejero de Ciencia sostiene que al desdoblar un protón destruyeron uno."
+    }
+   ]
+  },
+  {
+   "id": "sofon",
+   "name": "Sofón",
+   "aliases": [
+    "sofones"
+   ],
+   "summary": [
+    {
+     "when": "s33",
+     "text": "Palabra del título de este capítulo, nombre de un proyecto trisolariano que se irá explicando."
+    },
+    {
+     "when": "e33",
+     "text": "Protón convertido en ordenador superinteligente tras desplegarlo en dos dimensiones e imprimirle circuitos; puede cambiar de dimensionalidad, ver el interior de los cuerpos y viajar casi a la velocidad de la luz. Trisolaris envía dos a la Tierra para infiltrarse en los aceleradores y falsear sus experimentos, y deja otros dos en Trisolaris para comunicarse al instante con ellos."
+    },
+    {
+     "when": "e34",
+     "text": "Protón convertido en inteligencia artificial por Trisolaris, que bloquea la física humana infiltrándose en los aceleradores y sirve de espía. Wang y Ding Yi brindan con ironía por los sofones y por el fin del mundo."
+    }
+   ]
+  },
+  {
+   "id": "milagros",
+   "name": "Plan de los Milagros",
+   "aliases": [
+    "milagros"
+   ],
+   "summary": [
+    {
+     "when": "s33",
+     "text": "Plan que el consejero de Ciencia presenta al prínceps para sembrar el miedo entre los humanos con fenómenos que parezcan sobrenaturales."
+    },
+    {
+     "when": "e33",
+     "text": "Plan trisolariano que usa a los sofones para fabricar fenómenos imposibles que aterren a los humanos, como mensajes que se dibujan en películas o planos que cubren la Tierra, y los lleven a creer en un poder sobrenatural."
+    }
+   ]
+  },
+  {
+   "id": "entrelazamiento",
+   "name": "Entrelazamiento cuántico",
+   "aliases": [
+    "entrelazamiento"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Fenómeno por el que dos partículas siguen conectadas aunque estén muy lejos y se afectan al instante."
+    },
+    {
+     "when": "e33",
+     "text": "Fenómeno por el que los cuatro sofones se perciben entre sí sin importar la distancia. Trisolaris deja dos en su mundo para recibir noticias de los que están en la Tierra, sin retraso."
+    }
+   ]
+  },
+  {
+   "id": "desdoblamiento",
+   "name": "Desdoblamiento",
+   "aliases": [
+    "desdoblar"
+   ],
+   "summary": [
+    {
+     "when": "s33",
+     "text": "Operación con un protón de la que habla el consejero de Ciencia ante el prínceps."
+    },
+    {
+     "when": "e33",
+     "text": "Proceso de expandir un protón, que normalmente es un punto, en una estructura de menos dimensiones, como un plano. Los dos primeros intentos de Trisolaris fallaron y el tercero produjo el primer sofón."
+    }
+   ]
+  },
+  {
+   "id": "singularidad",
+   "name": "Singularidad",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Punto de densidad infinita, como el que se cree que hubo en el Big Bang o que forma un agujero negro."
+    },
+    {
+     "when": "e33",
+     "text": "Punto de densidad infinita. El consejero de Asuntos Militares teme que desdoblar un protón en cero dimensiones cree una, equivalente a un agujero negro, y se trague el planeta."
+    }
+   ]
+  },
+  {
+   "id": "bomba-neutrones",
+   "name": "Bomba de neutrones",
+   "aliases": [
+    "neutrones"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Arma nuclear que libera mucha radiación y poca onda expansiva."
+    },
+    {
+     "when": "e31",
+     "text": "Arma nuclear que libera mucha radiación y poca onda expansiva. Un militar ruso la descarta contra el «Juicio Final» porque la radiación no mata de inmediato."
+    }
+   ]
+  },
+  {
+   "id": "kiloton",
+   "name": "Kilotón",
+   "summary": [
+    {
+     "when": "s24",
+     "text": "Unidad de energía explosiva igual a mil toneladas de TNT. Los rebeldes dicen tener bombas de un kilotón y medio, y cargarlas en tres esferas plateadas."
+    }
+   ]
+  },
+  {
+   "id": "puerta-logica",
+   "name": "Puerta lógica",
+   "aliases": [
+    "NAND",
+    "NOR",
+    "NOT"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Circuito elemental de un ordenador que combina señales de entrada binarias. En Tres Cuerpos, Von Neumann forma puertas AND, OR, NAND, NOR, OR-exclusiva, NOR-exclusiva, NOT y triestado con tres soldados y banderines blancos y negros."
+    }
+   ]
+  },
+  {
+   "id": "computadora-humana",
+   "name": "Computadora de formación humana",
+   "aliases": [
+    "Computadora de formación humana",
+    "Qin I"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Máquina de cálculo hecha de treinta millones de soldados en tres soldados por puerta lógica, creada en el videojuego Tres Cuerpos por Von Neumann y Newton para resolver el movimiento de tres soles. Se llama Qin I."
+    },
+    {
+     "when": "e18",
+     "text": "Máquina de cálculo formada por millones de personas. Pan Han afirma que es real en Trisolaris, donde sus soldados cubiertos de un material brillante subían y bajaban banderas cientos de miles de veces por segundo."
+    }
+   ]
+  },
+  {
+   "id": "cpu",
+   "name": "CPU",
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Unidad central de procesamiento: el componente de un ordenador que ejecuta las instrucciones. En la computadora humana Qin I, la forman las cinco mejores divisiones."
+    }
+   ]
+  },
+  {
+   "id": "costa-roja",
+   "name": "Costa Roja",
+   "aliases": [
+    "Costa Roja",
+    "Costa"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Base militar secreta en Pico Radar, en el Gran Khingan, con una gran antena parabólica; allí llevan a Ye Wenjie en 1969."
+    },
+    {
+     "when": "e3",
+     "text": "Base militar secreta en Pico Radar, con una enorme antena parabólica que emite transmisiones numeradas, cuando se abren las nubes brillan y los pájaros caen. Yang Weining dice que es un proyecto de armas a gran escala más importante que la bomba atómica."
+    },
+    {
+     "when": "e12",
+     "text": "Base militar secreta bajo el Segundo Cuerpo de Artillería, dotada de un transmisor de veinticinco megavatios y un sistema de monitorización. Según el comisario Lei, es un arma capaz de destruir satélites enemigos, pero Yang Weining le revela a Ye Wenjie su verdadera naturaleza."
+    },
+    {
+     "when": "e13",
+     "text": "Proyecto militar secreto de China para buscar vida extraterrestre y tratar de contactar con ella con radiotelescopios, que se presentaba como un proyecto armamentístico. Se creyó que un salto tecnológico podía salir de la búsqueda de inteligencia extraterrestre."
+    },
+    {
+     "when": "e14",
+     "text": "Proyecto secreto, desde 1968, de búsqueda de inteligencia extraterrestre en Pico Radar. En veinte años no oyó nada; en los ochenta la renovaron y luego la cerraron. Hoy quedan pocas ruinas."
+    },
+    {
+     "when": "e21",
+     "text": "Base de Pico Radar donde Ye Wenjie trabajó veinte años. Los adventistas de la Organización Terrícola-trisolariana construyeron una segunda Costa Roja."
+    },
+    {
+     "when": "e23",
+     "text": "Base de escucha y transmisión de radio en Pico Radar, desde donde Ye Wenjie contestó en secreto a Trisolaris, tras recibir su mensaje, usando el Sol como amplificador."
+    },
+    {
+     "when": "e28",
+     "text": "Base de Pico Radar donde Ye Wenjie contestó a Trisolaris. La segunda Costa Roja es un enorme barco en el Atlántico con una antena parabólica, centro de recepción del Movimiento Terrícola-trisolariano."
+    },
+    {
+     "when": "e35",
+     "text": "Base de Pico Radar activa entre 1968 y 1987, hoy completamente desmantelada: solo queda la base oxidada de la antena y una placa casi oculta entre la hierba."
+    }
+   ]
+  },
+  {
+   "id": "pico-radar",
+   "name": "Pico Radar",
+   "aliases": [
+    "Radar",
+    "Pico"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Lugar misterioso de la montaña con una gran antena parabólica y zona vallada con centinelas armados; la gente de la zona cuenta historias de aves, tormentas y hielo cuando se abre la antena."
+    },
+    {
+     "when": "e3",
+     "text": "Cima de la montaña donde se encuentra la base militar Costa Roja, con su gran antena parabólica y un precipicio a un lado."
+    }
+   ]
+  },
+  {
+   "id": "artilleria",
+   "name": "Segundo Cuerpo de Artillería",
+   "aliases": [
+    "Artillería"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Fuerza de misiles estratégicos del Ejército de Liberación Popular de China. En la novela, el proyecto Costa Roja depende de ella."
+    }
+   ]
+  },
+  {
+   "id": "departamento-transmision",
+   "name": "Departamento de Transmisión",
+   "aliases": [
+    "Departamento de Transmisión"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Sección de Costa Roja donde trabaja primero Ye Wenjie, dedicada al mantenimiento de los equipos de transmisión."
+    },
+    {
+     "when": "e12",
+     "text": "Sección de Costa Roja que mantiene y repara los equipos del transmisor; es el primer destino técnico de Ye Wenjie."
+    }
+   ]
+  },
+  {
+   "id": "departamento-monitorizacion",
+   "name": "Departamento de Monitorización",
+   "aliases": [
+    "Departamento de Monitorización"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Sección de Costa Roja a la que se pasa el control del sistema cuando termina la transmisión."
+    },
+    {
+     "when": "e3",
+     "text": "Sección de Costa Roja que escucha y vigila el espacio."
+    },
+    {
+     "when": "e12",
+     "text": "Sección de Costa Roja que vigila la actividad enemiga en el espacio, intercepta comunicaciones y determina órbitas. Ye Wenjie pasa a ella y aprende Fortran."
+    }
+   ]
+  },
+  {
+   "id": "mount-wilson",
+   "name": "Observatorio de Mount Wilson",
+   "aliases": [
+    "Mount"
+   ],
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Observatorio astronómico de California. Harry Peterson, que publica en una revista datos sobre emisiones de radio de Júpiter, trabaja allí."
+    }
+   ]
+  },
+  {
+   "id": "revista-astrofisica",
+   "name": "Revista de Astrofísica",
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Revista científica en inglés, de 1966, que un militar enseña a Ye Wenjie en el helicóptero."
+    },
+    {
+     "when": "e3",
+     "text": "Revista científica en inglés, de 1966, con un artículo de Ye Wenjie que los jefes de Costa Roja le enseñan."
+    },
+    {
+     "when": "e22",
+     "text": "Revista científica en la que Ye Wenjie publicó, siendo estudiante de posgrado, un modelo matemático del Sol; ese artículo fue el motivo por el que la reclutaron para Costa Roja."
+    }
+   ]
+  },
+  {
+   "id": "tres-cuerpos",
+   "name": "Tres Cuerpos",
+   "aliases": [
+    "Tres Cuerpos",
+    "cuerpos"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Videojuego en línea de realidad virtual, en la web www.3cuerpos.net, al que juega Shen Yufei con un traje especial. Wang Miao se conecta para entender qué hay tras la cuenta atrás."
+    },
+    {
+     "when": "e7",
+     "text": "Videojuego de realidad virtual, en red y con traje sensorial. Muestra un mundo de sol irregular, con eras caóticas y estables, y el jugador debe deducir las leyes del movimiento del sol; las civilizaciones, numeradas, se suceden tras sus catástrofes. Las figuras del juego llevan nombres de personajes históricos."
+    },
+    {
+     "when": "e15",
+     "text": "Videojuego de realidad virtual sobre un mundo de eras caóticas y estables, con las civilizaciones numeradas. Muestra a cada jugador un mundo distinto, según su nick, y cierra la primera fase cuando alguien revela la estructura del universo: en la segunda, avanzan la ciencia y la técnica de sus figuras."
+    },
+    {
+     "when": "e18",
+     "text": "Videojuego de realidad virtual. Pan Han, organizador del encuentro de jugadores, asegura que su universo, Trisolaris, existe de verdad y que el juego sirve para reunir a camaradas; solo los jugadores más profundos pueden entenderlo."
+    },
+    {
+     "when": "e20",
+     "text": "Videojuego cuya escena final muestra la partida de la flota trisolariana hacia una estrella a cuatro años luz y convoca a los jugadores a un encuentro de la Organización Terrícola-trisolariana."
+    },
+    {
+     "when": "e29",
+     "text": "Videojuego creado por la Organización Terrícola-trisolariana para hacer proselitismo de la fe trisolariana y captar a jóvenes de las élites y de clase media, tras un envoltorio histórico que esconde un tratado sobre la cultura de Trisolaris. Fue cantera de los redencionistas."
+    }
+   ]
+  },
+  {
+   "id": "era-caotica",
+   "name": "Era caótica",
+   "aliases": [
+    "caótica",
+    "caóticas"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "En el videojuego Tres Cuerpos, período en que el sol sale y se pone sin pauta, con noches y días de duración imprevisible y frío o calor extremos. La gente se deshidrata para sobrevivir."
+    },
+    {
+     "when": "e32",
+     "text": "Período de Trisolaris en que el clima y el sol son impredecibles y la mayoría de la población se deshidrata para sobrevivir."
+    }
+   ]
+  },
+  {
+   "id": "era-estable",
+   "name": "Era estable",
+   "aliases": [
+    "estable",
+    "estables"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "En el videojuego Tres Cuerpos, período en que el sol sale y se pone con regularidad y el clima es benigno; la civilización se rehidrata, prospera y construye. Puede durar un día o un siglo y nadie puede predecir cuánto."
+    },
+    {
+     "when": "e32",
+     "text": "Período de Trisolaris de clima benigno y sol regular, en que la civilización puede crecer; la historia de Trisolaris es una sucesión de eras caóticas y estables."
+    }
+   ]
+  },
+  {
+   "id": "deshidratacion",
+   "name": "Deshidratación",
+   "aliases": [
+    "deshidratarse",
+    "deshidratado",
+    "deshidratados",
+    "deshidratada",
+    "Deshidrataos"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "En el videojuego Tres Cuerpos, proceso por el que los habitantes expulsan toda su agua y se convierten en pellejos secos, ligeros y duraderos, para aguantar las eras caóticas. Después se almacenan para rehidratarlos."
+    },
+    {
+     "when": "e18",
+     "text": "En el videojuego, la forma de sobrevivir a las eras caóticas. Pan Han afirma que la habilidad de deshidratarse existe de verdad en los trisolarianos, que expulsan voluntariamente toda el agua de su cuerpo."
+    },
+    {
+     "when": "e32",
+     "text": "Estado en que los trisolarianos expulsan su agua para sobrevivir a las eras caóticas; es también un castigo, pues quien ya no puede trabajar se deshidrata y luego lo incineran."
+    }
+   ]
+  },
+  {
+   "id": "rehidratacion",
+   "name": "Rehidratación",
+   "aliases": [
+    "rehidratados",
+    "Rehidrataos"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "En el videojuego Tres Cuerpos, proceso por el que los cuerpos deshidratados vuelven a la vida al sumergirse en agua. Se decreta cuando empieza una era estable que parece larga, y su acierto depende del criterio del rey."
+    }
+   ]
+  },
+  {
+   "id": "deshidratorio",
+   "name": "Deshidratorio",
+   "aliases": [
+    "deshidratorios"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "En el videojuego Tres Cuerpos, enorme edificio de piedra, parecido a un granero, donde se apilan los cuerpos deshidratados durante las eras caóticas."
+    }
+   ]
+  },
+  {
+   "id": "estrella-fugaz",
+   "name": "Estrella fugaz",
+   "aliases": [
+    "Estrella fugaz"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "En el videojuego Tres Cuerpos, cuerpo celeste del tamaño de un disco que cruza el cielo. Si aparecen dos, empieza una era estable; si tres, llega un frío extremo y destructivo."
+    },
+    {
+     "when": "e19",
+     "text": "En el videojuego Tres Cuerpos, cada «estrella fugaz» es en realidad uno de los soles lejanos: cuando parece detenerse, el planeta y el sol llevan el mismo rumbo. Que tres se queden quietas anuncia la caída en un sol."
+    }
+   ]
+  },
+  {
+   "id": "zhaoge",
+   "name": "Zhaoge",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Capital de la dinastía Shang, donde vivía el rey Zhou."
+    },
+    {
+     "when": "s7",
+     "text": "En el videojuego Tres Cuerpos, ciudad capital del rey Zhou, rodeada de péndulos gigantes y con una pirámide por palacio; según el rey Wen, es el lugar donde se unen el yin y el yang, y los calendarios hechos allí son los únicos exactos."
+    }
+   ]
+  },
+  {
+   "id": "pendulo",
+   "name": "Péndulo",
+   "aliases": [
+    "péndulos"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Peso que oscila colgado de un hilo o cable."
+    },
+    {
+     "when": "s7",
+     "text": "En el videojuego Tres Cuerpos, enormes péndulos de piedra que rodean el palacio del rey Zhou: Fu Xi propone que hipnoticen al sol para sumirlo en sueños más largos."
+    },
+    {
+     "when": "e19",
+     "text": "Peso colgado de un cable que oscila. En el videojuego Tres Cuerpos, el monumento al péndulo de las Naciones Unidas es a la vez homenaje y tumba: simboliza que los trisolarianos desisten de resolver el problema de los tres cuerpos."
+    },
+    {
+     "when": "e33",
+     "text": "En el videojuego Tres Cuerpos, símbolo del intento de hipnotizar a Dios para que duerma. El prínceps lo apaga porque a Trisolaris le conviene ahora tener a Dios despierto."
+    }
+   ]
+  },
+  {
+   "id": "yin-yang",
+   "name": "Yin y yang",
+   "aliases": [
+    "yin",
+    "yang"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Principios opuestos y complementarios de la filosofía china: yin, lo oscuro y pasivo, y yang, lo luminoso y activo. En el videojuego Tres Cuerpos, el rey Wen los usa para intentar predecir el sol."
+    }
+   ]
+  },
+  {
+   "id": "i-ching",
+   "name": "I Ching",
+   "aliases": [
+    "Ching",
+    "hexagramas"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Libro clásico chino de adivinación, con sesenta y cuatro hexagramas. En el videojuego Tres Cuerpos, el rey Wen traza los hexagramas alrededor del yin y el yang para predecir el movimiento del sol."
+    }
+   ]
+  },
+  {
+   "id": "reinos-combatientes",
+   "name": "Reinos Combatientes",
+   "aliases": [
+    "Combatientes"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Período de la historia china (475-221 a. C.) en que varios reinos se disputaron el poder, antes de que Qin Shi Huang unificara el país."
+    }
+   ]
+  },
+  {
+   "id": "trisolar",
+   "name": "Trisolar",
+   "summary": [
+    {
+     "when": "s15",
+     "text": "En el videojuego Tres Cuerpos, referido a los tres soles. Un día trisolar es la catástrofe en la que los tres soles aparecen juntos y funden la superficie del planeta; a veces se ve como un ventilador gigante de tres aspas."
+    },
+    {
+     "when": "e17",
+     "text": "Relativo a los tres soles del mundo de Tres Cuerpos. Un día trisolar los muestra juntos y funde el planeta; una sizigia trisolar los alinea con el planeta y sus fuerzas de marea levantan todo hacia el espacio."
+    }
+   ]
+  },
+  {
+   "id": "gran-desgarramiento",
+   "name": "Gran Desgarramiento",
+   "aliases": [
+    "Desgarramiento"
+   ],
+   "summary": [
+    {
+     "when": "s19",
+     "text": "En el videojuego Tres Cuerpos, desastre que destruyó a la civilización anterior a la actual."
+    },
+    {
+     "when": "e19",
+     "text": "Catástrofe que, según el juego, destruyó la civilización 191: tres soles se acercaron, uno pasó tan cerca que partió el planeta en dos y una mitad quedó convertida en la luna gigante, ya fría. Mostró que un día los soles pueden hundir el planeta, y llevó a decidir la emigración."
+    }
+   ]
+  },
+  {
+   "id": "flota-trisolariana",
+   "name": "Flota trisolariana",
+   "aliases": [
+    "flota"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "En el videojuego Tres Cuerpos, formación de más de mil naves que parte del planeta a una décima parte de la velocidad de la luz hacia una estrella a cuatro años luz."
+    },
+    {
+     "when": "e28",
+     "text": "Armada trisolariana que ha despegado hacia el sistema solar y llegará en unos cuatrocientos cincuenta años, según Evans."
+    },
+    {
+     "when": "e30",
+     "text": "Flota de naves gigantescas de Trisolaris, propulsadas por antimateria, que alterna aceleraciones cortas con largos intervalos para ahorrar combustible; por eso tardará cuatro siglos y medio en llegar."
+    },
+    {
+     "when": "e32",
+     "text": "Flota de guerra que el prínceps ordena enviar hacia la Tierra, en cuanto esté lista, para exterminar a la humanidad y ocupar el sistema solar."
+    }
+   ]
+  },
+  {
+   "id": "trisolaris",
+   "name": "Trisolaris",
+   "aliases": [
+    "trisolariano",
+    "trisolariana",
+    "trisolarianos",
+    "trisolarianas"
+   ],
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Nombre que Pan Han da al universo del videojuego Tres Cuerpos al afirmar ante los jugadores que existe de verdad."
+    },
+    {
+     "when": "e18",
+     "text": "Nombre del universo del videojuego Tres Cuerpos, que según Pan Han existe de verdad: allí viven los trisolarianos, que pueden deshidratarse, y su civilización se dispone a venir a nuestro mundo."
+    },
+    {
+     "when": "e19",
+     "text": "Mundo del videojuego, que Pan Han dice real: planeta con tres soles que sigue un curso caótico. Su civilización renace tras cada catástrofe, ha demostrado que no se puede resolver el problema de los tres cuerpos, ha comprobado que sus soles pueden devorarlo y decide emigrar."
+    },
+    {
+     "when": "e20",
+     "text": "Mundo del videojuego, que Pan Han dice real. Su civilización lanza una flota de mil naves hacia una estrella a cuatro años luz, la más próxima a ellos, igual que la más próxima a la Tierra."
+    },
+    {
+     "when": "e21",
+     "text": "Civilización extraterrestre a la que sirven los rebeldes terrícola-trisolarianos, que llaman «nuestro Señor». Según la Organización, quiere venir a la Tierra; los adventistas quieren que destruya a la humanidad."
+    },
+    {
+     "when": "e23",
+     "text": "Civilización de un mundo del sistema Alfa Centauro, a cuatro años luz, que renace una y otra vez y planea emigrar a otra estrella. Su mensaje de aviso a la Tierra («¡No contestéis!») lo recibe Ye Wenjie, que responde invitándolos a conquistarla."
+    },
+    {
+     "when": "e28",
+     "text": "Civilización de Alfa Centauro que respondió al mensaje de Ye Wenjie. Su flota ha despegado hacia el sistema solar y llegará en cuatrocientos cincuenta años."
+    },
+    {
+     "when": "e30",
+     "text": "Civilización de Alfa Centauro, cuya flota viene hacia la Tierra. Dejó de comunicarse con los humanos desde hace al menos cuatro años y lanzó dos protones para paralizar la ciencia humana."
+    },
+    {
+     "when": "e32",
+     "text": "Civilización de Alfa Centauro, de vida dura y autoritaria: se deshidratan en las eras caóticas, y los ancianos y quienes ya no trabajan son incinerados. Un pacifista advirtió a la Tierra; el prínceps lo castigó y ordenó preparar la flota que ha de exterminar a la humanidad."
+    },
+    {
+     "when": "e33",
+     "text": "Civilización de Alfa Centauro dirigida por el prínceps y su consejo. Ante el avance de la ciencia humana, envió dos sofones para paralizarla y mantiene otros dos en su mundo; ha cortado toda comunicación con los adventistas y sigue la Tierra mediante ellos."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e18",
+     "with": "tres-cuerpos",
+     "text": "El videojuego que dice representarla"
+    },
+    {
+     "when": "e21",
+     "with": "organizacion",
+     "text": "La organización que la sirve en la Tierra"
+    },
+    {
+     "when": "e23",
+     "with": "ye-wenjie",
+     "text": "La mujer que respondió a su mensaje"
+    },
+    {
+     "when": "e32",
+     "with": "princeps",
+     "text": "Su líder supremo"
+    },
+    {
+     "when": "e33",
+     "with": "sofon",
+     "text": "Su arma contra la ciencia terrestre"
+    }
+   ]
+  },
+  {
+   "id": "consejeros",
+   "name": "Consejeros",
+   "aliases": [
+    "consejero"
+   ],
+   "summary": [
+    {
+     "when": "s32",
+     "text": "Asesores del prínceps de Trisolaris."
+    },
+    {
+     "when": "e33",
+     "text": "Cuerpo de asesores del prínceps de Trisolaris, con consejeros de Ciencia, Asuntos Militares, Industria, Cultura y Educación, Agricultura y Propaganda. Se reúnen al pie del monumento al péndulo para decidir cómo frenar la ciencia terrestre; el de Ciencia dirige el proyecto Sofón."
+    }
+   ]
+  },
+  {
+   "id": "fronteras-de-la-ciencia",
+   "name": "Fronteras de la Ciencia",
+   "aliases": [
+    "Fronteras"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Organización académica internacional de físicos por la que la policía pregunta a Wang Miao."
+    },
+    {
+     "when": "e4",
+     "text": "Asociación académica internacional de físicos, nacida de los encuentros del Año Mundial de la Física, que usa el método científico para hallar los límites de la ciencia. La mayoría de los físicos suicidados tenían relación con ella, aunque Ding Yi lo niega."
+    },
+    {
+     "when": "e6",
+     "text": "Asociación internacional de físicos de élite que debate los límites de la ciencia con las hipótesis del arquero y del granjero. Shen Yufei y Pan Han son miembros destacados; ella le asegura a Wang que Fronteras trata asuntos mucho más fundamentales de lo que él imagina."
+    }
+   ]
+  },
+  {
+   "id": "centro-comandancia",
+   "name": "Centro de Comandancia de Batalla",
+   "aliases": [
+    "Comandancia"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Organismo militar al que pertenece el comisario Shi Qiang, según comentan dos militares."
+    },
+    {
+     "when": "e4",
+     "text": "Instalación militar secreta, parte de una red de más de veinte centros en el mundo, donde el general Chang reúne a militares, policías, sabios y enviados de la OTAN y la CIA para responder a una amenaza que no explican; para él, el mundo ya está en guerra."
+    },
+    {
+     "when": "e10",
+     "text": "Red de más de veinte centros militares secretos. Da Shi trabaja en uno de ellos y dice que la OTAN está en la sala de mando del ejército chino y oficiales chinos en el Pentágono: todos los países se han puesto de acuerdo para callar la guerra contra un enemigo desconocido."
+    }
+   ]
+  },
+  {
+   "id": "centro-nanotecnologia",
+   "name": "Centro de Nanotecnología",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Centro donde trabaja Wang Miao y cuyo director ha hablado con el general."
+    },
+    {
+     "when": "e4",
+     "text": "Instituto de investigación de Pekín donde trabaja Wang Miao. Su director le recuerda que el primer experimento del acelerador de Liangxiang será probar el modelo de Yang Dong."
+    },
+    {
+     "when": "e6",
+     "text": "Centro donde Wang Miao dirige la investigación de nanomateriales. Su gran cámara de reacción se detiene unos días por mantenimiento, a pesar de ser un proyecto clave del país."
+    }
+   ]
+  },
+  {
+   "id": "academia-ciencias",
+   "name": "Academia de las Ciencias China",
+   "aliases": [
+    "Academia"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Principal institución científica de China. En la novela patrocina observatorios y asumió Costa Roja tras su reconversión, aunque luego no pudo mantenerla; su nombre figura en la placa de las ruinas."
+    }
+   ]
+  },
+  {
+   "id": "observatorio-miyun",
+   "name": "Observatorio de Miyun",
+   "aliases": [
+    "Miyun"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Observatorio radioastronómico de las montañas cercanas a Pekín al que se dirige Wang Miao."
+    },
+    {
+     "when": "e9",
+     "text": "Observatorio radioastronómico cerca de Pekín, con veintiocho antenas parabólicas, abierto a las visitas desde el cambio de siglo. Sha Ruishan trabaja en su laboratorio de datos de satélite; allí comprueban que el universo parpadea con una cuenta atrás."
+    }
+   ]
+  },
+  {
+   "id": "china-rural",
+   "name": "China Rural",
+   "aliases": [
+    "Rural"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Comunidad experimental que fundó el biólogo Pan Han en una gran ciudad."
+    },
+    {
+     "when": "e6",
+     "text": "Primera comunidad experimental del país, fundada por Pan Han en medio de una gran ciudad, sin propiedad privada y alimentada con residuos urbanos; tiene más de tres mil miembros permanentes y muchos temporales."
+    }
+   ]
+  },
+  {
+   "id": "organizacion",
+   "name": "Organización Terrícola-trisolariana",
+   "aliases": [
+    "Organización",
+    "terrícola-trisolariana",
+    "terrícola-trisolariano",
+    "terrícolas"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Grupo del que hablan con tono de secreto Shen Yufei y Pan Han en una discusión."
+    },
+    {
+     "when": "e16",
+     "text": "Grupo del que hablan Shen Yufei y Pan Han con tono de secreto, dirigido por un «comandante» y dividido entre adventistas y redencionistas, que parece venerar a un Señor."
+    },
+    {
+     "when": "e21",
+     "text": "Organización clandestina que sirve a Trisolaris y está en crisis. La dirige la «comandante» Ye Wenjie, con escoltas jóvenes, un lema («Abajo la tiranía humana», «El mundo pertenece a Trisolaris») y su ejército rebelde. Tiene una facción adventista y otra redencionista, y se divide por la traición de los adventistas."
+    },
+    {
+     "when": "e24",
+     "text": "Organización de rebeldes que sirve a Trisolaris. Soldados irrumpen en su asamblea; un grupo armado amenaza con bombas nucleares en miniatura y más de doscientos presentes, entre ellos Ye Wenjie, quedan detenidos."
+    },
+    {
+     "when": "e28",
+     "text": "Movimiento que nació en la segunda Costa Roja, un barco en el Atlántico, con Evans y unos dos mil miembros, para invitar a Trisolaris a reformar la humanidad; Ye Wenjie es su máxima líder."
+    },
+    {
+     "when": "e29",
+     "text": "Organización de gente que odia a su propia especie y aspira a exterminarla, sirviendo a una civilización alienígena; la forman sobre todo élites. Tiene tres facciones, adventistas, redencionistas y supervivencialistas, y el videojuego Tres Cuerpos como cantera."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e21",
+     "with": "ye-wenjie",
+     "text": "Su máxima líder, la comandante"
+    },
+    {
+     "when": "e21",
+     "with": "adventistas",
+     "text": "La facción adventista"
+    },
+    {
+     "when": "e21",
+     "with": "redencionistas",
+     "text": "La facción redencionista"
+    },
+    {
+     "when": "e28",
+     "with": "evans",
+     "text": "Cofundador del Movimiento"
+    },
+    {
+     "when": "e29",
+     "with": "supervivencialistas",
+     "text": "La facción más reciente"
+    },
+    {
+     "when": "e29",
+     "with": "tres-cuerpos",
+     "text": "El videojuego con que capta miembros"
+    }
+   ]
+  },
+  {
+   "id": "adventistas",
+   "name": "Adventistas",
+   "aliases": [
+    "adventista"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Una de las dos posturas que Pan Han cita en su discusión con Shen Yufei."
+    },
+    {
+     "when": "e16",
+     "text": "Una de las dos posturas, junto a los redencionistas, que Pan Han cita al preguntar si el comandante quiere la condena de la humanidad o su salvación."
+    },
+    {
+     "when": "e21",
+     "text": "Facción dura de la Organización, con Mike Evans como cerebro. Según Rafael, su objetivo secreto es la destrucción total de la humanidad. Controlan la segunda Costa Roja, de la que interceptaron los mensajes de Trisolaris, y Pan Han los defiende."
+    },
+    {
+     "when": "e29",
+     "text": "Facción más pura de la Organización, nacida del comunismo panespecie de Evans. Desprecian a la humanidad por las extinciones de especies que ha causado y no esperan mucho de los extraterrestres: quieren que desaparezca. Están enfrentados a los redencionistas."
+    }
+   ]
+  },
+  {
+   "id": "redencionistas",
+   "name": "Redencionistas",
+   "aliases": [
+    "redencionista"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Una de las dos posturas que Pan Han cita en su discusión con Shen Yufei."
+    },
+    {
+     "when": "e16",
+     "text": "Una de las dos posturas, junto a los adventistas, que Pan Han cita al preguntar si el comandante quiere la condena de la humanidad o su salvación."
+    },
+    {
+     "when": "e21",
+     "text": "Facción mayoritaria de la Organización, leal a Ye Wenjie, de carácter casi religioso. Los adventistas temen que se pongan del lado del gobierno."
+    },
+    {
+     "when": "e29",
+     "text": "Facción religiosa de la Organización que venera a Trisolaris como su Señor, cuya salvación busca resolviendo el problema de los tres cuerpos. Tomó Alfa Centauro por Olimpo. Muchos llegaron a ella por el videojuego Tres Cuerpos, y prefieren que su Señor siga en su mundo, sin invadir la Tierra."
+    }
+   ]
+  },
+  {
+   "id": "supervivencialistas",
+   "name": "Supervivencialistas",
+   "summary": [
+    {
+     "when": "s29",
+     "text": "Facción del Movimiento Terrícola-trisolariano aparecida más tarde que las demás."
+    },
+    {
+     "when": "e29",
+     "text": "Facción reciente de la Organización que, sabiendo que la flota trisolariana llegará en cuatro siglos y medio, busca sobrevivir a la guerra sirviendo a los invasores para que sus descendientes obtengan amnistía."
+    }
+   ]
+  },
+  {
+   "id": "juicio-final",
+   "name": "Juicio Final",
+   "aliases": [
+    "Juicio"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Barco que, según el interrogador, usan los adventistas como base de operaciones."
+    },
+    {
+     "when": "e30",
+     "text": "Barco base de los adventistas, donde guardan los mensajes de Trisolaris interceptados. Ye Wenjie no atacó el barco porque los adventistas, acorralados, podrían destruirlos."
+    },
+    {
+     "when": "e31",
+     "text": "Buque reformado de sesenta mil toneladas, sede de los adventistas, que atravesaba el canal de Panamá cuando los nanofilamentos de Wang lo parten en dos. Su cargamento, los mensajes trisolarianos, llega entero a manos de los gobiernos."
+    }
+   ]
+  },
+  {
+   "id": "guzheng",
+   "name": "Guzheng",
+   "aliases": [
+    "cítara"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Cítara china de cuerdas, de la misma familia del guqin."
+    },
+    {
+     "when": "e31",
+     "text": "Nombre en código de la operación militar para capturar el «Juicio Final»: dos pilares, uno en cada orilla del canal de Panamá, con cincuenta nanofilamentos tendidos como cuerdas. Al cruzarlos, el buque se desintegra."
+    }
+   ]
+  },
+  {
+   "id": "canal-panama",
+   "name": "Canal de Panamá",
+   "aliases": [
+    "Panamá"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Vía artificial que une el Atlántico y el Pacífico a través de Panamá, abierta en 1914 y gestionada por Estados Unidos hasta el año 2000."
+    },
+    {
+     "when": "e31",
+     "text": "Canal que une el Atlántico y el Pacífico. En su tramo estrecho de Corte Culebra se tiende la trampa de nanofilamentos para destruir el «Juicio Final»."
+    }
+   ]
+  },
+  {
+   "id": "corte-culebra",
+   "name": "Corte Culebra",
+   "aliases": [
+    "Culebra"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Tramo más estrecho y excavado del canal de Panamá, de unos ciento cincuenta metros de ancho, que llevó el nombre de Gaillard hasta el fin de la gestión estadounidense."
+    },
+    {
+     "when": "e31",
+     "text": "Tramo estrecho del canal de Panamá en que se ejecuta la operación Guzheng contra el «Juicio Final»."
+    }
+   ]
+  },
+  {
+   "id": "san-jose",
+   "name": "Iglesia de San José",
+   "aliases": [
+    "Wangfujing"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Iglesia de Pekín, en la zona de Wangfujing, ante la que se detiene Wang Miao al amanecer."
+    },
+    {
+     "when": "e9",
+     "text": "Iglesia de la zona de Wangfujing, en Pekín, con tres bóvedas que parecen señalar al espacio. Wang Miao llega a ella tras vagar por la ciudad, oye cantar un himno y rompe a llorar."
+    }
+   ]
+  },
+  {
+   "id": "ciudad-prohibida",
+   "name": "Ciudad Prohibida",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Antiguo palacio imperial de Pekín, rodeado de murallas y un foso."
+    },
+    {
+     "when": "e10",
+     "text": "Antiguo palacio imperial de Pekín, rodeado de murallas y un foso. Junto a su foso, Da Shi cuenta a Wang su teoría de que alguien coordina todo."
+    }
+   ]
+  },
+  {
+   "id": "urumqi",
+   "name": "Urumqi",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Ciudad del oeste de China, con un observatorio que estudia sobre el terreno el fondo cósmico de microondas."
+    }
+   ]
+  },
+  {
+   "id": "hebei",
+   "name": "Hebei",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Provincia del norte de China que rodea Pekín, con grandes trigales."
+    },
+    {
+     "when": "e34",
+     "text": "Provincia del norte de China que rodea Pekín, con grandes trigales. En sus campos plagados de langostas, Da Shi lleva a Wang y Ding Yi a ver a los insectos."
+    }
+   ]
+  },
+  {
+   "id": "shanghai",
+   "name": "Shanghai",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Gran ciudad portuaria de China. En 1922 Einstein pasó por ella y paseó por la avenida Nanjing."
+    }
+   ]
+  },
+  {
+   "id": "princeton",
+   "name": "Princeton",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Universidad estadounidense donde enseñó Einstein."
+    },
+    {
+     "when": "s19",
+     "text": "Universidad estadounidense donde enseñó Einstein. En el videojuego, el violinista que lleva su nombre dice que le han retirado la plaza de profesor."
+    }
+   ]
+  },
+  {
+   "id": "cambridge",
+   "name": "Cambridge",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Prestigiosa universidad británica."
+    },
+    {
+     "when": "e1",
+     "text": "Prestigiosa universidad británica en la que estudió Ruan Wen, profesora de Ye Wenjie."
+    }
+   ]
+  },
+  {
+   "id": "cobe",
+   "name": "COBE",
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Satélite de la NASA lanzado en 1989 que midió con precisión el fondo cósmico de microondas."
+    }
+   ]
+  },
+  {
+   "id": "planck",
+   "name": "Planck",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Max Planck (1858-1947), físico alemán, padre de la teoría cuántica, cuya constante mide la escala de los efectos cuánticos; también el satélite europeo que cartografía el fondo cósmico de microondas."
+    }
+   ]
+  },
+  {
+   "id": "wilkinson",
+   "name": "Wilkinson",
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Sonda de la NASA que midió el fondo cósmico de microondas, llamada así en homenaje al cosmólogo David Wilkinson."
+    }
+   ]
+  },
+  {
+   "id": "shenzhou",
+   "name": "Shenzhou",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Nombre de las naves espaciales tripuladas chinas. El oftalmólogo de Wang formó parte del equipo médico de la Shenzhou 19 (en la ficción)."
+    }
+   ]
+  },
+  {
+   "id": "ibm",
+   "name": "IBM",
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Empresa estadounidense de informática. En los años ochenta renovaron Costa Roja con dos miniordenadores IBM."
+    }
+   ]
+  },
+  {
+   "id": "escena-orilla-rio",
+   "name": "Escena a la orilla del río en el Festival de la Claridad Pura",
+   "aliases": [
+    "Song"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Célebre pintura china de la dinastía Song, de enorme detalle, que un profesor de Wang usó para explicar la teoría de la información."
+    }
+   ]
+  },
+  {
+   "id": "nowhere-to-run",
+   "name": "Nowhere to Run",
+   "aliases": [
+    "Nowhere",
+    "Vandellas"
+   ],
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Canción de Martha and the Vandellas (1965). Stanton cuenta que la puso a todo volumen al cercar a Noriega en la embajada del Vaticano en Panamá."
+    }
+   ]
+  },
+  {
+   "id": "jardin-melocotoneros",
+   "name": "El jardín de los melocotoneros",
+   "aliases": [
+    "melocotoneros"
+   ],
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Película de estreno que cita Da Shi como ejemplo de la estética bucólica que ahora repiten todos los grandes estrenos, parte de lo que le hace sospechar una coordinación contra la ciencia."
+    }
+   ]
+  },
+  {
+   "id": "zhang-ingeniero",
+   "name": "Zhang (ingeniero jefe)",
+   "aliases": [
+    "Zhang"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Ingeniero jefe que el director del laboratorio nombra al contar a Wang Miao las averías de la cámara."
+    },
+    {
+     "when": "e6",
+     "text": "Ingeniero jefe del Centro de Nanotecnología, a quien Wang deja al cargo del mantenimiento de la cámara de reacción mientras descansa."
+    }
+   ]
+  },
+  {
+   "id": "yang-yang",
+   "name": "Yang Yang",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Uno de los niños de los vecinos de Ye Wenjie, al que esta ofrece berenjenas fritas."
+    },
+    {
+     "when": "e8",
+     "text": "Uno de los tres niños de los vecinos de Ye Wenjie que juegan en su casa; ella le ofrece berenjenas fritas."
+    }
+   ]
+  },
+  {
+   "id": "doppler",
+   "name": "Doppler",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Christian Doppler (1803-1853), físico austríaco que describió el cambio de frecuencia de una onda cuando su fuente se mueve respecto al observador, el efecto Doppler."
+    }
+   ]
+  },
+  {
+   "id": "maxwell",
+   "name": "Maxwell",
+   "summary": [
+    {
+     "when": "s1",
+     "text": "James Clerk Maxwell (1831-1879), físico escocés cuyas ecuaciones unifican la electricidad, el magnetismo y la luz. Ye Shaolin les cambiaba el nombre en clase por «ecuaciones electromagnéticas»."
+    }
+   ]
+  },
+  {
+   "id": "ohm",
+   "name": "Ohm",
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Georg Ohm (1789-1854), físico alemán que formuló la ley que relaciona tensión, corriente y resistencia. Ye Shaolin la llamaba «ley de resistencia» para no nombrar a un científico capitalista."
+    }
+   ]
+  },
+  {
+   "id": "pinyin",
+   "name": "Pinyin",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Sistema oficial de transcripción del chino a letras latinas; con él se escriben los nombres chinos como Wang Miao o Ye Wenjie."
+    }
+   ]
+  },
+  {
+   "id": "carex",
+   "name": "Carex meyeriana",
+   "aliases": [
+    "Carex"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Hierba típica del noreste de China, usada para forrar muebles y rellenar zapatos; sus tiras decoran la habitación de Yang Dong."
+    }
+   ]
+  },
+  {
+   "id": "cretaceo",
+   "name": "Cretáceo",
+   "summary": [
+    {
+     "when": "s27",
+     "text": "Último período de la era de los dinosaurios (hace 145-66 millones de años). Evans recuerda de niño un esqueleto de dinosaurio hallado en unas prospecciones petrolíferas de su padre."
+    }
+   ]
+  },
+  {
+   "id": "heathrow",
+   "name": "Heathrow",
+   "summary": [
+    {
+     "when": "s28",
+     "text": "Aeropuerto principal de Londres. Ye Wenjie aterriza en él, invitada como profesora, y un joven la lleva en helicóptero a la segunda Costa Roja."
+    }
+   ]
+  },
+  {
+   "id": "atlantico",
+   "name": "Atlántico",
+   "summary": [
+    {
+     "when": "s28",
+     "text": "Océano entre América, Europa y África. La segunda Costa Roja es un gigantesco barco que navega por él."
+    },
+    {
+     "when": "e30",
+     "text": "Océano entre América, Europa y África. La segunda Costa Roja es un gigantesco barco que navega por él, y por él avanza el «Juicio Final» hacia el canal de Panamá."
+    }
+   ]
+  },
+  {
+   "id": "moebius",
+   "name": "Cinta de Moebius",
+   "aliases": [
+    "Moebius"
+   ],
+   "summary": [
+    {
+     "when": "s33",
+     "text": "Superficie con una sola cara y un solo borde, que se obtiene pegando los extremos de una tira tras darle media vuelta. Entre los cuerpos geométricos de los desdoblamientos fallidos de Trisolaris aparece algo parecido a una."
+    }
+   ]
+  },
+  {
+   "id": "efemerides",
+   "name": "Efemérides",
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Tablas astronómicas con la posición de los astros en cada fecha. Ye Wenjie pide las de Júpiter y la Tierra para comprobar su hipótesis sobre el Sol."
+    }
+   ]
+  },
+  {
+   "id": "megahercios",
+   "name": "Megahercios",
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Unidad de frecuencia igual a un millón de ciclos por segundo."
+    },
+    {
+     "when": "e22",
+     "text": "Unidad de frecuencia igual a un millón de ciclos por segundo. Ye Wenjie pide monitorizar el canal de doce mil megahercios tras enviar su señal al Sol."
+    }
+   ]
+  },
+  {
+   "id": "antimateria",
+   "name": "Antimateria",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Materia formada por antipartículas que, al encontrarse con la materia normal, se aniquila liberando energía."
+    },
+    {
+     "when": "e30",
+     "text": "Materia que, al aniquilarse con la normal, libera toda su energía. Según Ye Wenjie, las naves de la flota trisolariana la usan como combustible, recolectada con un embudo electromagnético, y por eso tardan tanto en cruzar el espacio."
+    }
+   ]
+  },
+  {
+   "id": "radioastronomia",
+   "name": "Radioastronomía",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Rama de la astronomía que estudia los astros por las ondas de radio que emiten; no la afectan las nubes, pero sí las interferencias electromagnéticas."
+    },
+    {
+     "when": "s27",
+     "text": "Rama de la astronomía que estudia los astros por sus ondas de radio. Ye Wenjie dirige el diseño de un gran observatorio radioastronómico y recorre China en busca de un lugar con poca interferencia."
+    }
+   ]
+  },
+  {
+   "id": "habano",
+   "name": "Habano",
+   "aliases": [
+    "habanos"
+   ],
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Puro de gran calidad hecho en Cuba. El coronel Stanton fuma habanos y regala una caja a Shi Qiang."
+    }
+   ]
+  },
+  {
+   "id": "via-lactea",
+   "name": "Vía Láctea",
+   "aliases": [
+    "Láctea"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Nuestra galaxia, formada por cientos de miles de millones de estrellas, entre ellas el Sol. En ella las estrellas se distribuyen de forma bastante uniforme, a tres o seis años luz unas de otras."
+    }
+   ]
+  },
+  {
+   "id": "nobel",
+   "name": "Nobel",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Premios que se conceden desde 1901 a los mayores logros en ciencia, literatura y paz. Penzias y Wilson lo ganaron por descubrir el fondo cósmico de microondas."
+    }
+   ]
+  },
+  {
+   "id": "jiuquan",
+   "name": "Jiuquan",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Lugar del que, según Lei Zhicheng, lanzaron dos satélites de prueba."
+    },
+    {
+     "when": "e12",
+     "text": "Centro de lanzamiento de satélites del desierto de Gobi, en China. Desde él se lanzaron dos satélites de prueba para que Costa Roja intentara interceptarlos."
+    }
+   ]
+  },
+  {
+   "id": "politburo",
+   "name": "Politburó",
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Órgano supremo de decisión del Partido Comunista. Los documentos de Costa Roja piden que el mensaje a los extraterrestres lo apruebe una reunión del Politburó."
+    }
+   ]
+  },
+  {
+   "id": "olimpo",
+   "name": "Olimpo",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Monte de Grecia donde, según la mitología, vivían los dioses."
+    },
+    {
+     "when": "e29",
+     "text": "Morada mítica de los dioses griegos. Los redencionistas convierten en su particular Olimpo en el espacio al sistema de Alfa Centauro, hogar de su Señor."
+    }
+   ]
+  },
+  {
+   "id": "lafayette",
+   "name": "Lafayette",
+   "aliases": [
+    "Yankee"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Clase de submarinos nucleares estadounidenses lanzamisiles, como los Yankee soviéticos. En la guerra fría cada uno llevaba armas para destruir cientos de ciudades."
+    }
+   ]
+  },
+  {
+   "id": "nick",
+   "name": "Nick",
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Apodo con que se identifica un jugador en internet. Wang Miao se registra en Tres Cuerpos con el nick «Navegante»; otro jugador usa «SeguidorDelReyWen»."
+    },
+    {
+     "when": "e15",
+     "text": "Apodo con que se identifica un jugador en internet. Wang Miao usa en Tres Cuerpos los nicks «Navegante» y, después, «Copérnico»; el juego muestra a cada jugador un mundo distinto según su nick."
+    }
+   ]
+  },
+  {
+   "id": "input-output",
+   "name": "Input y Output",
+   "aliases": [
+    "Input",
+    "Output"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "En el videojuego Tres Cuerpos, los tres jóvenes soldados que Von Neumann coloca en triángulo para demostrar una puerta lógica: Input 1 e Input 2 dan las señales de entrada con banderines, y Output responde con la salida."
+    }
+   ]
+  },
+  {
+   "id": "yunhe",
+   "name": "Cafetería Yunhe",
+   "aliases": [
+    "Yunhe",
+    "Xicheng"
+   ],
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Cafetería discreta de Pekín donde se celebra el encuentro de jugadores de Tres Cuerpos."
+    },
+    {
+     "when": "e18",
+     "text": "Cafetería discreta del distrito de Xicheng, en Pekín, donde se celebra el encuentro de jugadores de Tres Cuerpos organizado por Pan Han."
+    }
+   ]
+  },
+  {
+   "id": "premio-turing",
+   "name": "Premio Turing",
+   "aliases": [
+    "Turing"
+   ],
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Galardón más prestigioso de la informática, en honor de Alan Turing. Un científico ganador del Premio Turing arenga a la asamblea de la Organización Terrícola-trisolariana."
+    }
+   ]
+  },
+  {
+   "id": "gatun",
+   "name": "Gatún",
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Lago artificial del canal de Panamá, entre el Atlántico y Corte Culebra. De él entra el «Juicio Final» en el tramo de la operación Guzheng."
+    }
+   ]
+  },
+  {
+   "id": "miraflores",
+   "name": "Miraflores",
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Esclusas del lado del Pacífico del canal de Panamá. Los planificadores de la operación Guzheng las descartan por demasiado imprevisibles."
+    }
+   ]
+  },
+  {
+   "id": "rey-zhou",
+   "name": "Rey Zhou de los Shang",
+   "aliases": [
+    "rey Zhou",
+    "Zhou"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Último rey de la dinastía Shang (siglo XI a. C.), famoso como tirano."
+    },
+    {
+     "when": "s7",
+     "text": "Último rey de la dinastía Shang, tirano en la historia china. En el videojuego Tres Cuerpos, figura envuelta en pieles que reina desde una pirámide en Zhaoge."
+    },
+    {
+     "when": "e7",
+     "text": "Último rey de la dinastía Shang, tirano en la historia china. En el videojuego Tres Cuerpos, figura que reina en Zhaoge, ordena rehidratar o deshidratar a la población según las eras del sol y manda cocinar a quien falla."
+    }
+   ]
+  },
+  {
+   "id": "fu-xi",
+   "name": "Fu Xi",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Primero de los Tres Augustos, emperadores míticos de China."
+    },
+    {
+     "when": "s7",
+     "text": "Primero de los Tres Augustos, emperador mítico de China. En el videojuego Tres Cuerpos, hombre vestido de negro, consejero del rey Zhou, que cree que el sol es un dios caprichoso que se calma con péndulos."
+    },
+    {
+     "when": "e7",
+     "text": "Primero de los Tres Augustos, emperador mítico de China. En el videojuego Tres Cuerpos, consejero del rey Zhou, que cree que el sol es un dios caprichoso y propone péndulos para hipnotizarlo; se sumerge en un caldero sacrificial y acaba cocinado."
+    }
+   ]
+  },
+  {
+   "id": "mozi",
+   "name": "Mozi",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Filósofo chino (c. 470-391 a. C.) de una escuela rival del confucianismo y el taoísmo, partidario del «amor universal» y la cooperación entre las personas."
+    },
+    {
+     "when": "s11",
+     "text": "Filósofo chino (c. 470-391 a. C.), defensor del amor universal. En el videojuego Tres Cuerpos aparece una figura con su nombre, alta y de túnica negra, que observa el sol desde la cima de la pirámide con una gran esfera de cobre, réplica del universo."
+    },
+    {
+     "when": "e11",
+     "text": "Filósofo chino (c. 470-391 a. C.), defensor del amor universal. En el videojuego Tres Cuerpos, figura que sostiene que el universo es una máquina que flota en un mar de fuego y predice una larga era estable que acaba quemándolo vivo, con toda la civilización 141."
+    }
+   ]
+  },
+  {
+   "id": "gregorio",
+   "name": "Gregorio XIII",
+   "aliases": [
+    "papa Gregorio"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Papa de 1572 a 1585, promotor del calendario gregoriano que usamos hoy."
+    },
+    {
+     "when": "s15",
+     "text": "Papa de 1572 a 1585, creador del calendario gregoriano. En el videojuego Tres Cuerpos, figura con corona de oro y túnica roja que preside una reunión de sabios europeos medievales."
+    },
+    {
+     "when": "e15",
+     "text": "Papa de 1572 a 1585, creador del calendario gregoriano. En el videojuego Tres Cuerpos, figura que preside la reunión de sabios y manda quemar a Wang en la hoguera, con la misma sonrisa que el rey Zhou; el día trisolar lo deshidrata."
+    }
+   ]
+  },
+  {
+   "id": "aristoteles",
+   "name": "Aristóteles",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Filósofo griego (384-322 a. C.), maestro de la lógica y de la ciencia antigua."
+    },
+    {
+     "when": "s15",
+     "text": "Filósofo griego (384-322 a. C.). En el videojuego Tres Cuerpos, figura con quitón y rizos blancos entre los sabios de la reunión."
+    },
+    {
+     "when": "e15",
+     "text": "Filósofo griego (384-322 a. C.). En el videojuego Tres Cuerpos, figura que critica la falta de formación lógica de Wang y prepara con un Zippo la hoguera en que van a quemarlo."
+    }
+   ]
+  },
+  {
+   "id": "galileo",
+   "name": "Galileo",
+   "aliases": [
+    "Galileo Galilei"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Galileo Galilei (1564-1642), astrónomo y físico italiano que defendió la observación y el experimento y descubrió, entre otras cosas, las manchas solares."
+    },
+    {
+     "when": "s15",
+     "text": "Galileo Galilei (1564-1642), astrónomo y físico italiano. En el videojuego Tres Cuerpos, figura delgada de barba de chivo que defiende observar y experimentar."
+    },
+    {
+     "when": "e15",
+     "text": "Galileo Galilei (1564-1642), astrónomo italiano. En el videojuego Tres Cuerpos, figura que aplaude al principio a Wang por su pragmatismo y, cuando este habla de tres soles, lo llama charlatán y pide que lo quemen."
+    }
+   ]
+  },
+  {
+   "id": "leonardo",
+   "name": "Leonardo da Vinci",
+   "aliases": [
+    "Leonardo da Vinci",
+    "Leonardo",
+    "Vinci"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Leonardo da Vinci (1452-1519), artista e inventor italiano del Renacimiento."
+    },
+    {
+     "when": "s15",
+     "text": "Leonardo da Vinci (1452-1519), artista e inventor italiano. En el videojuego Tres Cuerpos, figura con sombrero puntiagudo y barba larga entre los sabios de la reunión."
+    },
+    {
+     "when": "e15",
+     "text": "Leonardo da Vinci (1452-1519), artista e inventor italiano. En el videojuego Tres Cuerpos, figura que recuerda una civilización destruida tras ver dos soles y revela a Wang que el sistema ha escaneado su retina."
+    }
+   ]
+  },
+  {
+   "id": "bruno",
+   "name": "Giordano Bruno",
+   "aliases": [
+    "Bruno"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Filósofo y astrónomo italiano (1548-1600), defensor de un universo infinito con otros mundos, quemado en la hoguera por herejía."
+    },
+    {
+     "when": "e15",
+     "text": "Giordano Bruno (1548-1600), filósofo italiano quemado por herejía. En el videojuego Tres Cuerpos, Aristóteles señala un cuerpo carbonizado en una estaca como el suyo: otro que había dicho tonterías antes que Wang."
+    }
+   ]
+  },
+  {
+   "id": "newton",
+   "name": "Newton",
+   "aliases": [
+    "Isaac Newton",
+    "sir Isaac"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Isaac Newton (1643-1727), físico y matemático inglés que formuló las leyes del movimiento y la gravitación universal y desarrolló el cálculo, disputado con Leibniz."
+    },
+    {
+     "when": "s17",
+     "text": "Isaac Newton (1643-1727), físico inglés. En el videojuego Tres Cuerpos, figura con peluquín cano que se bate en duelo con Leibniz en Oriente."
+    },
+    {
+     "when": "e17",
+     "text": "Isaac Newton (1643-1727), físico inglés. En el videojuego Tres Cuerpos, figura que idea con Von Neumann una computadora humana para predecir el movimiento de los tres soles; tras la sizigia, otros cuentan que robó un caballo y huyó."
+    }
+   ]
+  },
+  {
+   "id": "von-neumann",
+   "name": "John von Neumann",
+   "aliases": [
+    "Neumann",
+    "Von Neumann"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "John von Neumann (1903-1957), matemático húngaro-estadounidense, pionero del diseño de los ordenadores."
+    },
+    {
+     "when": "s17",
+     "text": "John von Neumann (1903-1957), matemático pionero de la informática. En el videojuego Tres Cuerpos, figura que intenta detener el duelo entre Newton y Leibniz y plantea construir una computadora con soldados."
+    },
+    {
+     "when": "e17",
+     "text": "John von Neumann (1903-1957), matemático pionero de los ordenadores. En Tres Cuerpos, figura con puro que ideó la computadora de formación humana Qin I; un chiste moderno suyo sobre el ejército sichuanés hace pensar a Wang que lo maneja una persona real. Cuando la sizigia trisolar destroza el mundo propone usar circuitos electrónicos y, atacado por el emperador, empuja una piedra que lo mata."
+    }
+   ]
+  }
+ ]
+}
