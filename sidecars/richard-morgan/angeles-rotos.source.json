@@ -1,0 +1,5863 @@
+{
+ "book": {
+  "title": "Ángeles rotos",
+  "author": "Richard Morgan",
+  "series": "Takeshi Kovacs",
+  "number": 2
+ },
+ "chapter_pattern": "^(Prólogo|Epílogo|Uno|Dos|Tres|Cuatro|Cinco|Seis|Siete|Ocho|Nueve|Diez|Once|Doce|Trece|Catorce|Quince|Dieci|Veint|Treinta|Cuarenta)",
+ "notes": "Source written by a model (Claude) from a local model's chapter logs and from the book itself; it has not been reviewed by a person. Introductions use the start of the chapter (sN) and say only what its first pages show; what a chapter reveals uses its end (eN). Bodies (fundas) and the people who wear them are kept apart. Markus Sutjiadi and Jiang Jianping are two different men: Jiang dies in chapter 33, and from chapter 37 Kovacs passes Sutjiadi off as Jiang to protect him from Carrera, so the two are never linked as one person. The voice Kovacs attributes to Semetaire is kept with the tradesman of the Mercado de Almas and described as an intrusion or hallucination. Terms were collected from the book's own text, not from the logs. The edition spells Mundo de Harlan sometimes as Harían and Konrad Harlan as Harían, and Luc Deprez once as Drepez; the variants that occur are kept as aliases.",
+ "entries": [
+  {
+   "id": "kovacs",
+   "name": "Takeshi Kovacs",
+   "aliases": [
+    "Kovacs",
+    "Takeshi",
+    "Tak",
+    "Takeshi-san"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y antiguo soldado del Cuerpo de Emisarios del Protectorado; protagonista de Carbono modificado."
+    },
+    {
+     "when": "s1",
+     "text": "Takeshi Kovacs, harlanita y exemisario que sirve como teniente en el Cuño de Carrera, un ejército mercenario de Sanción IV. Herido en la Cuenca Norte, llega a un hospital orbital y despierta en una simulación de recuperación."
+    },
+    {
+     "when": "e2",
+     "text": "Takeshi Kovacs, exemisario y teniente del Cuño de Carrera en la guerra de Sanción IV. Convaleciente en el hospital orbital, escucha la propuesta del piloto Jan Schneider: salir de la guerra con un negocio basado en un portal marciano."
+    },
+    {
+     "when": "e3",
+     "text": "Takeshi Kovacs, exemisario y teniente del Cuño de Carrera. Ha dejado su puesto sin permiso y, con Schneider, saca de un campo de internamiento a la arqueóloga Tanya Wardani, la única que puede abrir ese portal marciano; engaña al sargento que los vigila."
+    },
+    {
+     "when": "e5",
+     "text": "Takeshi Kovacs, exemisario del Cuño de Carrera que se ha escapado de la guerra con Schneider y Wardani. Ayuda a la arqueóloga a recomponerse con técnicas de emisario y planea que una corporación pequeña pague por el hallazgo, asustándola para que no los mate ni los interrogue."
+    },
+    {
+     "when": "e9",
+     "text": "Takeshi Kovacs, exemisario del Cuño de Carrera que se ha escapado de la guerra y busca comprador para un hallazgo marciano en Arribo. Tras interrogar a un agente de seguridad de Mandrake, pacta con Matthias Hand, ejecutivo de esa corporación: veinte millones de onudólares y pasaje a Latimer."
+    },
+    {
+     "when": "e13",
+     "text": "Takeshi Kovacs, exemisario del Cuño de Carrera, ahora al servicio de Mandrake y de su ejecutivo Matthias Hand. Elige con él a los soldados de una expedición a Dangrek; recela de Hand, que cree en espíritus del vudú."
+    },
+    {
+     "when": "e14",
+     "text": "Takeshi Kovacs, exemisario del Cuño de Carrera al servicio de Mandrake. Con Hand interroga en una simulación a los soldados muertos de la expedición y propone dar el mando al capitán Sutjiadi en lugar de asumirlo él."
+    },
+    {
+     "when": "e16",
+     "text": "Takeshi Kovacs, exemisario contratado por Mandrake para una expedición a Dangrek. Ha elegido el equipo entre soldados muertos cuyas pilas compró Hand; tras un ataque en la torre Mandrake, sospecha que Hand tiene un topo, y los kempistas arrasan Sauberville."
+    },
+    {
+     "when": "e20",
+     "text": "Takeshi Kovacs, exemisario contratado por Mandrake, ahora en Dangrek con un equipo de soldados resucitados en fundas maoríes. Ya ve el portal marciano enterrado en la roca y discute con el capitán Sutjiadi sobre la seguridad del hallazgo."
+    },
+    {
+     "when": "e28",
+     "text": "Takeshi Kovacs, exemisario contratado por Mandrake para abrir un portal marciano en Dangrek. Los nanobios de Mandrake acaban de matar a Cruickshank y a Hansen, y él mismo enferma por la radiación; sospecha de un traidor en el equipo."
+    },
+    {
+     "when": "e32",
+     "text": "Takeshi Kovacs, exemisario que ha cruzado con su equipo el portal de Dangrek hasta una nave de guerra marciana. Sufre radiación y oye la voz que atribuye a Semetaire; la nave le muestra la tragedia de los marcianos."
+    },
+    {
+     "when": "e34",
+     "text": "Takeshi Kovacs, exemisario enfermo de radiación, a bordo de una nave de guerra marciana. Ha acusado a Schneider de servir a Carrera y lo ha matado minando la Nagini en la que huía; el dolor de los marcianos lo deja inconsciente."
+    },
+    {
+     "when": "e36",
+     "text": "Takeshi Kovacs, exemisario enfermo de radiación, rescatado en Sanción IV por el Cuño de Carrera, su antiguo ejército. Carrera lo recibe como a un teniente que ha vuelto y le pide un informe; él oculta lo que sabe de la nave."
+    },
+    {
+     "when": "e38",
+     "text": "Takeshi Kovacs, exemisario y teniente del Cuño, prisionero a medias de Carrera en la playa de Dangrek. Carrera le exige que apruebe la ejecución del soldado Sutjiadi y, tras golpearlo, le implanta un inhibidor neuronal en la nuca."
+    },
+    {
+     "when": "e40",
+     "text": "Takeshi Kovacs, exemisario enfermo de radiación que se ha vuelto contra el Cuño. Arranca su inhibidor, mata a Loemanako y a otros soldados y destruye la instalación de la ejecución con un arenero; Carrera huye por el portal."
+    },
+    {
+     "when": "e41",
+     "text": "Takeshi Kovacs, exemisario moribundo de radiación que ha dejado atrás al Cuño. Persigue a Carrera al otro lado del portal marciano y, en el interior de la nave de guerra, lo mata."
+    },
+    {
+     "when": "e42",
+     "text": "Takeshi Kovacs, exemisario y antiguo asesor militar de Kemp que cambió de bando, moribundo de radiación. Ha vendido el hallazgo a Djoko Roespinoedji en Excavación 27; descubre que Wardani los traicionó y los dos se despiden."
+    },
+    {
+     "when": "e43",
+     "text": "Takeshi Kovacs, exemisario que cuenta lo ocurrido desde el interior del Virtud de Angin Chandra, rumbo a Latimer. Sin funda, vive con unos pocos compañeros en una simulación y debe decidir qué contar a los qüelistas."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e1",
+     "with": "carrera",
+     "text": "Fundador y jefe del Cuño, que lo quiere de vuelta en combate"
+    },
+    {
+     "when": "e36",
+     "with": "carrera",
+     "text": "Antiguo jefe que lo rescata en Sanción IV y lo trata como a un teniente"
+    },
+    {
+     "when": "e38",
+     "with": "carrera",
+     "text": "Comandante que le exige ratificar la ejecución de Sutjiadi y lo golpea"
+    },
+    {
+     "when": "e41",
+     "with": "carrera",
+     "text": "Antiguo jefe al que mató en el interior de la nave marciana"
+    },
+    {
+     "when": "e1",
+     "with": "cuno",
+     "text": "Ejército mercenario en el que sirve como teniente"
+    },
+    {
+     "when": "e40",
+     "with": "cuno",
+     "text": "Ejército mercenario al que traicionó: mató a Loemanako, a Kwok y a un centenar de sus soldados"
+    },
+    {
+     "when": "e41",
+     "with": "cuno",
+     "text": "Ejército mercenario cuyo comandante, Carrera, murió a sus manos"
+    },
+    {
+     "when": "e2",
+     "with": "schneider",
+     "text": "Piloto civil que le propone un negocio para salir de la guerra"
+    },
+    {
+     "when": "e33",
+     "with": "schneider",
+     "text": "Piloto y socio al que acusa de trabajar para Carrera"
+    },
+    {
+     "when": "e34",
+     "with": "schneider",
+     "text": "Antiguo socio al que mató minando la Nagini"
+    },
+    {
+     "when": "e42",
+     "with": "schneider",
+     "text": "Antiguo socio al que acusó de servir a Carrera y mató; quiso creerlo culpable del sabotaje, que fue de Wardani"
+    },
+    {
+     "when": "e3",
+     "with": "wardani",
+     "text": "Arqueóloga a la que saca de un campo de internamiento para que abra el portal"
+    },
+    {
+     "when": "e15",
+     "with": "wardani",
+     "text": "Arqueóloga a la que cura con técnicas de emisario y con la que comparte una simulación íntima"
+    },
+    {
+     "when": "e34",
+     "with": "wardani",
+     "text": "Arqueóloga que le teme y a la que aturde para protegerla"
+    },
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Arqueóloga que confiesa haberlos traicionado y que se queda en Excavación 27"
+    },
+    {
+     "when": "e9",
+     "with": "hand",
+     "text": "Ejecutivo de Mandrake que les compra el hallazgo"
+    },
+    {
+     "when": "e13",
+     "with": "hand",
+     "text": "Ejecutivo de Mandrake que lo contrata para dirigir una expedición, y de quien recela"
+    },
+    {
+     "when": "e37",
+     "with": "hand",
+     "text": "Ejecutivo de Mandrake al que Carrera mató ante sus ojos"
+    },
+    {
+     "when": "e9",
+     "with": "mandrake",
+     "text": "Corporación que paga por el hallazgo"
+    },
+    {
+     "when": "e42",
+     "with": "mandrake",
+     "text": "Corporación a la que oculta con un encubrimiento militar dónde está la nave"
+    },
+    {
+     "when": "e14",
+     "with": "sutjiadi",
+     "text": "Soldado fugitivo del Cuño al que elige para la expedición"
+    },
+    {
+     "when": "e37",
+     "with": "sutjiadi",
+     "text": "Soldado al que hace pasar por Jiang para salvarlo de Carrera"
+    },
+    {
+     "when": "e40",
+     "with": "sutjiadi",
+     "text": "Soldado al que no pudo salvar de la ejecución en el anatomizador"
+    },
+    {
+     "when": "e43",
+     "with": "sutjiadi",
+     "text": "Soldado cuya pila salvó y que, tras la descarga, sale psicótico; Kovacs pagará su psicocirugía"
+    },
+    {
+     "when": "e14",
+     "with": "deprez",
+     "text": "Asesino encubierto elegido para el equipo"
+    },
+    {
+     "when": "e40",
+     "with": "deprez",
+     "text": "Compañero al que Carrera mata de un disparo en la playa"
+    },
+    {
+     "when": "e43",
+     "with": "deprez",
+     "text": "Compañero con quien comparte whisky en la simulación"
+    },
+    {
+     "when": "e14",
+     "with": "cruickshank",
+     "text": "Joven soldado de Limon del equipo"
+    },
+    {
+     "when": "e25",
+     "with": "cruickshank",
+     "text": "Joven soldado de Limon con quien se acuesta"
+    },
+    {
+     "when": "e28",
+     "with": "cruickshank",
+     "text": "Compañera muerta por los nanobios"
+    },
+    {
+     "when": "e14",
+     "with": "vongsavath",
+     "text": "Piloto del equipo"
+    },
+    {
+     "when": "e34",
+     "with": "vongsavath",
+     "text": "Piloto cuya nave minó para matar a Schneider"
+    },
+    {
+     "when": "e42",
+     "with": "vongsavath",
+     "text": "Piloto que lo lleva en el blindado y a la que debe la huida"
+    },
+    {
+     "when": "e14",
+     "with": "sun",
+     "text": "Oficial de sistemas del equipo"
+    },
+    {
+     "when": "e34",
+     "with": "sun",
+     "text": "Compañera que se disparó a sí misma ante el dolor de los marcianos"
+    },
+    {
+     "when": "e14",
+     "with": "hansen",
+     "text": "Experto en demoliciones del equipo"
+    },
+    {
+     "when": "e28",
+     "with": "hansen",
+     "text": "Compañero muerto por los nanobios"
+    },
+    {
+     "when": "e14",
+     "with": "jiang",
+     "text": "Soldado de operaciones especiales del equipo"
+    },
+    {
+     "when": "e33",
+     "with": "jiang",
+     "text": "Compañero al que la ultravibración de la Nagini hizo pedazos"
+    },
+    {
+     "when": "e12",
+     "with": "semetaire",
+     "text": "Vendedor de pilas del Mercado de Almas"
+    },
+    {
+     "when": "e25",
+     "with": "semetaire",
+     "text": "Vendedor de pilas cuya voz cree oír en su cabeza"
+    },
+    {
+     "when": "e35",
+     "with": "semetaire",
+     "text": "Vendedor de pilas y voz al que mató en un sueño"
+    },
+    {
+     "when": "e2",
+     "with": "loemanako",
+     "text": "Sargento herido de su sección en el Cuño"
+    },
+    {
+     "when": "e39",
+     "with": "loemanako",
+     "text": "Antiguo subordinado al que mató para huir"
+    },
+    {
+     "when": "e6",
+     "with": "djoko",
+     "text": "Pequeño traficante amigo de Schneider que les compra la lanzadera"
+    },
+    {
+     "when": "e42",
+     "with": "djoko",
+     "text": "Empresario al que vende la nave marciana"
+    },
+    {
+     "when": "e41",
+     "with": "lamont",
+     "text": "Comisario político al que disparó en la playa"
+    },
+    {
+     "when": "e2",
+     "with": "jimmy",
+     "text": "Camarada muerto en Innenin cuya muerte lo persigue"
+    },
+    {
+     "when": "e4",
+     "with": "virginia",
+     "text": "Antigua instructora del Cuerpo cuyos consejos recuerda"
+    },
+    {
+     "when": "e8",
+     "with": "quell",
+     "text": "Pensadora y soldado de su mundo a la que cita"
+    },
+    {
+     "when": "e1",
+     "with": "kemp",
+     "text": "Líder revolucionario al que combate el Cuño"
+    },
+    {
+     "when": "e42",
+     "with": "kemp",
+     "text": "Líder revolucionario del que fue asesor militar antes de cambiar de bando"
+    }
+   ],
+   "seen": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "id": "schneider",
+   "name": "Jan Schneider",
+   "aliases": [
+    "Schneider",
+    "Jan"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Jan Schneider, persona a quien el narrador conoció en un hospital orbital del Protectorado."
+    },
+    {
+     "when": "s2",
+     "text": "Jan Schneider, piloto interplanetario que se acerca a Kovacs en la sala de convalecencia del hospital orbital con una propuesta."
+    },
+    {
+     "when": "e2",
+     "text": "Jan Schneider, piloto interplanetario que transportó arqueólogos. Descubrió un portal marciano que da a una nave estelar intacta y propone a Kovacs un negocio para salir de la guerra."
+    },
+    {
+     "when": "e4",
+     "text": "Jan Schneider, piloto interplanetario y antiguo amante de la arqueóloga Wardani. Ha robado una lanzadera del hospital y, con Kovacs, saca a Wardani de un campo de internamiento."
+    },
+    {
+     "when": "e6",
+     "text": "Jan Schneider, piloto interplanetario y desertor del bando kempista. Vende la lanzadera robada a su amigo Djoko Roespinoedji en Excavación 27 y presume de contactos en Arribo."
+    },
+    {
+     "when": "e11",
+     "text": "Jan Schneider, piloto interplanetario y desertor del bando kempista. En un bar intenta golpear a Wardani por sus reproches y Kovacs lo detiene; él cuenta que vio morir a una niña por una metralla que causó."
+    },
+    {
+     "when": "e20",
+     "text": "Jan Schneider, piloto interplanetario que acompaña como civil a la expedición de Mandrake. Ayuda a montar el campamento de burbujas en la playa de Dangrek y bromea con los soldados."
+    },
+    {
+     "when": "e32",
+     "text": "Jan Schneider, piloto interplanetario que se asoció con Kovacs y Wardani. Ahora forma parte del equipo de Mandrake en la nave de guerra marciana; es el que más bromea y el más asustado."
+    },
+    {
+     "when": "e33",
+     "text": "Jan Schneider, piloto interplanetario. Kovacs lo acusa ante todos de trabajar para Carrera, por una funda nueva y un tatuaje retocado, y le destroza la mano de un disparo; él lo niega y le devuelve la acusación. Huye con la Nagini y mata a Jiang con la ultravibración de la nave."
+    },
+    {
+     "when": "e34",
+     "text": "Jan Schneider, piloto interplanetario, muerto. Kovacs, que lo acusaba de servir a Carrera, había minado las células de la Nagini y estalló al cruzar el portal."
+    },
+    {
+     "when": "e36",
+     "text": "Jan Schneider, piloto interplanetario, muerto en la explosión de la Nagini. Carrera pregunta a Kovacs quién pilotaba la nave sin mostrar que lo conozca, y Kovacs se pregunta si Schneider se lo habría contado."
+    },
+    {
+     "when": "e42",
+     "text": "Jan Schneider, piloto interplanetario, muerto. Kovacs lo acusó de servir a Carrera y quiso creerlo culpable del sabotaje del equipo, pero admite que el sabotaje fue obra de Wardani, que según él se sirvió de Schneider, su antiguo amante, para apagar los monitores de la Nagini."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e2",
+     "with": "kovacs",
+     "text": "Hombre al que propone un negocio para salir de la guerra"
+    },
+    {
+     "when": "e33",
+     "with": "kovacs",
+     "text": "Socio que lo acusa de servir a Carrera y le destroza la mano"
+    },
+    {
+     "when": "e34",
+     "with": "kovacs",
+     "text": "Socio que lo mató minando su nave"
+    },
+    {
+     "when": "e4",
+     "with": "wardani",
+     "text": "Antigua amante a la que ha sacado del campo"
+    },
+    {
+     "when": "e33",
+     "with": "wardani",
+     "text": "Antigua amante que lo defiende ante Kovacs"
+    },
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Antigua amante que, según Kovacs, lo convenció para apagar los monitores de la Nagini"
+    },
+    {
+     "when": "e6",
+     "with": "djoko",
+     "text": "Viejo amigo al que vende la lanzadera"
+    },
+    {
+     "when": "e33",
+     "with": "carrera",
+     "text": "Comandante del Cuño al que Kovacs lo acusa de servir en secreto, cosa que él niega"
+    },
+    {
+     "when": "e36",
+     "with": "carrera",
+     "text": "Comandante del Cuño que pregunta quién pilotaba la nave sin mostrar que lo conozca"
+    },
+    {
+     "when": "e33",
+     "with": "jiang",
+     "text": "Compañero al que mató en el muelle de acoplamiento"
+    }
+   ],
+   "seen": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    18,
+    19,
+    20,
+    21,
+    22,
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33
+   ]
+  },
+  {
+   "id": "wardani",
+   "name": "Tanya Wardani",
+   "aliases": [
+    "Wardani",
+    "Tanya"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Tanya Wardani, arqueóloga prisionera en un campo de internamiento que Kovacs quiere interrogar."
+    },
+    {
+     "when": "e3",
+     "text": "Tanya Wardani, arqueóloga prisionera. Kovacs y Schneider la sacan del campo de internamiento haciéndose pasar por interrogadores, y ella, débil y desnutrida, sigue en estado de shock."
+    },
+    {
+     "when": "e5",
+     "text": "Tanya Wardani, maestra del Gremio de Arqueólogos que excavó la costa de Dangrek. Fuma junto a la hoguera de una playa, explica la teoría del núcleo y critica cómo la política manipula la arqueología marciana."
+    },
+    {
+     "when": "e10",
+     "text": "Tanya Wardani, arqueóloga del Gremio que ha vendido a Mandrake un hallazgo marciano. Ante Hand explica cómo funciona el portal y sugiere que tiene un sistema de frenado; fuma cigarrillos Arribo Light."
+    },
+    {
+     "when": "e12",
+     "text": "Tanya Wardani, arqueóloga del Gremio que conoce cómo abrir el portal marciano. Vive en la torre Mandrake y recibe el equipo que pidió para la expedición."
+    },
+    {
+     "when": "e16",
+     "text": "Tanya Wardani, arqueóloga del Gremio y pieza clave de la expedición que prepara Mandrake. Tras una simulación íntima con Kovacs, queda aturdida y es apuntada por un intruso en la torre; Hand le dice que alguien con recursos la busca."
+    },
+    {
+     "when": "e20",
+     "text": "Tanya Wardani, arqueóloga del Gremio, ahora en Dangrek ante el portal marciano. Explica que los marcianos eran alados y no demonios, y sufre por los cien mil muertos de Sauberville."
+    },
+    {
+     "when": "e26",
+     "text": "Tanya Wardani, arqueóloga del Gremio que trabaja contra reloj en la cueva de Dangrek. Cae enferma por la radiación y revela que ha logrado abrir el portal."
+    },
+    {
+     "when": "e32",
+     "text": "Tanya Wardani, arqueóloga del Gremio que ha abierto el portal de Dangrek y lo cruza con el equipo. Explica a los demás la biología y la guerra de los marcianos, y se enfrenta a Hand por la propiedad de la nave."
+    },
+    {
+     "when": "e34",
+     "text": "Tanya Wardani, arqueóloga del Gremio dentro de la nave marciana. Defiende a Schneider, confiesa que tenía miedo de Kovacs y no de la batalla, y cae aturdida por él cuando los marcianos casi los destruyen."
+    },
+    {
+     "when": "e36",
+     "text": "Tanya Wardani, arqueóloga del Gremio, sedada con los demás supervivientes en la enfermería del Cuño. Está estable, pero Kovacs duda de que viva mucho más que él."
+    },
+    {
+     "when": "e38",
+     "text": "Tanya Wardani, arqueóloga del Gremio, prisionera del Cuño con un inhibidor en la nuca. Carrera la humilla y le revela que Hand provocó el bombardeo de Sauberville."
+    },
+    {
+     "when": "e41",
+     "text": "Tanya Wardani, arqueóloga del Gremio que ayuda a Kovacs y a Vongsavath. Se dispone a cerrar el portal marciano mientras Kovacs persigue a Carrera y confiesa que se dejó inconsciente con una aturdidora por pánico."
+    },
+    {
+     "when": "e42",
+     "text": "Tanya Wardani, arqueóloga del Gremio y simpatizante de Kemp. Cuenta a Kovacs que se unió a la expedición kempista que reabrió el portal; al ver que la nave era un arma de guerra y que sus compañeros cambiaban, empujó a Dhasanapongsakul de vuelta por el portal y lo cerró dejando fuera a la expedición, mató a dos hombres del pesquero y los echó a las redes, y destrozó los equipos de IVB para que nadie interrogase a los muertos. Kovacs deduce que se sirvió de Schneider, su antiguo amante, para apagar los monitores de la Nagini, y ella avisó a la guardia revolucionaria de Kemp. Decide quedarse en Excavación 27 bajo la protección de Djoko."
+    },
+    {
+     "when": "e43",
+     "text": "Tanya Wardani, arqueóloga del Gremio y simpatizante de Kemp que mató a miembros de la expedición kempista y a otros dos hombres para ocultarlo, y que se quedó en Excavación 27 bajo la protección de Djoko. Kovacs se pregunta en el epílogo si ya habrá salido del sistema Sanción con una funda nueva para estudiar los glifos de la nave marciana."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e3",
+     "with": "kovacs",
+     "text": "Hombre que la saca del campo de internamiento"
+    },
+    {
+     "when": "e15",
+     "with": "kovacs",
+     "text": "Emisario que la cura y con quien comparte una simulación íntima"
+    },
+    {
+     "when": "e34",
+     "with": "kovacs",
+     "text": "Emisario al que teme y que la aturde para protegerla"
+    },
+    {
+     "when": "e42",
+     "with": "kovacs",
+     "text": "Emisario al que ha traicionado y que la deja en Excavación 27"
+    },
+    {
+     "when": "e4",
+     "with": "schneider",
+     "text": "Antiguo amante que la ayuda a salir del campo"
+    },
+    {
+     "when": "e33",
+     "with": "schneider",
+     "text": "Antiguo amante al que defiende ante Kovacs"
+    },
+    {
+     "when": "e9",
+     "with": "hand",
+     "text": "Ejecutivo de Mandrake que paga por el hallazgo y la presiona"
+    },
+    {
+     "when": "e37",
+     "with": "hand",
+     "text": "Ejecutivo de Mandrake al que Carrera mató ante ella"
+    },
+    {
+     "when": "e38",
+     "with": "hand",
+     "text": "Ejecutivo de Mandrake, muerto, que según Carrera provocó el bombardeo de Sauberville"
+    },
+    {
+     "when": "e38",
+     "with": "carrera",
+     "text": "Comandante del Cuño que la amenaza y la humilla"
+    },
+    {
+     "when": "e5",
+     "with": "wycinski",
+     "text": "Académico disidente cuyas ideas defiende"
+    },
+    {
+     "when": "e20",
+     "with": "gremio",
+     "text": "Organización de arqueólogos que la desacreditó"
+    },
+    {
+     "when": "e42",
+     "with": "kemp",
+     "text": "Líder revolucionario cuya causa apoyaba y cuya expedición acabó matando; cree que sus hombres no la habrían recibido bien"
+    },
+    {
+     "when": "e42",
+     "with": "dhasanapongsakul",
+     "text": "Miembro de la expedición kempista al que empujó por el portal y dejó fuera"
+    },
+    {
+     "when": "e42",
+     "with": "aribowo",
+     "text": "Arqueóloga de la expedición kempista cuyo equipo dejó fuera al cerrar el portal"
+    },
+    {
+     "when": "e42",
+     "with": "weng",
+     "text": "Arqueólogo de la expedición kempista que fue a buscarla a Ciudad Índigo y quedó fuera del portal"
+    },
+    {
+     "when": "e16",
+     "with": "deng",
+     "text": "Agente de Mandrake que la seguía junto a Kovacs"
+    },
+    {
+     "when": "e42",
+     "with": "deng",
+     "text": "Agente de Mandrake al que, según ella, mató la guardia revolucionaria de Kemp"
+    },
+    {
+     "when": "e42",
+     "with": "djoko",
+     "text": "Empresario que la esconde en Excavación 27"
+    },
+    {
+     "when": "e42",
+     "with": "schneider",
+     "text": "Antiguo amante al que, según Kovacs, usó para apagar los monitores de la Nagini"
+    }
+   ],
+   "seen": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ]
+  },
+  {
+   "id": "hand",
+   "name": "Matthias Hand",
+   "aliases": [
+    "Hand",
+    "Matthias",
+    "Matt"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Matthias Hand, nombre que cita un hombre interrogado en una simulación como su superior."
+    },
+    {
+     "when": "e8",
+     "text": "Matthias Hand, ejecutivo de adquisiciones de la Corporación Mandrake; según se dice, fue houngan de la Hermandad Carrefour. Un hombre interrogado por Kovacs confiesa que Hand lo envió a capturar una señal."
+    },
+    {
+     "when": "e9",
+     "text": "Matthias Hand, ejecutivo de Mandrake. Negocia con Kovacs la compra de un hallazgo marciano por veinte millones de onudólares y un pasaje a Latimer, y amenaza con violencia si no es discreto."
+    },
+    {
+     "when": "e13",
+     "text": "Matthias Hand, ejecutivo de Mandrake y creyente en el vudú. Ha reclutado a Kovacs como asesor militar de una expedición a Dangrek y elige con él los soldados entre pilas compradas; se muestra desconfiado y habla de espíritus."
+    },
+    {
+     "when": "e22",
+     "text": "Matthias Hand, ejecutivo de Mandrake que dirige la expedición a Dangrek. Bajo la amenaza de una pistola, cuenta a Kovacs que el sistema de nanobios SPAREN es de Mandrake y que sus propios colegas lo han traicionado."
+    },
+    {
+     "when": "e29",
+     "text": "Matthias Hand, ejecutivo de Mandrake y houngan. Reúne al equipo y amenaza con ejecuciones si no se establece la propiedad de Mandrake sobre el portal; explica que el Cuño responde ante el Cártel."
+    },
+    {
+     "when": "e34",
+     "text": "Matthias Hand, ejecutivo de Mandrake al que Kovacs ha aturdido a bordo de la nave marciana. Pedía que lo mataran con tal de no sufrir el dolor de los marcianos."
+    },
+    {
+     "when": "e37",
+     "text": "Matthias Hand, ejecutivo de Mandrake y houngan. Carrera lo mata de un disparo y le corta un trozo de columna vertebral para cobrar una recompensa."
+    },
+    {
+     "when": "e38",
+     "text": "Matthias Hand, ejecutivo de Mandrake y houngan, muerto. Según Carrera, provocó el bombardeo de Sauberville filtrando desinformación a Kemp y tenía a su servicio al criminal Sutjiadi."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e9",
+     "with": "kovacs",
+     "text": "Emisario con el que pacta la compra del hallazgo"
+    },
+    {
+     "when": "e13",
+     "with": "kovacs",
+     "text": "Emisario al que contrata y que recela de él"
+    },
+    {
+     "when": "e37",
+     "with": "kovacs",
+     "text": "Emisario que lo ve morir a manos de Carrera"
+    },
+    {
+     "when": "e8",
+     "with": "deng",
+     "text": "Subordinado que trabaja para él"
+    },
+    {
+     "when": "e9",
+     "with": "mandrake",
+     "text": "Corporación para la que trabaja"
+    },
+    {
+     "when": "e22",
+     "with": "mandrake",
+     "text": "Corporación cuyos colegas lo han traicionado"
+    },
+    {
+     "when": "e13",
+     "with": "semetaire",
+     "text": "Vendedor de pilas con el que trata"
+    },
+    {
+     "when": "e22",
+     "with": "paren",
+     "text": "Sistema de nanobios de su corporación"
+    },
+    {
+     "when": "e37",
+     "with": "carrera",
+     "text": "Comandante que lo mata"
+    },
+    {
+     "when": "e30",
+     "with": "wardani",
+     "text": "Arqueóloga cuya ayuda necesita y a la que presiona sobre el portal y la nave"
+    },
+    {
+     "when": "e37",
+     "with": "sutjiadi",
+     "text": "Soldado fugitivo que él compró para la expedición"
+    },
+    {
+     "when": "e37",
+     "with": "deprez",
+     "text": "Soldado al que compró para la expedición"
+    }
+   ],
+   "seen": [
+    9,
+    10,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37
+   ]
+  },
+  {
+   "id": "carrera",
+   "name": "Isaac Carrera",
+   "aliases": [
+    "Carrera",
+    "Isaac"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Isaac Carrera, excapitán condecorado de los Comandos de Vacío y fundador del Cuño, el ejército mercenario que paga a Kovacs; le deja una grabación con instrucciones."
+    },
+    {
+     "when": "e18",
+     "text": "Isaac Carrera, fundador del Cuño de Carrera. Avisa en una transmisión de que no habrá apoyo aéreo y sugiere al equipo retirarse a Masson, adjuntando un código de entrada del Cuño."
+    },
+    {
+     "when": "e36",
+     "text": "Isaac Carrera, excapitán de Comandos de Vacío y comandante del Cuño. Recibe a Kovacs en la enfermería de su campamento en Dangrek y admite que sus patrocinadores corporativos le dieron acceso a los códigos del sistema de nanobios."
+    },
+    {
+     "when": "e37",
+     "text": "Isaac Carrera, comandante del Cuño. Mata a Hand de un disparo y le arranca un trozo de columna, e inmoviliza al equipo con inhibidores neuronales."
+    },
+    {
+     "when": "e38",
+     "text": "Isaac Carrera, comandante del Cuño, enemigo de Kovacs. Ejecutará a Sutjiadi al amanecer, humilla a Wardani y a Kovacs y les revela que Hand provocó el bombardeo de Sauberville."
+    },
+    {
+     "when": "e40",
+     "text": "Isaac Carrera, comandante del Cuño. Mata a Deprez y huye por el portal marciano tras la matanza de Kovacs."
+    },
+    {
+     "when": "e41",
+     "text": "Isaac Carrera, comandante del Cuño y excapitán de Comandos de Vacío, muerto: Kovacs lo mata en el interior de la nave marciana, ahogado en su propia sangre."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e1",
+     "with": "kovacs",
+     "text": "Teniente que le es imprescindible y al que quiere devolver al combate"
+    },
+    {
+     "when": "e36",
+     "with": "kovacs",
+     "text": "Teniente al que rescata y trata de reintegrar"
+    },
+    {
+     "when": "e38",
+     "with": "kovacs",
+     "text": "Teniente al que amenaza con degradar y al que golpea"
+    },
+    {
+     "when": "e41",
+     "with": "kovacs",
+     "text": "Teniente que lo mató"
+    },
+    {
+     "when": "e1",
+     "with": "cuno",
+     "text": "Ejército mercenario que fundó"
+    },
+    {
+     "when": "e1",
+     "with": "kemp",
+     "text": "Líder revolucionario al que combate"
+    },
+    {
+     "when": "e33",
+     "with": "schneider",
+     "text": "Piloto al que Kovacs acusa de trabajar para él"
+    },
+    {
+     "when": "e36",
+     "with": "schneider",
+     "text": "Piloto de la nave de asalto por el que pregunta a Kovacs"
+    },
+    {
+     "when": "e37",
+     "with": "hand",
+     "text": "Ejecutivo al que mató"
+    },
+    {
+     "when": "e38",
+     "with": "sutjiadi",
+     "text": "Soldado al que ejecutará por haber matado a oficiales del Cuño"
+    },
+    {
+     "when": "e40",
+     "with": "sutjiadi",
+     "text": "Soldado al que ejecutaba en el anatomizador cuando Kovacs destrozó la instalación"
+    },
+    {
+     "when": "e37",
+     "with": "loemanako",
+     "text": "Sargento leal que ejecuta sus órdenes"
+    },
+    {
+     "when": "e37",
+     "with": "lamont",
+     "text": "Comisario político sometido por cableado"
+    },
+    {
+     "when": "e41",
+     "with": "sutjiadi",
+     "text": "Soldado al que ejecutaba cuando Kovacs lo destrozó todo"
+    },
+    {
+     "when": "e41",
+     "with": "vongsavath",
+     "text": "Piloto prisionera a la que retenía"
+    },
+    {
+     "when": "e41",
+     "with": "deprez",
+     "text": "Asesino al que mató a quemarropa"
+    },
+    {
+     "when": "e41",
+     "with": "wardani",
+     "text": "Arqueóloga prisionera a la que amenazó"
+    }
+   ],
+   "seen": [
+    36,
+    37,
+    38,
+    41
+   ]
+  },
+  {
+   "id": "sutjiadi",
+   "name": "Markus Sutjiadi",
+   "aliases": [
+    "Sutjiadi",
+    "Markus"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Markus Sutjiadi, soldado atractivo e inexpresivo al que Hand interroga en una simulación; carga con acusaciones serias."
+    },
+    {
+     "when": "e14",
+     "text": "Markus Sutjiadi, soldado fugitivo del Cuño de Carrera. Mató con su Sunjet a Perro Veutin cuando este le ordenó aniquilar a sus propias tropas. Su pila sobrevivió a la caída de la lanzadera calabozo que lo llevaba; Hand la compró y Kovacs lo elige para la expedición."
+    },
+    {
+     "when": "e17",
+     "text": "Markus Sutjiadi, soldado del Cuño y capitán del equipo de Mandrake en Dangrek. Ordena desplegar a su gente por transmisor y reprende a Kovacs por interrumpir la operación."
+    },
+    {
+     "when": "e20",
+     "text": "Markus Sutjiadi, capitán de la expedición de Mandrake en Dangrek. Quiere volar la roca para exponer el portal, pero Hand se lo impide; se irrita ante Wardani."
+    },
+    {
+     "when": "e28",
+     "text": "Markus Sutjiadi, capitán del equipo de Dangrek, nervioso por el portal y los nanobios. Tras la muerte de Cruickshank y Hansen se ocupa de llevar los restos al depósito de cadáveres."
+    },
+    {
+     "when": "e36",
+     "text": "Markus Sutjiadi, soldado fugitivo del Cuño y capitán del equipo de Mandrake. Inconsciente en la enfermería de Carrera, Kovacs espera que despierte a tiempo para evitar que el Cuño lo ejecute formalmente."
+    },
+    {
+     "when": "e37",
+     "text": "Markus Sutjiadi, soldado fugitivo del Cuño que sobrevivió con Kovacs. Para protegerlo de Carrera, Kovacs lo presenta al Cuño como Jiang Jianping, y el equipo le sigue la corriente."
+    },
+    {
+     "when": "e38",
+     "text": "Markus Sutjiadi, soldado desertor del Cuño al que Carrera desenmascara por el crimen contra el teniente Veutin y la sargento Bradwell. Será ejecutado en el anatomizador al amanecer."
+    },
+    {
+     "when": "e40",
+     "text": "Markus Sutjiadi, soldado del Cuño ejecutado a medias en el anatomizador. Kovacs destroza la instalación y todo el público del Cuño; su pila queda a salvo."
+    },
+    {
+     "when": "e43",
+     "text": "Markus Sutjiadi, antiguo soldado del Cuño. Su pila se salvó, pero al descargarlo salió psicótico, sin reconocer a nadie, y lo apagaron; Kovacs pagará su psicocirugía en Latimer."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e14",
+     "with": "kovacs",
+     "text": "Teniente al que Hand consulta y que lo elige"
+    },
+    {
+     "when": "e37",
+     "with": "kovacs",
+     "text": "Teniente que lo hace pasar por Jiang para salvarlo"
+    },
+    {
+     "when": "e38",
+     "with": "carrera",
+     "text": "Comandante que lo ejecutará"
+    },
+    {
+     "when": "e41",
+     "with": "carrera",
+     "text": "Antiguo comandante del Cuño que lo condenó al anatomizador y murió a manos de Kovacs"
+    },
+    {
+     "when": "e14",
+     "with": "veutin",
+     "text": "Oficial del Cuño al que mató"
+    },
+    {
+     "when": "e38",
+     "with": "veutin",
+     "text": "Teniente del Cuño al que asesinó con su propia Sunjet"
+    },
+    {
+     "when": "e38",
+     "with": "bradwell",
+     "text": "Sargento del Cuño que murió al intentar detenerlo"
+    },
+    {
+     "when": "e14",
+     "with": "hand",
+     "text": "Ejecutivo que lo compró para la expedición"
+    },
+    {
+     "when": "e37",
+     "with": "jiang",
+     "text": "Compañero de equipo cuya identidad le prestó Kovacs"
+    },
+    {
+     "when": "e37",
+     "with": "hand",
+     "text": "Ejecutivo que lo compró, ya muerto a manos de Carrera"
+    },
+    {
+     "when": "e19",
+     "with": "vongsavath",
+     "text": "Piloto a la que ordena quedarse arriba"
+    },
+    {
+     "when": "e28",
+     "with": "cruickshank",
+     "text": "Soldado muerta cuyos restos lleva a la cámara de cadáveres"
+    },
+    {
+     "when": "e43",
+     "with": "kovacs",
+     "text": "Soldado cuya pila salvó Kovacs, que pagará su psicocirugía"
+    }
+   ],
+   "seen": [
+    14,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "id": "jiang",
+   "name": "Jiang Jianping",
+   "aliases": [
+    "Jiang",
+    "Jianping"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Jiang Jianping, hombre de aspecto de profesor al que Hand interroga en una simulación."
+    },
+    {
+     "when": "e14",
+     "text": "Jiang Jianping, soldado de operaciones especiales de Sanción IV. Fue comandante de célula en la llanura de Danang, donde murió al quedarse atrás cubriendo la retirada tras un error; detesta a Kemp."
+    },
+    {
+     "when": "e21",
+     "text": "Jiang Jianping, soldado de operaciones especiales del equipo de Mandrake. Practica artes marciales y le pregunta a Kovacs por qué dejó de ser emisario."
+    },
+    {
+     "when": "e33",
+     "text": "Jiang Jianping, soldado de operaciones especiales del equipo de Mandrake. Salva a Kovacs de un disparo de Schneider y muere en la nave marciana por la ultravibración de la Nagini."
+    },
+    {
+     "when": "e34",
+     "text": "Jiang Jianping, soldado de operaciones especiales de Sanción IV, muerto. La ultravibración de la Nagini lo hizo pedazos en el muelle de acoplamiento y su pila no apareció."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e14",
+     "with": "kovacs",
+     "text": "Teniente que lo escoge para la expedición"
+    },
+    {
+     "when": "e21",
+     "with": "kovacs",
+     "text": "Emisario al que pregunta por su pasado"
+    },
+    {
+     "when": "e33",
+     "with": "kovacs",
+     "text": "Teniente al que salvó de un disparo"
+    },
+    {
+     "when": "e14",
+     "with": "hand",
+     "text": "Ejecutivo que compró su pila"
+    },
+    {
+     "when": "e37",
+     "with": "sutjiadi",
+     "text": "Compañero de equipo cuyo nombre usó Kovacs para salvarlo"
+    },
+    {
+     "when": "e28",
+     "with": "hansen",
+     "text": "Compañero al que ayuda a colocar la boya"
+    },
+    {
+     "when": "e33",
+     "with": "schneider",
+     "text": "Piloto cuya Nagini lo mató con la ultravibración"
+    }
+   ],
+   "seen": [
+    14,
+    18,
+    20,
+    21,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+   ]
+  },
+  {
+   "id": "deprez",
+   "name": "Luc Deprez",
+   "aliases": [
+    "Deprez",
+    "Luc",
+    "Drepez"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Luc Deprez, hombre alto y desaliñado que fuma en una simulación y habla con Hand y Kovacs."
+    },
+    {
+     "when": "e14",
+     "text": "Luc Deprez, asesino militar encubierto. Murió matando a un comandante de Kemp con la sangre envenenada con una toxina; Kovacs lo elige para la expedición."
+    },
+    {
+     "when": "e25",
+     "text": "Luc Deprez, asesino militar encubierto del equipo de Mandrake. Nacido en Latimer, hijo de una coronel de marines, bebe whisky con Kovacs y opina que la guerra pudo acabar con equipos de ejecución."
+    },
+    {
+     "when": "e34",
+     "text": "Luc Deprez, asesino militar encubierto del equipo de Mandrake. Cubierto con la sangre de Jiang, cae aturdido por Kovacs durante el ataque a la nave marciana."
+    },
+    {
+     "when": "e36",
+     "text": "Luc Deprez, asesino militar encubierto del equipo de Mandrake, sedado con los demás supervivientes en la enfermería del Cuño."
+    },
+    {
+     "when": "e40",
+     "text": "Luc Deprez, asesino militar encubierto que ayuda a Kovacs a atacar a los soldados del Cuño. Carrera le dispara a quemarropa con una Sunjet y muere en la playa de Dangrek."
+    },
+    {
+     "when": "e43",
+     "text": "Luc Deprez, asesino militar encubierto que murió en la playa de Dangrek. En el epílogo bebe whisky con Kovacs en la simulación a bordo del blindado."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e14",
+     "with": "kovacs",
+     "text": "Teniente que lo elige"
+    },
+    {
+     "when": "e25",
+     "with": "kovacs",
+     "text": "Compañero de whisky y de charla"
+    },
+    {
+     "when": "e40",
+     "with": "kovacs",
+     "text": "Teniente con el que mata a soldados del Cuño"
+    },
+    {
+     "when": "e40",
+     "with": "carrera",
+     "text": "Comandante que le disparó"
+    },
+    {
+     "when": "e14",
+     "with": "hand",
+     "text": "Ejecutivo que compró su pila"
+    },
+    {
+     "when": "e30",
+     "with": "sutjiadi",
+     "text": "Capitán con el que mueve los cadáveres de los arqueólogos"
+    },
+    {
+     "when": "e37",
+     "with": "hand",
+     "text": "Ejecutivo que compró su pila y murió a manos de Carrera"
+    },
+    {
+     "when": "e41",
+     "with": "carrera",
+     "text": "Comandante que lo mató y al que Kovacs mató después"
+    },
+    {
+     "when": "e43",
+     "with": "vongsavath",
+     "text": "Compañera de la simulación a bordo del blindado"
+    },
+    {
+     "when": "e43",
+     "with": "sun",
+     "text": "Compañera de la simulación a bordo del blindado"
+    }
+   ],
+   "seen": [
+    14,
+    18,
+    19,
+    20,
+    23,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    37,
+    38,
+    39,
+    40,
+    43
+   ]
+  },
+  {
+   "id": "cruickshank",
+   "name": "Yvette Cruickshank",
+   "aliases": [
+    "Cruickshank",
+    "Yvette",
+    "Cruick"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Yvette Cruickshank, mujer joven de piel oscura con rastas y enchufes de implantes que responde a las preguntas de Hand en una simulación."
+    },
+    {
+     "when": "e14",
+     "text": "Yvette Cruickshank, sargento joven de Limon, en Latimer. Lleva implantes de idiomas, kárate y medicina, y pidió siete veces destinos de despliegue rápido para estar cerca del combate."
+    },
+    {
+     "when": "e25",
+     "text": "Yvette Cruickshank, sargento de veintidós años y de las Tierras Altas de Limon. Bebe y fuma en la cubierta del pesquero con el equipo y acaba en el camarote de Kovacs."
+    },
+    {
+     "when": "e28",
+     "text": "Yvette Cruickshank, sargento joven de Limon, muerta. Los cables de nanobios la abrieron en canal junto a Hansen; sus restos quedaron en bolsas y su pila no apareció."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e14",
+     "with": "kovacs",
+     "text": "Teniente que la elige"
+    },
+    {
+     "when": "e25",
+     "with": "kovacs",
+     "text": "Teniente con el que se acuesta en el camarote"
+    },
+    {
+     "when": "e28",
+     "with": "kovacs",
+     "text": "Teniente que no pudo salvarla"
+    },
+    {
+     "when": "e14",
+     "with": "hand",
+     "text": "Ejecutivo que compró su pila"
+    },
+    {
+     "when": "e17",
+     "with": "sutjiadi",
+     "text": "Capitán del equipo que le da órdenes"
+    },
+    {
+     "when": "e21",
+     "with": "vongsavath",
+     "text": "Piloto con la que comparte burbuja"
+    },
+    {
+     "when": "e19",
+     "with": "deprez",
+     "text": "Compañero con el que mata ratas en el pesquero"
+    },
+    {
+     "when": "e25",
+     "with": "hansen",
+     "text": "Compañero con el que instala la artillería y fuma en cubierta"
+    },
+    {
+     "when": "e28",
+     "with": "hansen",
+     "text": "Compañero muerto con ella por los nanobios"
+    }
+   ],
+   "seen": [
+    14,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28
+   ]
+  },
+  {
+   "id": "hansen",
+   "name": "Ole Hansen",
+   "aliases": [
+    "Hansen"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Ole Hansen, soldado blanquísimo de pelo rapado y ojos azules que brinda por su antiguo equipo en una simulación."
+    },
+    {
+     "when": "e14",
+     "text": "Ole Hansen, experto en demoliciones del equipo de élite Caricias. Murió al capturar una bomba merodeadora y Hand compró su pila."
+    },
+    {
+     "when": "e22",
+     "text": "Ole Hansen, experto en demoliciones del equipo de Mandrake. Pregunta por el sistema de nanobios porque no había visto nada igual."
+    },
+    {
+     "when": "e28",
+     "text": "Ole Hansen, experto en demoliciones, muerto. Los cables de nanobios lo desmembraron junto a Cruickshank mientras preparaban la boya."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e14",
+     "with": "kovacs",
+     "text": "Teniente que lo elige"
+    },
+    {
+     "when": "e28",
+     "with": "cruickshank",
+     "text": "Compañera muerta con él por los nanobios"
+    },
+    {
+     "when": "e14",
+     "with": "caricias",
+     "text": "Equipo de demolición al que pertenecía"
+    },
+    {
+     "when": "e17",
+     "with": "sutjiadi",
+     "text": "Capitán del equipo que le da órdenes"
+    },
+    {
+     "when": "e14",
+     "with": "hand",
+     "text": "Ejecutivo que compró su pila"
+    },
+    {
+     "when": "e25",
+     "with": "deprez",
+     "text": "Compañero de cubierta y de whisky"
+    },
+    {
+     "when": "e28",
+     "with": "hand",
+     "text": "Ejecutivo que insistió en tres revisiones de la boya antes de que muriera"
+    }
+   ],
+   "seen": [
+    14,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28
+   ]
+  },
+  {
+   "id": "sun",
+   "name": "Sun Liping",
+   "aliases": [
+    "Sun",
+    "Liping"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Sun Liping, mujer de ojos oscuros y pelo recogido por un generador de campo estático, que cuenta a Hand cómo murió."
+    },
+    {
+     "when": "e14",
+     "text": "Sun Liping, oficial de sistemas del equipo de Mandrake. Se suicidó al quedar atrapada por un virus en un escuadrón de blindados automáticos."
+    },
+    {
+     "when": "e21",
+     "text": "Sun Liping, oficial de sistemas del equipo de Mandrake, nacida en Sanción IV. Su familia viene de Hogar de Almas y viaja con Kovacs a instalar sistemas centinela."
+    },
+    {
+     "when": "e30",
+     "text": "Sun Liping, oficial de sistemas del equipo de Mandrake. Detecta que la boya de apropiación está dañada y pide entre ocho y doce horas para repararla."
+    },
+    {
+     "when": "e34",
+     "text": "Sun Liping, oficial de sistemas del equipo de Mandrake, muerta por segunda vez: se disparó bajo la barbilla para no soportar el dolor de los marcianos."
+    },
+    {
+     "when": "e43",
+     "text": "Sun Liping, oficial de sistemas del equipo de Mandrake. Tras su suicidio en la nave marciana, en el epílogo comparte la simulación con Kovacs, Deprez y Vongsavath."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e14",
+     "with": "kovacs",
+     "text": "Teniente que la elige"
+    },
+    {
+     "when": "e21",
+     "with": "kovacs",
+     "text": "Teniente con el que viaja en moto gravítica"
+    },
+    {
+     "when": "e34",
+     "with": "kovacs",
+     "text": "Teniente que no logró impedir su suicidio"
+    },
+    {
+     "when": "e14",
+     "with": "hand",
+     "text": "Ejecutivo que compró su pila"
+    },
+    {
+     "when": "e14",
+     "with": "vongsavath",
+     "text": "Piloto del equipo"
+    },
+    {
+     "when": "e23",
+     "with": "hansen",
+     "text": "Compañero con el que vigila los centinelas"
+    },
+    {
+     "when": "e30",
+     "with": "hand",
+     "text": "Ejecutivo al que explica los daños de la boya"
+    },
+    {
+     "when": "e29",
+     "with": "vongsavath",
+     "text": "Piloto a la que pide colocar la Nagini"
+    },
+    {
+     "when": "e43",
+     "with": "vongsavath",
+     "text": "Compañera de la simulación a bordo del blindado"
+    },
+    {
+     "when": "e43",
+     "with": "deprez",
+     "text": "Compañero de la simulación a bordo del blindado"
+    }
+   ],
+   "seen": [
+    14,
+    18,
+    20,
+    21,
+    23,
+    26,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    43
+   ]
+  },
+  {
+   "id": "vongsavath",
+   "name": "Ameli Vongsavath",
+   "aliases": [
+    "Vongsavath",
+    "Ameli"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Ameli Vongsavath, mujer de nariz aguileña y conectores plateados en la nuca que cuenta cómo pilotó un avión herido."
+    },
+    {
+     "when": "e14",
+     "text": "Ameli Vongsavath, piloto con simbionte de vuelo. Voló en manual tras un ataque sobre Ciudad Bootkinaree gracias a su alto umbral del dolor, y Kovacs la elige para la expedición."
+    },
+    {
+     "when": "e18",
+     "text": "Ameli Vongsavath, piloto del equipo de Mandrake. Pilota la nave de asalto Nagini con maniobras evasivas y aterriza en la playa de Dangrek."
+    },
+    {
+     "when": "e24",
+     "text": "Ameli Vongsavath, piloto de la Nagini. Eleva la nave a cinco mil metros con Kovacs y Hand y descubre una boya de Mandrake entre la carga tras una explosión."
+    },
+    {
+     "when": "e34",
+     "text": "Ameli Vongsavath, piloto de la Nagini a la que Kovacs ha quitado la nave minándola; cae aturdida por él en el ataque marciano."
+    },
+    {
+     "when": "e40",
+     "text": "Ameli Vongsavath, piloto del equipo de Mandrake. Ayuda a Kovacs a escapar de los inhibidores y a atacar al Cuño."
+    },
+    {
+     "when": "e42",
+     "text": "Ameli Vongsavath, piloto del equipo de Mandrake. Lleva el blindado del Cuño desde Dangrek hasta Excavación 27 en quince minutos pese a la radiación y vigila a los técnicos."
+    },
+    {
+     "when": "e43",
+     "text": "Ameli Vongsavath, piloto del equipo de Mandrake. En el epílogo viaja con Kovacs a bordo del Virtud de Angin Chandra y sale de la simulación para revisar sistemas."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e14",
+     "with": "kovacs",
+     "text": "Teniente que la elige"
+    },
+    {
+     "when": "e34",
+     "with": "kovacs",
+     "text": "Teniente que voló su nave"
+    },
+    {
+     "when": "e42",
+     "with": "kovacs",
+     "text": "Compañero herido al que lleva en el blindado"
+    },
+    {
+     "when": "e18",
+     "with": "schneider",
+     "text": "Piloto civil con el que bromea sobre la nave"
+    },
+    {
+     "when": "e34",
+     "with": "schneider",
+     "text": "Piloto civil que le robó la nave y murió"
+    },
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Arqueóloga que no quiere hablar con ella"
+    },
+    {
+     "when": "e42",
+     "with": "djoko",
+     "text": "Anfitrión cuyos técnicos supervisa"
+    },
+    {
+     "when": "e14",
+     "with": "hand",
+     "text": "Ejecutivo que compró su pila"
+    },
+    {
+     "when": "e19",
+     "with": "sutjiadi",
+     "text": "Capitán que le ordena quedarse arriba"
+    },
+    {
+     "when": "e32",
+     "with": "deprez",
+     "text": "Compañero de exploración de la nave marciana"
+    },
+    {
+     "when": "e29",
+     "with": "sun",
+     "text": "Oficial de sistemas que le pide colocar la Nagini sobre la cueva"
+    },
+    {
+     "when": "e21",
+     "with": "cruickshank",
+     "text": "Compañera de burbuja"
+    },
+    {
+     "when": "e37",
+     "with": "hand",
+     "text": "Ejecutivo al que Carrera mató ante ella"
+    },
+    {
+     "when": "e38",
+     "with": "carrera",
+     "text": "Comandante del Cuño que la tiene prisionera con un inhibidor"
+    },
+    {
+     "when": "e41",
+     "with": "carrera",
+     "text": "Comandante del Cuño al que Kovacs mató"
+    },
+    {
+     "when": "e43",
+     "with": "sun",
+     "text": "Compañera de la simulación a bordo del blindado"
+    },
+    {
+     "when": "e43",
+     "with": "deprez",
+     "text": "Compañero de la simulación a bordo del blindado"
+    }
+   ],
+   "seen": [
+    14,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "id": "semetaire",
+   "name": "Semetaire",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Semetaire, hombre alto y harapiento que da la bienvenida a los visitantes del Mercado de Almas."
+    },
+    {
+     "when": "e12",
+     "text": "Semetaire, tratante del Mercado de Almas, que vende pilas corticales de guerreros elegidos. Negocia con Hand y Kovacs lo amenaza con una pistola."
+    },
+    {
+     "when": "e13",
+     "text": "Semetaire, tratante del Mercado de Almas, que ha adoptado la apariencia de un guédé para dominar a sus competidores, según Hand."
+    },
+    {
+     "when": "e25",
+     "text": "Semetaire, tratante del Mercado de Almas. Kovacs empieza a oír en su cabeza una voz que dice ser Semetaire, aunque no se sabe si es una intrusión o una alucinación."
+    },
+    {
+     "when": "e35",
+     "text": "Semetaire, tratante del Mercado de Almas y voz que acosa a Kovacs. En un sueño de la playa, Kovacs lo mata."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e12",
+     "with": "hand",
+     "text": "Ejecutivo al que vende pilas"
+    },
+    {
+     "when": "e12",
+     "with": "kovacs",
+     "text": "Cliente que le apunta con una pistola"
+    },
+    {
+     "when": "e25",
+     "with": "kovacs",
+     "text": "Emisario al que habla desde dentro de la cabeza"
+    },
+    {
+     "when": "e35",
+     "with": "kovacs",
+     "text": "Emisario que lo mata en un sueño"
+    },
+    {
+     "when": "e13",
+     "with": "hand",
+     "text": "Ejecutivo que dice que adoptó la apariencia de un guédé para dominar a sus competidores"
+    },
+    {
+     "when": "e12",
+     "with": "pravet",
+     "text": "Competidor al que acusa de vender producto sin cribar"
+    }
+   ],
+   "seen": [
+    12
+   ]
+  },
+  {
+   "id": "loemanako",
+   "name": "Tony Loemanako",
+   "aliases": [
+    "Loemanako",
+    "Tony",
+    "Naki"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Tony Loemanako, soldado herido con la cara destrozada que saluda a Kovacs en la cubierta axial del hospital orbital."
+    },
+    {
+     "when": "e2",
+     "text": "Tony Loemanako, soldado del Cuño de la sección 391, con la cara destrozada y regenerándose con bios rápidos en el hospital orbital."
+    },
+    {
+     "when": "e36",
+     "text": "Tony Loemanako, sargento del Cuño de la sección 391. Dirige el traslado de los supervivientes desde el acorazado marciano al campamento base de Carrera."
+    },
+    {
+     "when": "e37",
+     "text": "Tony Loemanako, suboficial del Cuño de la sección 391 que usa un traje de movilidad por una vieja herida. Controla al comisario Lamont y entrega su cuchillo a Carrera, que lo emplea para matar a Hand."
+    },
+    {
+     "when": "e39",
+     "text": "Tony Loemanako, suboficial del Cuño de la sección 391. Kovacs lo mata de un golpe en la garganta para quitarle el traje de movilidad."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e2",
+     "with": "kovacs",
+     "text": "Teniente al que saluda con alegría"
+    },
+    {
+     "when": "e36",
+     "with": "kovacs",
+     "text": "Teniente al que traslada y consuela"
+    },
+    {
+     "when": "e39",
+     "with": "kovacs",
+     "text": "Teniente que lo mata para fugarse"
+    },
+    {
+     "when": "e36",
+     "with": "carrera",
+     "text": "Comandante al que obedece"
+    },
+    {
+     "when": "e37",
+     "with": "lamont",
+     "text": "Comisario político al que ata con cableado"
+    },
+    {
+     "when": "e2",
+     "with": "kwok",
+     "text": "Compañera herida de la sección 391"
+    },
+    {
+     "when": "e2",
+     "with": "munharto",
+     "text": "Compañero herido de la sección 391"
+    }
+   ],
+   "seen": [
+    2,
+    36,
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "id": "djoko",
+   "name": "Djoko Roespinoedji",
+   "aliases": [
+    "Djoko Roespinoedji",
+    "Roespinoedji",
+    "Djoko"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Djoko Roespinoedji, niño de ocho años en brazos de un hombre muerto, que recibe a Schneider y a sus amigos en Excavación 27."
+    },
+    {
+     "when": "e6",
+     "text": "Djoko Roespinoedji, traficante con aspecto de niño de ocho años que vive en Excavación 27, rodeado de guardias cadáveres y dos mujeres artificiales. Compra la lanzadera de Schneider por seis millones de behas."
+    },
+    {
+     "when": "e42",
+     "text": "Djoko Roespinoedji, joven empresario de Excavación 27. Compra a Kovacs el relato y la nave marciana, y ofrece esconder a Wardani y conseguirle una funda nueva."
+    },
+    {
+     "when": "e43",
+     "text": "Djoko Roespinoedji, empresario de Excavación 27 cuyos técnicos prepararon la simulación a bordo del Virtud de Angin Chandra y la ralentizaron todo lo posible; Kovacs guarda parte del dinero en un banco de Ciudad Latimer."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e6",
+     "with": "schneider",
+     "text": "Viejo amigo al que compra la lanzadera"
+    },
+    {
+     "when": "e42",
+     "with": "kovacs",
+     "text": "Emisario que le vende la nave marciana"
+    },
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Arqueóloga a la que acoge y esconde"
+    },
+    {
+     "when": "e6",
+     "with": "ivanna",
+     "text": "Mujer artificial que lo acompaña"
+    },
+    {
+     "when": "e6",
+     "with": "kas",
+     "text": "Mujer artificial que lo acompaña"
+    },
+    {
+     "when": "e6",
+     "with": "kovacs",
+     "text": "Emisario que le presenta Schneider"
+    },
+    {
+     "when": "e42",
+     "with": "vongsavath",
+     "text": "Piloto que vigila a sus técnicos"
+    },
+    {
+     "when": "e43",
+     "with": "kovacs",
+     "text": "Emisario al que preparó con sus técnicos la simulación del viaje a Latimer"
+    }
+   ],
+   "seen": [
+    6,
+    42
+   ]
+  },
+  {
+   "id": "kemp",
+   "name": "Joshua Kemp",
+   "aliases": [
+    "Kemp"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Joshua Kemp, líder revolucionario que alzó su estandarte en Ciudad Índigo y combate a las fuerzas del Protectorado en Sanción IV."
+    },
+    {
+     "when": "e2",
+     "text": "Joshua Kemp, líder revolucionario de Sanción IV. Sus fuerzas ganan terreno en el noreste y, según Kovacs, aun así acabará perdiendo la guerra."
+    },
+    {
+     "when": "e16",
+     "text": "Joshua Kemp, líder revolucionario de Sanción IV cuyos seguidores, los kempistas, han lanzado una bomba merodeadora de alta potencia sobre Sauberville y han matado a toda su población."
+    },
+    {
+     "when": "e25",
+     "text": "Joshua Kemp, líder revolucionario de Sanción IV. No es qüelista, aunque bebe del qüelismo, tiene un ego enorme y expulsó a la Hermandad Carrefour de Ciudad Índigo."
+    },
+    {
+     "when": "e38",
+     "text": "Joshua Kemp, líder revolucionario de Sanción IV que evacúa sus fuerzas por mar a los estrechos de Wacharin. Según Carrera, bombardeó Sauberville engañado por la desinformación de Hand."
+    },
+    {
+     "when": "e42",
+     "text": "Joshua Kemp, líder revolucionario de Sanción IV, del que Kovacs fue asesor militar antes de cambiar de bando. Es alto y tan convencido de sí mismo como Carrera y Hand; su guardia revolucionaria mató a Deng."
+    },
+    {
+     "when": "e43",
+     "text": "Joshua Kemp, líder revolucionario de Sanción IV. Los qüelistas querrán saber por qué Kovacs no pudo manipularlo según sus designios para el sector de Latimer y por qué cambió de bando en el momento crítico."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e2",
+     "with": "carrera",
+     "text": "Enemigo del Cuño en la guerra"
+    },
+    {
+     "when": "e38",
+     "with": "hand",
+     "text": "Instrumento: Hand lo manipuló con desinformación para que bombardeara Sauberville"
+    },
+    {
+     "when": "e42",
+     "with": "kovacs",
+     "text": "Asesor militar que lo abandonó para pasarse al Cuño"
+    },
+    {
+     "when": "e42",
+     "with": "deng",
+     "text": "Agente de Mandrake al que sus hombres eliminaron"
+    },
+    {
+     "when": "e1",
+     "with": "cuno",
+     "text": "Ejército mercenario que lo combate"
+    },
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Arqueóloga que simpatizaba con su causa, se unió a su expedición y acabó matando a sus miembros"
+    }
+   ]
+  },
+  {
+   "id": "lapinee",
+   "name": "Lapinee",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Lapinee, cantante que aparece en una pantalla de vídeo con un himno de reclutamiento ante el cañón de un tanque."
+    },
+    {
+     "when": "e7",
+     "text": "Lapinee, cantante artificial de la propaganda del Gobierno que canta una versión aséptica del himno kempista, y cuyas imitaciones se oyen en todas las calles."
+    }
+   ]
+  },
+  {
+   "id": "veutin",
+   "name": "Perro Veutin",
+   "aliases": [
+    "Perro Veutin",
+    "Veutin"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Perro Veutin, hombre de uniforme del Cuño cuyo rostro Hand muestra en una pantalla."
+    },
+    {
+     "when": "e14",
+     "text": "Perro Veutin, oficial del Cuño al que Sutjiadi mató de un disparo en la nuca por ordenarle aniquilar a sus tropas; Kovacs lo recuerda con desprecio."
+    },
+    {
+     "when": "e38",
+     "text": "Perro Veutin, teniente del Cuño asesinado por Sutjiadi con su propia Sunjet; Carrera lo recuerda como un buen soldado, Kovacs como un gilipollas."
+    }
+   ]
+  },
+  {
+   "id": "bradwell",
+   "name": "Bradwell",
+   "summary": [
+    {
+     "when": "s38",
+     "text": "Bradwell, sargento del pelotón del teniente Veutin a la que Carrera menciona entre las víctimas de Sutjiadi."
+    }
+   ]
+  },
+  {
+   "id": "kwok",
+   "name": "Kwok Yuen Yee",
+   "aliases": [
+    "Kwok"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Kwok Yuen Yee, soldado herido con las cuencas oculares llenas de jalea de cultivo y una microcámara para ver."
+    },
+    {
+     "when": "e2",
+     "text": "Kwok Yuen Yee, soldado del Cuño de la sección 391, convaleciente en el hospital orbital: le están creciendo los ojos y las manos."
+    },
+    {
+     "when": "e36",
+     "text": "Kwok Yuen Yee, soldado del Cuño de la sección 391, ya recuperada, de guardia en el campamento base de Carrera junto al portal."
+    },
+    {
+     "when": "e40",
+     "text": "Kwok Yuen Yee, soldado del Cuño de la sección 391, muerta: Kovacs le dispara en la cara cuando ella lo reconoce y se incorpora."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e2",
+     "with": "kovacs",
+     "text": "Teniente de su sección"
+    },
+    {
+     "when": "e40",
+     "with": "kovacs",
+     "text": "Teniente que la mató por sorpresa"
+    },
+    {
+     "when": "e2",
+     "with": "loemanako",
+     "text": "Compañero de la sección 391 herido como ella"
+    },
+    {
+     "when": "e36",
+     "with": "carrera",
+     "text": "Comandante al que sirve"
+    },
+    {
+     "when": "e2",
+     "with": "munharto",
+     "text": "Compañero herido de la sección 391"
+    },
+    {
+     "when": "e36",
+     "with": "loemanako",
+     "text": "Sargento que le da órdenes"
+    }
+   ],
+   "seen": [
+    2,
+    36,
+    37,
+    40
+   ]
+  },
+  {
+   "id": "munharto",
+   "name": "Eddie Munharto",
+   "aliases": [
+    "Munharto",
+    "Eddie"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Eddie Munharto, soldado herido sostenido en un traje de movilidad, al que le regeneran el brazo derecho y las dos piernas."
+    },
+    {
+     "when": "e2",
+     "text": "Eddie Munharto, soldado del Cuño de la sección 391 en el hospital orbital; dice que la sección estará lista en unos meses."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e2",
+     "with": "kovacs",
+     "text": "Teniente de su sección"
+    },
+    {
+     "when": "e2",
+     "with": "loemanako",
+     "text": "Compañero de la sección 391 herido como él"
+    },
+    {
+     "when": "e36",
+     "with": "loemanako",
+     "text": "Sargento que le da órdenes"
+    },
+    {
+     "when": "e2",
+     "with": "kwok",
+     "text": "Compañera herida de la sección 391"
+    }
+   ],
+   "seen": [
+    2
+   ]
+  },
+  {
+   "id": "mitchell",
+   "name": "Sandor Mitchell",
+   "aliases": [
+    "Mitchell"
+   ],
+   "summary": [
+    {
+     "when": "s36",
+     "text": "Sandor Mitchell, soldado del Cuño al que Loemanako ordena quedarse armado junto al portal y al que Carrera describe como aficionado a la arqueología."
+    }
+   ]
+  },
+  {
+   "id": "sabyrov",
+   "name": "Sabyrov",
+   "summary": [
+    {
+     "when": "s36",
+     "text": "Sabyrov, soldado del Cuño al que Loemanako ordena volver armado a los quince minutos."
+    }
+   ]
+  },
+  {
+   "id": "artola",
+   "name": "Artola",
+   "summary": [
+    {
+     "when": "s40",
+     "text": "Artola, soldado del Cuño al que se refiere una suboficial del vestuario de la playa."
+    }
+   ]
+  },
+  {
+   "id": "hammad",
+   "name": "Hammad",
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Hammad, hombre del Cuño al que Carrera ordena llevar el trozo de columna de Hand para cobrar una bonificación."
+    }
+   ]
+  },
+  {
+   "id": "phibun",
+   "name": "Phibun",
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Phibun, comisario político de otro tiempo al que, según Loemanako, se daban palizas antes de que se impusiera el cableado."
+    }
+   ]
+  },
+  {
+   "id": "portillo",
+   "name": "Portillo",
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Portillo, otro comisario político al que el Cuño trataba a palizas antes del cableado."
+    }
+   ]
+  },
+  {
+   "id": "lamont",
+   "name": "Lamont",
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Lamont, comisario político astroso con temblores de cableado que insulta a Kovacs desde un montacargas del campamento de Carrera."
+    },
+    {
+     "when": "e37",
+     "text": "Lamont, comisario político del Cuño sometido por Loemanako: lo enchufan a una toma de corriente y pierde las ganas de predicar el Pensamiento Correcto."
+    },
+    {
+     "when": "e38",
+     "text": "Lamont, comisario político del Cuño cuyo equipo de escucha usa Carrera para espiar a los prisioneros de Kovacs."
+    },
+    {
+     "when": "e41",
+     "text": "Lamont, comisario político del Cuño, muerto. Confiesa a Kovacs que lo oyó y no lo denunció, y este le dispara en el pecho."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e37",
+     "with": "carrera",
+     "text": "Comandante cuyos hombres lo mantienen sometido"
+    },
+    {
+     "when": "e37",
+     "with": "loemanako",
+     "text": "Suboficial que lo castiga con el cableado"
+    },
+    {
+     "when": "e41",
+     "with": "kovacs",
+     "text": "Emisario que lo mató en la playa tras oír que no lo había denunciado"
+    }
+   ],
+   "seen": [
+    37,
+    38,
+    41
+   ]
+  },
+  {
+   "id": "deng",
+   "name": "Deng Zhao Jun",
+   "aliases": [
+    "Deng"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Deng Zhao Jun, hombre sentado a una mesa en una simulación al que Kovacs interroga."
+    },
+    {
+     "when": "e8",
+     "text": "Deng Zhao Jun, agente de seguridad de Mandrake. Kovacs extrae su pila y lo interroga virtualmente: confiesa que su jefe Matthias Hand lo envió a capturar la señal."
+    },
+    {
+     "when": "e16",
+     "text": "Deng Zhao Jun, jefe de operaciones de seguridad de Mandrake que perseguía a Kovacs y a Wardani. Hand cuenta que desapareció con su vehículo en un centro comercial de Arribo."
+    },
+    {
+     "when": "e42",
+     "text": "Deng Zhao Jun, agente de seguridad de Mandrake muerto: los hombres duros de Kemp lo mataron con la pila quemada cuando husmeaba, según Wardani."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e8",
+     "with": "hand",
+     "text": "Jefe para el que trabajaba"
+    },
+    {
+     "when": "e8",
+     "with": "kovacs",
+     "text": "Interrogador que le sacó la pila"
+    },
+    {
+     "when": "e16",
+     "with": "wardani",
+     "text": "Arqueóloga a la que seguía junto a Kovacs"
+    },
+    {
+     "when": "e42",
+     "with": "kemp",
+     "text": "Revolucionario cuyos hombres lo mataron cuando husmeaba"
+    },
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Arqueóloga que había avisado a la guardia que lo mató"
+    }
+   ]
+  },
+  {
+   "id": "martin",
+   "name": "Martin",
+   "summary": [
+    {
+     "when": "s38",
+     "text": "Martin, médico del Cuño que trata el brazo roto de Kovacs en la enfermería de la playa."
+    },
+    {
+     "when": "e38",
+     "text": "Martin, médico del Cuño que trata el brazo roto de Kovacs con bios de regeneración. Pelea con su compañera Zeyneb y le deja unos parches de endorfinas."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e38",
+     "with": "zeyneb",
+     "text": "Colega a la que reprende"
+    },
+    {
+     "when": "e38",
+     "with": "kovacs",
+     "text": "Paciente cuyo brazo roto trata"
+    }
+   ],
+   "seen": [
+    38
+   ]
+  },
+  {
+   "id": "zeyneb",
+   "name": "Zeyneb",
+   "summary": [
+    {
+     "when": "s38",
+     "text": "Zeyneb, médica de expresión severa que asiste a Martin ante la cama de Kovacs."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e38",
+     "with": "martin",
+     "text": "Colega con el que discute por los parches de endorfinas"
+    },
+    {
+     "when": "e38",
+     "with": "kovacs",
+     "text": "Paciente al que aconseja no tomar demasiados parches"
+    }
+   ],
+   "seen": [
+    38
+   ]
+  },
+  {
+   "id": "ivanna",
+   "name": "Ivanna",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Ivanna, mujer artificial que acompaña a Djoko en el sofá y le da de comer sin hablar."
+    }
+   ]
+  },
+  {
+   "id": "kas",
+   "name": "Kas",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Kas, mujer artificial que acompaña a Djoko, de aspecto decorativo, y le pasa el vino sin hablar."
+    }
+   ]
+  },
+  {
+   "id": "mataran",
+   "name": "Lucia Mataran",
+   "aliases": [
+    "Mataran"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Lucia Mataran, teniente coronel del alto mando del Protectorado, cuya forma física sirve de modelo al avatar que recibe a Kovacs en la simulación de recuperación."
+    }
+   ]
+  },
+  {
+   "id": "mendel",
+   "name": "Mendel",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Mendel, piloto del gremio que figura como enlace de transporte en el manifiesto de la lanzadera, aunque la cara era la de Schneider."
+    }
+   ]
+  },
+  {
+   "id": "wycinski",
+   "name": "Wycinski",
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Wycinski, académico al que Wardani cita en su teoría sobre los marcianos."
+    },
+    {
+     "when": "e5",
+     "text": "Wycinski, arqueólogo disidente que veía a los marcianos como atomistas ajenos a la idea de hegemonía. El Gremio le retiró la financiación y ocultó sus hallazgos; otros usaron su trabajo para la teoría del núcleo."
+    },
+    {
+     "when": "e23",
+     "text": "Wycinski, arqueólogo disidente que se metió en líos con el Gremio. Sostenía que la tecnología marciana, como los refugios para tormentas, estaba hecha para que cualquier marciano la usara: un «tecnoacceso democrático desnudo» que probaba la unidad de la especie."
+    },
+    {
+     "when": "e42",
+     "text": "Wycinski, arqueólogo disidente que lleva un siglo investigando en Bradbury con una sinecura; Wardani teme que muera al ver que los marcianos también hicieron guerras. Kovacs reconoce que a veces habla como él."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e5",
+     "with": "wardani",
+     "text": "Arqueóloga que defiende sus ideas"
+    },
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Antigua colega de Bradbury y la Tierra de Nkrumah"
+    },
+    {
+     "when": "e5",
+     "with": "carter",
+     "text": "Académico que se aprovechó de su trabajo"
+    },
+    {
+     "when": "e5",
+     "with": "bogdanovich",
+     "text": "Académico que se aprovechó de su trabajo"
+    },
+    {
+     "when": "e5",
+     "with": "gremio",
+     "text": "Organización que le retiró la financiación"
+    },
+    {
+     "when": "e23",
+     "with": "gremio",
+     "text": "Organización con la que se metió en líos"
+    }
+   ]
+  },
+  {
+   "id": "carter",
+   "name": "Carter",
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Carter, académico que, con Bogdanovich, aprovechó el trabajo de Wycinski para la teoría del núcleo."
+    }
+   ]
+  },
+  {
+   "id": "bogdanovich",
+   "name": "Bogdanovich",
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Bogdanovich, académico que, con Carter, aprovechó el trabajo de Wycinski para la teoría del núcleo, y que según Wardani apeló al sentido común."
+    }
+   ]
+  },
+  {
+   "id": "gretzky",
+   "name": "Gretzky",
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Gretzky, arqueólogo juzgado por el Gremio cuando Kovacs era adolescente en el Mundo de Harlan; su retractación usó la fórmula «intrínseca e irreconciliablemente inhumano»."
+    },
+    {
+     "when": "e32",
+     "text": "Gretzky, arqueólogo del Gremio que se retractó en un juicio famoso y que años antes escribió sobre el impacto indirecto del hallazgo marciano en la visión que la humanidad tenía de sí."
+    }
+   ]
+  },
+  {
+   "id": "minoru",
+   "name": "Minoru",
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Minoru, arqueólogo juzgado junto a Gretzky por el Gremio cuando Kovacs era adolescente en el Mundo de Harlan."
+    }
+   ]
+  },
+  {
+   "id": "ferrer",
+   "name": "Ferrer",
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Ferrer, teórico que firma con Yoshimoto la teoría de la ética de rapaz de los marcianos que cita Wardani."
+    }
+   ]
+  },
+  {
+   "id": "yoshimoto",
+   "name": "Yoshimoto",
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Yoshimoto, teórico que firma con Ferrer la teoría de la ética de rapaz de los marcianos que cita Wardani."
+    }
+   ]
+  },
+  {
+   "id": "vasvik",
+   "name": "Vasvik",
+   "summary": [
+    {
+     "when": "s32",
+     "text": "Vasvik, teórico que, con Lai, propuso que la secreción alcalina de los marcianos servía para mantener limpias las barras de posado."
+    }
+   ]
+  },
+  {
+   "id": "lai",
+   "name": "Lai",
+   "summary": [
+    {
+     "when": "s32",
+     "text": "Lai, teórico que, con Vasvik, propuso que la secreción alcalina de los marcianos servía para mantener limpias las barras de posado."
+    }
+   ]
+  },
+  {
+   "id": "aribowo",
+   "name": "Pharintorn Aribowo",
+   "aliases": [
+    "Aribowo",
+    "Pharintorn"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Aribowo, arqueólogo cualificado del antiguo equipo de Wardani, al que ella recuerda junto a Weng."
+    },
+    {
+     "when": "e30",
+     "text": "Pharintorn Aribowo, especialista en glifos de la excavación de Dangrek, muerto: su cadáver aparece en la nave marciana, con el oxígeno del traje agotado."
+    },
+    {
+     "when": "e42",
+     "text": "Pharintorn Aribowo, especialista en glifos de la expedición financiada por los kempistas. Descubrió la batería de armas de la nave y, según Wardani, la expedición cambió de actitud."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Arqueóloga que cerró el portal dejándolos fuera"
+    }
+   ]
+  },
+  {
+   "id": "weng",
+   "name": "Weng Xiaodong",
+   "aliases": [
+    "Weng"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Weng, arqueólogo del antiguo equipo de Wardani al que ella cita con Aribowo."
+    },
+    {
+     "when": "e30",
+     "text": "Weng Xiaodong, teórico de glifos del equipo de Wardani, muerto: se suicidó perforando su casco con un cortador láser en la nave marciana."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Arqueóloga que cerró el portal dejándolos fuera"
+    }
+   ]
+  },
+  {
+   "id": "techakriengkrai",
+   "name": "Techakriengkrai",
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Techakriengkrai, arqueólogo muy bueno que Wardani nombra entre los de su antiguo equipo."
+    }
+   ]
+  },
+  {
+   "id": "dhasanapongsakul",
+   "name": "Tomas Dhasanapongsakul",
+   "aliases": [
+    "Tomas Dhasanapongsakul",
+    "Dhasanapongsakul"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Tomas Dhasanapongsakul, miembro de una expedición anterior cuyos restos recoge Kovacs en el espacio."
+    },
+    {
+     "when": "e42",
+     "text": "Tomas Dhasanapongsakul, miembro de la expedición kempista de Aribowo, muerto: Wardani lo empujó de vuelta por el portal, lo cerró y lo dejó fuera sin aire."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e42",
+     "with": "wardani",
+     "text": "Arqueóloga que lo empujó por el portal y lo dejó fuera"
+    },
+    {
+     "when": "e42",
+     "with": "kemp",
+     "text": "Líder revolucionario que financió su expedición"
+    }
+   ]
+  },
+  {
+   "id": "hayashi",
+   "name": "Toru Hayashi",
+   "aliases": [
+    "Hayashi"
+   ],
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Toru Hayashi, autor de un relato de Innenin que Jiang elogia: es fiel, pero él no estuvo allí."
+    }
+   ]
+  },
+  {
+   "id": "brankovitch",
+   "name": "Brankovitch",
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Brankovitch, autor del libro Filtración de la riqueza en economías de guerra, que Hand recomienda a Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "mhlongo",
+   "name": "Mhlongo",
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Mhlongo, artista de paisajes tecnomilitares de pesadilla a quien Kovacs compara con la estructura del portal."
+    }
+   ]
+  },
+  {
+   "id": "osupile",
+   "name": "Osupile",
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Osupile, artista de paisajes tecnomilitares de pesadilla a quien Kovacs compara con la estructura del portal."
+    }
+   ]
+  },
+  {
+   "id": "pravet",
+   "name": "Pravet",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Pravet, vendedor del Mercado de Almas al que Hand recurrió la última vez y al que Semetaire acusa de comerciar con producto sin cribar."
+    }
+   ]
+  },
+  {
+   "id": "chang",
+   "name": "Chang",
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Chang, el viejo dueño del barco pesquero que ven anclado a Cruickshank y a Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "randall",
+   "name": "Randall",
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Randall, jefe de los comandos de vacío con los que Kovacs se desplegó en una luna externa de Adoración."
+    }
+   ]
+  },
+  {
+   "id": "quell",
+   "name": "Quell",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Quellcrist Falconer, 'Quell', pensadora, soldado y revolucionaria del Mundo de Harlan, de la que toman el nombre los qüelistas."
+    },
+    {
+     "when": "e15",
+     "text": "Quellcrist Falconer, 'Quell', pensadora y revolucionaria del Mundo de Harlan. Su único credo era «afronta los hechos», y desapareció en la última batalla de Millsport."
+    },
+    {
+     "when": "e25",
+     "text": "Quellcrist Falconer, 'Quell', pensadora y revolucionaria del Mundo de Harlan. Kovacs corrige una cita falsa de los neoqüelistas: lo que escribió sobre Dios y los tiranos está en sus Diarios de campaña."
+    },
+    {
+     "when": "e41",
+     "text": "Quellcrist Falconer, 'Quell', pensadora y revolucionaria del Mundo de Harlan. Kovacs cita sus frases ante Carrera, que la llama terrorista, y responde que era soldado, no filósofa."
+    }
+   ]
+  },
+  {
+   "id": "virginia",
+   "name": "Virginia Vidaura",
+   "aliases": [
+    "Vidaura",
+    "Virginia"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Virginia Vidaura, antigua instructora de Kovacs en el Cuerpo de Emisarios, cuyos consejos de supervivencia conserva."
+    }
+   ]
+  },
+  {
+   "id": "jimmy",
+   "name": "Jimmy de Soto",
+   "aliases": [
+    "Jimmy de Soto",
+    "Jimmy",
+    "Soto"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Jimmy de Soto, camarada de Kovacs en el Cuerpo de Emisarios, muerto por un ataque vírico que le hizo arrancarse un ojo."
+    },
+    {
+     "when": "e2",
+     "text": "Jimmy de Soto, camarada de Kovacs en el Cuerpo de Emisarios, muerto en Innenin mientras Kovacs intentaba liberarlo: lo mataron las heridas y gritaba."
+    },
+    {
+     "when": "e14",
+     "text": "Jimmy de Soto, camarada de Kovacs en el Cuerpo de Emisarios, muerto en Innenin por el virus Rawling, que le empujó a arrancarse un ojo."
+    }
+   ]
+  },
+  {
+   "id": "konrad",
+   "name": "Konrad Harlan",
+   "aliases": [
+    "Konrad Harlan",
+    "Konrad",
+    "Konrad Harían"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Konrad Harlan, jefe de la flota original de barcazas colonizadoras del Mundo de Harlan, de cuyas naves Kovacs ha visto vestigios."
+    },
+    {
+     "when": "e33",
+     "text": "Konrad Harlan, jefe de la flota original de barcazas colonizadoras del Mundo de Harlan, cuya flota fracasó en su único intento de atacar Millsport en helicópteros de combate."
+    }
+   ]
+  },
+  {
+   "id": "nozavva",
+   "name": "Micky Nozavva",
+   "aliases": [
+    "Nozavva"
+   ],
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Micky Nozavva, figura de la experia cuya postura de lucha, de la película Demonios con puños de sirena, imita Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "armstrong",
+   "name": "Armstrong",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Neil Armstrong, primer ser humano en pisar la Luna en 1969."
+    }
+   ]
+  },
+  {
+   "id": "gagarin",
+   "name": "Gagarin",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Yuri Gagarin, primer ser humano en el espacio, en 1961."
+    }
+   ]
+  },
+  {
+   "id": "laotse",
+   "name": "Lao-Tse",
+   "aliases": [
+    "Lao-Tse"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Lao-Tse, filósofo chino de la antigüedad al que se atribuye el taoísmo."
+    }
+   ]
+  },
+  {
+   "id": "confucio",
+   "name": "Confucio",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Confucio, filósofo y maestro chino de la antigüedad."
+    }
+   ]
+  },
+  {
+   "id": "jesucristo",
+   "name": "Jesucristo",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Jesucristo, figura central del cristianismo."
+    }
+   ]
+  },
+  {
+   "id": "mahoma",
+   "name": "Mahoma",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Mahoma, profeta del islam."
+    }
+   ]
+  },
+  {
+   "id": "icaro",
+   "name": "Ícaro",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Ícaro, personaje de la mitología griega que voló con alas de cera y plumas y cayó al acercarse demasiado al Sol."
+    }
+   ]
+  },
+  {
+   "id": "samedi",
+   "name": "Samedi",
+   "summary": [
+    {
+     "when": "s25",
+     "text": "Samedi, nombre de un espíritu del vudú por el que juran Schneider y otros soldados."
+    }
+   ]
+  },
+  {
+   "id": "dambala",
+   "name": "Dambala",
+   "summary": [
+    {
+     "when": "s23",
+     "text": "Dambala, espíritu del vudú por el que jura Hand cuando algo lo alarma."
+    }
+   ]
+  },
+  {
+   "id": "ogon",
+   "name": "Ogon",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Ogon, divinidad del hierro y de la guerra en el vudú; sus «elegidos» son los guerreros cuyas pilas vende Semetaire."
+    }
+   ]
+  },
+  {
+   "id": "protectorado",
+   "name": "Protectorado",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Estructura política y militar que gobierna los mundos colonizados por la humanidad; recluta soldados y emisarios y paga en onudólares."
+    },
+    {
+     "when": "s1",
+     "text": "Protectorado, poder que gobierna los mundos colonizados. En Sanción IV no admite tener presencia oficial: el gobierno planetario dice que la guerra de Kemp es un asunto interno y las corporaciones alquilan las naves del Protectorado."
+    }
+   ]
+  },
+  {
+   "id": "onu",
+   "name": "ONU",
+   "aliases": [
+    "Naciones Unidas"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Organización de las Naciones Unidas, que en este futuro tiene tribunales y dicta marcos legales."
+    },
+    {
+     "when": "e5",
+     "text": "ONU, Organización de las Naciones Unidas, que votó un incremento del presupuesto de estrategia del Protectorado apoyándose en la teoría del núcleo."
+    }
+   ]
+  },
+  {
+   "id": "cuno",
+   "name": "Cuño de Carrera",
+   "aliases": [
+    "Cuño de Carrera",
+    "Cuño"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Cuño de Carrera, ejército mercenario fundado por Isaac Carrera para el que combaten Kovacs y otros exemisarios en Sanción IV; guarda bancos de clones para su personal imprescindible."
+    },
+    {
+     "when": "e36",
+     "text": "Cuño de Carrera, ejército mercenario de Isaac Carrera, con base en un blindado en la playa de Dangrek. Sus soldados llevan genes de lobo, que les dan lealtad a la manada, y entre ellos están Loemanako y Kwok."
+    },
+    {
+     "when": "e38",
+     "text": "Cuño de Carrera, ejército mercenario de Isaac Carrera. Castiga con ejecuciones rituales en el anatomizador a quien mate a uno de los suyos, y tiene a sus comisarios políticos sometidos por cableado."
+    },
+    {
+     "when": "e41",
+     "text": "Cuño de Carrera, ejército mercenario de Sanción IV. Kovacs ha matado a su comandante Isaac Carrera y a un centenar de sus soldados en la playa de Dangrek."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e1",
+     "with": "carrera",
+     "text": "Fundador y comandante"
+    },
+    {
+     "when": "e36",
+     "with": "kovacs",
+     "text": "Teniente que vuelve a él tras la nave marciana"
+    },
+    {
+     "when": "e40",
+     "with": "kovacs",
+     "text": "Teniente desertor que masacró a un centenar de sus soldados"
+    }
+   ]
+  },
+  {
+   "id": "cunouno",
+   "name": "Cuño Uno",
+   "aliases": [
+    "Cuño Uno"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Cuño Uno, depósito del Cuño de Carrera donde se guarda la consciencia de un herido mientras reparan su funda; su servicio virtual atiende con avatares."
+    }
+   ]
+  },
+  {
+   "id": "comandosvacio",
+   "name": "Comandos de Vacío",
+   "aliases": [
+    "Comandos de Vacío"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Comandos de Vacío, unidad militar de combate espacial de la que Carrera fue capitán condecorado."
+    },
+    {
+     "when": "e36",
+     "text": "Comandos de Vacío, unidad militar de combate espacial. Sus hombres y los del Cuño usan trajes con polaleación y areneros para luchar en el vacío."
+    }
+   ]
+  },
+  {
+   "id": "mandrake",
+   "name": "Corporación Mandrake",
+   "aliases": [
+    "Corporación Mandrake",
+    "Mandrake"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Corporación Mandrake, corporación de segunda fila que Djoko menciona entre las que podrían comprar un hallazgo marciano."
+    },
+    {
+     "when": "e7",
+     "text": "Corporación Mandrake, corporación de investigación con una torre-fortaleza en Arribo, construida pensando en una insurrección armada, y logo de ADN sobre un circuito."
+    },
+    {
+     "when": "e22",
+     "text": "Corporación Mandrake, corporación de Arribo que financia la expedición de Dangrek con Matthias Hand. Es dueña del proyecto de nanobios SPAREN, y sus propios ejecutivos habrían traicionado a Hand."
+    },
+    {
+     "when": "e37",
+     "text": "Corporación Mandrake, corporación de Arribo. Según Carrera, ejecutivos suyos rivales de Hand lo vendieron y le pagaron por el trabajo, y le dieron códigos genéticos y del sistema de nanobios."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e7",
+     "with": "torremandrake",
+     "text": "Sede-fortaleza en Arribo"
+    },
+    {
+     "when": "e8",
+     "with": "hand",
+     "text": "Ejecutivo de adquisiciones"
+    },
+    {
+     "when": "e22",
+     "with": "paren",
+     "text": "Proyecto de nanobios del que es dueña"
+    }
+   ]
+  },
+  {
+   "id": "gremio",
+   "name": "Gremio",
+   "aliases": [
+    "Gremio de Arqueólogos"
+   ],
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Gremio de Arqueólogos, organización académica de la que Wardani es maestra; Kovacs sabe por los juicios de su juventud que protege sus becas con retractaciones."
+    },
+    {
+     "when": "e20",
+     "text": "Gremio de Arqueólogos, organización académica que controla las publicaciones, los fondos y la enseñanza sobre los marcianos. Según Wardani, desprestigió a quienes no apoyaban la versión oficial."
+    }
+   ]
+  },
+  {
+   "id": "cartel",
+   "name": "Cártel",
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Cártel, poder corporativo de Sanción IV que aparece tras el hospital orbital y la guerra."
+    },
+    {
+     "when": "e5",
+     "text": "Cártel, grupo de grandes corporaciones que gana siempre, financia a quien le conviene y puede matar o interrogar a quien se interpone."
+    },
+    {
+     "when": "e29",
+     "text": "Cártel, grupo de grandes corporaciones. Según Hand, el Cuño responde ante él y fue él quien financió el asalto a Danang."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e29",
+     "with": "cuno",
+     "text": "Ejército mercenario que responde ante él"
+    },
+    {
+     "when": "e29",
+     "with": "mandrake",
+     "text": "Corporación a cuyo ejecutivo busca para entrar en él"
+    }
+   ]
+  },
+  {
+   "id": "hermandad",
+   "name": "Hermandad Carrefour",
+   "aliases": [
+    "Hermandad Carrefour",
+    "Carrefour"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Hermandad Carrefour, grupo de extorsionistas con ritos vudú de Latimer, del que se dice que Hand fue houngan."
+    },
+    {
+     "when": "e25",
+     "text": "Hermandad Carrefour, hermandad vudú de Latimer. Sus houngans bendicen tropas y pasan armas a los rebeldes sin que se sepa por quién luchan; Kemp la expulsó de Ciudad Índigo."
+    }
+   ]
+  },
+  {
+   "id": "kempistas",
+   "name": "kempistas",
+   "aliases": [
+    "kempista",
+    "Kempistas"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Kempistas, seguidores de Joshua Kemp, los rebeldes contra los que el Cuño combate en Sanción IV."
+    },
+    {
+     "when": "e16",
+     "text": "Kempistas, seguidores de Joshua Kemp. Han lanzado una bomba merodeadora de alta potencia sobre Sauberville, con cien por cien de bajas, y financiaron en secreto la expedición de Wardani."
+    }
+   ]
+  },
+  {
+   "id": "guardiapresidencial",
+   "name": "Guardia Presidencial",
+   "aliases": [
+    "Guardia Presidencial"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Guardia Presidencial, fuerza de élite de Kemp que gana terreno en el noreste y presiona al Cuño por un flanco."
+    }
+   ]
+  },
+  {
+   "id": "guardiarevolucionaria",
+   "name": "guardia revolucionaria",
+   "aliases": [
+    "guardia revolucionaria"
+   ],
+   "summary": [
+    {
+     "when": "s42",
+     "text": "Guardia revolucionaria, los cuadros duros de Kemp, que según Wardani eliminan a quien husmea y venden su cuerpo por piezas, como a Deng."
+    }
+   ]
+  },
+  {
+   "id": "consejocomercial",
+   "name": "Consejo Comercial del Protectorado",
+   "aliases": [
+    "Consejo Comercial del Protectorado"
+   ],
+   "summary": [
+    {
+     "when": "s11",
+     "text": "Consejo Comercial del Protectorado, órgano en el que Hand quiere un asiento si Mandrake triunfa con el hallazgo."
+    }
+   ]
+  },
+  {
+   "id": "directiva",
+   "name": "Directiva de Fuerzas de Emergencia",
+   "aliases": [
+    "Directiva de Fuerzas de Emergencia"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Directiva de Fuerzas de Emergencia, organismo que administra el dinero del Cuño de Kovacs y que impide cobrar en tiempo de guerra."
+    }
+   ]
+  },
+  {
+   "id": "autoridadportuaria",
+   "name": "Autoridad Portuaria",
+   "aliases": [
+    "Autoridad Portuaria"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Autoridad Portuaria, organismo de Arribo cuyos equipos de salvamento desmantelan las naves colonizadoras abandonadas."
+    }
+   ]
+  },
+  {
+   "id": "shorn",
+   "name": "Shorn Biotech",
+   "aliases": [
+    "Shorn Biotech",
+    "Shorn"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Shorn Biotech, empresa biotecnológica que fabricó la lata de ácido molecular hallada en el cuerpo de un intruso."
+    }
+   ]
+  },
+  {
+   "id": "pkn",
+   "name": "PKN",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "PKN, corporación de segunda fila que Djoko cita como alternativa a Mandrake."
+    }
+   ]
+  },
+  {
+   "id": "sathakarn",
+   "name": "Sathakarn Yu Asociados",
+   "aliases": [
+    "Sathakarn Yu Asociados",
+    "Sathakarn"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Sathakarn Yu Asociados, corporación de segunda fila de Arribo que Djoko cita como alternativa a Mandrake."
+    }
+   ]
+  },
+  {
+   "id": "khumalo",
+   "name": "Biosistemas Khumalo",
+   "aliases": [
+    "Biosistemas Khumalo",
+    "Khumalo"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Biosistemas Khumalo, proveedor de fundas de combate con biotecnología que potencia la violencia y la lealtad."
+    },
+    {
+     "when": "e13",
+     "text": "Biosistemas Khumalo, proveedor de fundas de combate. Las de Kovacs, del Cuño, llevan bioplacas Khumalo y un localizador por satélite de serie."
+    }
+   ]
+  },
+  {
+   "id": "lockheed",
+   "name": "Lockheed Mitoma",
+   "aliases": [
+    "Lockheed Mitoma",
+    "Lock-Mit",
+    "Lock-Mits",
+    "Mitoma"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Lockheed-Mitoma, fabricante de aeronaves y chasis de alta resistencia; sus naves se llaman Lock-Mits."
+    },
+    {
+     "when": "e34",
+     "text": "Lockheed-Mitoma, fabricante de aeronaves. Vongsavath dice que Mitoma investiga anuladores de gravedad."
+    }
+   ]
+  },
+  {
+   "id": "gremiopilotos",
+   "name": "Gremio de Pilotos Interplanetarios de Sanción IV",
+   "aliases": [
+    "Gremio de Pilotos Interplanetarios de Sanción IV"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Gremio de Pilotos Interplanetarios de Sanción IV, nombre inscrito en el tatuaje de serpiente alada de tinta de iluminio que Schneider luce en el brazo izquierdo."
+    }
+   ]
+  },
+  {
+   "id": "syntheta",
+   "name": "Syntheta",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Syntheta, fabricante de fundas sintéticas baratas, de silicocarne desgastada, como la que lleva una recepcionista de Arribo."
+    }
+   ]
+  },
+  {
+   "id": "caricias",
+   "name": "Caricias",
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Caricias, equipo de demolición de élite al que pertenecía Ole Hansen y que murió al capturar una bomba merodeadora."
+    }
+   ]
+  },
+  {
+   "id": "seccion391",
+   "name": "sección 391",
+   "aliases": [
+    "sección 391"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Sección 391, unidad del Cuño de Kovacs destrozada por metralla inteligente en la Cuenca Norte; sus heridos, entre ellos Loemanako, Kwok y Munharto, se recuperan en el hospital."
+    }
+   ]
+  },
+  {
+   "id": "estatuto",
+   "name": "Estatuto del Protectorado",
+   "aliases": [
+    "Estatuto del Protectorado",
+    "Estatuto"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Estatuto del Protectorado, norma que las corporaciones lograron aprobar en semanas y que garantiza que la riqueza arqueológica de Sanción IV pase por Arribo."
+    }
+   ]
+  },
+  {
+   "id": "raspadores",
+   "name": "raspadores",
+   "aliases": [
+    "raspador"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Raspadores, arqueólogos recién salidos de la academia en su primera excavación."
+    }
+   ]
+  },
+  {
+   "id": "comisario",
+   "name": "comisario político",
+   "aliases": [
+    "comisario político",
+    "comisarios políticos"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Comisario político, cargo del Protectorado y del Cártel que vigila la lealtad de las tropas."
+    },
+    {
+     "when": "e37",
+     "text": "Comisario político, cargo que vigila la lealtad de las tropas. En el Cuño los someten con una toma de corriente y cableado, como a Lamont, hasta que pierden el gusto por predicar."
+    }
+   ]
+  },
+  {
+   "id": "kemmerich",
+   "name": "gradiente Kemmerich",
+   "aliases": [
+    "gradiente Kemmerich",
+    "Kemmerich"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Gradiente Kemmerich, medida psicológica de los emisarios y soldados de élite, que en Kovacs es extremadamente alta."
+    },
+    {
+     "when": "e38",
+     "text": "Gradiente Kemmerich, medida psicológica de los emisarios. Carrera dice que el perfil de Kovacs coincide con el de Veutin, con el mismo gradiente y la misma falta de empatía."
+    }
+   ]
+  },
+  {
+   "id": "sancion",
+   "name": "Sanción IV",
+   "aliases": [
+    "Sanción IV",
+    "Sanción"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Sanción IV, planeta del sistema Sanción donde Kemp ha alzado una revolución; el Protectorado dice no tener presencia, pero las corporaciones alquilan sus naves."
+    },
+    {
+     "when": "e6",
+     "text": "Sanción IV, planeta de colonización reciente, mayor que Latimer o la Tierra y sin lunas. Sobre él se ven puertos de las barcazas colonizadoras, ruinas marcianas y una guerra a la que no se le ve fin."
+    }
+   ]
+  },
+  {
+   "id": "cuencanorte",
+   "name": "Cuenca Norte",
+   "aliases": [
+    "Cuenca Norte",
+    "Cuenca"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Cuenca Norte, zona de combate de Sanción IV donde Kovacs resultó herido; el Cuño la considera uno de sus nueve objetivos principales."
+    },
+    {
+     "when": "e10",
+     "text": "Cuenca Norte, costa de Sanción IV de mil kilómetros con colinas de granito, donde está Dangrek y se localiza el portal."
+    }
+   ]
+  },
+  {
+   "id": "crepusculo",
+   "name": "Crepúsculo",
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Crepúsculo, frente de la guerra de Sanción IV donde alguien solicitó un ataque nuclear táctico y quedó destruida la ciudad."
+    }
+   ]
+  },
+  {
+   "id": "ciudadindigo",
+   "name": "Ciudad Índigo",
+   "aliases": [
+    "Ciudad Índigo",
+    "Índigo",
+    "Kempópolis"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Ciudad Índigo, ciudad de Sanción IV donde Joshua Kemp alzó su estandarte revolucionario."
+    },
+    {
+     "when": "e19",
+     "text": "Ciudad Índigo, capital del movimiento de Kemp, llamada burlonamente Kempópolis por los soldados del Cuño. Allí se prohibieron los puros y Kemp expulsó a la Hermandad Carrefour."
+    }
+   ]
+  },
+  {
+   "id": "sauberville",
+   "name": "Sauberville",
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Sauberville, ciudad de la costa de la Cuenca Norte, cerca de las excavaciones de Dangrek."
+    },
+    {
+     "when": "e10",
+     "text": "Sauberville, ciudad costera de Sanción IV con ciento veinte mil habitantes, que Mandrake teme que sufra un ataque táctico en las próximas semanas."
+    },
+    {
+     "when": "e16",
+     "text": "Sauberville, ciudad costera de Sanción IV. Los kempistas la han arrasado con una bomba merodeadora de alta potencia, con cien por cien de bajas."
+    },
+    {
+     "when": "e38",
+     "text": "Sauberville, ciudad destruida de Sanción IV. Carrera afirma que Hand provocó el bombardeo para despejar el camino a la expedición, filtrando desinformación a Kemp."
+    }
+   ]
+  },
+  {
+   "id": "dangrek",
+   "name": "Dangrek",
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Dangrek, región al noroeste de Sauberville donde trabajaban arqueólogos de Sanción IV."
+    },
+    {
+     "when": "e5",
+     "text": "Dangrek, costa de la Cuenca Norte que eligió Wardani para excavar y donde sigue enterrado el portal marciano."
+    },
+    {
+     "when": "e20",
+     "text": "Dangrek, costa de granito de Sanción IV. En una cueva sobre la playa está el portal marciano, y allí monta Mandrake su campamento de burbujas."
+    }
+   ]
+  },
+  {
+   "id": "arribo",
+   "name": "Arribo",
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Arribo, puerto interplanetario autorizado de Sanción IV, por el que se sale del planeta."
+    },
+    {
+     "when": "e7",
+     "text": "Arribo, ciudad semidesértica sin centro nacida junto al puerto espacial de las primeras barcazas colonizadoras. Las corporaciones tienen allí torres espejadas y todo pasa por el Estatuto."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e6",
+     "with": "cartel",
+     "text": "Organización que controla las salidas del planeta"
+    }
+   ]
+  },
+  {
+   "id": "excavacion27",
+   "name": "Excavación 27",
+   "aliases": [
+    "Excavación 27"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Excavación 27, ciudad decadente de Sanción IV, brotada en torno a un yacimiento arqueológico, donde vive el traficante Djoko Roespinoedji."
+    },
+    {
+     "when": "e42",
+     "text": "Excavación 27, antigua ciudad dormitorio de las excavaciones marcianas. Allí Kovacs vende la nave marciana y Wardani decide quedarse."
+    }
+   ]
+  },
+  {
+   "id": "mercadodealmas",
+   "name": "Mercado de Almas",
+   "aliases": [
+    "Mercado de Almas"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Mercado de Almas, mercado subterráneo dentro de una nave colonizadora de Arribo donde se venden pilas corticales de soldados."
+    }
+   ]
+  },
+  {
+   "id": "thaisawasdi",
+   "name": "Campo de Thaisawasdi",
+   "aliases": [
+    "Campo de Thaisawasdi"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Campo de Thaisawasdi, zona de aterrizaje formada con óvalos de vidrio fundido y restos de barcazas colonizadoras, en la que está el Mercado de Almas."
+    }
+   ]
+  },
+  {
+   "id": "torremandrake",
+   "name": "torre Mandrake",
+   "aliases": [
+    "torre Mandrake"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Torre Mandrake, edificio de bronce bruñido y superficie espejada de la Corporación Mandrake en Arribo, con cañones automáticos ocultos entre esculturas y una azotea con jardines."
+    }
+   ]
+  },
+  {
+   "id": "latimer",
+   "name": "Latimer",
+   "aliases": [
+    "sistema Latimer"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Latimer, sistema de soles binarios, a unos dos años luz, con dos biosferas habitables y tres más por transformar; desde allí se coloniza Sanción IV."
+    },
+    {
+     "when": "e13",
+     "text": "Latimer, sistema colonizado desde el que llegaron los refuerzos y donde Kovacs espera conseguir una funda de diseño."
+    }
+   ]
+  },
+  {
+   "id": "ciudadlatimer",
+   "name": "Ciudad Latimer",
+   "aliases": [
+    "Ciudad Latimer"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Ciudad Latimer, ciudad adonde Schneider sueña con retirarse con una funda a medida."
+    },
+    {
+     "when": "e11",
+     "text": "Ciudad Latimer, ciudad de Latimer con parques de atracciones de la élite; el destino de lujo que sueñan los soldados y corporativos de Sanción IV."
+    }
+   ]
+  },
+  {
+   "id": "masson",
+   "name": "Masson",
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Masson, zona de lagos de Sanción IV donde el Cuño mantiene una posición defensiva."
+    }
+   ]
+  },
+  {
+   "id": "shalai",
+   "name": "Shalai",
+   "summary": [
+    {
+     "when": "s38",
+     "text": "Shalai, quebrada donde Carrera resistió en inferioridad a las tropas del Gobierno y a la fuerza aerotransportada de Kemp."
+    }
+   ]
+  },
+  {
+   "id": "bootkinaree",
+   "name": "Bootkinaree",
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Ciudad Bootkinaree, ciudad de Sanción IV sobre la que alcanzaron a Vongsavath y donde el Cuño creyó muerto a Veutin."
+    }
+   ]
+  },
+  {
+   "id": "danang",
+   "name": "Danang",
+   "aliases": [
+    "llanura de Danang"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Danang, zona de Sanción IV: del Campo del Bajo Danang procede un pilón marciano que sale a subasta."
+    },
+    {
+     "when": "e14",
+     "text": "Danang, llanura de Sanción IV donde Jiang murió en un asalto nocturno al repetidor de las bombas merodeadoras de Kemp, y donde el Cártel ha financiado un asalto."
+    }
+   ]
+  },
+  {
+   "id": "suchinda",
+   "name": "Suchinda",
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Suchinda, localidad bombardeada de Sanción IV, a cuyo sureste hay un hospital de campaña."
+    }
+   ]
+  },
+  {
+   "id": "chatichai",
+   "name": "Chatichai",
+   "summary": [
+    {
+     "when": "s25",
+     "text": "Chatichai, lugar donde Deprez vio muertos de ambos bandos, entre ellos chicos y chicas jóvenes."
+    }
+   ]
+  },
+  {
+   "id": "rayong",
+   "name": "Rayong",
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Rayong, lugar donde cañones de cables hirieron a Loemanako."
+    }
+   ]
+  },
+  {
+   "id": "wacharin",
+   "name": "estrechos de Wacharin",
+   "aliases": [
+    "estrechos de Wacharin",
+    "Wacharin"
+   ],
+   "summary": [
+    {
+     "when": "s38",
+     "text": "Estrechos de Wacharin, paso marítimo adonde Kemp evacúa sus fuerzas con la flota de icebergs."
+    }
+   ]
+  },
+  {
+   "id": "paramo",
+   "name": "Páramo Chariset",
+   "aliases": [
+    "Páramo Chariset"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Páramo Chariset, desierto de Sanción IV donde Kovacs deja a Deng, con un yacimiento arqueológico abandonado."
+    }
+   ]
+  },
+  {
+   "id": "viejacamara",
+   "name": "Vieja Cámara de Compensación",
+   "aliases": [
+    "Vieja Cámara de Compensación"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Vieja Cámara de Compensación, centro comercial de Arribo donde desapareció Deng."
+    }
+   ]
+  },
+  {
+   "id": "casapulgar",
+   "name": "Casa Pulgar",
+   "aliases": [
+    "Casa Pulgar"
+   ],
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Casa Pulgar, constelación del cielo de Sanción IV según los lugareños."
+    }
+   ]
+  },
+  {
+   "id": "hogardealmas",
+   "name": "Hogar de Almas",
+   "aliases": [
+    "Hogar de Almas"
+   ],
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Hogar de Almas, mundo del que procede la familia de Sun Liping, cuyas cooperativas se metieron en la colonización de Sanción IV."
+    },
+    {
+     "when": "e38",
+     "text": "Hogar de Almas, mundo con luchas de poder y intrigas palaciegas; Carrera lo propone como siguiente destino del Cuño."
+    }
+   ]
+  },
+  {
+   "id": "adoracion",
+   "name": "Adoración",
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Adoración, mundo del Protectorado que Kovacs menciona entre sus campañas."
+    },
+    {
+     "when": "e19",
+     "text": "Adoración, mundo colonizado por la barcaza Lorca, donde murió más del setenta por ciento de los colonos. Kovacs desplegó allí con los comandos de vacío de Randall en una luna externa."
+    }
+   ]
+  },
+  {
+   "id": "sharia",
+   "name": "Sharia",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Sharia, mundo de teocracia del Protectorado donde Kovacs combatió como soldado."
+    }
+   ]
+  },
+  {
+   "id": "innenin",
+   "name": "Innenin",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Innenin, campo de batalla donde un virus de los defensores destrozó la avanzadilla de Kovacs y mató a Jimmy de Soto."
+    },
+    {
+     "when": "e43",
+     "text": "Innenin, campo de batalla de Kovacs, con ruinas de hierba plateada, adonde piensa volver para buscar un eco de lo que halló en la nave marciana."
+    }
+   ]
+  },
+  {
+   "id": "mundoharlan",
+   "name": "Mundo de Harlan",
+   "aliases": [
+    "Mundo de Harlan",
+    "Harlan",
+    "Mundo de Harían",
+    "harlanitas"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Mundo de Harlan, planeta natal de Kovacs, colonia del Protectorado de la que proceden él y los qüelistas."
+    },
+    {
+     "when": "e42",
+     "text": "Mundo de Harlan, planeta natal de Kovacs. Es el único sitio del Protectorado donde se piensa en los marcianos mirando hacia fuera, por los orbitales que vigilan cada día el cielo."
+    }
+   ]
+  },
+  {
+   "id": "newpest",
+   "name": "Newpest",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Newpest, ciudad del Mundo de Harlan donde se crio Kovacs, entre bandas callejeras."
+    },
+    {
+     "when": "e31",
+     "text": "Newpest, ciudad del Mundo de Harlan con una catedral ándrica de ángeles que recuerdan a los marcianos."
+    }
+   ]
+  },
+  {
+   "id": "millsport",
+   "name": "Millsport",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Millsport, ciudad costera del Mundo de Harlan."
+    },
+    {
+     "when": "e10",
+     "text": "Millsport, ciudad del Mundo de Harlan con astillero y escuela de artistas absurdistas; allí desapareció Quell en la última batalla."
+    }
+   ]
+  },
+  {
+   "id": "marte",
+   "name": "Marte",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Marte, cuarto planeta del sistema solar, donde apareció la civilización marciana."
+    }
+   ]
+  },
+  {
+   "id": "tierrankrumah",
+   "name": "Tierra de Nkrumah",
+   "aliases": [
+    "Tierra de Nkrumah"
+   ],
+   "summary": [
+    {
+     "when": "s23",
+     "text": "Tierra de Nkrumah, lugar de Marte donde se hallaron un metro subterráneo y otros sistemas marcianos sencillos de controlar."
+    }
+   ]
+  },
+  {
+   "id": "bradbury",
+   "name": "Bradbury",
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Bradbury, lugar de la arqueología marciana asociado a la teoría del núcleo."
+    },
+    {
+     "when": "e42",
+     "text": "Bradbury, centro de arqueología marciana donde Wycinski lleva un siglo investigando con una sinecura."
+    }
+   ]
+  },
+  {
+   "id": "limon",
+   "name": "Tierras Altas de Limon",
+   "aliases": [
+    "Tierras Altas de Limon",
+    "Limon"
+   ],
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Tierras Altas de Limon, región de Latimer de la que procede la familia de Cruickshank; de allí vienen la salsa y el apretón de manos que ella enseña a Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "loyko",
+   "name": "Loyko",
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Loyko, mundo sobre cuya órbita alta estuvo Kovacs durante la Sublevación de los Pilotos."
+    }
+   ]
+  },
+  {
+   "id": "banharn",
+   "name": "Banharn",
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Banharn, gigante gaseoso solitario del confín del sistema Sanción."
+    }
+   ]
+  },
+  {
+   "id": "mivtsemdi",
+   "name": "Mivtsemdi",
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Mivtsemdi, barcaza colonizadora secuestrada en cuyo casco Kovacs combatió un tiroteo terrible que aún le da pesadillas."
+    }
+   ]
+  },
+  {
+   "id": "lorca",
+   "name": "Lorca",
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Lorca, barcaza colonizadora que partió hacia Adoración décadas antes de la debacle marciana."
+    }
+   ]
+  },
+  {
+   "id": "soufriere",
+   "name": "Soufriere",
+   "aliases": [
+    "Alzamiento de Soufriere"
+   ],
+   "summary": [
+    {
+     "when": "s25",
+     "text": "Soufriere, lugar de pantanos donde se libró el alzamiento en el que Deprez mató por primera vez."
+    }
+   ]
+  },
+  {
+   "id": "portausaint",
+   "name": "Portausaint",
+   "summary": [
+    {
+     "when": "s42",
+     "text": "Portausaint, ciudad de Latimer que la expedición kempista pensaba bombardear junto con Ciudad Latimer y Soufriere."
+    }
+   ]
+  },
+  {
+   "id": "puntamitcham",
+   "name": "Punta Mitcham",
+   "aliases": [
+    "Punta Mitcham"
+   ],
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Punta Mitcham, lugar de costa de la juventud de Kovacs, con viscopulpos en sus aguas y cuentos de miedo en torno a una hoguera."
+    }
+   ]
+  },
+  {
+   "id": "hirata",
+   "name": "Hirata",
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Hirata, arrecife y playa de la juventud de Kovacs, donde bucea y donde ha visto despiezar lomocurvos para una barbacoa."
+    }
+   ]
+  },
+  {
+   "id": "bissou",
+   "name": "Bissou",
+   "summary": [
+    {
+     "when": "s25",
+     "text": "Bissou, región del sur de Sanción IV, siempre terreno de la Hermandad Carrefour."
+    }
+   ]
+  },
+  {
+   "id": "madamemi",
+   "name": "Prostíbulo Portuario de Madame Mi",
+   "aliases": [
+    "Prostíbulo Portuario de Madame Mi"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Prostíbulo Portuario de Madame Mi, local cuyo turno de noche sirve de comparación para el ritmo de trabajo de Arribo."
+    }
+   ]
+  },
+  {
+   "id": "qüelista",
+   "name": "qüelista",
+   "aliases": [
+    "qüelistas",
+    "qüelismo",
+    "qüelismos",
+    "neoqüelista",
+    "neoqüelistas"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Qüelista, partidario de las ideas de Quell, la revolucionaria del Mundo de Harlan; Kovacs se considera uno a veces."
+    },
+    {
+     "when": "e25",
+     "text": "Qüelista, seguidor de Quell. Los neoqüelistas inventaron una cita falsa suya; Deprez piensa que Kemp no es qüelista, aunque beba del qüelismo."
+    },
+    {
+     "when": "e43",
+     "text": "Qüelista, seguidor de Quell. Los qüelistas esperan de Kovacs un informe sobre Kemp y sobre por qué dejó las cosas peor de lo que estaban en el sector de Latimer."
+    }
+   ]
+  },
+  {
+   "id": "diarios",
+   "name": "Diarios de campaña",
+   "aliases": [
+    "Diarios de campaña"
+   ],
+   "summary": [
+    {
+     "when": "s25",
+     "text": "Diarios de campaña, escrito de Quell donde aparece su cita real sobre Dios y los tiranos, no dicha en su lecho de muerte."
+    }
+   ]
+  },
+  {
+   "id": "comunitarismo",
+   "name": "comunitarismo",
+   "summary": [
+    {
+     "when": "s42",
+     "text": "Comunitarismo, ideología de producción planificada e igualdad social del Mundo de Harlan que Djoko considera poco comercial."
+    }
+   ]
+  },
+  {
+   "id": "experia",
+   "name": "experia",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Experia, entretenimiento de realidad virtual o de simulación, con actores y películas."
+    }
+   ]
+  },
+  {
+   "id": "vudu",
+   "name": "vudú",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Vudú, religión de espíritus que practican los houngans; Kovacs la llama «mierda vudú» al hablar de Hand."
+    }
+   ]
+  },
+  {
+   "id": "houngan",
+   "name": "houngan",
+   "aliases": [
+    "houngans"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Houngan, sacerdote del vudú; en la Hermandad Carrefour, quien invoca espíritus y bendice tropas."
+    }
+   ]
+  },
+  {
+   "id": "guede",
+   "name": "guédé",
+   "aliases": [
+    "guédés",
+    "guédes"
+   ],
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Guédé, espíritu del vudú; Hand asegura que Semetaire adoptó su apariencia y que ha visto a los guédés caminar entre nosotros encarnados."
+    }
+   ]
+  },
+  {
+   "id": "lomocurvo",
+   "name": "lomocurvo",
+   "aliases": [
+    "lomocurvos"
+   ],
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Lomocurvo, animal marino del Mundo de Harlan que se arponea y se asa en la playa."
+    }
+   ]
+  },
+  {
+   "id": "crashhall",
+   "name": "crashhall",
+   "summary": [
+    {
+     "when": "s33",
+     "text": "Crashhall, deporte de gravedad cero que Kovacs menciona al ver cuerpos amontonados."
+    }
+   ]
+  },
+  {
+   "id": "demonios",
+   "name": "Demonios con puños de sirena",
+   "aliases": [
+    "Demonios con puños de sirena"
+   ],
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Demonios con puños de sirena, película de peleas de la experia donde aparece una postura de lucha de Micky Nozavva."
+    }
+   ]
+  },
+  {
+   "id": "guiaciber",
+   "name": "Guía de cibersexo",
+   "aliases": [
+    "Guía de cibersexo"
+   ],
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Guía de cibersexo, publicación que recomienda el programa de simulación sexual que usa Kovacs con Wardani."
+    }
+   ]
+  },
+  {
+   "id": "pensamiento",
+   "name": "Pensamiento Correcto",
+   "aliases": [
+    "Pensamiento Correcto"
+   ],
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Pensamiento Correcto, sermón político que dan los comisarios del Protectorado, y que desaparece cuando los enchufan."
+    }
+   ]
+  },
+  {
+   "id": "decatur",
+   "name": "Pacificación de Decatur",
+   "aliases": [
+    "Pacificación de Decatur"
+   ],
+   "summary": [
+    {
+     "when": "s38",
+     "text": "Pacificación de Decatur, operación militar que supervisó Carrera y que Kovacs le echa en cara."
+    }
+   ]
+  },
+  {
+   "id": "funda",
+   "name": "funda",
+   "aliases": [
+    "fundas"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Funda, cuerpo, vivo o sintético, que aloja la pila cortical de una persona."
+    },
+    {
+     "when": "s1",
+     "text": "Funda, cuerpo que aloja la mente de una persona. Kovacs lleva en el asalto a la Cuenca Norte una funda de combate afrocaribeña del Cuño; si se destruye, la mente pasa a otra."
+    }
+   ]
+  },
+  {
+   "id": "fundamaori",
+   "name": "funda maorí",
+   "aliases": [
+    "funda maorí",
+    "fundas maoríes",
+    "maorí",
+    "maoríes"
+   ],
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Funda maorí, cuerpo de combate de bioware de origen maorí que Hand ofrece a Kovacs."
+    },
+    {
+     "when": "e14",
+     "text": "Funda maorí, funda de combate de miembros largos y espalda ancha y pelo grueso, resistente a la radiación; es la que llevan los soldados resucitados del equipo de Mandrake."
+    },
+    {
+     "when": "e38",
+     "text": "Funda maorí, funda de combate diseñada para terreno contaminado, de gran resistencia; sin embargo, la inhibición neuronal castiga más a quien la lleva."
+    }
+   ]
+  },
+  {
+   "id": "pila",
+   "name": "pila cortical",
+   "aliases": [
+    "pila cortical",
+    "pila",
+    "pilas",
+    "pilas corticales"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Pila cortical, dispositivo de la nuca que guarda la consciencia de una persona; si se destruye, es la muerte real."
+    },
+    {
+     "when": "s8",
+     "text": "Pila cortical, dispositivo de la columna que guarda la mente. Wardani extrae una de la espalda de Deng con un limpiador de artefactos, para interrogarlo en una simulación."
+    }
+   ]
+  },
+  {
+   "id": "reenfundado",
+   "name": "reenfundado",
+   "aliases": [
+    "reenfundar",
+    "reenfundada",
+    "reenfundados",
+    "enfundado"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Reenfundado, transferencia de la pila de una persona a una funda nueva o a un clon."
+    },
+    {
+     "when": "s8",
+     "text": "Reenfundado, cambio de cuerpo de una persona; hacerlo con demasiada frecuencia en poco tiempo produce un síndrome psicológico."
+    }
+   ]
+  },
+  {
+   "id": "transmisionaguja",
+   "name": "transmisión de aguja",
+   "aliases": [
+    "transmisión de aguja",
+    "hipertransmisión",
+    "hipertransmisiones",
+    "aguja"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Transmisión de aguja, envío casi instantáneo de una consciencia entre mundos por hiperespacio, muy caro."
+    },
+    {
+     "when": "e10",
+     "text": "Transmisión de aguja, envío de datos y mentes por hiperlink entre planetas. La de alta capacidad, de varias mentes a la vez, necesita reactores de conversión."
+    }
+   ]
+  },
+  {
+   "id": "muertereal",
+   "name": "muerte real",
+   "aliases": [
+    "muerte real"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Muerte real, la destrucción definitiva de la pila, sin reenfundado posible."
+    }
+   ]
+  },
+  {
+   "id": "clon",
+   "name": "clon",
+   "aliases": [
+    "clones"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Clon, cuerpo cultivado de repuesto; el Cuño de Carrera guarda un puñado de bancos de clones para el personal imprescindible."
+    },
+    {
+     "when": "e14",
+     "text": "Clon, cuerpo cultivado de repuesto. Los clones del equipo de Mandrake tardan dos días en prepararse y otros dos en acostumbrarse; la IAM los simula antes."
+    }
+   ]
+  },
+  {
+   "id": "decantacion",
+   "name": "decantación",
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Decantación, proceso de crear y activar una funda para que una pila vuelva a vivir; Kovacs exige que Hand la pague por anticipado."
+    }
+   ]
+  },
+  {
+   "id": "lata",
+   "name": "lata de almacenamiento",
+   "aliases": [
+    "lata de almacenamiento"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Lata de almacenamiento, contenedor donde se arroja la pila de un soldado muerto hasta que lo reenfunden; Kovacs lo llama a veces solo la lata."
+    }
+   ]
+  },
+  {
+   "id": "pilarecuperacion",
+   "name": "pila de recuperación",
+   "aliases": [
+    "pila de recuperación"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Pila de recuperación, simulación donde se guarda la consciencia de un herido mientras se repara su funda; Kovacs recibe en una a Mataran convertida en avatar."
+    }
+   ]
+  },
+  {
+   "id": "simulacion",
+   "name": "simulación",
+   "aliases": [
+    "simulaciones"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Simulación, entorno virtual donde se interroga, se recupera o se prepara una operación; el tiempo subjetivo puede correr mucho más deprisa que el real."
+    },
+    {
+     "when": "e13",
+     "text": "Simulación, entorno virtual del que Mandrake se sirve para elegir soldados: con la IAM llega a ir a trescientas cincuenta veces el tiempo real."
+    }
+   ]
+  },
+  {
+   "id": "ivb",
+   "name": "IVB",
+   "aliases": [
+    "identificación y valoración de bajas"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "IVB, sistema militar de identificación y valoración de bajas que identifica soldados muertos y evalúa su aptitud; los médicos de campaña lo usan para sacar a los muertos de sus pilas, y Kovacs lo emplea para interrogar a Deng."
+    }
+   ]
+  },
+  {
+   "id": "iam",
+   "name": "IAM",
+   "summary": [
+    {
+     "when": "s10",
+     "text": "IAM, inteligencia artificial de Mandrake que calcula probabilidades y gestiona simulaciones, como la de la costa de Dangrek."
+    },
+    {
+     "when": "e14",
+     "text": "IAM, inteligencia artificial de Mandrake que puede simular un clon con precisión total a partir de datos en bruto y acelerar el entrenamiento trescientas cincuenta veces."
+    }
+   ]
+  },
+  {
+   "id": "avatar",
+   "name": "avatar",
+   "aliases": [
+    "avatares"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Avatar, representación virtual de una persona basada en su aspecto; el servicio del Cuño Uno recibe a Kovacs con uno modelado en Lucia Mataran."
+    }
+   ]
+  },
+  {
+   "id": "psicocirugia",
+   "name": "psicocirugía",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Psicocirugía, tratamiento para borrar un trauma de una pila, usado tras torturas y matanzas."
+    },
+    {
+     "when": "e43",
+     "text": "Psicocirugía, tratamiento para borrar un trauma de una pila. Kovacs pagará la mejor que haya en Latimer para Sutjiadi, aunque Sun ha dicho que a veces sale mal."
+    }
+   ]
+  },
+  {
+   "id": "neuraquimicos",
+   "name": "neuraquímicos",
+   "aliases": [
+    "neuraquímico",
+    "neuraquímica"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Neuraquímicos, mejoras químicas de combate de un cuerpo de élite: dan visión nítida, resistencia al dolor y reflejos."
+    },
+    {
+     "when": "s8",
+     "text": "Neuraquímicos, sistema químico de la funda de Kovacs que mejora vista, reflejos y control del dolor; el cansancio y la radiación los debilitan."
+    }
+   ]
+  },
+  {
+   "id": "condicionamiento",
+   "name": "condicionamiento de emisario",
+   "aliases": [
+    "condicionamiento de emisario",
+    "condicionamiento",
+    "intuición de emisario"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Condicionamiento de emisario, adiestramiento del Cuerpo de Emisarios que da memoria perfecta, control emocional, calma de combate e intuición para ver la totalidad de una situación."
+    }
+   ]
+  },
+  {
+   "id": "genesdelobo",
+   "name": "genes de lobo",
+   "aliases": [
+    "genes de lobo",
+    "empalme de genes de lobo"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Genes de lobo, modificación genética de las fundas del Cuño que aumenta la velocidad y la brutalidad y da una predisposición a la lealtad de manada."
+    }
+   ]
+  },
+  {
+   "id": "emisario",
+   "name": "emisario",
+   "aliases": [
+    "emisarios",
+    "exemisario",
+    "exemisarios"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Emisario, soldado del Cuerpo de Emisarios del Protectorado: entrenado para despertar en cuerpos desconocidos y adaptarse a cualquier mundo."
+    }
+   ]
+  },
+  {
+   "id": "cuerpoemisarios",
+   "name": "Cuerpo de Emisarios",
+   "aliases": [
+    "Cuerpo de Emisarios"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Cuerpo de Emisarios, cuerpo de élite del Protectorado, cuyos emisarios tienen un condicionamiento especial; Kovacs formó parte de él."
+    },
+    {
+     "when": "e2",
+     "text": "Cuerpo de Emisarios, organización del Protectorado de fama casi mítica y poca caridad. Carrera y Kovacs acordaron ocultar su pasado en él en los datos del Cuño."
+    }
+   ]
+  },
+  {
+   "id": "tetrameta",
+   "name": "tetrameta",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Tetrameta, droga de fiesta y estimulante militar."
+    },
+    {
+     "when": "e37",
+     "text": "Tetrameta, estimulante militar preferido de Kovacs: da acceso a reservas celulares, deja un brillo en las superficies y trae un bajón; a dosis letales le sirve para seguir en pie y pelear contra el Cuño."
+    }
+   ]
+  },
+  {
+   "id": "betatanatina",
+   "name": "betatanatina",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Betatanatina, droga militar que da indiferencia emocional y claridad mental y enfría el cuerpo."
+    }
+   ]
+  },
+  {
+   "id": "lenguapack",
+   "name": "Lenguapack",
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Lenguapack, implante de rápida carga para aprender idiomas; Cruickshank lleva tailandés y mandarín."
+    }
+   ]
+  },
+  {
+   "id": "simbionte",
+   "name": "simbionte de vuelo",
+   "aliases": [
+    "simbionte de vuelo"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Simbionte de vuelo, sistema de cables y conectores que une al piloto con los mandos; Vongsavath lleva enchufes plateados en la nuca."
+    }
+   ]
+  },
+  {
+   "id": "mandroide",
+   "name": "mandroide",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Mandroide, robot humanoide."
+    }
+   ]
+  },
+  {
+   "id": "autocirujano",
+   "name": "autocirujano",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Autocirujano, máquina quirúrgica automática en forma de araña, programada para operar."
+    },
+    {
+     "when": "s19",
+     "text": "Autocirujano, máquina quirúrgica automática que el equipo usa en la Nagini para hacer la autopsia de los cadáveres sacados del pesquero."
+    }
+   ]
+  },
+  {
+   "id": "sunjet",
+   "name": "Sunjet",
+   "aliases": [
+    "Sunjets"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Sunjet, arma de partículas de alta potencia que llevan soldados y ocupantes de vehículos; con dispersión máxima abrasa a todo un grupo."
+    },
+    {
+     "when": "e28",
+     "text": "Sunjet, pistola de partículas de Sistemas Generales que atraviesa el acero; a corta distancia cauteriza la herida."
+    }
+   ]
+  },
+  {
+   "id": "pistolainterfaz",
+   "name": "pistola de interfaz",
+   "aliases": [
+    "pistola de interfaz",
+    "pistolas de interfaz",
+    "kaláshnikov",
+    "kalashnikov",
+    "kaláshnikovs"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Pistola de interfaz, arma personal del Cuño con codificación intransferible: Kovacs lleva dos kaláshnikov en un arnés sobre el pecho y se activan desde la palma."
+    }
+   ]
+  },
+  {
+   "id": "aturdidora",
+   "name": "aturdidora",
+   "aliases": [
+    "aturdidoras"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Aturdidora, arma que paraliza con una descarga eléctrica."
+    },
+    {
+     "when": "e16",
+     "text": "Aturdidora, arma que adormece o aturde; una de contacto durmió el brazo de Kovacs al disparar contra intrusos."
+    }
+   ]
+  },
+  {
+   "id": "particulas",
+   "name": "proyector de partículas",
+   "aliases": [
+    "proyector de partículas",
+    "pistola de partículas",
+    "proyectores de partículas"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Proyector de partículas, arma de rayos que dispara energía y quema la carne."
+    }
+   ]
+  },
+  {
+   "id": "vibrocuchillo",
+   "name": "vibrocuchillo",
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Vibrocuchillo, arma blanca con un motorcillo que le da filo vibrante y sirve para seccionar hueso."
+    }
+   ]
+  },
+  {
+   "id": "ultracompacta",
+   "name": "ultracompacta",
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Ultracompacta, pistola de cañón retráctil que dispara en rayo disperso; Carrera mata a Hand con una."
+    }
+   ]
+  },
+  {
+   "id": "termita",
+   "name": "granada de termita",
+   "aliases": [
+    "granada de termita",
+    "granadas de termita"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Granada de termita, explosivo que concentra su energía contra la superficie de contacto."
+    }
+   ]
+  },
+  {
+   "id": "metralla",
+   "name": "metralla inteligente",
+   "aliases": [
+    "metralla inteligente",
+    "Guerlain Veinte"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Metralla inteligente, munición que busca el cuerpo y lo despedaza; la Guerlain Veinte causó las heridas de Kovacs y destrozó a la sección 391."
+    }
+   ]
+  },
+  {
+   "id": "merodeadora",
+   "name": "bomba merodeadora",
+   "aliases": [
+    "bomba merodeadora",
+    "bombas merodeadoras",
+    "merodeadora",
+    "merodeadoras"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Bomba merodeadora, arma aérea de los kempistas, de segunda mano pero inesperadamente eficaz contra las naves del Protectorado."
+    },
+    {
+     "when": "e16",
+     "text": "Bomba merodeadora, arma aérea de los kempistas. Una de alta potencia ha destruido Sauberville sin dejar supervivientes."
+    }
+   ]
+  },
+  {
+   "id": "espumillon",
+   "name": "espumillón",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Espumillón, bomba de señuelo que suelta objetos electrónicos para desviar misiles."
+    }
+   ]
+  },
+  {
+   "id": "polaleacion",
+   "name": "polaleación",
+   "summary": [
+    {
+     "when": "s36",
+     "text": "Polaleación, material blindado de los trajes de combate espacial del Cuño."
+    },
+    {
+     "when": "e40",
+     "text": "Polaleación, material que cae de las duchas, se expande en una capa hermética y detiene balas rápidas; repele incluso el fuego de Sunjet a cierta distancia."
+    }
+   ]
+  },
+  {
+   "id": "trajemovilidad",
+   "name": "traje de movilidad",
+   "aliases": [
+    "traje de movilidad",
+    "trajes de movilidad"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Traje de movilidad, exoesqueleto que sostiene a un herido; los de hospital limitan el movimiento y los militares dan fuerza y velocidad."
+    },
+    {
+     "when": "e40",
+     "text": "Traje de movilidad, exoesqueleto militar que amplifica la fuerza y el movimiento; Kovacs se lo quita a Loemanako."
+    }
+   ]
+  },
+  {
+   "id": "arenero",
+   "name": "arenero",
+   "aliases": [
+    "areneros"
+   ],
+   "summary": [
+    {
+     "when": "s36",
+     "text": "Arenero, vehículo de asalto del Cuño que escolta a sus tropas."
+    },
+    {
+     "when": "e40",
+     "text": "Arenero, vehículo de combate del Cuño capaz de volar, con lanzamisiles de metralla inteligente y un obús nuclear de veinte kilotones."
+    }
+   ]
+  },
+  {
+   "id": "anatomizador",
+   "name": "anatomizador",
+   "summary": [
+    {
+     "when": "s38",
+     "text": "Anatomizador, máquina del Cuño para ejecutar a un prisionero con una larga fragmentación ritual: lo desmiembra y lo mantiene vivo, sin analgésicos."
+    }
+   ]
+  },
+  {
+   "id": "inhibidor",
+   "name": "inhibidor",
+   "aliases": [
+    "inhibidores",
+    "inhibición neuronal"
+   ],
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Inhibidor, aparato gris con patas del tamaño de un puño, disparado en masa con un mortero de control de multitudes; muerde y toma el control del sistema nervioso."
+    },
+    {
+     "when": "e38",
+     "text": "Inhibidor, arma del Cuño que reacciona a las emociones: cada subidón de adrenalina del prisionero lo muerde más. Carrera los deja en la nuca de todos los prisioneros."
+    }
+   ]
+  },
+  {
+   "id": "ultravibracion",
+   "name": "cañón de ultravibración",
+   "aliases": [
+    "cañón de ultravibración",
+    "ultravibración",
+    "batería de ultravibración"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Ultravibración, tecnología de energía de vibración que rompe rocas, usada en la Nagini y en las torretas del equipo de Mandrake."
+    },
+    {
+     "when": "e33",
+     "text": "Ultravibración, arma de la Nagini que, disparada en el muelle de acoplamiento, destrozó a Jiang y dejó a Deprez cubierto de sangre."
+    }
+   ]
+  },
+  {
+   "id": "camaleocromo",
+   "name": "camaleocromo",
+   "aliases": [
+    "camaleocroma"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Camaleocromo, material de uniformes y escotillas que cambia de color para adaptarse a lo que lo rodea."
+    }
+   ]
+  },
+  {
+   "id": "iluminio",
+   "name": "iluminio",
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Iluminio, material luminoso con el que se pintan marcas, números y tatuajes, como el de Schneider."
+    }
+   ]
+  },
+  {
+   "id": "sistemacentinela",
+   "name": "sistema centinela",
+   "aliases": [
+    "sistema centinela",
+    "sistemas centinelas"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Sistema centinela, sistema automático de vigilancia que dispara contra intrusos; Jiang creyó que se desactivarían al volar un repetidor y se equivocó."
+    }
+   ]
+  },
+  {
+   "id": "motograv",
+   "name": "moto gravítica",
+   "aliases": [
+    "moto gravítica",
+    "motos gravíticas"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Moto gravítica, vehículo de dos plazas que flota sobre el terreno."
+    }
+   ]
+  },
+  {
+   "id": "arnes",
+   "name": "arnés gravitatorio",
+   "aliases": [
+    "arnés gravitatorio",
+    "arneses gravitatorios"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Arnés gravitatorio, equipo que permite moverse en vertical en entornos de poca gravedad."
+    }
+   ]
+  },
+  {
+   "id": "transmisor",
+   "name": "transmisor de inducción",
+   "aliases": [
+    "transmisor de inducción"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Transmisor de inducción, comunicador que se lleva en la oreja o la garganta, como el de Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "lapas",
+   "name": "lapa neutralizadora",
+   "aliases": [
+    "lapa neutralizadora"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Lapa neutralizadora, dispositivo estándar del Cuño que accede a la memoria de micrófonos ocultos y reproduce grabaciones para anularlos."
+    }
+   ]
+  },
+  {
+   "id": "chipcredito",
+   "name": "chip de crédito",
+   "aliases": [
+    "chip de crédito"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Chip de crédito, método de pago por chip que se inserta en una ranura."
+    }
+   ]
+  },
+  {
+   "id": "criocapsula",
+   "name": "criocápsula",
+   "aliases": [
+    "criocápsulas"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Criocápsula, cápsula criogénica necesaria para viajes largos; en Sanción IV no se consiguen."
+    },
+    {
+     "when": "e43",
+     "text": "Criocápsula, cápsula de emergencia del Virtud de Angin Chandra para un solo piloto, con una descongelación y recongelación complejas."
+    }
+   ]
+  },
+  {
+   "id": "barcaza",
+   "name": "barcaza colonizadora",
+   "aliases": [
+    "barcaza colonizadora",
+    "barcazas colonizadoras",
+    "barcaza",
+    "barcazas"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Barcaza colonizadora, nave de colonos de larga duración; hace un siglo las primeras aterrizaron en Arribo."
+    }
+   ]
+  },
+  {
+   "id": "lanzadera",
+   "name": "lanzadera",
+   "aliases": [
+    "lanzaderas"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Lanzadera, nave pequeña que transporta heridos o pasajeros entre un hospital orbital y la superficie."
+    }
+   ]
+  },
+  {
+   "id": "wumorrison",
+   "name": "Wu Morrison",
+   "aliases": [
+    "Wu Morrison",
+    "ISN-70"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Wu Morrison ISN-70, lanzadera casi nueva que Schneider robó y vende a Djoko por seis millones de behas."
+    }
+   ]
+  },
+  {
+   "id": "pog",
+   "name": "POG",
+   "summary": [
+    {
+     "when": "s18",
+     "text": "POG, Paraguas Orbital Geosíncrono, plataforma de protección en órbita sobre Arribo."
+    }
+   ]
+  },
+  {
+   "id": "nagini",
+   "name": "Nagini",
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Nagini, nave de asalto interplanetaria de la serie Omega que Vongsavath pilota hasta Dangrek."
+    },
+    {
+     "when": "e34",
+     "text": "Nagini, nave de asalto interplanetaria de la expedición de Mandrake. Kovacs minó sus células de combustible para matar a Schneider, que huyó con ella, y estalló al llegar al portal."
+    }
+   ]
+  },
+  {
+   "id": "chandra",
+   "name": "Virtud de Angin Chandra",
+   "aliases": [
+    "Virtud de Angin Chandra",
+    "Chandra"
+   ],
+   "summary": [
+    {
+     "when": "s36",
+     "text": "Virtud de Angin Chandra, blindado del Cuño que sirve de campamento base en la playa, con nombre de la estrella de la experia Angin Chandra."
+    },
+    {
+     "when": "e42",
+     "text": "Virtud de Angin Chandra, blindado del Cuño que Vongsavath lleva de Dangrek a Excavación 27 y que Roespinoedji prepara con técnicos para un viaje de once años."
+    },
+    {
+     "when": "e43",
+     "text": "Virtud de Angin Chandra, blindado del Cuño que abandona el plano de la eclíptica rumbo a Latimer; en su interior corre una simulación donde viven Kovacs y sus compañeros."
+    }
+   ]
+  },
+  {
+   "id": "behas",
+   "name": "behas",
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Behas, moneda global impopular basada en bonos de hallazgo arqueológico que sustituyó al franco de Latimer; un onudólar vale doscientas treinta."
+    }
+   ]
+  },
+  {
+   "id": "onudolar",
+   "name": "onudólar",
+   "aliases": [
+    "onudólares",
+    "onudólar"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Onudólar, moneda aceptada en todos los mundos del Protectorado."
+    },
+    {
+     "when": "e6",
+     "text": "Onudólar, dólar del Protectorado, que Djoko cambia a doscientas treinta behas."
+    }
+   ]
+  },
+  {
+   "id": "arribolight",
+   "name": "Arribo Light",
+   "aliases": [
+    "Arribo Light"
+   ],
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Arribo Light, marca de cigarrillos que fuman Wardani y Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "yacimiento7",
+   "name": "Yacimiento Siete",
+   "aliases": [
+    "Yacimiento Siete"
+   ],
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Yacimiento Siete, marca de cigarrillos que Kovacs compra fuera de Arribo."
+    }
+   ]
+  },
+  {
+   "id": "whiskysauberville",
+   "name": "whisky de Sauberville",
+   "aliases": [
+    "whisky de Sauberville"
+   ],
+   "summary": [
+    {
+     "when": "s25",
+     "text": "Whisky de Sauberville, bebida de coleccionista que ya no se fabricará, que Kovacs comparte con Deprez en la cubierta del pesquero."
+    }
+   ]
+  },
+  {
+   "id": "marcianos",
+   "name": "marcianos",
+   "aliases": [
+    "marciano",
+    "marciana",
+    "marcianas"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Marcianos, antigua civilización alienígena extinta que dejó ruinas, sobre todo en Marte."
+    },
+    {
+     "when": "e20",
+     "text": "Marcianos, especie alienígena desaparecida, ni vampiros ni demonios sino alados y muy avanzados, que Wardani estudia como arqueóloga."
+    },
+    {
+     "when": "e32",
+     "text": "Marcianos, especie alienígena de alas membranosas como pergamino y pico, cuyos cuerpos momificados se encuentran en la nave del portal."
+    },
+    {
+     "when": "e41",
+     "text": "Marcianos, especie alienígena alada. Miles murieron sepultados en el casco de su nave de guerra, intentando volar, en una batalla antigua."
+    }
+   ]
+  },
+  {
+   "id": "portal",
+   "name": "portal",
+   "aliases": [
+    "portales"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Portal, tecnología marciana descubierta por Schneider: un amarradero, no un hipertransmisor, que lleva a una nave estelar marciana en órbita."
+    },
+    {
+     "when": "e10",
+     "text": "Portal, tecnología marciana que conecta Dangrek con otra nave, enterrada bajo una roca. Hand teme que sus constructores lo ocultaran para impedir que algo entrara."
+    },
+    {
+     "when": "e26",
+     "text": "Portal, puerta marciana de Dangrek, que Wardani ha logrado abrir tras días de trabajo."
+    },
+    {
+     "when": "e41",
+     "text": "Portal, puerta marciana de Dangrek. Wardani lo cierra mientras Kovacs persigue a Carrera al otro lado, en la nave."
+    }
+   ]
+  },
+  {
+   "id": "naveestelar",
+   "name": "nave estelar marciana",
+   "aliases": [
+    "nave estelar marciana",
+    "nave marciana",
+    "acorazado marciano",
+    "nave de guerra marciana"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Nave estelar marciana, nave intacta del tamaño de un asteroide en órbita de aparcamiento, a la que lleva el portal."
+    },
+    {
+     "when": "e30",
+     "text": "Nave estelar marciana, nave de veintisiete por cincuenta y tres kilómetros a la que lleva el portal. Fuera, junto a una escotilla de atraque, flotan los cuerpos de los arqueólogos de la expedición anterior, muertos con los trajes puestos."
+    },
+    {
+     "when": "e34",
+     "text": "Nave de guerra marciana, que repite una batalla automática contra otra nave que no es marciana. Los sistemas de datos muestran la batalla y las espiras reproducen el dolor de la tripulación."
+    },
+    {
+     "when": "e42",
+     "text": "Nave de guerra marciana, que Kovacs vende a Djoko Roespinoedji a cambio de un dispositivo de virtualidad y una franja de lanzamiento. Aún sin nombre, Kovacs sugiere llamarla La Wardani."
+    },
+    {
+     "when": "e43",
+     "text": "Nave de guerra marciana, ahora llamada Tanya Wardani. Su tripulación sin vida sigue a bordo y Kovacs se pregunta si Wardani ya habrá salido del sistema Sanción para estudiar sus glifos de bloqueo."
+    }
+   ]
+  },
+  {
+   "id": "cartas",
+   "name": "cartas de astrogación",
+   "aliases": [
+    "cartas de astrogación"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Cartas de astrogación, artefactos marcianos descifrados en parte que permitieron enviar naves colonizadoras a destinos de la humanidad."
+    },
+    {
+     "when": "e5",
+     "text": "Cartas de astrogación, mapas de navegación estelar marcianos en los que cada mundo se sitúa en el centro; de ellos parte la teoría del núcleo."
+    }
+   ]
+  },
+  {
+   "id": "teorianucleo",
+   "name": "teoría del núcleo",
+   "aliases": [
+    "teoría del núcleo"
+   ],
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Teoría del núcleo, teoría de Carter y Bogdanovich que lee las cartas marcianas como prueba de que los marcianos buscaban un imperio central; asusta a la ONU y financia al Protectorado."
+    }
+   ]
+  },
+  {
+   "id": "espiras",
+   "name": "espiras cantantes",
+   "aliases": [
+    "espiras cantantes",
+    "espira",
+    "espiras",
+    "espira cantante"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Espira cantante, estructura de arenisca marciana que emite música y perfume."
+    },
+    {
+     "when": "e31",
+     "text": "Espiras cantantes, estructuras marcianas que emiten sonidos y aromas al contacto con el aire; Wardani avisa de que están despertando."
+    }
+   ]
+  },
+  {
+   "id": "tecnoglifos",
+   "name": "tecnoglifos",
+   "aliases": [
+    "glifos"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Tecnoglifos, símbolos grabados en el portal marciano que Wardani intenta leer; cerca del suelo pierden la coherencia."
+    },
+    {
+     "when": "e30",
+     "text": "Tecnoglifos, símbolos de luz y energía de la nave marciana, interpretados como datos o como una cuenta atrás."
+    }
+   ]
+  },
+  {
+   "id": "barrasposado",
+   "name": "barras de posado",
+   "aliases": [
+    "barras de posado"
+   ],
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Barras de posado, estructuras esqueléticas como andamios en la nave marciana donde se posaban los marcianos."
+    }
+   ]
+  },
+  {
+   "id": "sistemadatos",
+   "name": "sistema de datos marciano",
+   "aliases": [
+    "sistema de datos marciano",
+    "sistemas de datos marcianos"
+   ],
+   "summary": [
+    {
+     "when": "s32",
+     "text": "Sistema de datos marciano, interfaz de pantallas y monitores de la nave que muestra el combate y una cuenta atrás."
+    }
+   ]
+  },
+  {
+   "id": "afd",
+   "name": "AFD",
+   "summary": [
+    {
+     "when": "s20",
+     "text": "AFD, clasificación de Artefacto de Función Desconocida con que los arqueólogos catalogan los hallazgos."
+    }
+   ]
+  },
+  {
+   "id": "nanobios",
+   "name": "nanobios",
+   "aliases": [
+    "nanobio"
+   ],
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Nanobios, sistemas de nanocriaturas de Mandrake que parecen no hacer nada, aunque Hand está inquieto."
+    },
+    {
+     "when": "e28",
+     "text": "Nanobios, nanocriaturas del proyecto PAREN que forman cables asesinos y se regeneran con dinámica de campos. Han matado a Cruickshank y a Hansen mientras preparaban la boya."
+    }
+   ]
+  },
+  {
+   "id": "paren",
+   "name": "SPAREN",
+   "aliases": [
+    "PAREN",
+    "IVUB"
+   ],
+   "summary": [
+    {
+     "when": "s22",
+     "text": "SPAREN, Sistema de programación abierta reactivo al entorno a nanoescala, formado por nanobios inteligentes de vida ultrabreve (IVUB); un arma en evolución cuyo efecto real nadie sabe."
+    },
+    {
+     "when": "e36",
+     "text": "SPAREN, sistema de nanobios de Mandrake. Carrera admite que sus patrocinadores le dieron acceso a sus códigos, cuyos detalles dice ignorar."
+    }
+   ]
+  },
+  {
+   "id": "nanocolonias",
+   "name": "nanocolonias",
+   "summary": [
+    {
+     "when": "s25",
+     "text": "Nanocolonias, estructuras grises de cientos de metros que llenan las grietas de Dangrek; Hansen cree que atacarlas solo las hará adaptarse."
+    }
+   ]
+  },
+  {
+   "id": "boya",
+   "name": "boya de apropiación",
+   "aliases": [
+    "boya de apropiación",
+    "boya",
+    "boya de declaración"
+   ],
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Boya de apropiación, dispositivo legal que debe colocarse a menos de un kilómetro de un artefacto en espacio no orbital para reclamarlo para Mandrake."
+    },
+    {
+     "when": "e28",
+     "text": "Boya de apropiación, dispositivo de unos dos metros que enmascara la presencia de un objeto; la de Mandrake se dañó cuando los nanobios mataron a quienes la preparaban."
+    },
+    {
+     "when": "e30",
+     "text": "Boya de apropiación, dispositivo de Mandrake dañado por un sabotaje; Sun calcula que necesita entre ocho y doce horas para reparar su sistema energético."
+    }
+   ]
+  },
+  {
+   "id": "guardiancadaver",
+   "name": "guardián cadáver",
+   "aliases": [
+    "guardián cadáver"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Guardián cadáver, cuerpo muerto reanimado que Djoko usa como guardaespaldas y que lo lleva en brazos."
+    }
+   ]
+  },
+  {
+   "id": "hospitalorbital",
+   "name": "hospital orbital",
+   "aliases": [
+    "hospital orbital"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Hospital orbital, hospital del Protectorado a trescientos kilómetros sobre Sanción IV, adonde evacúan al personal de alto rango herido contra los kempistas."
+    }
+   ]
+  },
+  {
+   "id": "gobierno",
+   "name": "Gobierno planetario",
+   "aliases": [
+    "Gobierno planetario",
+    "gobierno planetario"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Gobierno planetario de Sanción IV, atrincherado en búnkeres, que repite que la guerra de Kemp es un problema interno."
+    }
+   ]
+  },
+  {
+   "id": "campointernamiento",
+   "name": "campo de internamiento",
+   "aliases": [
+    "campo de internamiento",
+    "campos de internamiento"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Campo de internamiento, prisión del Gobierno donde tienen a Wardani como presa política; lo protegen robots centinelas y está al mando de un comandante conectado a un soporte vital."
+    }
+   ]
+  },
+  {
+   "id": "interrogatoriovirtual",
+   "name": "interrogatorio virtual",
+   "aliases": [
+    "interrogatorio virtual",
+    "interrogatorios virtuales"
+   ],
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Interrogatorio virtual, método de las corporaciones para sacar información a una pila en una simulación, tras lo cual suelen matar al interrogado."
+    }
+   ]
+  },
+  {
+   "id": "mundoexterior",
+   "name": "Mundo Exterior",
+   "aliases": [
+    "Mundo Exterior"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Mundo Exterior, expresión con la que un comandante de Sanción IV llama, con ironía, a todo lo que queda fuera del planeta."
+    }
+   ]
+  },
+  {
+   "id": "nuevapekin",
+   "name": "Nueva Pekín",
+   "aliases": [
+    "Nueva Pekín"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Nueva Pekín, lugar de otro mundo cuyas casas de moda y cuyas culturas coloniales recuerda Kovacs; su sistema tiene hábitats gigantes."
+    }
+   ]
+  },
+  {
+   "id": "bichitos",
+   "name": "Bichitos Azules",
+   "aliases": [
+    "Bichitos Azules"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Bichitos Azules, banda de ladrones amigos de Virginia Vidaura."
+    },
+    {
+     "when": "e15",
+     "text": "Bichitos Azules, los famosos compañeros de Virginia Vidaura con quienes Kovacs discutía de política y recitaba citas y poemas qüelistas."
+    }
+   ]
+  },
+  {
+   "id": "rawling",
+   "name": "Rawling",
+   "aliases": [
+    "virus Rawling"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Virus Rawling, virus militar antiguo que devora el intelecto de una máquina o de una pila."
+    },
+    {
+     "when": "e14",
+     "text": "Virus Rawling, virus militar que terminó con la cabeza de playa de Innenin y empujó a Jimmy de Soto a arrancarse un ojo; hoy es excedente barato, el único software viral que se permiten las tropas de Kemp."
+    }
+   ]
+  },
+  {
+   "id": "tanquearana",
+   "name": "tanque araña",
+   "aliases": [
+    "tanque araña",
+    "tanques araña"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Tanque araña, vehículo blindado militar con detectores de personas."
+    },
+    {
+     "when": "e14",
+     "text": "Tanque araña, vehículo blindado automático; un escuadrón de ellos infectado con una variante del Rawling mató a Sun Liping."
+    }
+   ]
+  },
+  {
+   "id": "mascaraartillero",
+   "name": "máscara de artillero",
+   "aliases": [
+    "máscara de artillero"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Máscara de artillero, visera elástica que proyecta un paisaje marino virtual y datos de sensores en la vista de Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "bioware",
+   "name": "bioware",
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Bioware, biotecnología médica de regeneración que el hospital pasa por las zonas dañadas de un cuerpo herido."
+    },
+    {
+     "when": "e13",
+     "text": "Bioware, biotecnología de regeneración y de combate; Hand dice que las fundas resistentes proceden de bioware de origen maorí."
+    }
+   ]
+  },
+  {
+   "id": "burbujadespliegue",
+   "name": "burbujas de despliegue rápido",
+   "aliases": [
+    "burbujas de despliegue rápido"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Burbuja de despliegue rápido, cabaña de campaña cubierta de camaleocromo y con números de iluminio sobre la puerta; el equipo de Mandrake monta seis en la playa de Dangrek."
+    }
+   ]
+  },
+  {
+   "id": "pesquero",
+   "name": "pesquero de arrastre",
+   "aliases": [
+    "pesquero de arrastre",
+    "pesquero"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Pesquero de arrastre, barco de pesca pequeño y decrépito, anclado en los bajíos a unos cientos de metros de la costa de Dangrek."
+    },
+    {
+     "when": "e19",
+     "text": "Pesquero de arrastre anclado en Dangrek, abandonado desde hace meses, con cadáveres en las redes y ratas a bordo; el equipo registra el barco y retira los cuerpos."
+    },
+    {
+     "when": "e25",
+     "text": "Pesquero de arrastre anclado en Dangrek, abandonado; en su cubierta el equipo de Mandrake bebe, fuma y celebra una fiesta."
+    },
+    {
+     "when": "e42",
+     "text": "Pesquero de arrastre anclado en Dangrek, abandonado. Wardani mató allí con una aturdidora a dos hombres, delegados de la expedición, y los arrojó a las redes para que se ahogaran."
+    }
+   ]
+  },
+  {
+   "id": "purosindigo",
+   "name": "puros de Ciudad Índigo",
+   "aliases": [
+    "puros de Ciudad Índigo"
+   ],
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Puros de Ciudad Índigo, tabaco que prohibieron, y que Cruickshank robó del suministro de la armería de Mandrake."
+    }
+   ]
+  },
+  {
+   "id": "pd9",
+   "name": "PD9",
+   "summary": [
+    {
+     "when": "s26",
+     "text": "PD9, medida disciplinaria con la que Sutjiadi amenaza a quien incumpla las órdenes."
+    }
+   ]
+  },
+  {
+   "id": "limpiador",
+   "name": "limpiador de artefactos",
+   "aliases": [
+    "limpiador de artefactos"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Limpiador de artefactos, máquina que elimina el tejido adherido a una pila cortical extraída de una columna vertebral, para poder enchufarla a una simulación."
+    }
+   ]
+  },
+  {
+   "id": "interferencias",
+   "name": "generador de interferencias",
+   "aliases": [
+    "generador de interferencias",
+    "generador de interferencias espejo"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Generador de interferencias espejo, sistema que impediría rastrear una simulación; Kovacs finge tenerlo ante Deng."
+    },
+    {
+     "when": "e11",
+     "text": "Generador de interferencias, aparato que Mandrake insistió en que llevaran Kovacs y Wardani para aislarse del rastreo; ella duda de que esté limpio de micrófonos."
+    }
+   ]
+  },
+  {
+   "id": "secuenciador",
+   "name": "secuenciador de sueños psicoquirúrgico",
+   "aliases": [
+    "secuenciador de sueños psicoquirúrgico"
+   ],
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Secuenciador de sueños psicoquirúrgico, proceso de Mandrake que pasa las pilas compradas para filtrar candidatos sin despertar a los soldados."
+    }
+   ]
+  },
+  {
+   "id": "angier",
+   "name": "lámparas Angier",
+   "aliases": [
+    "lámparas Angier"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Lámparas Angier, lámparas de campaña montadas en trípodes que iluminan el campamento del Cuño y la ejecución de Sutjiadi."
+    }
+   ]
+  },
+  {
+   "id": "nuhanovic",
+   "name": "Nuhanovic",
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Nuhanovic, sistema de análisis y cartografía que Sun Liping lleva en el brazo para detectar circuitos en la nave marciana."
+    },
+    {
+     "when": "e43",
+     "text": "Nuhanovic, marca de los sistemas de dirección del blindado Virtud de Angin Chandra: según Sun, no existe nada mejor para llegar a destino a su ritmo."
+    }
+   ]
+  },
+  {
+   "id": "sometimiento",
+   "name": "sometimiento táctico",
+   "aliases": [
+    "sometimiento táctico"
+   ],
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Sometimiento táctico, ataque militar con un proyector de partículas orbital o una bomba nuclear táctica, que la IAM calcula que podría caer sobre Sauberville."
+    }
+   ]
+  },
+  {
+   "id": "orbitacementerio",
+   "name": "órbita cementerio",
+   "aliases": [
+    "órbita cementerio"
+   ],
+   "summary": [
+    {
+     "when": "s34",
+     "text": "Órbita cementerio, trayectoria cerrada en la que una nave marciana repite una batalla automática cada mil doscientos años contra otro navío."
+    }
+   ]
+  },
+  {
+   "id": "armamentohiper",
+   "name": "armamento hiperespacial",
+   "aliases": [
+    "armamento hiperespacial"
+   ],
+   "summary": [
+    {
+     "when": "s34",
+     "text": "Armamento hiperespacial, arma de la otra nave que rasga el tejido del espacio y causa el grito de la nave marciana; fantasía de la experia y sueño de los comandantes navales del Protectorado."
+    }
+   ]
+  },
+  {
+   "id": "sublevacion",
+   "name": "Sublevación de los Pilotos",
+   "aliases": [
+    "Sublevación de los Pilotos"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Sublevación de los Pilotos, conflicto en el que Kovacs estuvo en órbita alta sobre Loyko."
+    }
+   ]
+  },
+  {
+   "id": "hegemonia",
+   "name": "hegemonía marciana",
+   "aliases": [
+    "hegemonía marciana"
+   ],
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Hegemonía marciana, idea derivada de la teoría del núcleo según la cual los marcianos buscaron un dominio central; asusta a la ONU y sirve para pedir más presupuesto al Protectorado."
+    }
+   ]
+  },
+  {
+   "id": "robotscentinelas",
+   "name": "robots centinelas",
+   "aliases": [
+    "robots centinelas"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Robots centinelas, máquinas de vigilancia que emergen de la tierra para proteger el perímetro del campo de internamiento."
+    }
+   ]
+  },
+  {
+   "id": "himno",
+   "name": "himno kempista",
+   "aliases": [
+    "himno kempista",
+    "himno revolucionario kempista"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Himno kempista, canción revolucionaria de propaganda de Kemp, de título «Campo abierto, todo el tiempo», que el Gobierno censuró y reescribió con la versión aséptica de Lapinee; todo el mundo acaba tarareándola."
+    }
+   ]
+  },
+  {
+   "id": "filtracion",
+   "name": "Filtración de la riqueza en economías de guerra",
+   "aliases": [
+    "Filtración de la riqueza en economías de guerra"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Filtración de la riqueza en economías de guerra, libro de Brankovitch que Hand dice conocer de sobra."
+    }
+   ]
+  },
+  {
+   "id": "mowai",
+   "name": "Mowai",
+   "aliases": [
+    "Mowai Diez"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Mowai, suborbital voluminosa y grande como una casa que Schneider usó para transportar arqueólogos y que no cabía por el portal."
+    }
+   ]
+  },
+  {
+   "id": "cangrejos",
+   "name": "cangrejos de control remoto",
+   "aliases": [
+    "cangrejos de control remoto"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Cangrejos de control remoto, pequeñas máquinas con patas segmentadas que Semetaire lanza sobre un montón de pilas para rescatar las más frescas."
+    }
+   ]
+  },
+  {
+   "id": "bioplaca",
+   "name": "bioplaca",
+   "aliases": [
+    "bioplacas"
+   ],
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Bioplaca, placa de interfaz bajo la piel de la palma que reconoce los códigos del Cuño y activa las pistolas de interfaz."
+    }
+   ]
+  },
+  {
+   "id": "ia",
+   "name": "IA",
+   "summary": [
+    {
+     "when": 0,
+     "text": "IA, inteligencia artificial."
+    }
+   ]
+  },
+  {
+   "id": "philips",
+   "name": "Philips",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Philips, arma de proyectiles con acelerador electromagnético, silenciosa y potente."
+    },
+    {
+     "when": "e41",
+     "text": "Philips, lanzamisiles de presión que Carrera lleva en el puño izquierdo y que dispara granadas de aceleración electromagnética contra Kovacs en el espacio."
+    }
+   ]
+  },
+  {
+   "id": "adn",
+   "name": "ADN",
+   "summary": [
+    {
+     "when": 0,
+     "text": "ADN, ácido desoxirribonucleico, la molécula que lleva la información genética."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6138 @@
+{
+ "book": {
+  "title": "Carbono modificado",
+  "author": "Richard Morgan",
+  "series": "Takeshi Kovacs",
+  "number": 1
+ },
+ "chapter_pattern": "^(Prólogo|Epílogo|Uno|Dos|Tres|Cuatro|Cinco|Seis|Siete|Ocho|Nueve|Diez|Once|Doce|Trece|Catorce|Quince|Dieci|Veint|Treinta|Cuarenta)",
+ "notes": "Source written by a model (Claude) from the chapter logs of a local model and from the book itself; it has not been reviewed by a person. Introductions use the start of the chapter (sN) and say only what its first pages show; what a chapter reveals uses its end (eN). The edition spells the same names in different ways in places (Kawahara/Kawabara, Virginia/Virgina, Curtis/Curtís, Elliott/Elliot, Mundo de Harlan/Harían); the variants that occur are kept as aliases. Bodies (fundas) and the people who wear them are kept apart: Elias Ryker is a person, and Kovacs only wears his funda. Terms were collected by the model from the book's own text.",
+ "entries": [
+  {
+   "id": "kovacs",
+   "name": "Takeshi Kovacs",
+   "aliases": [
+    "Kovacs",
+    "Takeshi",
+    "Tak",
+    "Takeshi-san",
+    "Takeshi Lee Kovacs",
+    {
+     "text": "Anderson",
+     "when": "s30"
+    },
+    {
+     "text": "Martin Anderson",
+     "when": "s30"
+    }
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Narrador del libro: en una cocina de Millsport, en el Mundo de Harlan, espera con su compañera Sarah a los soldados que vienen a por ellos. Un policía joven lo llama Kovacs."
+    },
+    {
+     "when": "e1",
+     "text": "Narrador del libro, a quien Sarah llama Tak. Un asalto mata a Sarah en Millsport; él mata a un soldado y un policía joven le dispara en el pecho. Herido, alarga la mano hacia su pistola."
+    },
+    {
+     "when": "e2",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, preso almacenado. Lo han fletado a la Tierra y reenfundado en una funda nueva en Ciudad Bahía: el alcaide Sullivan lo ha liberado en arrendamiento por seis semanas a un tal Laurens Bancroft, que lo espera."
+    },
+    {
+     "when": "e3",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, preso sacado del almacenamiento y reenfundado en la Tierra. Laurens Bancroft lo contrata por seis semanas para investigar su asesinato, que la policía de Ciudad Bahía da por suicidio; la teniente Ortega le ofrece llevarlo a la Mansión del Sol."
+    },
+    {
+     "when": "e4",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, arrendado a la Tierra por Laurens Bancroft. Acepta el caso: Bancroft jura que lo asesinaron, aunque no recuerda nada de su última noche. Kovacs aún sufre temblores y ansia de tabaco por la descarga de su funda, y quiere ver a Prescott y PsychaSec."
+    },
+    {
+     "when": "e5",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. Ha interrogado a Miriam, la esposa, que asegura que su marido no se suicidó y estaba lejos de casa; su funda nueva todavía le da temblores."
+    },
+    {
+     "when": "e7",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. En el hotel Hendrix, donde se aloja, dos asaltantes han caído abatidos por las torretas; Ortega le dice que uno llevaba la funda de Dimitri Kadmin, asesino profesional, y que alguien lo mandó contra él."
+    },
+    {
+     "when": "e8",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. En PsychaSec, con la abogada Prescott, ha visto la cripta de clones de los Bancroft y ha oído que Miriam apaleó en su día a una prostituta, Leila Begin; sueña con su camarada muerto Jimmy de Soto, que le dice que busque a Begin."
+    },
+    {
+     "when": "e10",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. Sigue la amenaza del veterano Elliott hasta los Salones Privados de Jerry, donde su hija Elizabeth, parecida a Leila Begin, trabajaba antes de morir; se ha hecho pasar por la madre de Elizabeth para sacar datos y sale de un tiroteo con Ortega de testigo."
+    },
+    {
+     "when": "e11",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. Ortega le dice que el caso Bancroft no está cerrado y lo sigue; esa noche Miriam Bancroft lo visita en el hotel, y acaban acostándose."
+    },
+    {
+     "when": "e13",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. Tras seguir la pista de Elizabeth Elliott hasta Villamamada, cae en manos de la banda de Jerry, que lo llama Ryker y lo droga en un sótano."
+    },
+    {
+     "when": "e14",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. Sus captores lo someten a un interrogatorio en una realidad virtual para saber si es el tal Ryker; él lo niega, dice que su funda es una tapadera y se hace pasar por un emisario tras una banda de biopiratas para negociar su salida."
+    },
+    {
+     "when": "e15",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. Despierta en un quirófano al otro lado del interrogatorio, mata a una sintética llamada Trepp y a un pistolero en un coche y escapa tras amenazar al conductor."
+    },
+    {
+     "when": "e16",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. Vuelve a Villamamada a hacer daño: mata a la banda de Jerry y al personal de una clínica clandestina. Jerry confiesa que mandó eliminar a Elizabeth Elliott por intentar chantajear a un cliente, y que Ryker, con quien lo confunden, fue un policía de Ciudad Bahía."
+    },
+    {
+     "when": "e17",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. Se enfrenta a Bancroft en la Mansión del Sol: sabe ya que lleva la funda de un policía llamado Elias Ryker, elegida por Bancroft para fastidiar a Ortega, y exige respuestas. Descubre que Kadmin lo conocía a él, no a Ryker."
+    },
+    {
+     "when": "e18",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft y camuflado con la funda de Ryker. Con Ortega presiona en un entorno virtual a Dimitri Kadmin, preso, que admite que su orden era secuestrarlo y que luego lo amenaza de muerte."
+    },
+    {
+     "when": "e19",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft y camuflado con la funda de Ryker. Acosta con una ley inventada al abogado de Kadmin, Rutherford, y descubre con Ortega que una de sus llamadas va a la Mansión del Sol."
+    },
+    {
+     "when": "e20",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft y camuflado con la funda de Ryker. Con Ortega inspecciona el fundódromo Rosa de Panamá, adonde llevaba una llamada del abogado de Kadmin, y topa con un sintético, Carnage, que reconoce su funda."
+    },
+    {
+     "when": "e21",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft, que sigue con la funda de Ryker. Rechaza una oferta de Bancroft, rompe la nariz al chófer Curtis y se entera por Bautista de que Ryker fue un policía caído por una trampa sin aclarar."
+    },
+    {
+     "when": "e22",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. En una playa virtual oye a Leila Begin acusar a Miriam Bancroft; después sobrevive con Ortega a una emboscada en los foros de Chinatown, donde mata a un sintético."
+    },
+    {
+     "when": "e23",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, investigador contratado por Laurens Bancroft. Cree que el sintético muerto era Kadmin, vuelto a la vida a través de una IA, y se oculta: le da a Ortega un código de contacto y se marcha."
+    },
+    {
+     "when": "e24",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, en fuga de quien lo vigila. Una doctora le ha dado un disco para anular el localizador que le implantaron en la pila; viaja hacia Ciudad Bahía para interrogar al alcaide Sullivan."
+    },
+    {
+     "when": "e25",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, en fuga de quien lo vigila. Interroga a Sullivan, que no sabe quién envió a Trepp, y la mercenaria Trepp lo invita a conocer a su jefe en Europa."
+    },
+    {
+     "when": "e26",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios. En Europa, Reileen Kawahara se descubre como quien lo recomendó a Bancroft y soltó a Kadmin, y lo amenaza: cerrará el caso Bancroft en diez días o ella torturará virtualmente a su amiga Sarah Sachilowska."
+    },
+    {
+     "when": "e27",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios. Acepta de momento el trato de Kawahara y se mete tetrameta con Trepp, hasta que el fantasma de Jimmy de Soto le avisa de un ataque vírico."
+    },
+    {
+     "when": "e28",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, empeñado en salvar a Sarah de Kawahara. Esa noche se acuesta con Ortega en un yate, que resulta ser de Ryker."
+    },
+    {
+     "when": "e29",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, empeñado en salvar a Sarah de Kawahara. Pide ayuda a Ortega para engañar a Bancroft con un bulo que cierre el caso."
+    },
+    {
+     "when": "e30",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, empeñado en salvar a Sarah. Finge servir a Kawahara: planea usar el virus Rawling para simular el suicidio de Bancroft y exige a Irene Elliott como buzo; bajo el nombre de Martin Anderson trabajará para JacSol."
+    },
+    {
+     "when": "e31",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, que finge servir a Kawahara bajo el nombre de Martin Anderson. Saca de la cárcel a Irene Elliott, que acepta instalar el virus para vengarse de Bancroft."
+    },
+    {
+     "when": "e33",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, que sirve en apariencia a Kawahara. Convence a Bancroft de que se suicidó por culpa de un virus cogido en un prostíbulo virtual; vigila con un telescopio un aparato llamado La Cabeza en las Nubes."
+    },
+    {
+     "when": "e34",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios. Interroga en el Hendrix a la cabeza cortada de Miller, que le habla de La Cabeza en las Nubes, el prostíbulo volador de Kawahara; ya planea destruirla."
+    },
+    {
+     "when": "e35",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios. Ha vaciado a Miller con una simulación del hotel; Kadmin, vivo otra vez, ha secuestrado a Ortega y lo reclama a él a cambio."
+    },
+    {
+     "when": "e37",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios. Obligado a pelear contra Kadmin en el Rosa de Panamá, lo mata con la ayuda de Bautista y Trepp, que irrumpen disparando."
+    },
+    {
+     "when": "e38",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, con Ortega y Bautista encubriendo la matanza del Rosa de Panamá. Quiere asaltar La Cabeza en las Nubes para limpiar a Ryker y acabar con Kawahara."
+    },
+    {
+     "when": "e39",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios. Se ha dividido en dos copias: una en la funda de Ryker, que irá a la Mansión del Sol con Miriam Bancroft, y otra en una funda de ninja tecnológico, que asaltará La Cabeza en las Nubes; discuten cuál de las dos conservará la vida."
+    },
+    {
+     "when": "e40",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, en su copia de ninja tecnológico y con el nombre de Anderson. Con Ortega prepara el asalto a La Cabeza en las Nubes en un campamento de timadores, donde Irene Elliott hace el reconocimiento y Reese le instala un grabador en el ojo."
+    },
+    {
+     "when": "e41",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, en su copia de ninja tecnológico. Se cuela en La Cabeza en las Nubes con segador y betatanatina mientras Ortega y Bautista distraen a Kawahara; mata a un hombre en una habitación y entra en el camarote de Kawahara."
+    },
+    {
+     "when": "e42",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, en su copia de ninja tecnológico. En el camarote, Kawahara le confiesa la trampa a Ryker y la muerte de Bancroft; Trepp lo aturde y luego se vuelve contra ella, y él cae al mar abrazado a Kawahara con una granada de termita contra su cabeza."
+    },
+    {
+     "when": "e43",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios. Sobrevivió a la caída, y ahora ocupa la funda de Ryker tras ganar a piedra, papel o tijera a su otra copia, sin recordar lo que hizo ésta con Miriam. Reúne pruebas de que Bancroft se mató drogado por una trampa de Kawahara y Miriam, y las borra para proteger a Sheryl Bostock."
+    },
+    {
+     "when": "e44",
+     "text": "Takeshi Kovacs, natural del Mundo de Harlan y formado en el Cuerpo de Emisarios, en la funda prestada de Ryker. Kawahara ha muerto y la ONU ha tomado el caso; deja el dinero para una funda a Elizabeth Elliott, se despide de Ortega y se prepara para volver al Mundo de Harlan por transmisión de aguja."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "s1",
+     "with": "sarah",
+     "text": "Compañera con la que comparte una cocina, armas y huida en Millsport"
+    },
+    {
+     "when": "e1",
+     "with": "sarah",
+     "text": "Compañera, muerta a tiros en el asalto de Millsport"
+    },
+    {
+     "when": "e26",
+     "with": "sarah",
+     "text": "Compañera de Millsport, ahora condenada, que Kawahara retiene como arma contra él"
+    },
+    {
+     "when": "e40",
+     "with": "sarah",
+     "text": "Compañera de Millsport, ya devuelta al Mundo de Harlan"
+    },
+    {
+     "when": "e2",
+     "with": "virginia",
+     "text": "Antigua instructora del Cuerpo, ahora presa"
+    },
+    {
+     "when": "e8",
+     "with": "jimmy",
+     "text": "Camarada muerto del Cuerpo que se le aparece en sueños"
+    },
+    {
+     "when": "e2",
+     "with": "bancroft",
+     "text": "Rico que lo ha arrendado seis semanas"
+    },
+    {
+     "when": "e17",
+     "with": "bancroft",
+     "text": "Cliente que lo metió en la funda de Ryker para provocar a Ortega"
+    },
+    {
+     "when": "e43",
+     "with": "bancroft",
+     "text": "Cliente al que debe mantenerse lejos tras el caso"
+    },
+    {
+     "when": "e4",
+     "with": "miriam",
+     "text": "Esposa de su cliente"
+    },
+    {
+     "when": "e11",
+     "with": "miriam",
+     "text": "Esposa de su cliente, con quien pasó una noche"
+    },
+    {
+     "when": "e43",
+     "with": "miriam",
+     "text": "Esposa de Bancroft, que hizo drogar a su marido y a la que Kovacs deja con la única grabación del hecho"
+    },
+    {
+     "when": "e3",
+     "with": "ortega",
+     "text": "Teniente que cerró el caso Bancroft y lo trata con desconfianza"
+    },
+    {
+     "when": "e18",
+     "with": "ortega",
+     "text": "Teniente que acaba colaborando con él a regañadientes"
+    },
+    {
+     "when": "e28",
+     "with": "ortega",
+     "text": "Teniente, aliada y amante"
+    },
+    {
+     "when": "e44",
+     "with": "ortega",
+     "text": "Teniente, aliada y amante de unos días; se despiden"
+    },
+    {
+     "when": "e3",
+     "with": "kawahara",
+     "text": "Contacto de su pasado que lo recomendó a Bancroft"
+    },
+    {
+     "when": "e26",
+     "with": "kawahara",
+     "text": "Enemiga que lo chantajea con la vida de Sarah"
+    },
+    {
+     "when": "e30",
+     "with": "kawahara",
+     "text": "Enemiga a la que sirve en apariencia"
+    },
+    {
+     "when": "e42",
+     "with": "kawahara",
+     "text": "Enemiga a la que mató en la caída"
+    },
+    {
+     "when": "e7",
+     "with": "kadmin",
+     "text": "Asesino profesional que fue enviado contra él"
+    },
+    {
+     "when": "e37",
+     "with": "kadmin",
+     "text": "Enemigo al que mató en el Rosa de Panamá"
+    },
+    {
+     "when": "e15",
+     "with": "trepp",
+     "text": "Mercenaria sintética a la que mata tras despertar en un quirófano"
+    },
+    {
+     "when": "e25",
+     "with": "trepp",
+     "text": "Mercenaria al servicio de su jefa, que lo guía en Europa"
+    },
+    {
+     "when": "e37",
+     "with": "trepp",
+     "text": "Mercenaria que lo salva en el Rosa de Panamá"
+    },
+    {
+     "when": "e44",
+     "with": "trepp",
+     "text": "Mercenaria desaparecida, a la que se compara a sí mismo"
+    },
+    {
+     "when": "e8",
+     "with": "prescott",
+     "text": "Abogada de su cliente que lo acompaña a PsychaSec"
+    },
+    {
+     "when": "e13",
+     "with": "ryker",
+     "text": "Nombre con el que lo llaman sus captores"
+    },
+    {
+     "when": "e17",
+     "with": "ryker",
+     "text": "Policía caído cuya funda lleva por decisión de Bancroft"
+    },
+    {
+     "when": "e44",
+     "with": "ryker",
+     "text": "Policía cuya funda lleva prestada y que Ortega quiere recuperar"
+    },
+    {
+     "when": "e21",
+     "with": "bautista",
+     "text": "Compañero de Ortega"
+    },
+    {
+     "when": "e37",
+     "with": "bautista",
+     "text": "Policía que lo rescata en el Rosa de Panamá"
+    },
+    {
+     "when": "e7",
+     "with": "hendrix",
+     "text": "Hotel de IA donde se aloja"
+    },
+    {
+     "when": "e43",
+     "with": "hendrix",
+     "text": "IA del hotel que lo ayuda a borrar pruebas"
+    },
+    {
+     "when": "e31",
+     "with": "irene",
+     "text": "Presa a la que saca de la cárcel y que le sirve de buzo"
+    },
+    {
+     "when": "e44",
+     "with": "irene",
+     "text": "Aliada a la que paga la funda nueva de su hija"
+    },
+    {
+     "when": "e3",
+     "with": "curtis",
+     "text": "Chófer de su cliente"
+    },
+    {
+     "when": "e21",
+     "with": "curtis",
+     "text": "Chófer de Bancroft al que rompe la nariz"
+    },
+    {
+     "when": "e43",
+     "with": "curtis",
+     "text": "Chófer de Bancroft que trabajaba en secreto para Kawahara"
+    },
+    {
+     "when": "e44",
+     "with": "prescott",
+     "text": "Abogada de Bancroft que le entrega la autorización de aguja y le advierte"
+    },
+    {
+     "when": "e44",
+     "with": "bautista",
+     "text": "Policía amigo de Ortega, que sospecha de su relación con ella"
+    },
+    {
+     "when": "e13",
+     "with": "jerry",
+     "text": "Jefe de la banda que lo captura en Villamamada"
+    },
+    {
+     "when": "e16",
+     "with": "jerry",
+     "text": "Enemigo al que mató tras sacarle la verdad sobre Elizabeth"
+    },
+    {
+     "when": "e13",
+     "with": "louise",
+     "text": "Trabajadora de los Salones de Jerry, cuya muerte le empuja a vengarse"
+    },
+    {
+     "when": "e18",
+     "with": "kadmin",
+     "text": "Asesino preso que lo amenaza de muerte en la simulación"
+    },
+    {
+     "when": "e23",
+     "with": "kadmin",
+     "text": "Asesino que ha vuelto con otra funda y vuelve a por él"
+    },
+    {
+     "when": "e35",
+     "with": "kadmin",
+     "text": "Secuestrador de Ortega que lo reclama a cambio"
+    },
+    {
+     "when": "e22",
+     "with": "begin",
+     "text": "Antigua prostituta que acusa a Miriam Bancroft"
+    },
+    {
+     "when": "e34",
+     "with": "miller",
+     "text": "Director de la clínica Wei, cuya cabeza interroga"
+    },
+    {
+     "when": "e40",
+     "with": "reese",
+     "text": "Experta en implantes que le pone el grabador en el ojo"
+    },
+    {
+     "when": "e42",
+     "with": "hinchley",
+     "text": "Chica caída de La Cabeza en las Nubes, cuya declaración hunde a Kawahara"
+    },
+    {
+     "when": "e43",
+     "with": "bostock",
+     "text": "Empleada de PsychaSec a la que protege de Miriam"
+    },
+    {
+     "when": "e44",
+     "with": "elizabeth",
+     "text": "Chica asesinada a la que paga una funda nueva"
+    }
+   ],
+   "seen": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "id": "sarah",
+   "name": "Sarah",
+   "aliases": [
+    {
+     "text": "Sachilowska",
+     "when": "s26"
+    },
+    {
+     "text": "Sarah Sachilowska",
+     "when": "s26"
+    }
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Mujer de pelo negro y ojos de cristal líquido que duerme en un dormitorio de Millsport y maneja una pistola de agujas, mientras Tak espera un ataque."
+    },
+    {
+     "when": "e1",
+     "text": "Compañera de Tak (Kovacs) en Millsport, en el Mundo de Harlan. Experta con la pistola de agujas, muere acribillada por un soldado en un asalto."
+    },
+    {
+     "when": "e26",
+     "text": "Compañera de Kovacs en Millsport, asesinada en su día en un asalto. Ahora es Sarah Sachilowska, presa del penal de Kanagawa, y Reileen Kawahara la ha comprado para torturarla virtualmente si Kovacs no cierra el caso Bancroft en diez días."
+    },
+    {
+     "when": "e40",
+     "text": "Compañera de Kovacs en Millsport, asesinada en su día en un asalto. Reileen Kawahara la retenía por cuenta de Kovacs; salió fletada de La Cabeza en las Nubes y la devolvieron al Mundo de Harlan, a salvo de ella."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e1",
+     "with": "kovacs",
+     "text": "Compañero con el que huía en Millsport; ella murió ante sus ojos"
+    },
+    {
+     "when": "e26",
+     "with": "kovacs",
+     "text": "Compañero de Millsport al que Kawahara obliga a obedecer con la amenaza de torturarla"
+    },
+    {
+     "when": "e40",
+     "with": "kovacs",
+     "text": "Compañero de Millsport, que ha trabajado para salvarla"
+    },
+    {
+     "when": "e26",
+     "with": "kawahara",
+     "text": "Mujer que la compró en el penal de Kanagawa y la retiene para chantajear a Kovacs"
+    },
+    {
+     "when": "e40",
+     "with": "kawahara",
+     "text": "Mujer que la retenía y que ya la ha devuelto al Mundo de Harlan"
+    }
+   ],
+   "seen": [
+    1
+   ]
+  },
+  {
+   "id": "ortega",
+   "name": "Kristin Ortega",
+   "aliases": [
+    "Ortega",
+    "Kristin",
+    "Kris"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Mujer de gafas oscuras, sentada en un banco, que observa a Kovacs al salir de la central de descargas."
+    },
+    {
+     "when": "e3",
+     "text": "Teniente Kristin Ortega, del Departamento de Daños Orgánicos de Ciudad Bahía. Llevó el caso de la muerte de Bancroft y lo cerró como suicidio; se queja con rabia de los católicos y del Vaticano, y ofrece a Kovacs llevarlo a la Mansión del Sol."
+    },
+    {
+     "when": "e7",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, de treinta y cuatro años. Se niega a reabrir el caso Bancroft, pero investiga el tiroteo del hotel Hendrix y le da a Kovacs una pista, Leila Begin."
+    },
+    {
+     "when": "e11",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía. Sigue de cerca a Kovacs y le dice que el caso Bancroft no está cerrado."
+    },
+    {
+     "when": "e17",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía. Kovacs ha descubierto que la sigue sin cesar porque vigila la funda de Ryker, su antigua pareja, que Bancroft puso a propósito en manos de Kovacs."
+    },
+    {
+     "when": "e18",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Ya colabora con Kovacs: interroga con él a Kadmin en la comisaría de la calle Fell, y confiesa que le puso un localizador en la chaqueta."
+    },
+    {
+     "when": "e21",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Paga la hipoteca de la funda de Ryker y se enfrenta a Asuntos Internos para limpiarlo, mientras Kovacs sigue una pista tras otra."
+    },
+    {
+     "when": "e23",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Resulta herida en un tiroteo en Chinatown y, a petición de Kovacs, le da un código para encontrarse sin que nadie lo sepa."
+    },
+    {
+     "when": "e28",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Pasa la noche con Kovacs en el yate de Ryker, después de revisar las grabaciones del hotel Hendrix."
+    },
+    {
+     "when": "e29",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Admite que sabía que Ryker robó el yate y que calló; acepta ayudar a Kovacs a engañar a Bancroft."
+    },
+    {
+     "when": "e30",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Confiesa que cree que a Ryker le tendieron una trampa y se marcha sin decir si volverá."
+    },
+    {
+     "when": "e35",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Kadmin la ha secuestrado; Kovacs la ve dormida en la pantalla de una simulación."
+    },
+    {
+     "when": "e38",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Se niega al principio a ayudar con el asalto a La Cabeza en las Nubes, pero con Bautista cubre la matanza del Rosa de Panamá."
+    },
+    {
+     "when": "e41",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Acompaña a Kovacs hasta La Cabeza en las Nubes y habla con Kawahara como policía en busca de un fugitivo para dar cobertura al asalto."
+    },
+    {
+     "when": "e44",
+     "text": "Teniente Kristin Ortega, de Daños Orgánicos de Ciudad Bahía, antigua pareja del policía Ryker. Dirigió el equipo de la ONU que recogió pruebas en La Cabeza en las Nubes; se despide de Kovacs con un beso y se queda para recuperar a Ryker."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e3",
+     "with": "kovacs",
+     "text": "Hombre al que acompaña a la mansión, con el que no se lleva bien"
+    },
+    {
+     "when": "e17",
+     "with": "kovacs",
+     "text": "Hombre que lleva la funda de su pareja"
+    },
+    {
+     "when": "e28",
+     "with": "kovacs",
+     "text": "Aliado y amante, con la funda de su antigua pareja"
+    },
+    {
+     "when": "e44",
+     "with": "kovacs",
+     "text": "Aliado y amante de unos días, al que despide"
+    },
+    {
+     "when": "e17",
+     "with": "ryker",
+     "text": "Antigua pareja y compañero, cuya funda paga"
+    },
+    {
+     "when": "e44",
+     "with": "ryker",
+     "text": "Antigua pareja, a quien trata de devolver a la vida"
+    },
+    {
+     "when": "e21",
+     "with": "bautista",
+     "text": "Compañero de trabajo y amigo"
+    },
+    {
+     "when": "e37",
+     "with": "bautista",
+     "text": "Compañero que cubre la matanza con ella"
+    },
+    {
+     "when": "e18",
+     "with": "kadmin",
+     "text": "Asesino al que interroga y al que golpea en la simulación"
+    },
+    {
+     "when": "e4",
+     "with": "miriam",
+     "text": "Sospechosa a la que mira con desconfianza"
+    },
+    {
+     "when": "e40",
+     "with": "irene",
+     "text": "Aliada en el asalto a La Cabeza en las Nubes"
+    },
+    {
+     "when": "e41",
+     "with": "kawahara",
+     "text": "Anfitriona a la que engaña en la nave"
+    },
+    {
+     "when": "e44",
+     "with": "trepp",
+     "text": "Mercenaria cuyo paradero ignora"
+    },
+    {
+     "when": "e3",
+     "with": "bancroft",
+     "text": "Rico cuyo caso cerró como suicidio"
+    },
+    {
+     "when": "e17",
+     "with": "bancroft",
+     "text": "Magnate que puso la funda de su pareja en manos de Kovacs para provocarla"
+    },
+    {
+     "when": "e29",
+     "with": "kawahara",
+     "text": "Sospechosa de la muerte de Bancroft o de proteger al asesino"
+    },
+    {
+     "when": "e44",
+     "with": "kawahara",
+     "text": "Jefa de La Cabeza en las Nubes, muerta en la caída"
+    },
+    {
+     "when": "e38",
+     "with": "davidson",
+     "text": "Compañero de Daños Orgánicos, chupadatos del equipo"
+    },
+    {
+     "when": "e35",
+     "with": "kadmin",
+     "text": "Secuestrador que la retiene como rehén"
+    },
+    {
+     "when": "e38",
+     "with": "kadmin",
+     "text": "Secuestrador al que Kovacs mató"
+    },
+    {
+     "when": "e22",
+     "with": "begin",
+     "text": "Mujer a la que cita en una playa virtual para que hable"
+    }
+   ],
+   "seen": [
+    3,
+    4,
+    7,
+    10,
+    11,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    28,
+    29,
+    30,
+    38,
+    40,
+    41,
+    44
+   ]
+  },
+  {
+   "id": "bancroft",
+   "name": "Laurens Bancroft",
+   "aliases": [
+    "Bancroft",
+    "Laurens",
+    "Laurens J. Bancroft"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Hombre que ha arrendado a Kovacs a la Tierra y le ha mandado una limusina con un chófer."
+    },
+    {
+     "when": "e3",
+     "text": "Laurens Bancroft, magnate rico y poderoso de la Tierra. Contrató a Kovacs: asegura que lo asesinaron hace seis semanas, aunque la policía lo da por suicidio, y teme otro intento."
+    },
+    {
+     "when": "e4",
+     "text": "Laurens J. Bancroft, magnate de la Tierra, de 357 años, dueño de PsychaSec y casado desde hace 250 con Miriam. Lo mataron de un disparo hace seis semanas y lo trajeron de vuelta desde una copia de seguridad anterior: no recuerda su última noche y rechaza que fuera suicidio o culpa de su esposa."
+    },
+    {
+     "when": "e17",
+     "text": "Laurens Bancroft, magnate de la Tierra de más de 300 años, con influencia en el tribunal de la ONU. Admite que eligió la funda de Ryker para Kovacs con intención de irritar a Ortega, y no oculta sus visitas a prostitutas."
+    },
+    {
+     "when": "e33",
+     "text": "Laurens Bancroft, magnate de la Tierra. Cree, por el engaño de Kovacs, que se suicidó a causa de un virus cogido en un prostíbulo virtual."
+    },
+    {
+     "when": "e42",
+     "text": "Laurens Bancroft, magnate de la Tierra de más de 300 años. Según Kawahara, su vieja amiga, estranguló a una mujer católica parecida a su esposa y se mató después; ella lo drogó con una química que lo empujó a ello."
+    },
+    {
+     "when": "e43",
+     "text": "Laurens Bancroft, magnate de la Tierra de más de 300 años. Drogado con sinamorfesterona, que Miriam hizo inyectar a su clon por plan de Kawahara, mató a Marla Rentang y luego se suicidó para evitar el chantaje; hoy no recuerda ese crimen."
+    },
+    {
+     "when": "e44",
+     "text": "Laurens Bancroft, magnate de la Tierra de más de 300 años. Con su historia de celos y con Miriam bajo investigación de la ONU, prohíbe por boca de su abogada que Kovacs vuelva a acercarse a su familia."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e2",
+     "with": "kovacs",
+     "text": "Hombre al que ha arrendado"
+    },
+    {
+     "when": "e17",
+     "with": "kovacs",
+     "text": "Hombre al que metió en la funda de Ryker para fastidiar a Ortega"
+    },
+    {
+     "when": "e44",
+     "with": "kovacs",
+     "text": "Detective que no debe volver a acercarse a su familia"
+    },
+    {
+     "when": "e4",
+     "with": "miriam",
+     "text": "Esposa desde hace 250 años"
+    },
+    {
+     "when": "e4",
+     "with": "prescott",
+     "text": "Abogada de confianza"
+    },
+    {
+     "when": "e4",
+     "with": "naomi",
+     "text": "Hija pequeña"
+    },
+    {
+     "when": "e3",
+     "with": "curtis",
+     "text": "Empleado de confianza que recoge a Kovacs"
+    },
+    {
+     "when": "e42",
+     "with": "kawahara",
+     "text": "Antigua amiga que lo empujó a la ruina"
+    },
+    {
+     "when": "e43",
+     "with": "marla",
+     "text": "Mujer a la que mató drogado"
+    },
+    {
+     "when": "e17",
+     "with": "ryker",
+     "text": "Policía del que tomó la funda para Kovacs"
+    },
+    {
+     "when": "e31",
+     "with": "elizabeth",
+     "text": "Muchacha de los Salones de Jerry a la que visitaba y que intentó chantajearlo"
+    },
+    {
+     "when": "e43",
+     "with": "curtis",
+     "text": "Chófer que en secreto trabajaba para Kawahara"
+    },
+    {
+     "when": "e43",
+     "with": "miriam",
+     "text": "Esposa, cuyo papel en su muerte ignora"
+    },
+    {
+     "when": "e44",
+     "with": "miriam",
+     "text": "Esposa, cuyo papel en su muerte ignora y de cuyas andanzas siente celos"
+    }
+   ],
+   "seen": [
+    4,
+    17,
+    33,
+    44
+   ]
+  },
+  {
+   "id": "miriam",
+   "name": "Miriam Bancroft",
+   "aliases": [
+    "Miriam"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Joven con una raqueta de tenis que recibe a los visitantes en el césped de la Mansión del Sol."
+    },
+    {
+     "when": "e4",
+     "text": "Miriam Bancroft, esposa de Laurens, hostil con la policía. Se retira a su sala de mapas."
+    },
+    {
+     "when": "e5",
+     "text": "Miriam Bancroft, esposa de Laurens Bancroft, de más de trescientos años, coleccionista de mapas. Dice que su marido no se suicidó y que estaba lejos de casa; esta es su undécima funda."
+    },
+    {
+     "when": "e8",
+     "text": "Miriam Bancroft, esposa de Laurens Bancroft, de más de trescientos años, coleccionista de mapas. Según Prescott, tiene seis clones y hace cincuenta años apaleó a una prostituta, Leila Begin, a la que compró después."
+    },
+    {
+     "when": "e11",
+     "text": "Miriam Bancroft, esposa de Laurens Bancroft, de más de trescientos años, coleccionista de mapas. Seduce a Kovacs en el hotel con una funda tecnobioquímica que segrega fusión nueve, y le ofrece una isla privada."
+    },
+    {
+     "when": "e17",
+     "text": "Miriam Bancroft, esposa de Laurens Bancroft. Juega al tenis con Marco Kawahara y pide ayuda a su marido para que este deje en paz a la jueza Ertekin."
+    },
+    {
+     "when": "e22",
+     "text": "Miriam Bancroft, esposa de Laurens Bancroft. Leila Begin la acusa de haber matado a su hijo no nacido, y la teniente Ortega sospecha que usó una funda tecnobioquímica para engañar al polígrafo."
+    },
+    {
+     "when": "e43",
+     "text": "Miriam Bancroft, esposa de Laurens Bancroft. Con sinamorfesterona que Curtis le consiguió a través de Kawahara, hizo drogar al clon de su marido: Sheryl Bostock, sobornada con una visita a la isla de Miriam, se la inyectó, y bajo su efecto Bancroft mató a Marla Rentang. Miriam admite que lo hizo porque era la única forma de herirlo; Kovacs le entrega la única grabación."
+    },
+    {
+     "when": "e44",
+     "text": "Miriam Bancroft, esposa de Laurens Bancroft, que hizo drogar a su marido antes de que matase a Marla Rentang. Sus andanzas durante el asalto a La Cabeza en las Nubes salen a la luz en la investigación de la ONU y despiertan los celos de Laurens, que ignora aún lo que ella hizo con la droga."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e4",
+     "with": "bancroft",
+     "text": "Marido, que la protege"
+    },
+    {
+     "when": "e11",
+     "with": "kovacs",
+     "text": "Hombre al que seduce en el hotel"
+    },
+    {
+     "when": "e8",
+     "with": "begin",
+     "text": "Mujer a la que apaleó hace cincuenta años"
+    },
+    {
+     "when": "e8",
+     "with": "naomi",
+     "text": "Hija"
+    },
+    {
+     "when": "e44",
+     "with": "bancroft",
+     "text": "Marido celoso, que ignora su papel en el crimen"
+    },
+    {
+     "when": "e43",
+     "with": "kawahara",
+     "text": "Quien le sugirió drogar al clon de su marido y le proporcionó la droga a través de Curtis"
+    },
+    {
+     "when": "e43",
+     "with": "curtis",
+     "text": "Chófer que le consiguió la droga"
+    },
+    {
+     "when": "e43",
+     "with": "bostock",
+     "text": "Empleada de PsychaSec a la que sobornó para inyectar la droga al clon de su marido"
+    },
+    {
+     "when": "e43",
+     "with": "marla",
+     "text": "Mujer a la que su marido mató bajo el efecto de la droga"
+    },
+    {
+     "when": "e43",
+     "with": "kovacs",
+     "text": "Detective que conoce lo que hizo y le entrega la única grabación"
+    }
+   ],
+   "seen": [
+    4,
+    5,
+    11,
+    17,
+    33,
+    43
+   ]
+  },
+  {
+   "id": "prescott",
+   "name": "Oumou Prescott",
+   "aliases": [
+    "Prescott",
+    "Oumou"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Abogada de Bancroft de la que se habla en la terraza de la mansión."
+    },
+    {
+     "when": "e8",
+     "text": "Oumou Prescott, abogada principal de Laurens Bancroft. Acompaña a Kovacs a PsychaSec, le muestra la cripta de clones de los Bancroft y le cuenta el episodio de Leila Begin."
+    },
+    {
+     "when": "e17",
+     "text": "Oumou Prescott, abogada principal de Laurens Bancroft. Gestiona sus negocios y los sobornos a la policía y a las tríadas, y se queja de lo que cuesta mantener vivo a Kovacs."
+    },
+    {
+     "when": "e44",
+     "text": "Oumou Prescott, abogada principal de Laurens Bancroft. Entrega a Kovacs su autorización de transmisión y su bono de reenfundado, y le advierte de parte del magnate que no vuelva a contactar con la familia."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e4",
+     "with": "bancroft",
+     "text": "Cliente"
+    },
+    {
+     "when": "e8",
+     "with": "kovacs",
+     "text": "Detective al que acompaña y asesora"
+    },
+    {
+     "when": "e8",
+     "with": "ortega",
+     "text": "Policía que cerró el caso Bancroft"
+    },
+    {
+     "when": "e8",
+     "with": "miriam",
+     "text": "Esposa de su cliente, cuya violencia pasada le explica a Kovacs"
+    }
+   ],
+   "seen": [
+    8,
+    9,
+    17,
+    44
+   ]
+  },
+  {
+   "id": "kawahara",
+   "name": "Reileen Kawahara",
+   "aliases": [
+    "Kawahara",
+    "Reileen",
+    "Kawabara"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Persona que, según la carta de Bancroft, dio a este el nombre de Kovacs."
+    },
+    {
+     "when": "e3",
+     "text": "Reileen Kawahara, contacto de Kovacs de hace ocho años en Nueva Pekín: recomendó su nombre a Bancroft."
+    },
+    {
+     "when": "e17",
+     "text": "Reileen Kawahara, antigua jefa de Kovacs en Nueva Pekín, que recomendó su nombre a Bancroft. Kovacs recuerda cómo torturó a dos esbirros desleales."
+    },
+    {
+     "when": "e26",
+     "text": "Reileen Kawahara, mujer elegante que dice haberse criado en Ciudad Fisión, antigua conocida de Kovacs. En Europa se revela como quien lo recomendó a Bancroft y puso en libertad a Kadmin, y lo chantajea con la vida de Sarah para que cierre el caso."
+    },
+    {
+     "when": "e30",
+     "text": "Reileen Kawahara, mujer elegante criada en Ciudad Fisión, dueña de JacSol y con base en La Cabeza en las Nubes. Retiene a Sarah Sachilowska y exige que Kovacs cierre el caso Bancroft; le ofrece el virus Rawling y la libertad de Irene Elliott."
+    },
+    {
+     "when": "e40",
+     "text": "Reileen Kawahara, mujer elegante criada en Ciudad Fisión, dueña de JacSol y jefa de La Cabeza en las Nubes. Sarah ya salió de sus manos, y Kovacs, sin que ella lo sepa, prepara un asalto a su prostíbulo volador."
+    },
+    {
+     "when": "e42",
+     "text": "Reileen Kawahara, matu criada en Ciudad Fisión, dueña de La Cabeza en las Nubes. Confiesa la trampa a Ryker y la química que empujó a Bancroft a matar; cae del aire con Kovacs y muere por una granada, con su almacenamiento remoto infectado por el virus Rawling."
+    },
+    {
+     "when": "e44",
+     "text": "Reileen Kawahara, matu criada en Ciudad Fisión, que dirigía La Cabeza en las Nubes. Kovacs se la llevó al vacío desde su camarote y la mató con una granada durante la caída: murió de verdad, con su almacenamiento remoto infectado, y la prensa lo cuenta mal."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e3",
+     "with": "kovacs",
+     "text": "Hombre al que contrató hace ocho años en Nueva Pekín"
+    },
+    {
+     "when": "e26",
+     "with": "kovacs",
+     "text": "Enemigo al que chantajea con la vida de Sarah"
+    },
+    {
+     "when": "e42",
+     "with": "kovacs",
+     "text": "Enemigo que la mató en la caída"
+    },
+    {
+     "when": "e26",
+     "with": "kadmin",
+     "text": "Asesino al que soltó y empleó"
+    },
+    {
+     "when": "e26",
+     "with": "trepp",
+     "text": "Mercenaria que le sirve de escolta"
+    },
+    {
+     "when": "e42",
+     "with": "trepp",
+     "text": "Mercenaria que la traicionó"
+    },
+    {
+     "when": "e26",
+     "with": "sarah",
+     "text": "Presa a la que usa de palanca"
+    },
+    {
+     "when": "e42",
+     "with": "bancroft",
+     "text": "Vieja amistad que acabó mal"
+    },
+    {
+     "when": "e40",
+     "with": "sarah",
+     "text": "Presa a la que ya envió de vuelta al Mundo de Harlan"
+    },
+    {
+     "when": "e43",
+     "with": "curtis",
+     "text": "Chófer de Bancroft que le servía en secreto"
+    },
+    {
+     "when": "e42",
+     "with": "hinchley",
+     "text": "Chica que cayó de su aparato y cuya declaración la amenazaba"
+    },
+    {
+     "when": "e42",
+     "with": "ryker",
+     "text": "Policía al que incriminó"
+    },
+    {
+     "when": "e42",
+     "with": "miriam",
+     "text": "Esposa de Bancroft a la que no confió su plan"
+    }
+   ],
+   "seen": [
+    26,
+    42
+   ]
+  },
+  {
+   "id": "kadmin",
+   "name": "Dimitri Kadmin",
+   "aliases": [
+    "Kadmin",
+    "Dimi",
+    "Dimitri",
+    "Dimi el Gemelo"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Nombre del último dueño registrado de la funda de uno de los dos hombres que han muerto en el hotel Hendrix, según la policía."
+    },
+    {
+     "when": "e7",
+     "text": "Dimitri Kadmin, llamado Dimi el Gemelo, asesino profesional de Vladivostok. Usa copias de seguridad para duplicarse: la funda muerta en el hotel era la suya, registrada en Ulán Bator, y la policía le ha sacado la pila. Kovacs cree que alguien bien relacionado lo mandó contra él."
+    },
+    {
+     "when": "e18",
+     "text": "Dimitri Kadmin, asesino profesional de Vladivostok, de los que se duplican con dos fundas a la vez. La policía tiene su pila en la comisaría de la calle Fell; Ortega y Kovacs lo interrogan en un entorno virtual, donde se muestra como el Hombre de Retales y admite que su orden era secuestrar a Kovacs, no matarlo."
+    },
+    {
+     "when": "e19",
+     "text": "Dimitri Kadmin, asesino profesional de Vladivostok, de los que se duplican con dos fundas a la vez. Su abogado Rutherford habla de un reconocimiento de cargos de secuestro y dice que Kadmin ha cambiado de actitud por una razón auténtica."
+    },
+    {
+     "when": "e23",
+     "text": "Dimitri Kadmin, asesino profesional de Vladivostok, de los que se duplican con dos fundas a la vez. Kovacs lo reconoce en el sintético que ha intentado matarlos en Chinatown por la frase de la guerrillera Iffy Deme; Ortega lo creía almacenado."
+    },
+    {
+     "when": "e26",
+     "text": "Dimitri Kadmin, asesino profesional de Vladivostok, de los que se duplican con dos fundas a la vez. Kawahara dice que lo liberó tras sus quejas de que estar retenido era un desperdicio, y que esa misma mañana intentó matar a Kovacs."
+    },
+    {
+     "when": "e30",
+     "text": "Dimitri Kadmin, asesino profesional de Vladivostok, de los que se duplican con dos fundas a la vez. Ya no trabaja del todo para Kawahara, que tampoco sabe dónde está; Kovacs lo teme."
+    },
+    {
+     "when": "e35",
+     "text": "Dimitri Kadmin, asesino profesional de Vladivostok, de los que se duplican con dos fundas a la vez. Se presenta en una simulación con el rostro del Hombre de Retales, tiene secuestrada a Ortega y exige a Kovacs a cambio."
+    },
+    {
+     "when": "e37",
+     "text": "Dimitri Kadmin, asesino profesional de Vladivostok, de los que se duplican con dos fundas a la vez. Obliga a Kovacs a una pelea de humillación en el Rosa de Panamá, con una funda de mártir de la Mano Derecha de Dios; Kovacs lo mata con un proyector de partículas y Trepp destripa su cuerpo."
+    },
+    {
+     "when": "e38",
+     "text": "Dimitri Kadmin, asesino profesional de Vladivostok que se duplicaba con dos fundas a la vez. Murió en el tiroteo del Rosa de Panamá, un desastre que la policía intenta tapar."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e26",
+     "with": "kawahara",
+     "text": "Empleadora que lo soltó"
+    },
+    {
+     "when": "e18",
+     "with": "rutherford",
+     "text": "Abogado"
+    },
+    {
+     "when": "e35",
+     "with": "ortega",
+     "text": "Teniente a la que secuestró"
+    },
+    {
+     "when": "e7",
+     "with": "kovacs",
+     "text": "Hombre contra el que, según Kovacs, lo enviaron"
+    },
+    {
+     "when": "e18",
+     "with": "kovacs",
+     "text": "Hombre al que iba a secuestrar y al que amenaza de muerte"
+    },
+    {
+     "when": "e23",
+     "with": "kovacs",
+     "text": "Hombre al que intentó matar con una emboscada"
+    },
+    {
+     "when": "e35",
+     "with": "kovacs",
+     "text": "Hombre al que exige a cambio de Ortega"
+    },
+    {
+     "when": "e37",
+     "with": "kovacs",
+     "text": "Enemigo que lo mató en el Rosa de Panamá"
+    },
+    {
+     "when": "e37",
+     "with": "carnage",
+     "text": "Sintético que organizó la pelea"
+    }
+   ],
+   "seen": [
+    18,
+    35,
+    36,
+    37
+   ]
+  },
+  {
+   "id": "trepp",
+   "name": "Trepp",
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Mujer en una funda sintética que entra con una pistola en el quirófano donde ha despertado Kovacs."
+    },
+    {
+     "when": "e15",
+     "text": "Mujer en una funda sintética, a las órdenes de alguien llamado Ray. Kovacs la mata en un coche y su cuerpo se deshace a medias."
+    },
+    {
+     "when": "e16",
+     "text": "Trepp, contratista independiente que trabajaba para Las Casas; Kovacs mató su funda sintética y su pila, aunque Jerry dice que su funda auténtica está en Nueva York."
+    },
+    {
+     "when": "e25",
+     "text": "Trepp, mercenaria de cuerpos sintéticos. Reaparece en otra funda en un restaurante de ramen, dice no recordar su muerte y ofrece llevar a Kovacs a Europa para ver a su jefe."
+    },
+    {
+     "when": "e26",
+     "text": "Trepp, mercenaria al servicio de Reileen Kawahara, a la que Kovacs conoció como Ray. Lo escolta en Europa y lo apunta con una pistola para que no ataque a su jefa."
+    },
+    {
+     "when": "e27",
+     "text": "Trepp, mercenaria al servicio de Reileen Kawahara. Comparte drogas con Kovacs, y asegura que Kadmin ya no trabaja para su jefa."
+    },
+    {
+     "when": "e31",
+     "text": "Trepp, mercenaria al servicio de Reileen Kawahara. Vigila a Kovacs desde un coche invisible; confiesa que intentó entrar en el Cuerpo de Emisarios."
+    },
+    {
+     "when": "e37",
+     "text": "Trepp, mercenaria de cuerpos sintéticos. Irrumpe con Bautista en el Rosa de Panamá, dispara a los espectadores y rescata a Kovacs; luego se esfuma con el fusil de fragmentación."
+    },
+    {
+     "when": "e42",
+     "text": "Trepp, mercenaria de cuerpos sintéticos. Aturde a Kovacs en La Cabeza en las Nubes por orden de Kawahara, pero al final se vuelve contra ella y la jefa le dispara."
+    },
+    {
+     "when": "e44",
+     "text": "Trepp, mercenaria de cuerpos sintéticos. Sobrevivió al disparo de Kawahara y desapareció antes de que llegase la policía; nadie sabe adónde ha ido."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e15",
+     "with": "kovacs",
+     "text": "Hombre que la mató en el coche"
+    },
+    {
+     "when": "e25",
+     "with": "kovacs",
+     "text": "Hombre al que escolta"
+    },
+    {
+     "when": "e37",
+     "with": "kovacs",
+     "text": "Hombre al que rescató en el Rosa de Panamá"
+    },
+    {
+     "when": "e44",
+     "with": "kovacs",
+     "text": "Hombre al que salvó y que se compara con ella"
+    },
+    {
+     "when": "e26",
+     "with": "kawahara",
+     "text": "Jefa a la que sirve de escolta"
+    },
+    {
+     "when": "e42",
+     "with": "kawahara",
+     "text": "Jefa a la que traicionó y que le disparó"
+    },
+    {
+     "when": "e37",
+     "with": "bautista",
+     "text": "Policía con el que rescató a Kovacs"
+    }
+   ],
+   "seen": [
+    15,
+    25,
+    26,
+    27,
+    31,
+    37,
+    42
+   ]
+  },
+  {
+   "id": "ray",
+   "name": "Ray",
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Persona a la que la mujer sintética del quirófano dice que va a llevar a Kovacs para que lo reconozca."
+    },
+    {
+     "when": "e26",
+     "text": "Ray: el nombre con que Trepp y Kovacs se refieren a Reileen Kawahara, la jefa de Trepp."
+    }
+   ]
+  },
+  {
+   "id": "hendrix",
+   "name": "Hendrix",
+   "aliases": [
+    "el Hendrix"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Hotel de Ciudad Bahía con torretas de defensa, abierto al público desde 2087, adonde Curtis lleva a Kovacs."
+    },
+    {
+     "when": "e7",
+     "text": "Hendrix, hotel de Ciudad Bahía regido por una inteligencia artificial del mismo nombre, que se compró a sí misma tras el derrumbamiento de la bolsa y se programó para querer clientes. Sus torretas han matado a dos asaltantes de Kovacs."
+    },
+    {
+     "when": "e34",
+     "text": "Hendrix, hotel de Ciudad Bahía regido por una IA del mismo nombre, que se compró a sí misma. Ayuda a Kovacs con una sala de reconstrucción virtual, pero teme que la policía la desconecte."
+    },
+    {
+     "when": "e35",
+     "text": "Hendrix, IA de la serie Emmerson que lleva el hotel de Ciudad Bahía. Monta un simulacro de Kovacs para interrogar a Miller."
+    },
+    {
+     "when": "e40",
+     "text": "Hendrix, IA que lleva el hotel de Ciudad Bahía. En la simulación se muestra como un guitarrista, su entidad básica, y ayuda a Elliott en el reconocimiento de La Cabeza en las Nubes."
+    },
+    {
+     "when": "e43",
+     "text": "Hendrix, IA que lleva el hotel de Ciudad Bahía. Se cuela en los archivos de PsychaSec para Kovacs y borra la grabación de la inyección y de la visita de Miriam."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e7",
+     "with": "kovacs",
+     "text": "Huésped al que defiende"
+    },
+    {
+     "when": "e34",
+     "with": "kovacs",
+     "text": "Huésped que le pide favores a cambio de protegerlo"
+    },
+    {
+     "when": "e40",
+     "with": "irene",
+     "text": "Buzo con quien explora La Cabeza en las Nubes"
+    },
+    {
+     "when": "e40",
+     "with": "ortega",
+     "text": "Teniente que guarda sus cintas"
+    }
+   ],
+   "seen": [
+    6,
+    7,
+    8,
+    11,
+    21,
+    34,
+    35,
+    40
+   ]
+  },
+  {
+   "id": "ryker",
+   "name": "Elias Ryker",
+   "aliases": [
+    "Ryker",
+    "inspector Ryker"
+   ],
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Nombre con el que los hombres de Jerry llaman a Kovacs, que niega serlo."
+    },
+    {
+     "when": "e14",
+     "text": "Ryker: nombre que los captores de Kovacs creen reconocer en su cuerpo; él dice que esa funda es solo una tapadera."
+    },
+    {
+     "when": "e16",
+     "text": "Elias Ryker, policía de Ciudad Bahía que trabajó en Fundas Robadas y subió a Daños Orgánicos; fue pareja de Ortega. Lo condenaron a doscientos años en Seattle por matar de verdad a traficantes de fundas y falsificar sus improntas."
+    },
+    {
+     "when": "e17",
+     "text": "Elias Ryker, policía de Ciudad Bahía, antes en Fundas Robadas y luego en Daños Orgánicos, pareja de Ortega. Está almacenado por corrupción, con su funda en un tanque que paga Ortega; Bancroft la tomó para Kovacs por revancha."
+    },
+    {
+     "when": "e21",
+     "text": "Elias Ryker, policía de Ciudad Bahía, antes en Fundas Robadas y luego en Daños Orgánicos, pareja de Ortega. Se hizo famoso como héroe mediático y lo echaron tras un incidente en Seattle; Bautista cree que cometió un error, no que fuera corrupto."
+    },
+    {
+     "when": "e29",
+     "text": "Elias Ryker, policía de Ciudad Bahía, antes en Fundas Robadas y luego en Daños Orgánicos, pareja de Ortega. Su funda la lleva Kovacs y el yate donde duermen lo robó él."
+    },
+    {
+     "when": "e42",
+     "text": "Elias Ryker, policía de Ciudad Bahía, antes en Fundas Robadas y luego en Daños Orgánicos, pareja de Ortega. Kawahara lo incriminó con un chivatazo falso sobre Seattle y un falsificador, García, porque su conversión católica en el caso Hinchley amenazaba a La Cabeza en las Nubes."
+    },
+    {
+     "when": "e44",
+     "text": "Elias Ryker, policía de Ciudad Bahía, antes en Fundas Robadas y luego en Daños Orgánicos, pareja de Ortega. Su funda la ocupa Kovacs para las audiencias; se verá exonerado y saldrá del almacenamiento, y Ortega quiere que vuelva limpio."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e16",
+     "with": "ortega",
+     "text": "Antigua pareja, que dirigió el equipo que lo detuvo"
+    },
+    {
+     "when": "e42",
+     "with": "kawahara",
+     "text": "Enemiga que lo incriminó"
+    },
+    {
+     "when": "e17",
+     "with": "kovacs",
+     "text": "Hombre que lleva su funda"
+    },
+    {
+     "when": "e17",
+     "with": "bancroft",
+     "text": "Magnate que escogió su funda para Kovacs"
+    },
+    {
+     "when": "e21",
+     "with": "bautista",
+     "text": "Compañero de Daños Orgánicos que lo defiende"
+    },
+    {
+     "when": "e42",
+     "with": "hinchley",
+     "text": "Chica católica cuyo caso investigaba"
+    },
+    {
+     "when": "e17",
+     "with": "ortega",
+     "text": "Antigua pareja, que paga su funda"
+    },
+    {
+     "when": "e44",
+     "with": "ortega",
+     "text": "Antigua pareja, que lucha por devolverlo a la vida"
+    }
+   ]
+  },
+  {
+   "id": "irene",
+   "name": "Irene Elliott",
+   "aliases": [
+    "Irene",
+    "Elliott",
+    "Elliot"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Esposa de Victor Elliott, nombrada en una foto familiar: la condenaron a treinta años por bucear en satélites."
+    },
+    {
+     "when": "e10",
+     "text": "Irene Elliott, esposa de Victor Elliott y madre de Elizabeth, presa por bucear en satélites; Kovacs usa su nombre para hacerse pasar por la madre de Elizabeth ante Louise."
+    },
+    {
+     "when": "e30",
+     "text": "Irene Elliott, buzo condenada a treinta años en Ciudad Bahía por bucear en satélites. Kawahara ofrece reenfundarla y liberarla si Kovacs la usa para meter el virus Rawling en La Cabeza en las Nubes."
+    },
+    {
+     "when": "e31",
+     "text": "Irene Elliott, buzo condenada por bucear en satélites. Sale de la penitenciaría en una funda cobriza, se reencuentra con su marido Victor y acepta instalar el virus Rawling para vengarse de Bancroft."
+    },
+    {
+     "when": "e32",
+     "text": "Irene Elliott, buzo condenada por bucear en satélites. Prepara con Kovacs la intrusión y se obsesiona con vengarse del hombre que se sirvió de su hija."
+    },
+    {
+     "when": "e38",
+     "text": "Irene Elliott, buzo condenada por bucear en satélites. Falsifica las grabaciones del Rosa de Panamá para cubrir el tiroteo y se marcha de Ascuas."
+    },
+    {
+     "when": "e40",
+     "text": "Irene Elliott, buzo refugiada en un campamento de timadores. Pide recuperar su cuerpo original a cambio de ayudar al asalto, y hace el reconocimiento de La Cabeza en las Nubes."
+    },
+    {
+     "when": "e44",
+     "text": "Irene Elliott, buzo ya absuelta por la ONU y de vuelta en su cuerpo original, rubio y de miembros largos. Trabajará de asesora de seguridad y recibe de Kovacs unos ochenta mil para cultivar una funda a su hija Elizabeth."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e31",
+     "with": "victor",
+     "text": "Marido con el que se reencuentra"
+    },
+    {
+     "when": "e44",
+     "with": "elizabeth",
+     "text": "Hija asesinada, que vive ahora en una casa virtual"
+    },
+    {
+     "when": "e9",
+     "with": "elizabeth",
+     "text": "Hija muerta"
+    },
+    {
+     "when": "e31",
+     "with": "kovacs",
+     "text": "Hombre que la saca de la cárcel y le da una misión"
+    },
+    {
+     "when": "e44",
+     "with": "kovacs",
+     "text": "Hombre que le paga la funda de su hija"
+    },
+    {
+     "when": "e32",
+     "with": "bancroft",
+     "text": "Hombre al que odia por su hija"
+    },
+    {
+     "when": "e31",
+     "with": "jerry",
+     "text": "Hombre que mandó matar a su hija"
+    },
+    {
+     "when": "e31",
+     "with": "kawahara",
+     "text": "Mujer que paga su liberación"
+    },
+    {
+     "when": "e42",
+     "with": "kawahara",
+     "text": "Mujer a la que ayudó a hundir con el virus Rawling"
+    },
+    {
+     "when": "e40",
+     "with": "hendrix",
+     "text": "IA que la ayuda a explorar La Cabeza en las Nubes"
+    },
+    {
+     "when": "e40",
+     "with": "reese",
+     "text": "Experta en implantes de su campamento"
+    },
+    {
+     "when": "e40",
+     "with": "ortega",
+     "text": "Teniente que le promete requisar su cuerpo"
+    }
+   ],
+   "seen": [
+    31,
+    32,
+    38,
+    40,
+    44
+   ]
+  },
+  {
+   "id": "victor",
+   "name": "Victor Elliott",
+   "aliases": [
+    "Victor",
+    "Vic",
+    "Elliott",
+    "Elliot"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Hombre de rostro enjuto, antiguo sargento de marines, dueño de Enlaces Elliott, donde recibe a Kovacs con una carta de amenaza."
+    },
+    {
+     "when": "e9",
+     "text": "Victor Elliott, ex sargento de marines y dueño de Enlaces Elliott, en Ascuas. Escribió una carta de amenaza contra Bancroft: cree que violó a su hija Elizabeth, muerta hace cuatro años, y su esposa Irene está presa."
+    },
+    {
+     "when": "e31",
+     "text": "Victor Elliott, ex sargento de marines y dueño de Enlaces Elliott. Se abraza con fuerza a su esposa Irene al verla salir de la cárcel en un cuerpo nuevo."
+    },
+    {
+     "when": "e44",
+     "text": "Victor Elliott, ex sargento de marines y dueño de Enlaces Elliott. Pasa su tiempo con su hija Elizabeth en una casa virtual y no quiere ver a Kovacs."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e9",
+     "with": "irene",
+     "text": "Esposa presa"
+    },
+    {
+     "when": "e31",
+     "with": "irene",
+     "text": "Esposa de nuevo en libertad"
+    },
+    {
+     "when": "e9",
+     "with": "elizabeth",
+     "text": "Hija muerta"
+    },
+    {
+     "when": "e44",
+     "with": "elizabeth",
+     "text": "Hija asesinada, que vive en una casa virtual"
+    },
+    {
+     "when": "e9",
+     "with": "bancroft",
+     "text": "Hombre al que escribe una carta de amenaza por su hija"
+    },
+    {
+     "when": "e31",
+     "with": "kovacs",
+     "text": "Hombre que le devuelve a su esposa"
+    },
+    {
+     "when": "e44",
+     "with": "kovacs",
+     "text": "Hombre al que no quiere ver"
+    },
+    {
+     "when": "e44",
+     "with": "irene",
+     "text": "Esposa que vuelve a estar libre y con su cuerpo"
+    }
+   ],
+   "seen": [
+    9,
+    31
+   ]
+  },
+  {
+   "id": "elizabeth",
+   "name": "Elizabeth Elliott",
+   "aliases": [
+    "Elizabeth",
+    "Lizzie",
+    "Lizzie Elliott",
+    "Elliott",
+    "Elliot"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Chica rubia y atlética de una fotografía, hija de Victor Elliott."
+    },
+    {
+     "when": "e9",
+     "text": "Elizabeth Elliott, hija de Victor e Irene Elliott. Murió hace cuatro años, apuñalada por un cliente de los Salones Privados de Jerry; su póliza de reenfundado había caducado."
+    },
+    {
+     "when": "e16",
+     "text": "Elizabeth Elliott, hija de Victor e Irene Elliott, que trabajaba en los Salones Privados de Jerry. Jerry confiesa que ella intentó chantajear a un cliente importante y que él hizo una llamada para eliminarla."
+    },
+    {
+     "when": "e44",
+     "text": "Elizabeth Elliott, hija de Victor e Irene Elliott, asesinada en su día. Vive en una casa virtual de Ciudad Bahía mientras sus padres juntan dinero para cultivarle una funda."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e9",
+     "with": "victor",
+     "text": "Padre"
+    },
+    {
+     "when": "e9",
+     "with": "irene",
+     "text": "Madre"
+    },
+    {
+     "when": "e16",
+     "with": "jerry",
+     "text": "Dueño del local que mandó matarla"
+    },
+    {
+     "when": "e31",
+     "with": "bancroft",
+     "text": "Cliente al que intentó chantajear"
+    },
+    {
+     "when": "e44",
+     "with": "kovacs",
+     "text": "Hombre que le paga una funda nueva"
+    }
+   ]
+  },
+  {
+   "id": "jerry",
+   "name": "Jerry",
+   "aliases": [
+    "Sedaka",
+    "Jerry Sedaka"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Nombre que lleva un local de mala muerte, los Salones Privados de Jerry, donde trabajaba Elizabeth Elliott."
+    },
+    {
+     "when": "e13",
+     "text": "Jerry, rubio armado que dirige la banda de los Salones Privados de Jerry y que tortura y mata a Louise. Ordena capturar a Kovacs."
+    },
+    {
+     "when": "e16",
+     "text": "Jerry Sedaka, dueño de los Salones Privados de Jerry, en Villamamada. Confiesa que Elizabeth Elliott intentó chantajear a un cliente importante y que él hizo la llamada para eliminarla; Kovacs lo mata en la clínica."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e16",
+     "with": "elizabeth",
+     "text": "Chica a la que mandó matar"
+    },
+    {
+     "when": "e13",
+     "with": "kovacs",
+     "text": "Prisionero al que manda capturar"
+    },
+    {
+     "when": "e16",
+     "with": "kovacs",
+     "text": "Hombre que lo mata en la clínica"
+    },
+    {
+     "when": "e13",
+     "with": "louise",
+     "text": "Trabajadora a la que torturó hasta la muerte"
+    },
+    {
+     "when": "e13",
+     "with": "deek",
+     "text": "Guardaespaldas"
+    },
+    {
+     "when": "e13",
+     "with": "oktai",
+     "text": "Hombre de su banda"
+    },
+    {
+     "when": "e13",
+     "with": "milo",
+     "text": "Hombre de su banda"
+    }
+   ],
+   "seen": [
+    13,
+    16
+   ]
+  },
+  {
+   "id": "deek",
+   "name": "Deek",
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Hombre que sale de la cabina de Jerry tras sus órdenes; guardaespaldas de la banda."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e13",
+     "with": "jerry",
+     "text": "Jefe"
+    }
+   ]
+  },
+  {
+   "id": "oktai",
+   "name": "Oktai",
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Hombre de rostro ancho y sonrisa fiera, apodado el mongol, que entra en una cabina de los Salones de Jerry con odio hacia Kovacs."
+    },
+    {
+     "when": "e16",
+     "text": "Oktai, el mongol, miembro de la banda de Jerry que hacía contrabando de repuestos en Oakland; el policía Ryker lo dejó medio muerto hace un par de años."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e13",
+     "with": "jerry",
+     "text": "Jefe de su banda"
+    },
+    {
+     "when": "e16",
+     "with": "ryker",
+     "text": "Policía que lo dejó medio muerto"
+    }
+   ]
+  },
+  {
+   "id": "milo",
+   "name": "Milo",
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Hombre corpulento con una tubería de hierro, de la banda de Jerry; ayuda a cargar el cadáver de Louise."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e13",
+     "with": "jerry",
+     "text": "Jefe"
+    }
+   ]
+  },
+  {
+   "id": "louise",
+   "name": "Louise",
+   "aliases": [
+    "Anenome"
+   ],
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Mujer de una cabina de cristal de los Salones de Jerry que se ofrece a Kovacs; conoció a Elizabeth Elliott."
+    },
+    {
+     "when": "e13",
+     "text": "Louise (Anenome), trabajadora de los Salones Privados de Jerry que conocía a Elizabeth Elliott. La banda de Jerry la tortura hasta la muerte."
+    },
+    {
+     "when": "e16",
+     "text": "Louise (Anenome), trabajadora de los Salones Privados de Jerry, católica: la banda de Jerry la torturó hasta una muerte real, y su cuerpo acabó abierto en canal en una mesa de la clínica."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e13",
+     "with": "jerry",
+     "text": "Jefe de la banda que la torturó"
+    },
+    {
+     "when": "e10",
+     "with": "elizabeth",
+     "text": "Compañera de trabajo que le caía bien"
+    },
+    {
+     "when": "e10",
+     "with": "kovacs",
+     "text": "Visitante que dice ser la madre de Elizabeth"
+    }
+   ]
+  },
+  {
+   "id": "bautista",
+   "name": "Rodrigo Bautista",
+   "aliases": [
+    "Bautista",
+    "Rod"
+   ],
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Policía pelirrojo que entra en el bar Midnight Lamp del hotel Hendrix."
+    },
+    {
+     "when": "e21",
+     "text": "Rodrigo Bautista, policía de Daños Orgánicos y compañero de Ortega. Cuenta a Kovacs que despidieron a Ryker tras un incidente en Seattle y que era un buen policía."
+    },
+    {
+     "when": "e37",
+     "text": "Rodrigo Bautista, policía de Daños Orgánicos y compañero de Ortega. Rescata a Kovacs en el Rosa de Panamá y mata a Carnage con un proyector de partículas."
+    },
+    {
+     "when": "e44",
+     "text": "Rodrigo Bautista, policía de Daños Orgánicos y compañero de Ortega. Ayuda a encubrir el desastre del Rosa de Panamá y sospecha de la relación entre Ortega y Kovacs."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e21",
+     "with": "ortega",
+     "text": "Compañera de trabajo"
+    },
+    {
+     "when": "e37",
+     "with": "kovacs",
+     "text": "Hombre al que rescata"
+    },
+    {
+     "when": "e21",
+     "with": "ryker",
+     "text": "Excompañero al que defiende como buen policía"
+    },
+    {
+     "when": "e37",
+     "with": "trepp",
+     "text": "Mercenaria con la que rescata a Kovacs"
+    },
+    {
+     "when": "e38",
+     "with": "ortega",
+     "text": "Compañera con la que cubre la matanza"
+    },
+    {
+     "when": "e40",
+     "with": "davidson",
+     "text": "Compañero de equipo"
+    }
+   ],
+   "seen": [
+    21,
+    37,
+    38,
+    40,
+    41
+   ]
+  },
+  {
+   "id": "davidson",
+   "name": "Davidson",
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Policía de la comisaría de la calle Fell mencionado por Bautista junto a Mercer, que se portaron mal con Kovacs."
+    },
+    {
+     "when": "e40",
+     "text": "Davidson, chupadatos de Daños Orgánicos, compañero de Ortega y Bautista. Participa en la simulación que prepara el asalto a La Cabeza en las Nubes."
+    },
+    {
+     "when": "e41",
+     "text": "Davidson, chupadatos de Daños Orgánicos, compañero de Ortega y Bautista. En el transporte hacia La Cabeza en las Nubes lleva los datos y las comunicaciones y controla la señal del filamento de rastreo de Kovacs."
+    }
+   ],
+   "seen": [
+    40,
+    41
+   ],
+   "relationships": [
+    {
+     "when": "e40",
+     "with": "ortega",
+     "text": "Compañera de Daños Orgánicos"
+    },
+    {
+     "when": "e41",
+     "with": "kovacs",
+     "text": "Hombre cuyo rastreo y comunicaciones controla"
+    }
+   ]
+  },
+  {
+   "id": "carnage",
+   "name": "Eme Ce Carnage",
+   "aliases": [
+    "Eme Ce Carnage",
+    "Carnage"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Sintético que cuelga de una grúa y habla por megafonía en un carguero: el fundódromo Rosa de Panamá."
+    },
+    {
+     "when": "e20",
+     "text": "Eme Ce Carnage, sintético que dirige el fundódromo Rosa de Panamá. Reconoce a Kovacs por la funda que lleva y le suelta insultos; explica las fundas de combate."
+    },
+    {
+     "when": "e36",
+     "text": "Eme Ce Carnage, sintético que dirige el fundódromo Rosa de Panamá y que organiza la pelea de humillación de Kovacs contra Kadmin; dice que Kawahara le predijo los pasos de Kovacs."
+    },
+    {
+     "when": "e37",
+     "text": "Eme Ce Carnage, sintético que dirigía el fundódromo Rosa de Panamá. Bautista lo incendia con un proyector de partículas y muere ardiendo en la arena."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e20",
+     "with": "kovacs",
+     "text": "Hombre al que reconoce por su funda"
+    },
+    {
+     "when": "e36",
+     "with": "kawahara",
+     "text": "Aliada a la que teme"
+    },
+    {
+     "when": "e36",
+     "with": "perm",
+     "text": "Socia que vende los derechos de la pelea"
+    },
+    {
+     "when": "e37",
+     "with": "bautista",
+     "text": "Policía que lo incendia"
+    }
+   ],
+   "seen": [
+    20,
+    36,
+    37
+   ]
+  },
+  {
+   "id": "begin",
+   "name": "Leila Begin",
+   "aliases": [
+    "Begin",
+    "Leila"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Mujer cuyo nombre ofrece Ortega a Kovacs como pista para preguntar a los abogados de Bancroft."
+    },
+    {
+     "when": "e8",
+     "text": "Leila Begin, prostituta a la que Miriam Bancroft apaleó hace cincuenta años y a quien Bancroft compró con una indemnización y una póliza de clonación."
+    },
+    {
+     "when": "e10",
+     "text": "Leila Begin, antigua prostituta de biocabinas que trabajó antes en Las Casas de San Diego. Se parece a Elizabeth Elliott."
+    },
+    {
+     "when": "e22",
+     "text": "Leila Begin, antigua prostituta de Oakland. En una playa virtual acusa a Miriam Bancroft de matar a su hijo no nacido, y dice que Laurens Bancroft la usaba para degradarla."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e22",
+     "with": "miriam",
+     "text": "Mujer que mató a su hijo no nacido"
+    },
+    {
+     "when": "e22",
+     "with": "bancroft",
+     "text": "Cliente que la pagaba por servicios"
+    },
+    {
+     "when": "e10",
+     "with": "elizabeth",
+     "text": "Chica de rasgos idénticos a los suyos"
+    },
+    {
+     "when": "e22",
+     "with": "kovacs",
+     "text": "Detective al que cuenta su historia"
+    },
+    {
+     "when": "e22",
+     "with": "ortega",
+     "text": "Teniente que ha organizado el encuentro"
+    }
+   ],
+   "seen": [
+    22
+   ]
+  },
+  {
+   "id": "jimmy",
+   "name": "Jimmy de Soto",
+   "aliases": [
+    "Jimmy de Soto",
+    "Jimmy",
+    "De Soto",
+    "Soto"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Hombre de rostro destrozado que se le aparece a Kovacs en una ruina soñada y le habla de Leila Begin."
+    },
+    {
+     "when": "e8",
+     "text": "Jimmy de Soto, camarada de Kovacs en el Cuerpo, muerto en Innenin por un ataque vírico que le hizo arrancarse un ojo. Sus restos duermen en un disco sellado. Se le aparece en sueños y alucinaciones."
+    },
+    {
+     "when": "e14",
+     "text": "Jimmy de Soto, camarada de Kovacs en el Cuerpo, muerto en Innenin por un ataque vírico que le hizo arrancarse un ojo. Aparece en los recuerdos y delirios de Kovacs."
+    },
+    {
+     "when": "e27",
+     "text": "Jimmy de Soto, camarada de Kovacs en el Cuerpo, muerto en Innenin por un ataque vírico. Se le aparece a Kovacs en un baño, entre las grietas de la realidad, para avisarle de otro ataque vírico."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e8",
+     "with": "kovacs",
+     "text": "Camarada que lo visita en sueños"
+    },
+    {
+     "when": "e13",
+     "with": "virginia",
+     "text": "Instructora que lo desarmó"
+    }
+   ]
+  },
+  {
+   "id": "virginia",
+   "name": "Virginia Vidaura",
+   "aliases": [
+    "Virgina Vidaura",
+    "Vidaura",
+    "Virginia",
+    "Virgina"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Instructora del Cuerpo de Emisarios, en un recuerdo de Kovacs, que enseñaba a relajarse antes del almacenamiento."
+    },
+    {
+     "when": "e2",
+     "text": "Virginia Vidaura, antigua instructora de Kovacs en el Cuerpo de Emisarios, condenada años después a entre ochenta y cien años por robo y daños orgánicos. Su consejo, aceptar lo que se ofrece, acompaña a Kovacs."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e13",
+     "with": "jimmy",
+     "text": "Recluta al que desarmó en clase"
+    },
+    {
+     "when": "e2",
+     "with": "kovacs",
+     "text": "Antiguo alumno al que despidió con un consejo"
+    }
+   ]
+  },
+  {
+   "id": "sullivan",
+   "name": "Sullivan",
+   "aliases": [
+    "alcaide Sullivan"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Hombre delgado y serio, de traje negro, que recibe a Kovacs en la recepción."
+    },
+    {
+     "when": "e2",
+     "text": "Sullivan, alcaide de la Central de Ciudad Bahía, la penitenciaría de donde sale Kovacs. Firma su liberación en arrendamiento y le aconseja no desperdiciar la oportunidad."
+    },
+    {
+     "when": "e24",
+     "text": "Sullivan, alcaide de la Central de Ciudad Bahía. Una doctora de su penitenciaría dice que hizo implantar un localizador en la pila de Kovacs tras una visita de una funda artificial asiática."
+    },
+    {
+     "when": "e25",
+     "text": "Sullivan, alcaide de la Central de Ciudad Bahía. Kovacs lo amenaza con una pistola y lo interroga en un ramen; asegura no saber quién envió a Trepp."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e24",
+     "with": "kovacs",
+     "text": "Hombre cuya pila hizo marcar"
+    },
+    {
+     "when": "e2",
+     "with": "kovacs",
+     "text": "Preso al que libera en arrendamiento"
+    },
+    {
+     "when": "e25",
+     "with": "trepp",
+     "text": "Mujer que lo visitó y de cuyo jefe no sabe nada"
+    }
+   ],
+   "seen": [
+    2,
+    25
+   ]
+  },
+  {
+   "id": "curtis",
+   "name": "Curtis",
+   "aliases": [
+    "Curtís"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Chófer de Bancroft, mencionado como quien espera a Kovacs en la salida con una limusina."
+    },
+    {
+     "when": "e6",
+     "text": "Curtis, chófer musculoso y de mal humor de Laurens Bancroft. Lleva a Kovacs a Ciudad Bahía y le recomienda el hotel Hendrix."
+    },
+    {
+     "when": "e21",
+     "text": "Curtis, chófer de Bancroft, dopado con potenciadores hormonales. Intenta agredir a Kovacs en un bar y este le rompe la nariz."
+    },
+    {
+     "when": "e43",
+     "text": "Curtis, chófer de Bancroft que en realidad trabajaba para Kawahara. Consiguió la sinamorfesterona para Miriam y Kovacs lo derriba en la Mansión del Sol."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e6",
+     "with": "bancroft",
+     "text": "Patrón"
+    },
+    {
+     "when": "e21",
+     "with": "kovacs",
+     "text": "Hombre al que intenta agredir y que le rompe la nariz"
+    },
+    {
+     "when": "e43",
+     "with": "miriam",
+     "text": "Patrona a la que protege de Kovacs"
+    },
+    {
+     "when": "e43",
+     "with": "kawahara",
+     "text": "Jefa a la que servía en secreto y que le dio la droga"
+    },
+    {
+     "when": "e43",
+     "with": "kovacs",
+     "text": "Hombre que lo derriba en la Mansión del Sol"
+    }
+   ],
+   "seen": [
+    6,
+    21,
+    43
+   ]
+  },
+  {
+   "id": "miller",
+   "name": "Miller",
+   "aliases": [
+    "Felipe Miller"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Hombre alto y bronceado, de bata azul, que detiene a Jerry en un pasillo de una clínica."
+    },
+    {
+     "when": "e16",
+     "text": "Miller, médico de una clínica clandestina de Villamamada. Kovacs lo mata y le corta la cabeza."
+    },
+    {
+     "when": "e34",
+     "text": "Felipe Miller, director de la clínica Wei. Kovacs retiene su cabeza cortada para obligarle a hablar de La Cabeza en las Nubes, con la que su clínica hace tratos."
+    },
+    {
+     "when": "e35",
+     "text": "Felipe Miller, director de la clínica Wei. Cedió tras veintiún minutos de presión y soltó datos sobre La Cabeza en las Nubes."
+    },
+    {
+     "when": "e42",
+     "text": "Felipe Miller, director de la clínica Wei. Kawahara deduce por su descripción de la habitación que Kovacs lo interrogó, y sabe que le quemó la pila."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e34",
+     "with": "kovacs",
+     "text": "Hombre que le corta la cabeza y lo interroga"
+    },
+    {
+     "when": "e34",
+     "with": "kawahara",
+     "text": "Jefa de La Cabeza en las Nubes, con la que su clínica hace tratos"
+    }
+   ]
+  },
+  {
+   "id": "rutherford",
+   "name": "Keith Rutherford",
+   "aliases": [
+    "Rutherford",
+    "Keith"
+   ],
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Abogado de Kadmin, mencionado por Ortega como un tipo resbaladizo de Nueva York."
+    },
+    {
+     "when": "e19",
+     "text": "Keith Rutherford, abogado de Dimitri Kadmin en el bufete Prendergast Sánchez. Se pone nervioso al oír la ley inventada por Kovacs y hace llamadas, una a la Mansión del Sol."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e19",
+     "with": "kadmin",
+     "text": "Cliente"
+    },
+    {
+     "when": "e19",
+     "with": "kovacs",
+     "text": "Hombre que lo presiona con una ley inventada"
+    },
+    {
+     "when": "e19",
+     "with": "ortega",
+     "text": "Teniente que lo interroga"
+    }
+   ],
+   "seen": [
+    19
+   ]
+  },
+  {
+   "id": "ertekin",
+   "name": "Nalan Ertekin",
+   "aliases": [
+    "Ertekin",
+    "Nalan",
+    "Erekin"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Mujer árabe de aire digno que mira un partido de tenis en la Mansión del Sol."
+    },
+    {
+     "when": "e17",
+     "text": "Nalan Ertekin, jueza presidente del Tribunal Supremo de la ONU, invitada de los Bancroft. Pregunta a Kovacs por el progreso de su caso y se va con Phiri a comer bajo el agua."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e17",
+     "with": "phiri",
+     "text": "Compañero de la ONU"
+    },
+    {
+     "when": "e17",
+     "with": "kovacs",
+     "text": "Detective al que pregunta por su investigación"
+    }
+   ],
+   "seen": [
+    17
+   ]
+  },
+  {
+   "id": "phiri",
+   "name": "Joseph Phiri",
+   "aliases": [
+    "Phiri",
+    "Joseph"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Hombre negro y fornido con lentes externas que mira un partido de tenis."
+    },
+    {
+     "when": "e17",
+     "text": "Joseph Phiri, de la Comisión de Derechos Humanos de la ONU, invitado de los Bancroft. Lleva lentes externas para distraer y se va con Ertekin a comer bajo el agua."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e17",
+     "with": "ertekin",
+     "text": "Compañera de la ONU"
+    },
+    {
+     "when": "e17",
+     "with": "kovacs",
+     "text": "Detective de los Bancroft"
+    }
+   ],
+   "seen": [
+    17
+   ]
+  },
+  {
+   "id": "marco",
+   "name": "Marco Kawahara",
+   "aliases": [
+    "Marco Kawahara"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Joven delgado que juega al tenis contra Miriam Bancroft."
+    },
+    {
+     "when": "e17",
+     "text": "Marco Kawahara, joven que juega al tenis con Miriam Bancroft y molesta a la jueza Ertekin; Miriam pide a su marido que lo frene."
+    },
+    {
+     "when": "e42",
+     "text": "Marco Kawahara, joven que juega al tenis con Miriam Bancroft. En realidad era Reileen Kawahara usando su funda como tapadera para presionar a Bancroft y a Ertekin."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e42",
+     "with": "kawahara",
+     "text": "Persona que usaba su funda"
+    },
+    {
+     "when": "e17",
+     "with": "miriam",
+     "text": "Compañera de tenis"
+    },
+    {
+     "when": "e17",
+     "with": "ertekin",
+     "text": "Jueza a la que molesta"
+    }
+   ]
+  },
+  {
+   "id": "naomi",
+   "name": "Naomi",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Hija pequeña de Bancroft, que encontró el cadáver de su padre."
+    },
+    {
+     "when": "e4",
+     "text": "Naomi, hija pequeña de Laurens Bancroft, de veintitrés años, que vive casi siempre con su padre; encontró su cadáver y va a psicocirugía por el trauma."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e4",
+     "with": "bancroft",
+     "text": "Padre"
+    }
+   ]
+  },
+  {
+   "id": "quell",
+   "name": "Quellcrist Falconer",
+   "aliases": [
+    "Quell",
+    "Falconer",
+    "Quellcrist"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Pensadora y revolucionaria del Mundo de Harlan cuya frase cita Kovacs a propósito de las transmisiones de aguja y los ejércitos."
+    },
+    {
+     "when": "e17",
+     "text": "Quellcrist Falconer, Quell, poetisa y revolucionaria del Mundo de Harlan, inspiradora de los qüelistas, que se estudia en el colegio. Kovacs cita sus versos y se considera qüelista a veces."
+    }
+   ]
+  },
+  {
+   "id": "marriott",
+   "name": "Alain Marriott",
+   "aliases": [
+    "Marriott",
+    "Marriot"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Actor de experia del Mundo de Harlan al que Kovacs compara con Bancroft por su aire de filósofo qüelista de una película."
+    }
+   ]
+  },
+  {
+   "id": "konrad",
+   "name": "Konrad Harlan",
+   "aliases": [
+    "Konrad Harlan"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Figura cuya representación empatista cuelga en la galería de la Mansión del Sol."
+    }
+   ]
+  },
+  {
+   "id": "chandra",
+   "name": "Angin Chandra",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Figura cuya representación empatista cuelga en la galería de la Mansión del Sol: aparece con la mano en un cohete."
+    },
+    {
+     "when": "e14",
+     "text": "Angin Chandra, artista del porno de pilotos de la experia, que el narrador usa de comparación: la policía religiosa de Sharia se emplea en el software de interrogatorio tanto como ella en ese porno."
+    }
+   ]
+  },
+  {
+   "id": "gagarin",
+   "name": "Gagarin",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Yuri Gagarin, primer ser humano en el espacio, en 1961."
+    }
+   ]
+  },
+  {
+   "id": "armstrong",
+   "name": "Armstrong",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Neil Armstrong, primer ser humano en pisar la Luna, en 1969."
+    }
+   ]
+  },
+  {
+   "id": "murakami",
+   "name": "Murakami",
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Soldado del Cuerpo, mencionado por Kovacs, que espera en Newpest la liberación de un tatarabuelo almacenado hace un siglo."
+    }
+   ]
+  },
+  {
+   "id": "chloe",
+   "name": "Chloe",
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Trabajadora de los Salones de Jerry, amiga más cercana de Elizabeth Elliott, según Louise."
+    }
+   ]
+  },
+  {
+   "id": "mac",
+   "name": "Mac",
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Amigo de Elizabeth Elliott y de Chloe en el local de Jerry, que charlaba y compartía todo con ellas."
+    }
+   ]
+  },
+  {
+   "id": "serenity",
+   "name": "Serenity Carlyle",
+   "aliases": [
+    "Carlyle"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Sargento rubia del Cuerpo, en un recuerdo, que enseñó a Kovacs el arte de ir de compras como misión."
+    }
+   ]
+  },
+  {
+   "id": "clive",
+   "name": "Clive",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Hombrecillo de pelo cano que desmonta una ballesta en la armería y muestra a Kovacs una Nemex y una Philips."
+    }
+   ]
+  },
+  {
+   "id": "sheila",
+   "name": "Sheila Sorenson",
+   "aliases": [
+    "Sheila"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Mujer alta y rubia con máscara de realidad virtual en la armería, que vende a Kovacs un cuchillo Tebbit con veneno C-381."
+    },
+    {
+     "when": "e42",
+     "text": "Sheila Sorenson, armera de Larkin & Green que vendió a Kovacs el cuchillo Tebbit. Avisó de que el cianuro actúa en dos respiraciones."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e12",
+     "with": "kovacs",
+     "text": "Cliente al que vende el cuchillo Tebbit"
+    }
+   ]
+  },
+  {
+   "id": "deme",
+   "name": "Iphigenia Deme",
+   "aliases": [
+    "Iffy"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Guerrillera de las Brigadas Negras que se hizo estallar durante un interrogatorio, según un recuerdo de Kovacs."
+    },
+    {
+     "when": "e23",
+     "text": "Iphigenia Deme (Iffy), guerrillera qüelista de las Brigadas Negras. Murió en la Descolonización con un explosivo interno y sus últimas palabras fueron «Se acabó, joder», que Kovacs reconoce en un asesino."
+    }
+   ]
+  },
+  {
+   "id": "mccabe",
+   "name": "Carlton McCabe",
+   "aliases": [
+    "McCabe"
+   ],
+   "summary": [
+    {
+     "when": "s42",
+     "text": "Hombre rubio, influyente, al que Kovacs mató en una sala de La Cabeza en las Nubes."
+    },
+    {
+     "when": "e42",
+     "text": "Carlton McCabe, hombre influyente, cliente que esperaba a Mary Lou Hinchley en La Cabeza en las Nubes; Kovacs lo mató allí."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e42",
+     "with": "hinchley",
+     "text": "Chica a la que esperaba"
+    },
+    {
+     "when": "e42",
+     "with": "kovacs",
+     "text": "Hombre que lo mató"
+    }
+   ]
+  },
+  {
+   "id": "hinchley",
+   "name": "Mary Lou Hinchley",
+   "aliases": [
+    "Hinchley",
+    "Mary Lou"
+   ],
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Chica rescatada del mar, mencionada por Ortega: murió y su caso lo investigaba Ryker."
+    },
+    {
+     "when": "e30",
+     "text": "Mary Lou Hinchley, chica católica a la que sacaron del mar. Ortega cree que se cayó de La Cabeza en las Nubes al huir de una sesión de snuff."
+    },
+    {
+     "when": "e42",
+     "text": "Mary Lou Hinchley, chica católica a la que prepararon en La Cabeza en las Nubes para una sesión de snuff. Cayó del aparato y su declaración hundiría a Kawahara y a sus clientes; por eso incriminaron a Ryker."
+    },
+    {
+     "when": "e44",
+     "text": "Mary Lou Hinchley, chica católica que cayó de La Cabeza en las Nubes. La han descargado en una funda sintética para declarar en el juicio contra el prostíbulo volador."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e18",
+     "with": "ryker",
+     "text": "Policía que investigaba su caso"
+    },
+    {
+     "when": "e42",
+     "with": "kawahara",
+     "text": "Dueña del aparato del que cayó"
+    },
+    {
+     "when": "e42",
+     "with": "mccabe",
+     "text": "Cliente que la esperaba"
+    }
+   ]
+  },
+  {
+   "id": "watanabe",
+   "name": "Watanabe",
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Viejo de un bar de Newpest, recordado por Kovacs, que fumaba en pipa y le aconsejó de joven."
+    }
+   ]
+  },
+  {
+   "id": "macintyre",
+   "name": "MacIntyre",
+   "summary": [
+    {
+     "when": "s17",
+     "text": "General del Cuerpo de Emisarios al que destriparon y decapitaron en su jet privado un año después de la masacre de Innenin."
+    }
+   ]
+  },
+  {
+   "id": "sandykim",
+   "name": "Sandy Kim",
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Presentadora o reportera de WorldWeb 1 a la que Ortega usa como amenaza de publicidad."
+    },
+    {
+     "when": "e21",
+     "text": "Sandy Kim, presentadora de WorldWeb 1 que tuvo un romance muy comentado con Ryker cuando era un héroe mediático."
+    }
+   ]
+  },
+  {
+   "id": "nozawa",
+   "name": "Micky Nozawa",
+   "aliases": [
+    "Micky Nozawa",
+    "Nozawa"
+   ],
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Figura de la experia, nombrada de pasada por Kovacs."
+    },
+    {
+     "when": "e27",
+     "text": "Micky Nozawa, figura de la experia a la que se atribuye, por ejemplo, la sangrienta «Once con quince»; Trepp dice que hizo holoporno y Kovacs lo niega."
+    }
+   ]
+  },
+  {
+   "id": "nicholson",
+   "name": "Injerto Nicholson",
+   "aliases": [
+    "Injerto Nicholson",
+    "Nicholson"
+   ],
+   "summary": [
+    {
+     "when": "s24",
+     "text": "Conductor con olor a alcohol que lleva a Kovacs en un camión hacia el sur."
+    }
+   ]
+  },
+  {
+   "id": "ludmila",
+   "name": "Ludmila la Loca",
+   "aliases": [
+    "Ludmila la Loca",
+    "Ludmila"
+   ],
+   "summary": [
+    {
+     "when": "s23",
+     "text": "Protagonista de un cuento de miedo de Newpest que Kovacs cuenta a Ortega."
+    }
+   ]
+  },
+  {
+   "id": "kishimo",
+   "name": "Kishimo-jin",
+   "summary": [
+    {
+     "when": "s23",
+     "text": "Deidad protectora de los niños en el panteón harlanita, citada en una versión del cuento de Ludmila."
+    }
+   ]
+  },
+  {
+   "id": "franco",
+   "name": "Francisco Franco",
+   "aliases": [
+    "Franco"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Dictador que gobernó España entre 1939 y 1975."
+    }
+   ]
+  },
+  {
+   "id": "gaudi",
+   "name": "Gaudí",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Antoni Gaudí, arquitecto catalán conocido por las formas onduladas de sus edificios."
+    }
+   ]
+  },
+  {
+   "id": "nacho",
+   "name": "Nacho el Aguja",
+   "aliases": [
+    "Nacho el Aguja"
+   ],
+   "summary": [
+    {
+     "when": "s29",
+     "text": "Buzo contratado por Ryker para borrar el registro del yate; lo delató en Seattle."
+    }
+   ]
+  },
+  {
+   "id": "garcia",
+   "name": "Ignacio García",
+   "aliases": [
+    "García"
+   ],
+   "summary": [
+    {
+     "when": "s42",
+     "text": "Falsificador al que Kawahara pagó, con una simulación de Ryker, para falsear las improntas de dos muertos."
+    }
+   ]
+  },
+  {
+   "id": "perm",
+   "name": "Perm Ha Grip",
+   "aliases": [
+    "Perm Ha Grip",
+    "Pernilla Grip",
+    "Grip",
+    "Pernilla"
+   ],
+   "summary": [
+    {
+     "when": "s36",
+     "text": "Mujer rubia y alta que entra en el camarote de Kovacs en el Rosa de Panamá; vende los derechos de la pelea."
+    },
+    {
+     "when": "e37",
+     "text": "Perm Ha Grip, de Distribución de Retransmisiones de Combate, dueña de los derechos de la pelea. Muere con el pecho carbonizado junto a Carnage."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e37",
+     "with": "carnage",
+     "text": "Socio con el que muere"
+    }
+   ]
+  },
+  {
+   "id": "mech",
+   "name": "Miles Mech",
+   "aliases": [
+    "Miles Mech"
+   ],
+   "summary": [
+    {
+     "when": "s36",
+     "text": "Sintético refinado con interfaz metálica en la mano que ayuda a Perm Ha Grip con las cámaras."
+    }
+   ]
+  },
+  {
+   "id": "reese",
+   "name": "Reese",
+   "summary": [
+    {
+     "when": "s40",
+     "text": "Mujer de funda africana que aparece en la pantalla de Elliott y a la que esta presenta como cliente a un experto en implantes."
+    },
+    {
+     "when": "e40",
+     "text": "Reese, experta en implantes del campamento de timadores, detenida en su día por literatura contraria al Protectorado. Opera a Kovacs el ojo para meterle un grabador."
+    },
+    {
+     "when": "e42",
+     "text": "Reese, experta en implantes del campamento de timadores. Su chip de grabación en el ojo de Kovacs lo arranca Kawahara con unos alicates."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e40",
+     "with": "irene",
+     "text": "Compañera de campamento que le envía un cliente"
+    },
+    {
+     "when": "e40",
+     "with": "kovacs",
+     "text": "Cliente al que opera el ojo"
+    },
+    {
+     "when": "e42",
+     "with": "kawahara",
+     "text": "Mujer que le arranca el chip del ojo de Kovacs"
+    }
+   ]
+  },
+  {
+   "id": "bostock",
+   "name": "Sheryl Bostock",
+   "aliases": [
+    "Sheryl",
+    "Bostock"
+   ],
+   "summary": [
+    {
+     "when": "s34",
+     "text": "Empleada que abandonó PsychaSec en un microcóptero antiguo; Kovacs quiere seguir su rastro."
+    },
+    {
+     "when": "e43",
+     "text": "Sheryl Bostock, empleada de PsychaSec con una funda sintética barata y un hijo de once años. Sobornada con una visita a la isla de Miriam, inyectó sinamorfesterona al clon de Bancroft; Kovacs borra las pruebas para protegerla."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e43",
+     "with": "miriam",
+     "text": "Mujer que la sobornó con una visita a su isla"
+    },
+    {
+     "when": "e43",
+     "with": "bancroft",
+     "text": "Hombre cuyo clon drogó"
+    },
+    {
+     "when": "e43",
+     "with": "kovacs",
+     "text": "Detective que le promete protección"
+    },
+    {
+     "when": "e43",
+     "with": "daryl",
+     "text": "Hijo de once años"
+    }
+   ]
+  },
+  {
+   "id": "daryl",
+   "name": "Daryl",
+   "summary": [
+    {
+     "when": "s43",
+     "text": "Chaval de once años que abre la puerta con hostilidad; hijo de Sheryl Bostock."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e43",
+     "with": "bostock",
+     "text": "Madre, a la que consuela"
+    }
+   ]
+  },
+  {
+   "id": "marla",
+   "name": "Marla Rentang",
+   "aliases": [
+    "Rentang"
+   ],
+   "summary": [
+    {
+     "when": "s43",
+     "text": "Católica a la que mató Laurens Bancroft, según Miriam."
+    },
+    {
+     "when": "e43",
+     "text": "Marla Rentang, mujer católica a la que Laurens Bancroft mató, drogado con sinamorfesterona, antes de suicidarse. Su religión impedía devolverla a la vida."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e43",
+     "with": "bancroft",
+     "text": "Hombre que la mató drogado"
+    }
+   ]
+  },
+  {
+   "id": "chung",
+   "name": "Chung",
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Director de una clínica clandestina de Villamamada al que Jerry quiere ver."
+    }
+   ]
+  },
+  {
+   "id": "mercer",
+   "name": "Mercer",
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Policía de la comisaría de la calle Fell que, según Bautista, se portó mal con Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "zak",
+   "name": "Zak",
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Contacto de Ortega que ayuda a rastrear las llamadas de Rutherford."
+    }
+   ]
+  },
+  {
+   "id": "murawa",
+   "name": "Murawa",
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Capitán de Ortega, al que no ha gustado que se salte reuniones."
+    }
+   ]
+  },
+  {
+   "id": "tia",
+   "name": "Tia",
+   "summary": [
+    {
+     "when": "s41",
+     "text": "Guardia de La Cabeza en las Nubes a la que Kawahara manda acompañar a Ortega al muelle junto con Max."
+    }
+   ]
+  },
+  {
+   "id": "max",
+   "name": "Max",
+   "summary": [
+    {
+     "when": "s41",
+     "text": "Guardia de La Cabeza en las Nubes a la que Kawahara manda acompañar a Ortega al muelle junto con Tia."
+    }
+   ]
+  },
+  {
+   "id": "harlan",
+   "name": "Mundo de Harlan",
+   "aliases": [
+    "Mundo de Harlan",
+    "Harlan",
+    "Mundo de Harían",
+    "harlanita",
+    "harlanitas"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Mundo del narrador, vigilado por guardianes orbitales que disparan avisos sobre el Fiordo."
+    },
+    {
+     "when": "e2",
+     "text": "Mundo de origen de Kovacs, la única biosfera habitable del sistema Resplandor, desde el que se envía a la gente a la Tierra por transmisión de aguja."
+    },
+    {
+     "when": "e5",
+     "text": "Mundo de origen de Kovacs, único planeta habitable del sistema Resplandor, colonizado por un keiretsu japonés con mano de obra de Europa del Este. Allí llevan la pila desde el nacimiento y el borrado de pilas está abolido."
+    }
+   ]
+  },
+  {
+   "id": "millsport",
+   "name": "Millsport",
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Ciudad del Mundo de Harlan, junto al Fiordo, donde se esconden Tak y Sarah."
+    }
+   ]
+  },
+  {
+   "id": "fiordo",
+   "name": "Fiordo",
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Brazo de mar con fuertes corrientes frente a Millsport, sobre el que disparan los guardianes orbitales."
+    }
+   ]
+  },
+  {
+   "id": "newpest",
+   "name": "Newpest",
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Ciudad del Mundo de Harlan que Murakami y Kovacs conocen."
+    },
+    {
+     "when": "e23",
+     "text": "Newpest, ciudad del Mundo de Harlan donde se crió Kovacs, antigua capital mundial del belalgodón, con bandas callejeras que trataban con la yakuza y cuentos de miedo como el del Hombre de Retales."
+    }
+   ]
+  },
+  {
+   "id": "ciudadbahia",
+   "name": "Ciudad Bahía",
+   "aliases": [
+    "Ciudad Bahía"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Ciudad de la Tierra donde despierta Kovacs, sede de la penitenciaría Central de Ciudad Bahía."
+    },
+    {
+     "when": "e6",
+     "text": "Ciudad Bahía, gran ciudad costera de la Tierra, con barrios como Villamamada, hoteles con IA y una policía propia."
+    }
+   ]
+  },
+  {
+   "id": "sullivan_central",
+   "name": "Central de Ciudad Bahía",
+   "aliases": [
+    "Central de Ciudad Bahía"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Penitenciaría de Ciudad Bahía, con sala de reenfundado, donde Kovacs despierta y que dirige el alcaide Sullivan."
+    }
+   ]
+  },
+  {
+   "id": "mansion",
+   "name": "Mansión del Sol",
+   "aliases": [
+    "Mansión del Sol"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Residencia de Bancroft, a la que Kovacs es llevado, en la costa."
+    },
+    {
+     "when": "e4",
+     "text": "Mansión del Sol, hacienda de la familia Bancroft en la costa, con valla electrificada, galería de arte, un árbol marciano que canta, jardines y una sala de mapas."
+    }
+   ]
+  },
+  {
+   "id": "kanagawa",
+   "name": "Kanagawa",
+   "aliases": [
+    "Nueva Kanagawa"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Penal de Nueva Kanagawa, donde Kovacs vio por última vez a Virginia Vidaura."
+    },
+    {
+     "when": "e3",
+     "text": "Penal de Nueva Kanagawa, prisión de almacenamiento del Mundo de Harlan donde Kovacs cumplía condena y donde le localizó el Cuerpo."
+    }
+   ]
+  },
+  {
+   "id": "nuevapekin",
+   "name": "Nueva Pekín",
+   "aliases": [
+    "Nueva Pekín"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Ciudad donde Kovacs hizo trabajos para Reileen Kawahara hace ocho años."
+    },
+    {
+     "when": "e26",
+     "text": "Nueva Pekín, ciudad donde Kovacs y Kawahara se conocieron y chocaron; ella le ofreció unirse a su causa y él la rechazó."
+    }
+   ]
+  },
+  {
+   "id": "alcatraz",
+   "name": "Alcatraz",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Lugar donde PsychaSec tiene su centro y la pila blindada con la copia de seguridad de Bancroft."
+    }
+   ]
+  },
+  {
+   "id": "osaka",
+   "name": "Osaka",
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Ciudad japonesa adonde fue Bancroft a una reunión de negocios la semana de su muerte."
+    },
+    {
+     "when": "e42",
+     "text": "Osaka, adonde Bancroft viaja a menudo por negocios; Kawahara lo cita allí para invitarlo luego a La Cabeza en las Nubes."
+    }
+   ]
+  },
+  {
+   "id": "ulanbator",
+   "name": "Ulán Bator",
+   "aliases": [
+    "Ulán Bator"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Capital asiática del mercado negro de descargas y fundas, donde está registrada la funda de Kadmin."
+    }
+   ]
+  },
+  {
+   "id": "vladivostok",
+   "name": "Vladivostok",
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Ciudad de la que viene el asesino Dimitri Kadmin."
+    }
+   ]
+  },
+  {
+   "id": "europa",
+   "name": "Europa",
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Continente en el que, según Ortega, puede estar la compañía de seguros que usa el asesino Kadmin."
+    },
+    {
+     "when": "e26",
+     "text": "Europa, adonde Trepp lleva a Kovacs en un vuelo suborbital para la cita con Kawahara en una basílica subterránea."
+    }
+   ]
+  },
+  {
+   "id": "oakland",
+   "name": "Oakland",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Ciudad de la Costa Oeste donde Leila Begin trabajó en biocabinas."
+    }
+   ]
+  },
+  {
+   "id": "sandiego",
+   "name": "San Diego",
+   "aliases": [
+    "San Diego"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Ciudad de la Costa Oeste donde hay una sede de Las Casas."
+    }
+   ]
+  },
+  {
+   "id": "ascuas",
+   "name": "Ascuas",
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Ciudad costera al norte de Ciudad Bahía, levantada alrededor de un portaaviones varado."
+    },
+    {
+     "when": "e44",
+     "text": "Ascuas, ciudad costera creada alrededor del portaaviones Defensor del Libre Comercio, donde viven los Elliott y donde Kovacs se despide de Irene."
+    }
+   ]
+  },
+  {
+   "id": "defensor",
+   "name": "Defensor del Libre Comercio",
+   "aliases": [
+    "Defensor del Libre Comercio"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Portaaviones varado en el mar, alrededor del cual creció la ciudad de Ascuas."
+    }
+   ]
+  },
+  {
+   "id": "enlaceselliott",
+   "name": "Enlaces Elliott",
+   "aliases": [
+    "Enlaces Elliott"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Local estrecho con consolas y monitores donde trabaja Victor Elliott, en Ascuas."
+    },
+    {
+     "when": "e31",
+     "text": "Enlaces Elliott, negocio de datos de Victor Elliott en Ascuas, donde vive con su mujer cuando sale de la cárcel."
+    }
+   ]
+  },
+  {
+   "id": "salones",
+   "name": "Salones Privados de Jerry",
+   "aliases": [
+    "Salones Privados de Jerry"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Local de mala muerte donde trabajaba Elizabeth Elliott."
+    },
+    {
+     "when": "e13",
+     "text": "Salones Privados de Jerry, club de biocabinas de la calle 19 de Villamamada, con robot portero y cabinas de cristal donde se tortura a Louise."
+    },
+    {
+     "when": "e16",
+     "text": "Salones Privados de Jerry, club de biocabinas de Villamamada donde Jerry guarda a su banda; Kovacs lo asalta y mata al personal."
+    }
+   ]
+  },
+  {
+   "id": "percha",
+   "name": "Percha de Carne",
+   "aliases": [
+    "Percha de Carne"
+   ],
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Local de Oakland donde trabajaba Leila Begin y donde conoció a Bancroft."
+    }
+   ]
+  },
+  {
+   "id": "villamamada",
+   "name": "Villamamada",
+   "summary": [
+    {
+     "when": "s11",
+     "text": "Barrio degradado de Ciudad Bahía, antes llamado Potrero, adonde Kovacs sigue la pista de Elizabeth Elliott."
+    }
+   ]
+  },
+  {
+   "id": "seattle",
+   "name": "Seattle",
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Ciudad de la Costa Oeste donde se condenó a Ryker, según Jerry."
+    }
+   ]
+  },
+  {
+   "id": "nuevayork",
+   "name": "Nueva York",
+   "aliases": [
+    "Nueva York"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Ciudad donde dice Jerry que está la funda auténtica de Trepp, y sede de la ONU."
+    }
+   ]
+  },
+  {
+   "id": "richmond",
+   "name": "Richmond",
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Ciudad de la Costa Este donde hay un fundódromo al que llama Rutherford."
+    }
+   ]
+  },
+  {
+   "id": "rosa",
+   "name": "Rosa de Panamá",
+   "aliases": [
+    "Rosa de Panamá"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Carguero convertido en fundódromo, donde se celebran combates de fundas, y que dirige un sintético."
+    },
+    {
+     "when": "e37",
+     "text": "Rosa de Panamá, fundódromo de Ciudad Bahía, donde Kovacs es forzado a pelear contra Kadmin y mata a este con ayuda de Bautista y Trepp."
+    }
+   ]
+  },
+  {
+   "id": "fundodromo",
+   "name": "fundódromo",
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Lugar de Richmond al que llama Rutherford, que Ortega conoce."
+    },
+    {
+     "when": "e20",
+     "text": "Fundódromo, local donde se enfrentan fundas de combate ante un público; el Rosa de Panamá es un carguero adaptado."
+    }
+   ]
+  },
+  {
+   "id": "fell",
+   "name": "calle Fell",
+   "aliases": [
+    "calle Fell"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Calle de Ciudad Bahía a la que Ortega manda enviar las pilas de los asesinos."
+    },
+    {
+     "when": "e18",
+     "text": "Calle Fell: calle de Ciudad Bahía donde está la comisaría de estilo barroco marciano a la que Kovacs va a buscar a Ortega."
+    }
+   ]
+  },
+  {
+   "id": "midnight",
+   "name": "Midnight Lamp",
+   "aliases": [
+    "Midnight Lamp"
+   ],
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Bar del hotel Hendrix decorado con relojes y lámparas."
+    }
+   ]
+  },
+  {
+   "id": "pez",
+   "name": "Pez Volador",
+   "aliases": [
+    "Pez Volador"
+   ],
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Restaurante aéreo de ramen construido en un dragaminas decomisado, donde Ortega y Kovacs comen."
+    }
+   ]
+  },
+  {
+   "id": "enchufalo",
+   "name": "Enchúfalo",
+   "summary": [
+    {
+     "when": "s33",
+     "text": "Local o prostíbulo virtual con cuyo nombre Kovacs miente a Bancroft."
+    },
+    {
+     "when": "e43",
+     "text": "Enchúfalo, supuesto prostíbulo virtual cuya infección con un virus sirvió de excusa para convencer a Bancroft de su suicidio; Prescott acusa a Kovacs de haber mentido con él."
+    }
+   ]
+  },
+  {
+   "id": "lacarne",
+   "name": "La Carne Perecedera",
+   "aliases": [
+    "La Carne Perecedera"
+   ],
+   "summary": [
+    {
+     "when": "s27",
+     "text": "Bar con murales del infierno cristiano y una bailarina en una plataforma giratoria, donde Trepp y Kovacs toman drogas."
+    }
+   ]
+  },
+  {
+   "id": "pension",
+   "name": "Pensión Flor del 68",
+   "aliases": [
+    "Pensión Flor del 68"
+   ],
+   "summary": [
+    {
+     "when": "s40",
+     "text": "Pensión de una simulación en la costa, con porche y lámparas de queroseno, donde se reúne el equipo de asalto."
+    }
+   ]
+  },
+  {
+   "id": "adoracion",
+   "name": "Adoración",
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Lugar que Kovacs menciona ante Bancroft, donde ha visto plantas de hierba mártir mayores que las del invernadero."
+    },
+    {
+     "when": "e23",
+     "text": "Adoración, lugar de una campaña de Kovacs cuyo equipo de mando sacó del almacenamiento, con ayuda de una IA, a prisioneros de guerra."
+    },
+    {
+     "when": "e39",
+     "text": "Adoración, salón recreativo donde Kovacs tuvo de joven una experiencia traumática con una personalidad compuesta de realidad virtual."
+    }
+   ]
+  },
+  {
+   "id": "lacabeza",
+   "name": "La Cabeza en las Nubes",
+   "aliases": [
+    "La Cabeza en las Nubes",
+    "Cabeza en las Nubes"
+   ],
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Lugar al que la mujer sintética dice que irán, aunque Kovacs no sabe qué es."
+    },
+    {
+     "when": "e21",
+     "text": "La Cabeza en las Nubes, servicio de reproducción sensorial sexual que ofrece un vehículo publicitario."
+    },
+    {
+     "when": "e30",
+     "text": "La Cabeza en las Nubes, prostíbulo aéreo itinerante de lujo, fuera de los límites costeros y propiedad de Las Casas, con una zona de snuff."
+    },
+    {
+     "when": "e34",
+     "text": "La Cabeza en las Nubes, prostíbulo volante de Kawahara, antiguo astillero de Tampa que empezó como flotilla de gestión de tormentas, con identificador de firma térmica como seguridad."
+    }
+   ]
+  },
+  {
+   "id": "costaoeste",
+   "name": "Costa Oeste",
+   "aliases": [
+    "Costa Oeste"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Costa del oeste de la Tierra donde está Ciudad Bahía."
+    },
+    {
+     "when": "e29",
+     "text": "Costa Oeste, región donde el trabajo policial se subcontrata a privados y se permiten botines."
+    }
+   ]
+  },
+  {
+   "id": "sharia",
+   "name": "Sharia",
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Mundo en cuya guerra combatió Kovacs con Lock-Mits."
+    },
+    {
+     "when": "e14",
+     "text": "Sharia, mundo de teocracia con policía religiosa famosa por torturar, donde Kovacs combatió como soldado."
+    },
+    {
+     "when": "e34",
+     "text": "Sharia, mundo en guerra donde Kovacs mató gente reclutada a la fuerza y que el Protectorado usa de eufemismo para aplastar resistencias."
+    }
+   ]
+  },
+  {
+   "id": "innenin",
+   "name": "Innenin",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Lugar de un desastre en el pasado de Kovacs, donde murió Jimmy de Soto."
+    },
+    {
+     "when": "e17",
+     "text": "Innenin, matanza en la que un virus de defensores arruinó a la avanzadilla de Kovacs; el general MacIntyre fue exculpado después por el Tribunal de Investigación del Protectorado."
+    }
+   ]
+  },
+  {
+   "id": "zihicce",
+   "name": "Zihicce",
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Ciudad de Sharia cuyo cielo, bajo un bombardeo, recuerda Kovacs al oír la llamada a la oración."
+    },
+    {
+     "when": "e22",
+     "text": "Zihicce, ciudad de Sharia que saquearon los emisarios; después establecieron allí un régimen acorde con el Protectorado."
+    }
+   ]
+  },
+  {
+   "id": "syrtis",
+   "name": "Syrtis Major",
+   "aliases": [
+    "Syrtis Major"
+   ],
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Lugar de Marte donde Kadmin asustó a mineros arqueólogos para que renunciasen a sus concesiones."
+    }
+   ]
+  },
+  {
+   "id": "fision",
+   "name": "Ciudad Fisión",
+   "aliases": [
+    "Ciudad Fisión"
+   ],
+   "summary": [
+    {
+     "when": "s26",
+     "text": "Ciudad de Australia occidental donde Kawahara dice haberse criado."
+    },
+    {
+     "when": "e30",
+     "text": "Ciudad Fisión, ciudad minera donde Kawahara se crió vendiendo medicamentos antirradiación a las familias; allí los matones de banda, los aguadores, obligaban a beber agua contaminada como castigo."
+    }
+   ]
+  },
+  {
+   "id": "sydney",
+   "name": "Sydney",
+   "summary": [
+    {
+     "when": "s29",
+     "text": "Ciudad donde Ryker robó el yate y lo registró con una tapadera."
+    }
+   ]
+  },
+  {
+   "id": "marte",
+   "name": "Marte",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Cuarto planeta del sistema solar, a partir del Sol."
+    },
+    {
+     "when": "e19",
+     "text": "Marte, planeta del sistema solar donde se excavan las ruinas de una civilización extinta, la marciana, sobre cuyo fin los arqueólogos dan una versión oficial política."
+    }
+   ]
+  },
+  {
+   "id": "porticosat",
+   "name": "Pórtico",
+   "summary": [
+    {
+     "when": "s40",
+     "text": "Satélite de comunicaciones por el que se transfirió a Sarah Sachilowska al Mundo de Harlan."
+    }
+   ]
+  },
+  {
+   "id": "urbline",
+   "name": "Urbline",
+   "summary": [
+    {
+     "when": "s25",
+     "text": "Empresa de autotaxis por cuya red Kovacs viaja."
+    }
+   ]
+  },
+  {
+   "id": "lineaurbana",
+   "name": "Línea Urbana",
+   "aliases": [
+    "Línea Urbana"
+   ],
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Servicio de datos central de los autotaxis de Ciudad Bahía, que responde preguntas de los pasajeros."
+    }
+   ]
+  },
+  {
+   "id": "cuerpo",
+   "name": "Cuerpo de Emisarios",
+   "aliases": [
+    "Cuerpo de Emisarios",
+    "emisario",
+    "emisarios"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Organización que enseña a sus miembros a relajarse antes de que los almacenen; Kovacs recuerda a su instructora, Virginia Vidaura."
+    },
+    {
+     "when": "e2",
+     "text": "Cuerpo de Emisarios, organización del Protectorado que entrena a sus miembros para adaptarse a cualquier mundo y a relajarse antes del almacenamiento; Kovacs fue uno de sus soldados."
+    },
+    {
+     "when": "e10",
+     "text": "Cuerpo de Emisarios, cuerpo de élite del Protectorado cuyos miembros tienen un condicionamiento especial. Sus neuraquímicos permiten ver en la penumbra, calcular pasos con precisión y soportar el dolor."
+    },
+    {
+     "when": "e21",
+     "text": "Cuerpo de Emisarios, cuerpo de élite del Protectorado, descrito por Kovacs como humanos reensamblados con instintos de violencia potenciados y frenos morales eliminados."
+    }
+   ]
+  },
+  {
+   "id": "protectorado",
+   "name": "Protectorado",
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Entidad política cuyas fundas estándar tienen poco más de cuarenta años."
+    },
+    {
+     "when": "e17",
+     "text": "Protectorado, estructura política y militar que gobierna los mundos colonizados y que Bancroft describe como una tiranía establecida por miedo a las colonias."
+    }
+   ]
+  },
+  {
+   "id": "onu",
+   "name": "ONU",
+   "aliases": [
+    "Naciones Unidas"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Organización de las Naciones Unidas."
+    },
+    {
+     "when": "e3",
+     "text": "ONU, la Organización de las Naciones Unidas, que en este futuro tiene un tribunal y dicta marcos legales como el Pacto Judicial."
+    }
+   ]
+  },
+  {
+   "id": "pacto",
+   "name": "Pacto Judicial de la ONU",
+   "aliases": [
+    "Pacto Judicial de la ONU"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Marco legal que permite al alcaide liberar a Kovacs en arrendamiento."
+    }
+   ]
+  },
+  {
+   "id": "daños",
+   "name": "Daños Orgánicos",
+   "aliases": [
+    "Daños Orgánicos",
+    "Departamento de Daños Orgánicos"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Departamento de la policía de Ciudad Bahía al que pertenece Ortega."
+    },
+    {
+     "when": "e16",
+     "text": "Daños Orgánicos, departamento de la policía de Ciudad Bahía que investiga delitos contra cuerpos y pilas; Ryker pasó a él desde Fundas Robadas."
+    }
+   ]
+  },
+  {
+   "id": "fundasrobadas",
+   "name": "Fundas Robadas",
+   "aliases": [
+    "Fundas Robadas"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Departamento de policía de Ciudad Bahía especializado en robo de fundas, donde antes trabajaba Ryker."
+    }
+   ]
+  },
+  {
+   "id": "internos",
+   "name": "Asuntos Internos",
+   "aliases": [
+    "Asuntos Internos"
+   ],
+   "summary": [
+    {
+     "when": "s21",
+     "text": "Departamento que investiga a los policías y que despidió a Ryker tras el incidente de Seattle."
+    }
+   ]
+  },
+  {
+   "id": "sustancias",
+   "name": "Sustancias Controladas",
+   "aliases": [
+    "Sustancias Controladas"
+   ],
+   "summary": [
+    {
+     "when": "s40",
+     "text": "Departamento de la policía que hace redadas contra traficantes de drogas."
+    }
+   ]
+  },
+  {
+   "id": "delitostrans",
+   "name": "Delitos de Transmisión",
+   "aliases": [
+    "Delitos de Transmisión"
+   ],
+   "summary": [
+    {
+     "when": "s33",
+     "text": "Departamento policial que no persigue a los estafadores de un campamento del norte."
+    }
+   ]
+  },
+  {
+   "id": "lascasas",
+   "name": "Las Casas",
+   "aliases": [
+    "Las Casas"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Cártel o red de prostíbulos de lujo que Curtis menciona a lo largo de la costa."
+    },
+    {
+     "when": "e30",
+     "text": "Las Casas, organización de prostitución de lujo con clientes de alta sociedad, propietaria de La Cabeza en las Nubes."
+    }
+   ]
+  },
+  {
+   "id": "psychasec",
+   "name": "PsychaSec",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Empresa de Bancroft donde se guarda la copia de seguridad de su pila."
+    },
+    {
+     "when": "e8",
+     "text": "PsychaSec, empresa de recuperación y conservación de humanos digitalizados y clones, dirigida por Dennis Nyman, con un centro en Alcatraz."
+    }
+   ]
+  },
+  {
+   "id": "nyman",
+   "name": "Dennis Nyman",
+   "aliases": [
+    "Dennis Nyman",
+    "Nyman"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Director de PsychaSec, al que visita Prescott con Kovacs."
+    },
+    {
+     "when": "e8",
+     "text": "Dennis Nyman, director de PsychaSec, algo soberbio pero no mala persona; explica el reenfundado y autoriza el acceso a los clones de Bancroft."
+    }
+   ],
+   "relationships": [
+    {
+     "when": "e8",
+     "with": "prescott",
+     "text": "Abogada de Bancroft a la que recibe"
+    },
+    {
+     "when": "e8",
+     "with": "bancroft",
+     "text": "Cliente cuyos clones guarda"
+    }
+   ]
+  },
+  {
+   "id": "lloyds",
+   "name": "Lloyd’s",
+   "aliases": [
+    "Lloyd's"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Aseguradora de recuperación y reenfundado anterior a las descargas, citada por Ortega."
+    }
+   ]
+  },
+  {
+   "id": "cartwright",
+   "name": "Cartwright Solar",
+   "aliases": [
+    "Cartwright Solar"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Aseguradora de recuperación y reenfundado respetable, citada por Ortega junto a Lloyd’s."
+    }
+   ]
+  },
+  {
+   "id": "gemini",
+   "name": "Gemini Biosys",
+   "aliases": [
+    "Gemini Biosys"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Empresa cuyos guardias de seguridad atacó Sarah la noche anterior a la emboscada."
+    }
+   ]
+  },
+  {
+   "id": "nakamura",
+   "name": "Laboratorios Nakamura",
+   "aliases": [
+    "Laboratorios Nakamura",
+    "Nakamura"
+   ],
+   "summary": [
+    {
+     "when": "s11",
+     "text": "Fabricante de fundas de gama alta, como la tecnobioquímica de Miriam Bancroft, que usa su rostro como reclamo."
+    }
+   ]
+  },
+  {
+   "id": "larkin",
+   "name": "Larkin & Green",
+   "aliases": [
+    "Larkin & Green",
+    "Larkin"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Armería antigua de Ciudad Bahía fundada en 2203, con fama de buenas piezas."
+    },
+    {
+     "when": "e12",
+     "text": "Larkin & Green, armería de Ciudad Bahía donde Kovacs compra una Nemex, una Philips y un cuchillo Tebbit, atendido por un mandroide."
+    }
+   ]
+  },
+  {
+   "id": "jacsol",
+   "name": "JacSol",
+   "aliases": [
+    "JacSol Communications"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Empresa de interfaces de comunicaciones propiedad de Kawahara, que da a Kovacs una identidad falsa y fondos."
+    }
+   ]
+  },
+  {
+   "id": "silset",
+   "name": "SilSet Holdings",
+   "aliases": [
+    "SilSet Holdings",
+    "SilSet"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Empresa donde Kovacs recoge un cilindro con una copia inactiva del virus Rawling."
+    }
+   ]
+  },
+  {
+   "id": "prendergast",
+   "name": "Prendergast Sánchez",
+   "aliases": [
+    "Prendergast Sánchez"
+   ],
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Bufete de abogados al que pertenece Rutherford, de Nueva York."
+    }
+   ]
+  },
+  {
+   "id": "meritcon",
+   "name": "MeritCon",
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Empresa para la que Kadmin hacía trabajitos de limpieza en Syrtis Major."
+    }
+   ]
+  },
+  {
+   "id": "capeneuronics",
+   "name": "Cape Neuronics",
+   "aliases": [
+    "Cape Neuronics"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Empresa que patentó el sistema neuraquímico Khumalo."
+    }
+   ]
+  },
+  {
+   "id": "nippon",
+   "name": "Nippon Organics",
+   "aliases": [
+    "Nippon Organics"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Posible fabricante de la funda que Kovacs ve en un tanque de decantación del Rosa de Panamá."
+    }
+   ]
+  },
+  {
+   "id": "lockheed",
+   "name": "Lockheed-Mitoma",
+   "aliases": [
+    "Lock-Mit",
+    "Lock-Mits"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Fabricante de aeronaves y de chasis de alta resistencia para pilotos de pruebas: sus naves son los Lock-Mits."
+    }
+   ]
+  },
+  {
+   "id": "skysystems",
+   "name": "SkySystems",
+   "summary": [
+    {
+     "when": "s40",
+     "text": "Empresa responsable de la red climática orbital."
+    }
+   ]
+  },
+  {
+   "id": "vaticano",
+   "name": "Vaticano",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Sede de la Iglesia católica."
+    },
+    {
+     "when": "e3",
+     "text": "Vaticano, sede de los católicos, que considera muerta, en manos de Dios, a la persona almacenada; financió crionaves para huir de las descargas."
+    }
+   ]
+  },
+  {
+   "id": "brigadas",
+   "name": "Brigadas Negras",
+   "aliases": [
+    "Brigadas Negras"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Guerrilleros qüelistas del Mundo de Harlan que se implantaron explosivos para suicidarse en los interrogatorios."
+    }
+   ]
+  },
+  {
+   "id": "manoderecha",
+   "name": "Mano Derecha de Dios",
+   "aliases": [
+    "Mano Derecha de Dios"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Facción de mártires de la pelea temática de la noche en el Rosa de Panamá."
+    },
+    {
+     "when": "e37",
+     "text": "Mano Derecha de Dios, grupo de mártires sharianos con sistemas Voluntad de Dios, de cuyo equipo es la funda de Kadmin."
+    }
+   ]
+  },
+  {
+   "id": "once",
+   "name": "Once de Shonagon",
+   "aliases": [
+    "Once de Shonagon"
+   ],
+   "summary": [
+    {
+     "when": "s39",
+     "text": "Banda juvenil de Newpest a la que Kovacs se unió a los dieciséis años."
+    }
+   ]
+  },
+  {
+   "id": "triadas",
+   "name": "tríadas",
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Grupos criminales de la Costa Oeste a los que Prescott soborna."
+    }
+   ]
+  },
+  {
+   "id": "yakuza",
+   "name": "yakuza",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Mafia japonesa."
+    },
+    {
+     "when": "e19",
+     "text": "Yakuza: en Newpest, las bandas callejeras tenían tratos con ella."
+    }
+   ]
+  },
+  {
+   "id": "guardiacostera",
+   "name": "Guardia Costera",
+   "aliases": [
+    "Guardia Costera"
+   ],
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Cuerpo que vigila la costa de Ciudad Bahía, que según una voz se lo toma con calma esa noche."
+    },
+    {
+     "when": "e18",
+     "text": "Guardia Costera, cuerpo que vigila la costa de Ciudad Bahía; fue quien pescó del mar a Mary Lou Hinchley."
+    }
+   ]
+  },
+  {
+   "id": "ordenpublico",
+   "name": "Cuerpo de Orden Público de la ONU",
+   "aliases": [
+    "Cuerpo de Orden Público de la ONU"
+   ],
+   "summary": [
+    {
+     "when": "s44",
+     "text": "Policías de negro de la ONU que mantienen el orden frente a los manifestantes de la Central."
+    }
+   ]
+  },
+  {
+   "id": "worldweb",
+   "name": "WorldWeb",
+   "aliases": [
+    "WorldWeb 1"
+   ],
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Cadena de medios con la que Ortega amenaza a Kadmin, que se divertiría con una grabación de brutalidad virtual."
+    }
+   ]
+  },
+  {
+   "id": "firstcolony",
+   "name": "First Colony Bank",
+   "aliases": [
+    "First Colony Bank"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Banco de California donde Kovacs tiene cuenta, que le permite pagar con su huella de ADN."
+    }
+   ]
+  },
+  {
+   "id": "brigadaq",
+   "name": "Brigada Conmemorativa Qüelista",
+   "aliases": [
+    "Brigada Conmemorativa Qüelista"
+   ],
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Unidad militar en la que, según rumores, sirvió Watanabe."
+    }
+   ]
+  },
+  {
+   "id": "tribunalsupremo",
+   "name": "Tribunal Supremo de la ONU",
+   "aliases": [
+    "Tribunal Supremo de la ONU"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Máxima instancia judicial de la ONU, presidida por Nalan Ertekin."
+    }
+   ]
+  },
+  {
+   "id": "comisiondh",
+   "name": "Comisión de Derechos Humanos",
+   "aliases": [
+    "Comisión de Derechos Humanos"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Organismo de la ONU al que pertenece Joseph Phiri."
+    }
+   ]
+  },
+  {
+   "id": "iracundos",
+   "name": "Iracundos e Inconexos",
+   "aliases": [
+    "Iracundos e Inconexos",
+    "Iracundos"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Grupo de gente furiosa y sin organización que envía amenazas a Bancroft, según Prescott."
+    }
+   ]
+  },
+  {
+   "id": "distribucion",
+   "name": "Distribución de Retransmisiones de Combate",
+   "aliases": [
+    "Distribución de Retransmisiones de Combate"
+   ],
+   "summary": [
+    {
+     "when": "s36",
+     "text": "Organización que vende los derechos de retransmisión de peleas, a la que pertenece Perm Ha Grip."
+    }
+   ]
+  },
+  {
+   "id": "pacificon",
+   "name": "Pacificon",
+   "summary": [
+    {
+     "when": "s5",
+     "text": "Empresa de explotaciones marítimas con sede en Japón, relacionada con la reunión de Bancroft en Osaka."
+    }
+   ]
+  },
+  {
+   "id": "syntheta",
+   "name": "Syntheta",
+   "aliases": [
+    "Fabrikon"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Syntheta y Fabrikon, empresas donde acudir si una funda sintética molesta."
+    }
+   ]
+  },
+  {
+   "id": "funda",
+   "name": "funda",
+   "aliases": [
+    "fundas"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Cuerpo en el que despierta una mente tras el almacenamiento; Kovacs nota que su funda nueva pesa demasiado."
+    },
+    {
+     "when": "e4",
+     "text": "Funda, cuerpo físico, vivo o sintético, que aloja una mente: un cambio de funda deja temblores y molestias hasta que el sistema nervioso se adapta."
+    },
+    {
+     "when": "e17",
+     "text": "Funda, cuerpo, vivo o sintético, que aloja la pila de una persona. La que lleva Kovacs pertenece a un policía almacenado llamado Elias Ryker."
+    }
+   ]
+  },
+  {
+   "id": "reenfundado",
+   "name": "reenfundado",
+   "aliases": [
+    "reenfundados",
+    "reenfundar",
+    "enfundado",
+    "enfundados"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Proceso de despertar en una funda nueva, como el que acaba de pasar Kovacs en una sala fría de la penitenciaría."
+    },
+    {
+     "when": "e8",
+     "text": "Reenfundado, la transferencia de la pila de una persona a una funda nueva o a un clon, con seguros que lo pagan; quien no tiene póliza tarda en volver."
+    }
+   ]
+  },
+  {
+   "id": "pila",
+   "name": "pila cortical",
+   "aliases": [
+    "pila cortical",
+    "pila",
+    "pilas"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Pila cortical, dispositivo de la nuca ligado al almacenamiento de una persona."
+    },
+    {
+     "when": "e7",
+     "text": "Pila cortical, dispositivo del tamaño de una colilla, en la nuca, que contiene la conciencia de una persona y se extrae para reenfundarla."
+    },
+    {
+     "when": "e16",
+     "text": "Pila cortical, dispositivo de la nuca con la conciencia de una persona. Con ella intacta se puede reenfundar a alguien; si la pila se quema, es la muerte real."
+    }
+   ]
+  },
+  {
+   "id": "almacenamiento",
+   "name": "almacenamiento",
+   "aliases": [
+    "almacenado",
+    "almacenados",
+    "almacenar",
+    "almacenarán",
+    "almacenan"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Estado en que se guarda a una persona, sin vivir, hasta que la despiertan: el castigo penitenciario y también la espera del reenfundado."
+    },
+    {
+     "when": "e7",
+     "text": "Almacenamiento, estado de suspensión de una pila usado como castigo penitenciario o como espera hasta el reenfundado."
+    }
+   ]
+  },
+  {
+   "id": "muertereal",
+   "name": "muerte real",
+   "aliases": [
+    "muerte real",
+    "eme erre"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Muerte definitiva, sin vuelta atrás: Bancroft dice haberla sufrido en dos de sus hijos."
+    },
+    {
+     "when": "e7",
+     "text": "Muerte real: la que destruye la pila; el borrado, castigo que la causa, está abolido en el Mundo de Harlan."
+    },
+    {
+     "when": "e16",
+     "text": "Muerte real, la destrucción definitiva de la pila de una persona, sin reenfundado posible; el borrado es el castigo que la causa."
+    }
+   ]
+  },
+  {
+   "id": "catolicos",
+   "name": "católicos",
+   "aliases": [
+    "católico",
+    "católica"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Los católicos, para quienes una persona almacenada ya está muerta; Ortega los odia."
+    },
+    {
+     "when": "e16",
+     "text": "Católicos, creyentes a quienes su religión prohíbe volver tras la muerte; por eso, quien los tortura o mata los borra de verdad, como a Louise."
+    },
+    {
+     "when": "e30",
+     "text": "Católicos, creyentes que se niegan a ser reenfundados; los buscan como víctimas de snuff porque luego no pueden contarlo, por razones de conciencia."
+    }
+   ]
+  },
+  {
+   "id": "matu",
+   "name": "matu",
+   "aliases": [
+    "matus",
+    "Matusalén"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Matu, apodo, por Matusalén, de las personas riquísimas y longevas, como los Bancroft."
+    },
+    {
+     "when": "e17",
+     "text": "Matu, persona de siglos de edad y gran riqueza que se mueve fuera de la ley; Kovacs usa la palabra con rencor."
+    }
+   ]
+  },
+  {
+   "id": "copiaseguridad",
+   "name": "copia de seguridad remota",
+   "aliases": [
+    "copia de seguridad remota",
+    "copia de seguridad"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Copia de la conciencia, actualizada cada cuarenta y ocho horas por transmisión de aguja a una pila blindada, que permite a Bancroft volver tras una muerte violenta."
+    }
+   ]
+  },
+  {
+   "id": "agujas",
+   "name": "transmisión de aguja",
+   "aliases": [
+    "transmisión de aguja",
+    "transmisiones de aguja",
+    "transmisión hiperespacial de aguja",
+    "transmisión interestelar de aguja",
+    "transmisiones interestelares de aguja",
+    "transmisión urgente de aguja",
+    "aguja"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Transmisión interestelar de aguja: envío casi instantáneo de una conciencia entre mundos, lo que permitió a Kovacs llegar a la Tierra."
+    },
+    {
+     "when": "e11",
+     "text": "Transmisión de aguja, comunicación por hiperespacio muy cara con que se envía información o una mente entre planetas."
+    }
+   ]
+  },
+  {
+   "id": "clon",
+   "name": "clon",
+   "aliases": [
+    "clones"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Cuerpo cultivado de repuesto que guardan Bancroft y su familia para reenfundarse."
+    }
+   ]
+  },
+  {
+   "id": "bancoclones",
+   "name": "banco de clones",
+   "aliases": [
+    "banco de clones"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Instalación de una aseguradora donde se guardan copias de cuerpos para reenfundar a los asegurados."
+    }
+   ]
+  },
+  {
+   "id": "cripta",
+   "name": "cripta",
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Sala elíptica y de bóveda de PsychaSec donde duermen los clones de los Bancroft, protegida con limpieza ultrasónica."
+    }
+   ]
+  },
+  {
+   "id": "psicocirugia",
+   "name": "psicocirugía",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Tratamiento al que acude Naomi tras encontrar el cadáver de su padre."
+    },
+    {
+     "when": "e13",
+     "text": "Psicocirugía, tratamiento para borrar el trauma de una pila, usado tras torturas y matanzas."
+    }
+   ]
+  },
+  {
+   "id": "cronochip",
+   "name": "cronochip",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Reloj interno de una persona, que Bancroft comprobó antes de morir, para la policía otro indicio del suicidio."
+    }
+   ]
+  },
+  {
+   "id": "hd",
+   "name": "h. d.",
+   "aliases": [
+    "h. d.",
+    "h. d. f."
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Siglas «h. d.» tras el nombre de Kovacs: indican que es una persona digitalizada, almacenada y enviada como datos entre mundos."
+    }
+   ]
+  },
+  {
+   "id": "tanquedec",
+   "name": "tanque de decantación",
+   "aliases": [
+    "tanque de decantación",
+    "tanques de decantación",
+    "gel de flotación"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Tanque de gel de flotación donde se despierta tras el reenfundado."
+    },
+    {
+     "when": "e20",
+     "text": "Tanque de decantación, contenedor líquido donde se preparan y activan las fundas."
+    }
+   ]
+  },
+  {
+   "id": "sintetico",
+   "name": "funda sintética",
+   "aliases": [
+    "funda sintética",
+    "fundas sintéticas",
+    "sintético",
+    "sintética",
+    "sintéticos",
+    "sintéticas"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Funda sintética, cuerpo artificial barato que se usa en las vistas de condicional y en el que se vive 'como solo en una casa'."
+    },
+    {
+     "when": "e13",
+     "text": "Funda sintética, cuerpo artificial; el tipo más barato carece de expresividad en la cara hasta que despiertan los músculos pequeños."
+    }
+   ]
+  },
+  {
+   "id": "tecnobio",
+   "name": "tecnobioquímica",
+   "summary": [
+    {
+     "when": "s11",
+     "text": "Funda de alta gama como la de Miriam Bancroft, que segrega drogas sexuales como la fusión nueve."
+    }
+   ]
+  },
+  {
+   "id": "dobleenfundado",
+   "name": "enfundado doble",
+   "aliases": [
+    "enfundado múltiple",
+    "enfundado simultáneo",
+    "enfundado doble"
+   ],
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Enfundado simultáneo: tener dos fundas con la misma pila a la vez, delito que Ortega imputa a Kadmin."
+    },
+    {
+     "when": "e39",
+     "text": "Enfundado doble, uso ilegal de dos copias de una misma persona a la vez; Kovacs se divide así en una copia en la funda de Ryker y otra en una de ninja, y a las ocho horas ya difieren."
+    },
+    {
+     "when": "e43",
+     "text": "Enfundado doble, delito por el que Kovacs tuvo dos copias; las dos jugaron a piedra, papel o tijera para decidir cuál sobrevivía y la ONU no autorizó un tercer enfundado."
+    }
+   ]
+  },
+  {
+   "id": "copiaryker",
+   "name": "copia Ryker",
+   "aliases": [
+    "copia Ryker",
+    "copia ninja"
+   ],
+   "summary": [
+    {
+     "when": "s39",
+     "text": "Copia de Kovacs que lleva la funda de Ryker, al lado de la que viste la funda de ninja."
+    },
+    {
+     "when": "e43",
+     "text": "Copias de Kovacs: la que usaba la funda de Ryker y la que usaba la de ninja. Se jugaron a piedra, papel o tijera cuál viviría; la de Ryker perdió y fue borrada."
+    }
+   ]
+  },
+  {
+   "id": "neuraquimicos",
+   "name": "neuraquímicos",
+   "aliases": [
+    "neuraquímico",
+    "condicionamiento de emisario",
+    "condicionamiento neuraquímico"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Mejoras militares del sistema nervioso de una funda; a Kovacs, que ya las tuvo, le empiezan a despertar."
+    },
+    {
+     "when": "e10",
+     "text": "Neuraquímicos y condicionamiento de emisario: mejoras químicas y mentales de los emisarios para ver en penumbra, calcular con precisión y resistir el dolor y la añoranza."
+    }
+   ]
+  },
+  {
+   "id": "khumalo",
+   "name": "Khumalo",
+   "aliases": [
+    "sistema Khumalo"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Sistema neuraquímico de control de fundas, patentado por Cape Neuronics, del que habla Carnage."
+    },
+    {
+     "when": "e40",
+     "text": "Khumalo, sistema neuraquímico de combate de fundas de ninja, con huesos de aleación de médula y tendones de carbono, que Kovacs usa con dificultad."
+    }
+   ]
+  },
+  {
+   "id": "intuicion",
+   "name": "intuición de emisario",
+   "aliases": [
+    "intuición de emisario"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Intuición de emisario: reconocimiento de patrones que a Kovacs le falla con la funda nueva."
+    },
+    {
+     "when": "e30",
+     "text": "Intuición de emisario, capacidad potenciada de ver la totalidad de una situación y sus patrones ocultos."
+    }
+   ]
+  },
+  {
+   "id": "betatanatina",
+   "name": "betatanatina",
+   "aliases": [
+    "tanatina",
+    "fiambre"
+   ],
+   "summary": [
+    {
+     "when": "s6",
+     "text": "Droga del lujo que se consume en experiencias cercanas a la muerte, conocida como fiambre y prohibida en el Mundo de Harlan."
+    },
+    {
+     "when": "e12",
+     "text": "Betatanatina (fiambre), droga militar que da indiferencia emocional y claridad mental y enfría el cuerpo, hasta el punto de paralizar."
+    }
+   ]
+  },
+  {
+   "id": "segador",
+   "name": "segador",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Estimulante militar de control molecular, hermano de la betatanatina; un monje del Sueño de Godwin ciego de segador podría quemar un poblado sin inmutarse."
+    },
+    {
+     "when": "e41",
+     "text": "Segador, droga que baja la temperatura corporal y despeja la mente; Kovacs la usa con parches dérmicos para infiltrarse."
+    }
+   ]
+  },
+  {
+   "id": "tetranfeta",
+   "name": "tetranfeta",
+   "aliases": [
+    "tetra"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Droga que da fuerza y velocidad y que el narrador tomó en los muelles de Millsport."
+    }
+   ]
+  },
+  {
+   "id": "tetrameta",
+   "name": "tetrameta",
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Droga de fiesta que Kovacs menciona al describir el ambiente de un local ruidoso."
+    },
+    {
+     "when": "e19",
+     "text": "Tetrameta, droga de la adolescencia de Kovacs, que le hacía brillar los ojos en Newpest."
+    },
+    {
+     "when": "e23",
+     "text": "Tetrameta, droga con la que se pagó a unos matones a sueldo en Chinatown."
+    }
+   ]
+  },
+  {
+   "id": "fusionnueve",
+   "name": "fusión nueve",
+   "aliases": [
+    "fusión nueve"
+   ],
+   "summary": [
+    {
+     "when": "s11",
+     "text": "Droga sexual derivada de la empatina, combinada con satirona y ghedina, que segrega la funda de Miriam Bancroft."
+    },
+    {
+     "when": "e12",
+     "text": "Fusión nueve, droga que aumenta la cohesión y la excitación; deja a Kovacs con una resaca horrible."
+    }
+   ]
+  },
+  {
+   "id": "empatina",
+   "name": "empatina",
+   "summary": [
+    {
+     "when": "s11",
+     "text": "Sustancia que despierta instintos telepáticos entre dos personas; base de la fusión nueve."
+    }
+   ]
+  },
+  {
+   "id": "sinamor",
+   "name": "sinamorfesterona",
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Droga de harén que estimula la agresividad y el rendimiento sexual, mencionada en una conversación sobre Curtis."
+    },
+    {
+     "when": "e43",
+     "text": "Sinamorfesterona, droga de harén que Sheryl Bostock inyectó al clon de Bancroft; en ese estado, el hombre mató a Marla Rentang y luego se suicidó."
+    }
+   ]
+  },
+  {
+   "id": "letinol",
+   "name": "letinol",
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Medicamento que se da a Ortega para la conmoción."
+    }
+   ]
+  },
+  {
+   "id": "experia",
+   "name": "experia",
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Entretenimiento en realidad virtual o simulación, con actores como Alain Marriott."
+    }
+   ]
+  },
+  {
+   "id": "memoclips",
+   "name": "memoclips",
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Instantes de pensamiento o recuerdos de personas famosas que se obtienen ilegalmente de satélites de comunicaciones."
+    }
+   ]
+  },
+  {
+   "id": "bucear",
+   "name": "bucear",
+   "aliases": [
+    "buceo",
+    "buceados",
+    "buzo",
+    "buzos",
+    "chupadatos"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Bucear: muestrear ilegalmente señales de satélites para obtener memoclips; un chupadatos es quien trabaja con datos."
+    },
+    {
+     "when": "e31",
+     "text": "Bucear: entrar a la fuerza en pilas y transmisiones ajenas; un buzo es el hacker que lo hace, como Irene Elliott."
+    }
+   ]
+  },
+  {
+   "id": "kodakristal",
+   "name": "kodakristal",
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Dispositivo pequeño que proyecta un diminuto cubo de imagen en el aire."
+    }
+   ]
+  },
+  {
+   "id": "publitransmisor",
+   "name": "publitransmisor",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Aparato que emite publicidad directamente en la mente del transeúnte; un vendedor callejero lo usa con Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "biocabina",
+   "name": "biocabina",
+   "aliases": [
+    "biocabinas"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Locales de trabajo sexual con cabinas de cristal y consolas de crédito."
+    }
+   ]
+  },
+  {
+   "id": "autotaxi",
+   "name": "autotaxi",
+   "aliases": [
+    "autotaxis"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Vehículo volador automático de transporte público."
+    }
+   ]
+  },
+  {
+   "id": "microcoptero",
+   "name": "microcóptero",
+   "summary": [
+    {
+     "when": "s34",
+     "text": "Aparato volador antiguo, excedente del Ejército, de veinte años, sin acceso a la red de tráfico."
+    }
+   ]
+  },
+  {
+   "id": "arnes",
+   "name": "arnés gravitatorio",
+   "aliases": [
+    "arnés gravitatorio",
+    "arnés"
+   ],
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Equipo que permite volar y aterrizar suavemente; Trepp lo usa en el Rosa de Panamá."
+    }
+   ]
+  },
+  {
+   "id": "hipnofonos",
+   "name": "hipnófonos",
+   "aliases": [
+    "hipnófono"
+   ],
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Electrodos que inducen estados mentales para entrar en un entorno virtual."
+    }
+   ]
+  },
+  {
+   "id": "entornovirtual",
+   "name": "entorno virtual",
+   "aliases": [
+    "entorno virtual",
+    "entornos virtuales",
+    "simulación"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Espacio digital que se usa para tortura, psicocirugía o reuniones, donde el tiempo subjetivo puede ir mucho más rápido."
+    },
+    {
+     "when": "e18",
+     "text": "Entorno virtual, simulación digital en la que se interroga, se tortura o se prepara un asalto; el tiempo subjetivo corre mucho más deprisa que el real."
+    }
+   ]
+  },
+  {
+   "id": "simulacro",
+   "name": "simulacro",
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Copia virtual de Kawahara que da instrucciones a Kovacs desde un disco negro."
+    },
+    {
+     "when": "e35",
+     "text": "Copia virtual de la conciencia de Kovacs que el Hendrix instala para interrogar a Miller."
+    }
+   ]
+  },
+  {
+   "id": "forosch",
+   "name": "foros de Chinatown",
+   "aliases": [
+    "foros de Chinatown"
+   ],
+   "summary": [
+    {
+     "when": "s22",
+     "text": "Servicio de foros virtuales baratos y seguros donde se alquila tiempo para reuniones."
+    }
+   ]
+  },
+  {
+   "id": "hierba",
+   "name": "hierba mártir",
+   "aliases": [
+    "hierba mártir"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Planta de seguridad de hojas en forma de mano y mancha carmesí, que Nakamura adaptó para interior."
+    },
+    {
+     "when": "e43",
+     "text": "Hierba mártir, planta de seguridad del invernadero de la Mansión del Sol que reproduce los ecos de las voces."
+    }
+   ]
+  },
+  {
+   "id": "espira",
+   "name": "espira cantante",
+   "aliases": [
+    "espira cantante"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Árbol de arenisca roja de Marte que emite música y perfume, en la galería de la Mansión del Sol."
+    }
+   ]
+  },
+  {
+   "id": "maderaespejo",
+   "name": "madera espejo",
+   "aliases": [
+    "madera espejo",
+    "árbol espejo"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Madera de cultivo genético usada en muebles de lujo, procedente del Mundo de Harlan."
+    }
+   ]
+  },
+  {
+   "id": "belahierba",
+   "name": "belahierba",
+   "aliases": [
+    "belalgodón"
+   ],
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Planta marina del Mundo de Harlan cuyo olor echa de menos Kovacs en una playa de la Tierra."
+    },
+    {
+     "when": "e23",
+     "text": "Belahierba: planta marina del Mundo de Harlan de la que se saca el belalgodón, un tejido; Newpest era la capital de la industria."
+    }
+   ]
+  },
+  {
+   "id": "onudolar",
+   "name": "onudólares",
+   "aliases": [
+    "dólares ONU"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Moneda segura aceptada en todos los mundos del Protectorado."
+    }
+   ]
+  },
+  {
+   "id": "adn",
+   "name": "ADN",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Ácido desoxirribonucleico, la molécula que lleva la información genética."
+    },
+    {
+     "when": "e6",
+     "text": "ADN: en la Tierra, la huella genética sirve para pagar, y Kovacs paga el hotel con saliva en un sensor."
+    }
+   ]
+  },
+  {
+   "id": "polygrumo",
+   "name": "poligrumo",
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Material de construcción de las cabinas de interrogatorio y de las cabañas de un campamento."
+    }
+   ]
+  },
+  {
+   "id": "autocirujano",
+   "name": "autocirujano",
+   "summary": [
+    {
+     "when": "s15",
+     "text": "Máquina quirúrgica automática en forma de araña, programada para operar; está en el quirófano donde despierta Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "mandroide",
+   "name": "mandroide",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Robot humanoide de fotorreceptores verdes que atiende en una armería."
+    }
+   ]
+  },
+  {
+   "id": "tanquearana",
+   "name": "tanque araña",
+   "aliases": [
+    "tanque araña",
+    "tanques araña"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Vehículo militar shariano con detectores de personas; Kovacs combatió en Sharia entre ellos."
+    }
+   ]
+  },
+  {
+   "id": "filamento",
+   "name": "filamento de rastreo",
+   "aliases": [
+    "filamento de rastreo"
+   ],
+   "summary": [
+    {
+     "when": "s41",
+     "text": "Dispositivo subcutáneo que sirve para localizar a una persona."
+    }
+   ]
+  },
+  {
+   "id": "localizador",
+   "name": "localizador",
+   "aliases": [
+    "localizador de red virtual"
+   ],
+   "summary": [
+    {
+     "when": "s18",
+     "text": "Pequeño localizador que Ortega puso en la chaqueta de Kovacs."
+    },
+    {
+     "when": "e24",
+     "text": "Localizador de red virtual, dispositivo implantado en la pila de Kovacs para rastrear su posición; una doctora le da un disco para anularlo."
+    }
+   ]
+  },
+  {
+   "id": "ellis",
+   "name": "maqueta Ellis",
+   "aliases": [
+    "maqueta Ellis"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Herramienta que detecta traumas en una mente digitalizada."
+    }
+   ]
+  },
+  {
+   "id": "improntas",
+   "name": "improntas",
+   "aliases": [
+    "razones de conciencia"
+   ],
+   "summary": [
+    {
+     "when": "s8",
+     "text": "Marcas que se graban en una pila: improntas rojas que dicen AGENTE INFECCIOSO sellan el disco de Jimmy de Soto."
+    },
+    {
+     "when": "e18",
+     "text": "Improntas de «razones de conciencia», marcas en la pila que identifican a un católico y prohíben reenfundarlo; se pueden falsificar."
+    }
+   ]
+  },
+  {
+   "id": "rawling",
+   "name": "virus Rawling",
+   "aliases": [
+    "virus Rawling",
+    "Rawling",
+    "Rawling 4851"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Virus militar antiguo que tarda cien minutos en actuar y contamina la pila; Kovacs planea usarlo con Kawahara."
+    },
+    {
+     "when": "e33",
+     "text": "Rawling 4851, virus de primera generación que devora el intelecto de una máquina y se castiga con borrado; Kovacs lo usa para fingir el suicidio de Bancroft."
+    },
+    {
+     "when": "e42",
+     "text": "Rawling 4851, virus militar con el que Kovacs y Irene Elliott infectaron el almacenamiento remoto de Kawahara, impidiendo que pudiera reenfundarse."
+    }
+   ]
+  },
+  {
+   "id": "pistolaagujas",
+   "name": "pistola de agujas",
+   "aliases": [
+    "pistola de agujas",
+    "pistola de agujas Heckler&Koch"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Arma de asesino, compacta y silenciosa, con cargadores marcados con cinta: verde los somníferos, negro el veneno de araña."
+    }
+   ]
+  },
+  {
+   "id": "heckler",
+   "name": "Heckler&Koch",
+   "aliases": [
+    "Heckler",
+    "Koch"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Fabricante alemán de armas."
+    }
+   ]
+  },
+  {
+   "id": "smith",
+   "name": "Smith & Wesson",
+   "aliases": [
+    "Smith & Wesson",
+    "Wesson",
+    "Smith"
+   ],
+   "summary": [
+    {
+     "when": 0,
+     "text": "Fabricante estadounidense de armas."
+    }
+   ]
+  },
+  {
+   "id": "kalashnikov",
+   "name": "kalashnikov",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Fusil de asalto de diseño ruso, famoso por su retroceso en fuego rápido."
+    }
+   ]
+  },
+  {
+   "id": "particulas",
+   "name": "pistola de partículas",
+   "aliases": [
+    "pistola de partículas",
+    "proyector de partículas",
+    "proyectores de partículas"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Arma de rayos que dispara energía y quema la carne; mató a Bancroft, según la policía."
+    }
+   ]
+  },
+  {
+   "id": "nemex",
+   "name": "Nemex",
+   "aliases": [
+    "Nemesis X"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Pistola potente y precisa con munición de proyectiles que Kovacs compra en Larkin & Green."
+    }
+   ]
+  },
+  {
+   "id": "philips",
+   "name": "Philips",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Perforadora silenciosa con acelerador electromagnético que Kovacs compra en la armería."
+    }
+   ]
+  },
+  {
+   "id": "sunjet",
+   "name": "Sunjet",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Pistola compacta de rayos con interruptor de carga, que usa la mujer asaltante en el foro de Chinatown."
+    }
+   ]
+  },
+  {
+   "id": "tebbit",
+   "name": "Tebbit",
+   "aliases": [
+    "cuchillo Tebbit"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Cuchillo de acero con tantalio, con vaina de resorte neuronal, que Sheila Sorenson vende a Kovacs."
+    },
+    {
+     "when": "e42",
+     "text": "Cuchillo Tebbit, que se desenvaina de la vaina de disparo neuronal y lleva C-381, un cianuro; Kovacs lo usa contra Kawahara."
+    }
+   ]
+  },
+  {
+   "id": "c381",
+   "name": "C-381",
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Compuesto de cianuro que se une a la hemoglobina, con el que se recubre el cuchillo Tebbit."
+    }
+   ]
+  },
+  {
+   "id": "aturdidora",
+   "name": "aturdidora",
+   "aliases": [
+    "pistola aturdidora"
+   ],
+   "summary": [
+    {
+     "when": "s35",
+     "text": "Arma que lanza una descarga eléctrica para aturdir; con la dispersión máxima despeja una habitación."
+    },
+    {
+     "when": "e41",
+     "text": "Aturdidora: arma de dispersión máxima que limpia una habitación de adversarios de un solo disparo."
+    }
+   ]
+  },
+  {
+   "id": "fragmentacion",
+   "name": "fusil de fragmentación",
+   "aliases": [
+    "fusil de fragmentación"
+   ],
+   "summary": [
+    {
+     "when": "s37",
+     "text": "Arma de fuego pesada que Trepp usa para disparar a los espectadores desde la galería."
+    }
+   ]
+  },
+  {
+   "id": "microgranadas",
+   "name": "microgranadas de termita",
+   "aliases": [
+    "microgranadas de termita",
+    "microgranada de termita",
+    "microgranadas"
+   ],
+   "summary": [
+    {
+     "when": "s41",
+     "text": "Explosivos pequeños de termita, como discos de datos; con la espoleta corta, concentran la energía en lo que tocan."
+    }
+   ]
+  },
+  {
+   "id": "voluntad",
+   "name": "Voluntad de Dios",
+   "aliases": [
+    "Voluntad de Dios"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Sistema de respuesta mejorada usado por la funda de mártir del Rosa de Panamá."
+    },
+    {
+     "when": "e37",
+     "text": "Voluntad de Dios, sistema biomecánico de combate que usan los mártires sharianos, también Kadmin."
+    }
+   ]
+  },
+  {
+   "id": "vibranul",
+   "name": "cabina de vibranul",
+   "aliases": [
+    "cabina de vibranul"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Dispositivo de seguridad comparable a un invernadero de hierba mártir."
+    }
+   ]
+  },
+  {
+   "id": "res653",
+   "name": "Resolución 653",
+   "aliases": [
+    "Resolución 653",
+    "resolución 653",
+    "proposición 653"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Decisión que podría sentar jurisprudencia en el tribunal de la ONU y que enfurece a Ortega y a una manifestación."
+    },
+    {
+     "when": "e17",
+     "text": "Resolución 653, decisión de la ONU que obligaría a declarar a los católicos almacenados; Ertekin y Phiri han venido por ella."
+    },
+    {
+     "when": "e42",
+     "text": "Resolución 653, propuesta de la ONU que haría declarar a los católicos almacenados; su aprobación amenazaba a Kawahara, a La Cabeza en las Nubes y a quienes tenían algo que perder."
+    }
+   ]
+  },
+  {
+   "id": "codigocivil",
+   "name": "Código Civil de la ONU",
+   "aliases": [
+    "Código Civil de la ONU"
+   ],
+   "summary": [
+    {
+     "when": "s34",
+     "text": "Marco legal que limita la independencia de las inteligencias sintéticas."
+    }
+   ]
+  },
+  {
+   "id": "ayuda",
+   "name": "Ayuda a las Víctimas",
+   "aliases": [
+    "Ayuda a las Víctimas"
+   ],
+   "summary": [
+    {
+     "when": "s13",
+     "text": "Subvención estatal que cubriría el reenfundado de las víctimas, que Kovacs duda que exista en la Tierra."
+    }
+   ]
+  },
+  {
+   "id": "qüelista",
+   "name": "qüelista",
+   "aliases": [
+    "qüelistas"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Qüelista: partidario de las ideas de Quell; en una película, un filósofo viril y rebelde."
+    },
+    {
+     "when": "e17",
+     "text": "Qüelista, seguidor de Quellcrist Falconer y de la revolución del Mundo de Harlan; Kovacs se considera uno a veces, y mala idea decirlo ante un ejecutivo de la ONU."
+    }
+   ]
+  },
+  {
+   "id": "colonizacion",
+   "name": "Colonización",
+   "aliases": [
+    "guerras de Colonización"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Periodo histórico de la expansión humana, que da nombre a las películas de la época de la Colonización."
+    }
+   ]
+  },
+  {
+   "id": "descolonizacion",
+   "name": "Descolonización",
+   "aliases": [
+    "Descoloniación"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Descoloniación, nombre humorístico en el Mundo de Harlan del periodo de guerrillas qüelistas."
+    },
+    {
+     "when": "e23",
+     "text": "Descolonización, periodo de lucha qüelista del Mundo de Harlan contra la colonización, que desestabilizó la industria del belalgodón."
+    }
+   ]
+  },
+  {
+   "id": "diacomprension",
+   "name": "Día de la Comprensión",
+   "aliases": [
+    "Día de la Comprensión"
+   ],
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Fecha en que las ballenas empezaron a hablar con los humanos, según un chiste de Ortega: ella nació ese día."
+    }
+   ]
+  },
+  {
+   "id": "marcianos",
+   "name": "marcianos",
+   "aliases": [
+    "marcianas"
+   ],
+   "summary": [
+    {
+     "when": "s19",
+     "text": "Marcianos: antigua civilización que habitó Marte y dejó ruinas, de la que se cuentan teorías políticas oficiales sobre una guerra civil."
+    }
+   ]
+  },
+  {
+   "id": "tengu",
+   "name": "tengu",
+   "summary": [
+    {
+     "when": "s23",
+     "text": "Espíritu revoltoso del panteón harlanita, protagonista del cuento de Ludmila."
+    }
+   ]
+  },
+  {
+   "id": "retales",
+   "name": "Hombre de Retales",
+   "aliases": [
+    "Hombre de Retales",
+    "Retales"
+   ],
+   "summary": [
+    {
+     "when": "s14",
+     "text": "Figura de miedo de los niños de Newpest, con que Kovacs compara la amenaza del Cuerpo."
+    },
+    {
+     "when": "e18",
+     "text": "Hombre de Retales, figura de miedo de Newpest. En el interrogatorio virtual, Kadmin se presenta con un aspecto remendado de fundas distintas, y Ortega lo llama así."
+    },
+    {
+     "when": "e23",
+     "text": "Hombre de Retales: monstruo de cuento de Newpest, un cuerpo cosido con restos de niños y animado por un tengu; Kovacs lo asocia con Kadmin."
+    }
+   ]
+  },
+  {
+   "id": "credo",
+   "name": "Credo de Pureza",
+   "aliases": [
+    "Credo de Pureza",
+    "Credo"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Norma no escrita según la cual una pelea solo vale si se ve en vivo."
+    },
+    {
+     "when": "e36",
+     "text": "Credo, norma que prohíbe retransmitir combates programados; solo una pelea de humillación, no planeada, lo permite."
+    }
+   ]
+  },
+  {
+   "id": "caballoastado",
+   "name": "Caballo Astado",
+   "aliases": [
+    "Caballo Astado"
+   ],
+   "summary": [
+    {
+     "when": "s27",
+     "text": "Constelación que Kovacs busca en un cielo estrellado."
+    }
+   ]
+  },
+  {
+   "id": "keiretsu",
+   "name": "keiretsu",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Conglomerado empresarial japonés, formado por empresas que se apoyan entre sí."
+    }
+   ]
+  },
+  {
+   "id": "amanglico",
+   "name": "amánglico",
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Lengua común del Mundo de Harlan y de otros mundos; Sullivan pronuncia mal el apellido de Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "teatrocorporal",
+   "name": "teatro corporal integral",
+   "aliases": [
+    "teatro corporal integral"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Forma de arte físico, al estilo de las gimnastas, de la que son figuras Anchana Salomão y Rhian Li."
+    }
+   ]
+  },
+  {
+   "id": "empatista",
+   "name": "empatista",
+   "aliases": [
+    "empatistas"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Escuela artística de la que son las obras de la galería de la Mansión del Sol."
+    }
+   ]
+  },
+  {
+   "id": "kemmerich",
+   "name": "gradiente Kemmerich",
+   "aliases": [
+    "gradiente Kemmerich",
+    "Kemmerich"
+   ],
+   "summary": [
+    {
+     "when": "s11",
+     "text": "Medida psicológica de Kovacs en los informes de Millsport, extremadamente alta."
+    }
+   ]
+  },
+  {
+   "id": "aguador",
+   "name": "aguador",
+   "aliases": [
+    "aguadora"
+   ],
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Aguadores: matones de banda de Ciudad Fisión que obligaban a beber agua contaminada como castigo; Kawahara lo fue de niña."
+    }
+   ]
+  },
+  {
+   "id": "snuff",
+   "name": "snuff",
+   "summary": [
+    {
+     "when": "s30",
+     "text": "Snuff: prácticas de tortura y asesinato reales para clientes, que a veces se hacen virtuales para evitar condenas."
+    }
+   ]
+  },
+  {
+   "id": "sia",
+   "name": "sía",
+   "aliases": [
+    "sías"
+   ],
+   "summary": [
+    {
+     "when": "s10",
+     "text": "Sía: jerga para policía."
+    }
+   ]
+  },
+  {
+   "id": "hombrequeleia",
+   "name": "Varón Competente",
+   "aliases": [
+    "Varón Competente"
+   ],
+   "summary": [
+    {
+     "when": "s16",
+     "text": "Tipo de aspecto atractivo y anodino de moda ese año, producto de salones de belleza caros."
+    }
+   ]
+  },
+  {
+   "id": "ramen",
+   "name": "ramen",
+   "summary": [
+    {
+     "when": 0,
+     "text": "Sopa japonesa de fideos."
+    }
+   ]
+  },
+  {
+   "id": "cresta",
+   "name": "crestas",
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Crestas: policías de uniforme que acompañan a Ortega."
+    }
+   ]
+  },
+  {
+   "id": "salomao",
+   "name": "Anchana Salomão",
+   "aliases": [
+    "Salomão",
+    "Anchana"
+   ],
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Artista de teatro corporal integral cuyo rostro holográfico, en los troncos de las palmeras de Ascuas, anuncia un espectáculo en Río."
+    },
+    {
+     "when": "e44",
+     "text": "Anchana Salomão, artista de teatro corporal integral de Río. Su rostro holográfico, símbolo del paseo de Ascuas, ha sido retirado, y la calle queda desolada."
+    }
+   ]
+  },
+  {
+   "id": "rhianli",
+   "name": "Rhian Li",
+   "summary": [
+    {
+     "when": "s9",
+     "text": "Artista de teatro corporal integral, a quien Elliott compara con su hija Elizabeth."
+    }
+   ]
+  },
+  {
+   "id": "carbonomod",
+   "name": "carbono modificado",
+   "aliases": [
+    "carbono modificado",
+    "exilio de carbono modificado"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Carbono modificado: nombre que da el narrador al exilio del almacenamiento, en el que esperan los familiares de los almacenados."
+    }
+   ]
+  },
+  {
+   "id": "centraldescargas",
+   "name": "Central de Descargas",
+   "aliases": [
+    "Central de Descargas"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Estación donde los familiares esperan a que sus allegados salgan del almacenamiento; a Kovacs le recuerda a una estación de Millsport."
+    }
+   ]
+  },
+  {
+   "id": "crionaves",
+   "name": "crionaves",
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Naves de larga duración financiadas por el Vaticano, a bordo de las cuales viajan los católicos para huir de las descargas; tardan al menos veinte años en llegar."
+    }
+   ]
+  },
+  {
+   "id": "arrendamiento",
+   "name": "régimen de arrendamiento",
+   "aliases": [
+    "régimen de arrendamiento",
+    "arrendamiento"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Régimen en el que un preso es liberado temporalmente a las órdenes de un tercero; Kovacs queda arrendado seis semanas."
+    }
+   ]
+  },
+  {
+   "id": "fletar",
+   "name": "fletado",
+   "aliases": [
+    "fletado",
+    "flete"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Fletado: enviado como datos entre mundos por transmisión de aguja, como Kovacs desde el Mundo de Harlan."
+    }
+   ]
+  },
+  {
+   "id": "resplandor",
+   "name": "sistema Resplandor",
+   "aliases": [
+    "sistema Resplandor"
+   ],
+   "summary": [
+    {
+     "when": "s2",
+     "text": "Sistema estelar cuya única biosfera habitable es el Mundo de Harlan."
+    }
+   ]
+  },
+  {
+   "id": "policiacb",
+   "name": "Policía de Ciudad Bahía",
+   "aliases": [
+    "Policía de Ciudad Bahía",
+    "policía de Ciudad Bahía"
+   ],
+   "summary": [
+    {
+     "when": "s3",
+     "text": "Fuerza policial local de la Tierra, con crestas de uniforme, que acoge a Ortega."
+    }
+   ]
+  },
+  {
+   "id": "godwin",
+   "name": "Sueño de Godwin",
+   "aliases": [
+    "Sueño de Godwin",
+    "Godwin"
+   ],
+   "summary": [
+    {
+     "when": "s12",
+     "text": "Orden contemplativa cuyos monjes de clausura, ciegos de segador, serían capaces de quemar un poblado sin sentir nada."
+    }
+   ]
+  },
+  {
+   "id": "bichitos",
+   "name": "Bichitos Azules",
+   "aliases": [
+    "Bichitos Azules"
+   ],
+   "summary": [
+    {
+     "when": "s11",
+     "text": "Banda de ladrones amiga de Virginia Vidaura, en un recuerdo de Kovacs."
+    }
+   ]
+  },
+  {
+   "id": "hombreleia",
+   "name": "Hombre Que Leía",
+   "aliases": [
+    "Hombre Que Leía"
+   ],
+   "summary": [
+    {
+     "when": "s4",
+     "text": "Tipo de personaje del cine de la Colonización con el que Kovacs compara a Bancroft: elegante, esbelto y filósofo."
+    }
+   ]
+  },
+  {
+   "id": "emmerson",
+   "name": "serie Emmerson",
+   "aliases": [
+    "serie Emmerson",
+    "Emmerson"
+   ],
+   "summary": [
+    {
+     "when": "s35",
+     "text": "Modelo de inteligencia sintética de la que forma parte el Hendrix."
+    }
+   ]
+  },
+  {
+   "id": "simultec",
+   "name": "Simultec",
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Virus de primera generación, artículo de coleccionista, del que la copia inactiva se parece al Rawling."
+    }
+   ]
+  },
+  {
+   "id": "granborrado",
+   "name": "Gran Borrado",
+   "aliases": [
+    "Gran Borrado"
+   ],
+   "summary": [
+    {
+     "when": "s31",
+     "text": "Pena federal de borrado para delitos graves, como poseer un virus militar."
+    }
+   ]
+  },
+  {
+   "id": "tampa",
+   "name": "astillero aéreo de Tampa",
+   "aliases": [
+    "astillero aéreo de Tampa",
+    "Tampa"
+   ],
+   "summary": [
+    {
+     "when": "s40",
+     "text": "Astillero de dirigibles donde se construyó La Cabeza en las Nubes hace siglos."
+    }
+   ]
+  },
+  {
+   "id": "ninja",
+   "name": "funda de ninja",
+   "aliases": [
+    "funda de ninja",
+    "ninja",
+    "ninja tecnológico"
+   ],
+   "summary": [
+    {
+     "when": "s20",
+     "text": "Funda de ninja tecnológico: cuerpo grácil y flexible, de manos de artista, que Kovacs ve flotando en un tanque del Rosa de Panamá y que soñaba tener de adolescente."
+    },
+    {
+     "when": "e39",
+     "text": "Funda de ninja tecnológico, cuerpo sintético de movimientos felinos con sistema Khumalo, que Kovacs ocupa con una de sus dos copias para asaltar La Cabeza en las Nubes."
+    }
+   ]
+  },
+  {
+   "id": "camuflaje",
+   "name": "traje de camuflaje",
+   "aliases": [
+    "traje de camuflaje"
+   ],
+   "summary": [
+    {
+     "when": "s39",
+     "text": "Ropa que oculta al usuario de los sensores infrarrojos; Kovacs lo usa para entrar en La Cabeza en las Nubes."
+    }
+   ]
+  },
+  {
+   "id": "termica",
+   "name": "identificador de firma térmica",
+   "aliases": [
+    "identificador de firma térmica",
+    "firma térmica"
+   ],
+   "summary": [
+    {
+     "when": "s40",
+     "text": "Sistema de seguridad de La Cabeza en las Nubes que da a cada cliente una huella de calor y dispara alarmas si alguien va donde no debe."
+    }
+   ]
+  },
+  {
+   "id": "hdf",
+   "name": "Mainline",
+   "summary": [
+    {
+     "when": "s44",
+     "text": "Empresa conocida de la Costa Este que ofrece a Irene Elliott un empleo de asesora de seguridad."
+    }
+   ]
+  },
+  {
+   "id": "torretas",
+   "name": "autocañones",
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Cañones automáticos del hotel Hendrix, que disparan ráfagas de veinte milímetros a los intrusos."
+    }
+   ]
+  },
+  {
+   "id": "bolsa",
+   "name": "derrumbamiento de la bolsa",
+   "aliases": [
+    "derrumbamiento de la bolsa"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Crisis económica histórica que hundió a muchas empresas y permitió que algunas IAs comprasen su propia independencia."
+    }
+   ]
+  },
+  {
+   "id": "guerrascorp",
+   "name": "guerras corporativas",
+   "aliases": [
+    "guerras corporativas"
+   ],
+   "summary": [
+    {
+     "when": "s7",
+     "text": "Conflictos del pasado entre empresas, tras los cuales se adaptaron edificios, como el Hendrix."
+    }
+   ]
+  },
+  {
+   "id": "clinicawei",
+   "name": "clínica Wei",
+   "aliases": [
+    "clínica Wei",
+    "Wei"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Clínica a la que Bancroft se refiere como lo poco que dejó la matanza de Kovacs en Villamamada, y que no quiere entregar grabaciones ni presentar cargos."
+    },
+    {
+     "when": "e18",
+     "text": "Clínica Wei, clínica ilegal de Villamamada donde Kovacs mató a todo el personal; la policía halló diecisiete cadáveres desarmados, y uno de sus chóferes cuenta historias de secuestros y muertes reales."
+    },
+    {
+     "when": "e34",
+     "text": "Clínica Wei, clínica ilegal de Villamamada que dirigía Miller y que tenía tratos con La Cabeza en las Nubes; Kovacs la arrasó."
+    }
+   ]
+  },
+  {
+   "id": "orbitales",
+   "name": "guardián orbital",
+   "aliases": [
+    "guardián orbital"
+   ],
+   "summary": [
+    {
+     "when": "s1",
+     "text": "Armas o vigilantes en órbita del Mundo de Harlan que lanzan disparos de aviso sobre el Fiordo."
+    },
+    {
+     "when": "e19",
+     "text": "Guardianes orbitales: red de satélites armados del Mundo de Harlan que derriban aeronaves grandes; por eso allí se vuela poco."
+    }
+   ]
+  },
+  {
+   "id": "tribunalinv",
+   "name": "Tribunal de Investigación del Protectorado",
+   "aliases": [
+    "Tribunal de Investigación del Protectorado"
+   ],
+   "summary": [
+    {
+     "when": "s17",
+     "text": "Tribunal que exculpó al general MacIntyre tras la masacre de Innenin."
+    }
+   ]
+  }
+ ]
+}
