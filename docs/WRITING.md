@@ -19,7 +19,7 @@ Read first:
 - `name` and plain string aliases are visible as soon as the entry is known, and `name` shows in other entries' relationships, so they must never give a secret away. A secret identity is either a separate entry until the reveal, or an alias object `{ "text": "...", "when": "eN" }` that only matches from the reveal on.
 - `relationships`: `{ "when", "with": "<other id>", "text": "short phrase" }`, a few per main character, updated with a later entry when they change. `with` must be an existing id.
 - `seen`: chapter numbers where the entry appears **in person** (not mere mentions). Main and secondary characters only.
-- Texts: short, plain, no markup, British spelling like the book. Write in your own words; do not copy sentences from the novel or from any glossary.
+- Texts: short, plain, no markup, in the language and spelling of the book (British spelling for the Gibson editions here). Write in your own words; do not copy sentences from the novel or from any glossary.
 
 ## How matching works (important)
 
@@ -36,7 +36,7 @@ The plugin matches the pressed word, ignoring case, edge punctuation and a trail
 
 - People: every named character who matters at all, including minor named ones (one short summary), AIs, constructs, loa and other named entities. Skip unnamed people.
 - Terms: invented jargon, technology, slang, corporations, places of the setting, and real-world references a reader may want explained (an artist, a brand that matters). Only terms that actually occur in the book's text — the generator warns when a name or alias does not occur. Use `glossary-ref.md` and the Count Zero example for definitions, reworded to fit this book and staged so that they do not spoil it.
-- Aim for the density of the Count Zero example (about 150 entries for a novel).
+- Aim for the density of the reviewed sidecars in `sidecars/`: 180 to 250 entries for a novel of about 90,000 words (Neuromancer has 180, Mona Lisa Overdrive 225, Count Zero 247), and more for a longer book or a larger cast. The number follows from covering the book: every named person, and every term a reader might press and want explained. Do not reach it by adding ordinary words.
 
 ## Checking your work
 
