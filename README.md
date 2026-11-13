@@ -14,8 +14,9 @@ X-Ray is a Lua plugin by Dave Allie ([daveallie/kobalt-plugins](https://github.c
 | Liu Cixin, *El problema de los tres cuerpos* (in Spanish) | Spanish translation (Nova), ebook | 35 | 262 |
 | Liu Cixin, *El bosque oscuro* (in Spanish) | Spanish translation (Nova), ebook | 45 parts | 321 |
 | Liu Cixin, *El fin de la muerte* (in Spanish) | Spanish translation (Nova), ebook | 91 parts | 392 |
+| Christopher Ruocchio, *Empire of Silence* | DAW ebook, 2018 | 78 | 385 |
 
-The three Gibson files were reviewed for spoiler timing and tried on an e-reader. The three Liu Cixin files have cards in Spanish and are not reviewed: a model wrote them and only a sample of cards was read against the books (see [How these files were made](#how-these-files-were-made)). The last two of those books have no numbered chapters, so their long sections are cut into parts of about 4,500 words, and facts are placed by part.
+The three Gibson files were reviewed for spoiler timing and tried on an e-reader. The three Liu Cixin files, with cards in Spanish, and the Ruocchio file are not reviewed: a model wrote them and only a sample of cards was read against the books (see [How these files were made](#how-these-files-were-made)). The last two Liu Cixin books have no numbered chapters, so their long sections are cut into parts of about 4,500 words, and facts are placed by part.
 
 Entries are people, AIs and other named entities, plus the invented vocabulary, places and organisations of the setting. The files are in [`sidecars/`](sidecars/), each as a pair:
 
@@ -77,7 +78,7 @@ The result is clearly rougher than the reviewed files in `sidecars/`: expect som
 
 They were written with an AI assistant (Claude), not by hand and not from memory of the novels. For each Gibson book, readers went through every chapter in full and logged who appears, under which names, and what the chapter reveals; a writer then composed the entries from those logs, placing each fact at the chapter whose text states it; the result was reviewed for spoiler timing and tried with the real plugin at several positions. Mistakes are still possible: corrections are welcome as issues or pull requests against the `.source.json` files.
 
-The Liu Cixin files were made a cheaper way: `xraygen` with a local model wrote the notes on each chapter, and one writer (Claude Sonnet 5.5) composed the entries from those notes and from the book, and ran a set of checks on its own file. I checked the builds and read the main characters' cards at several points and at the end against the books, and had the faults I found corrected; nobody has reviewed every card. The first book's file was made before the checks on relationship wording, so some of its relationships may read stale late in the book.
+The Liu Cixin and Ruocchio files were made a cheaper way: `xraygen` with a local model wrote the notes on each chapter, and one writer (Claude Sonnet 5.5) composed the entries from those notes and from the book, and ran a set of checks on its own file. I checked the builds and read the main characters' cards at several points and at the end against the books, and had the faults I found corrected; nobody has reviewed every card. The first book's file was made before the checks on relationship wording, so some of its relationships may read stale late in the book.
 
 ## Licences and credits
 
