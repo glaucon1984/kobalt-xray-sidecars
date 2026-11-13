@@ -15,7 +15,7 @@ X-Ray is a Lua plugin by Dave Allie ([daveallie/kobalt-plugins](https://github.c
 | Liu Cixin, *El bosque oscuro* (in Spanish) | Spanish translation (Nova), ebook | 45 parts | 321 |
 | Liu Cixin, *El fin de la muerte* (in Spanish) | Spanish translation (Nova), ebook | 91 parts | 392 |
 
-The three Gibson files were reviewed by hand and tried on an e-reader. The three Liu Cixin files have cards in Spanish and are not reviewed: a model wrote them and only a sample of cards was read against the books (see [How these files were made](#how-these-files-were-made)). The last two of those books have no numbered chapters, so their long sections are cut into parts of about 4,500 words, and facts are placed by part.
+The three Gibson files were reviewed for spoiler timing and tried on an e-reader. The three Liu Cixin files have cards in Spanish and are not reviewed: a model wrote them and only a sample of cards was read against the books (see [How these files were made](#how-these-files-were-made)). The last two of those books have no numbered chapters, so their long sections are cut into parts of about 4,500 words, and facts are placed by part.
 
 Entries are people, AIs and other named entities, plus the invented vocabulary, places and organisations of the setting. The files are in [`sidecars/`](sidecars/), each as a pair:
 
